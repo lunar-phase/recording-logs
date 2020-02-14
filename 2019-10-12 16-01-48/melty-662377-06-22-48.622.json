@@ -1,0 +1,197 @@
+{
+  "file": "C:\\Users\\Stream\\OBS\\NYCFB\\OBS-Studio\\bin\\64bit\\root\\Recording\\2019-10-12 16-01-48.mkv",
+  "eventId": "396839",
+  "phaseId": "662377",
+  "phaseName": "Top 6",
+  "start": "05:20:03",
+  "end": "06:40:14",
+  "sets": [
+    {
+      "id": 23890146,
+      "fullRoundText": "Winners Semi-Final",
+      "displayScore": "argylesweater 2 - LP | Monta 1",
+      "completedAt": 1570930372,
+      "start": "05:20:21",
+      "end": ""
+    },
+    {
+      "id": 23890178,
+      "fullRoundText": "Losers Quarter-Final",
+      "displayScore": "JetmanLags 1 - XLB | Shana 2",
+      "completedAt": 1570931392,
+      "start": "05:32:00",
+      "end": ""
+    },
+    {
+      "id": 23890177,
+      "fullRoundText": "Losers Quarter-Final",
+      "displayScore": "LP | Monta 0 - Kamina 2",
+      "completedAt": 1570931385,
+      "start": "05:40:33",
+      "end": ""
+    },
+    {
+      "id": 23890148,
+      "fullRoundText": "Winners Final",
+      "displayScore": "argylesweater 0 - IA | j.g. 3",
+      "completedAt": 1570933740,
+      "start": "05:49:06",
+      "end": ""
+    },
+    {
+      "id": 23890179,
+      "fullRoundText": "Losers Semi-Final",
+      "displayScore": "XLB | Shana W - Kamina L",
+      "completedAt": 1570933727,
+      "start": "05:59:15",
+      "end": ""
+    },
+    {
+      "id": "23890180",
+      "fullRoundText": "Losers Final",
+      "displayScore": "argylesweater 3 - XLB | Shana 2",
+      "completedAt": 1570933747,
+      "start": "06:04:12",
+      "end": ""
+    },
+    {
+      "id": "23890149",
+      "displayName": "Grand Final - M: IA | j.g. vs argylesweater",
+      "start": "06:22:42",
+      "end": "06:39:45.869",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": 19,
+              "handle": "argylesweater",
+              "prefix": "",
+              "twitter": null,
+              "smashggId": "1149889"
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": 96,
+              "handle": "j.g.",
+              "prefix": "IA",
+              "twitter": "landofpoverty",
+              "smashggId": "353501"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": 69,
+              "handle": "F O X",
+              "prefix": "",
+              "twitter": "MakotoScrub",
+              "smashggId": "249913"
+            }
+          },
+          {
+            "person": {
+              "id": 215,
+              "handle": "Shana",
+              "prefix": "XLB",
+              "twitter": "ShanaFGC",
+              "smashggId": "566103"
+            }
+          }
+        ],
+        "tournament": "Full Moon 15",
+        "event": "",
+        "messages": [],
+        "phaseId": "662377",
+        "set": {
+          "id": "23890149",
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "Grand Final - M: IA | j.g. vs argylesweater",
+          "entrants": [
+            {
+              "name": "IA | j.g.",
+              "participants": [
+                {
+                  "smashggId": "353501",
+                  "handle": "j.g.",
+                  "prefix": "IA",
+                  "twitter": "landofpoverty"
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "argylesweater",
+              "participants": [
+                {
+                  "smashggId": "1149889",
+                  "handle": "argylesweater",
+                  "prefix": null,
+                  "twitter": null
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
