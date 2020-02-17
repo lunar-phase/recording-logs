@@ -1,10 +1,104 @@
 {
   "file": "C:\\Users\\Stream\\OBS\\NYCFB\\OBS-Studio\\bin\\64bit\\root\\Recording\\2020-02-08 12-13-56.mkv",
   "phaseId": "693787",
+  "phaseName": "Block C Pools",
   "eventId": "414876",
-  "start": "03:58:49.519",
-  "end": "05:06:22.380",
+  "event": {
+    "tournament": {
+      "name": "Lunar Bout '20: The East Coast Dream Match",
+      "shortName": "Lunar Bout '20",
+      "hashtag": "LunarBout2020",
+      "additionalTags": ["Lunar Bout 2020"],
+      "venueName": "Next Level Arcade"
+    }
+  },
+  "start": "03:46:03",
+  "end": "05:08:26",
   "sets": [
+    {
+      "id": "26458517",
+      "displayName": "Winners Round 1",
+      "start": "03:49:04.401",
+      "end": "03:56:57.058",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": 62,
+              "handle": "NycKingkof",
+              "prefix": "NYC",
+              "twitter": null,
+              "smashggId": "1224389"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": 77,
+              "handle": "SilberZG",
+              "prefix": null,
+              "twitter": null,
+              "smashggId": "1076971"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "kofxiii",
+          "name": "The King of Fighters XIII",
+          "shortNames": [
+            "King of Fighters XIII",
+            "KOF XIII"
+          ],
+          "hashtags": [
+            "KOFXIII",
+            "KOF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XIII"
+            },
+            "smashgg": {
+              "id": "9690"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": 53,
+              "handle": "Milky J",
+              "prefix": "DATA",
+              "twitter": "themilkyj",
+              "smashggId": "58027"
+            }
+          },
+          {
+            "person": {
+              "id": 91,
+              "handle": "The Prince",
+              "prefix": null,
+              "twitter": "ListonthePrince",
+              "smashggId": "357227"
+            }
+          }
+        ],
+        "tournament": "Lunar Bout '20: Day 1",
+        "event": "KOF XIII C Pools",
+        "messages": [
+          "KOF XIII Pools Up Next!"
+        ]
+      }
+    },
     {
       "id": "26458521",
       "displayName": "C1 G - Winners Quarters: Didimokof vs TSB | PAG | Mynus",
@@ -431,7 +525,7 @@
     {
       "id": "26458525",
       "displayName": "C1 K - Winners Semis: Rashikal vs A3Religion",
-      "start": "04:36:54.000",
+      "start": "04:37:39",
       "end": "04:44:57.489",
       "state": {
         "players": [
@@ -572,7 +666,7 @@
     {
       "id": "26458555",
       "displayName": "C1 V - Losers Quarters: Didimokof vs NYC | NycKingkof",
-      "start": "04:47:19.709",
+      "start": "04:47:57",
       "end": "04:56:28.026",
       "state": {
         "players": [
@@ -713,7 +807,7 @@
     {
       "id": "26458556",
       "displayName": "C1 W - Losers Quarters: Rashikal vs TSB | PAG | Mynus",
-      "start": "04:58:45.326",
+      "start": "04:58:00",
       "end": "05:06:22.380",
       "state": {
         "players": [

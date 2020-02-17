@@ -1,0 +1,118 @@
+{
+  "file": "C:\\Users\\Stream\\OBS\\NYCFB\\OBS-Studio\\bin\\64bit\\root\\Recording\\2020-02-07 19-18-25.mkv",
+  "phaseId": "unknown",
+  "event": {
+    "videogame": {
+      "id": 3568,
+      "name": "SAMURAI SHODOWN",
+      "displayName": "SAMURAI SHODOWN"
+    },
+    "tournament": {
+      "name": "Lunar Bout '20: The East Coast Dream Match",
+      "shortName": "Lunar Bout '20",
+      "hashtag": "LunarBout2020",
+      "additionalTags": [
+        "Lunar Bout 2020",
+        "Vato",
+        "Marco Polo",
+        "Aroo",
+        "JackoRCB",
+        "sugar bear",
+        "J Dash",
+        "Initialdrive",
+        "Lightice",
+        "Tao",
+        "Guzman"
+      ],
+      "venueName": "Next Level Arcade",
+      "venueAddress": "874 4th Ave, Brooklyn, NY 11232, USA",
+      "url": "http://smash.gg/tournament/lunar-bout-20-the-east-coast-dream-match",
+      "startAt": 1581123600
+    }
+  },
+  "start": "00:19:01.361",
+  "end": "04:26:48.767",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "5v5 (BO3)",
+      "start": "02:48:51",
+      "end": "04:12:48",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": 109,
+              "handle": "NY",
+              "prefix": null,
+              "twitter": null
+            },
+            "score": 5,
+            "inLosers": false,
+            "comment": "Guzman - 1"
+          },
+          {
+            "person": {
+              "id": 111,
+              "handle": "DMV",
+              "prefix": null,
+              "twitter": null
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "sugar bear - 1"
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "5v5 (BO3)",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ss7",
+          "name": "Samurai Shodown (2019)",
+          "shortNames": [
+            "Samurai Shodown",
+            "SamSho 7",
+            "SS7"
+          ],
+          "hashtags": [
+            "EmbraceDeath",
+            "SamSho"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Samurai Shodown"
+            },
+            "smashgg": {
+              "id": "3568"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": 41,
+              "handle": "Initialdrive",
+              "prefix": "DMV",
+              "twitter": "initialdrive",
+              "smashggId": 419157
+            }
+          },
+          {
+            "person": {
+              "id": 50,
+              "handle": "Marco Polo",
+              "prefix": "TxC | GG",
+              "twitter": "ECMarcoPolo",
+              "smashggId": 246112
+            }
+          }
+        ],
+        "tournament": "Lunar Bout '20 Day 0",
+        "event": "NY vs DMV 5v5",
+        "messages": []
+      }
+    }
+  ]
+}

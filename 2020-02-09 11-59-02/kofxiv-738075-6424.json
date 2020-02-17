@@ -1,15 +1,25 @@
 {
   "file": "C:\\Users\\Stream\\OBS\\NYCFB\\OBS-Studio\\bin\\64bit\\root\\Recording\\2020-02-09 11-59-02.mkv",
   "phaseId": "738075",
+  "phaseName": "Top 12",
   "eventId": "414874",
+  "event": {
+    "tournament": {
+      "name": "Lunar Bout '20: The East Coast Dream Match",
+      "shortName": "Lunar Bout '20",
+      "hashtag": "LunarBout2020",
+      "additionalTags": ["Lunar Bout 2020"],
+      "venueName": "Next Level Arcade"
+    }
+  },
   "start": "00:11:25.552",
   "end": "01:06:41.506",
   "sets": [
     {
       "id": "26492783",
       "displayName": "B - Winners Semis: SilberZG vs Rashikal",
-      "start": "00:11:25.552",
-      "end": "00:25:45.724",
+      "start": "00:11:21",
+      "end": "00:25:51",
       "state": {
         "players": [
           {
@@ -150,7 +160,7 @@
       "id": "26492782",
       "displayName": "A - Winners Semis: Marco Polo vs Shadow780",
       "start": "00:26:29.354",
-      "end": "00:33:49.142",
+      "end": "00:34:50.8",
       "state": {
         "players": [
           {
@@ -290,8 +300,8 @@
     {
       "id": "26492807",
       "displayName": "F - Losers Round 1: Aroo vs KPB | Animonk",
-      "start": "00:36:00.244",
-      "end": "00:50:05.842",
+      "start": "00:35:09",
+      "end": "00:50:17",
       "state": {
         "players": [
           {
@@ -431,8 +441,8 @@
     {
       "id": "26492808",
       "displayName": "G - Losers Round 1: PAG | VickiViper vs Tamn Son!",
-      "start": "00:51:18.000",
-      "end": "01:06:41.506",
+      "start": "00:51:09",
+      "end": "01:06:45",
       "state": {
         "players": [
           {
@@ -568,6 +578,12 @@
           ]
         }
       }
+    },
+    {
+      "id": "26492809",
+      "displayName": "H - Losers Round 1: DF | Rome_Himself vs KPB | Elky Dori",
+      "start": "01:09:33",
+      "end": "01:20:17"
     }
   ]
 }

@@ -1,14 +1,30 @@
 {
   "file": "C:\\Users\\Stream\\OBS\\NYCFB\\OBS-Studio\\bin\\64bit\\root\\Recording\\2020-02-08 12-13-56.mkv",
   "phaseId": "693792",
+  "phaseName": "Block A Pools",
   "eventId": "414881",
-  "start": "00:16:43.771",
-  "end": "00:58:25.177",
+  "event": {
+    "tournament": {
+      "name": "Lunar Bout '20: The East Coast Dream Match",
+      "shortName": "Lunar Bout '20",
+      "hashtag": "LunarBout2020",
+      "additionalTags": ["Lunar Bout 2020"],
+      "venueName": "Next Level Arcade"
+    }
+  },
+  "start": "00:06:33",
+  "end": "00:56:08",
   "sets": [
     {
-      "id": "preview_1128013_2_2",
+      "id": "26445145",
+      "displayName": "D - Winners Quarters: Didimokof vs Special Ed",
+      "start": "00:07:24",
+      "end": "00:16:00"
+    },
+    {
+      "id": "26445147",
       "displayName": "F - Winners Quarters: SonicSol vs ???",
-      "start": "00:16:43.771",
+      "start": "00:16:24",
       "end": "00:26:58.559",
       "state": {
         "players": [
@@ -134,9 +150,9 @@
       }
     },
     {
-      "id": "preview_1128013_3_0",
-      "displayName": "H - Winners Semis: ??? vs ???",
-      "start": "00:27:54.965",
+      "id": "26445149",
+      "displayName": "H - Winners Semis: Didimokof vs Vato",
+      "start": "00:27:30",
       "end": "00:33:22.324",
       "state": {
         "players": [
@@ -250,8 +266,8 @@
       }
     },
     {
-      "id": "preview_1128013_3_1",
-      "displayName": "I - Winners Semis: ??? vs ???",
+      "id": "26445150",
+      "displayName": "I - Winners Semis: jdjenk vs sonicsol",
       "start": "00:35:03.957",
       "end": "00:42:55.993",
       "state": {
@@ -368,7 +384,7 @@
     {
       "id": "26445181",
       "displayName": "S - Losers Quarters: SonicSol vs Tamn Son!",
-      "start": "00:43:54.000",
+      "start": "00:43:21",
       "end": "00:58:25.177",
       "state": {
         "players": [

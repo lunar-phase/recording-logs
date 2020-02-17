@@ -1,14 +1,24 @@
 {
   "file": "C:\\Users\\Stream\\OBS\\NYCFB\\OBS-Studio\\bin\\64bit\\root\\Recording\\2020-02-08 12-13-56.mkv",
   "phaseId": "693785",
+  "phaseName": "Block D Pools",
   "eventId": "414874",
-  "start": "05:52:48.944",
-  "end": "07:30:36.064",
+  "event": {
+    "tournament": {
+      "name": "Lunar Bout '20: The East Coast Dream Match",
+      "shortName": "Lunar Bout '20",
+      "hashtag": "LunarBout2020",
+      "additionalTags": ["Lunar Bout 2020"],
+      "venueName": "Next Level Arcade"
+    }
+  },
+  "start": "05:50:36",
+  "end": "07:31:36",
   "sets": [
     {
       "id": "26470026",
       "displayName": "D1 A - Winners Quarters: Shadow780 vs KG | frenchboygrime",
-      "start": "05:52:48.944",
+      "start": "05:51:36",
       "end": "05:59:57.372",
       "state": {
         "players": [
@@ -290,7 +300,7 @@
     {
       "id": "26470028",
       "displayName": "D1 C - Winners Quarters: Rome_Himself vs Novaap0calypse",
-      "start": "06:17:22.694",
+      "start": "06:16:54",
       "end": "06:23:21.784",
       "state": {
         "players": [
@@ -429,150 +439,15 @@
       }
     },
     {
-      "id": "26470030",
-      "displayName": "D1 E - Winners Semis: Shadow780 vs domino",
-      "start": "06:24:29.450",
-      "end": "06:33:46.200",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": 28,
-              "handle": "domino",
-              "prefix": "Ho3K",
-              "twitter": "omnomdomino",
-              "smashggId": "53611"
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": 75,
-              "handle": "Shadow780",
-              "prefix": null,
-              "twitter": null,
-              "smashggId": "208495"
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "ws",
-          "name": "Winners Semis",
-          "smashggId": "Winners Semi-Final"
-        },
-        "game": {
-          "id": "kofxiv",
-          "name": "The King of Fighters XIV",
-          "shortNames": [
-            "King of Fighters XIV",
-            "KOF XIV"
-          ],
-          "hashtags": [
-            "KOFXIV",
-            "KOF"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "The King of Fighters XIV"
-            },
-            "smashgg": {
-              "id": "38"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": 16,
-              "handle": "Cookie",
-              "prefix": null,
-              "twitter": "cookieFGC",
-              "smashggId": "12120"
-            }
-          },
-          {
-            "person": {
-              "id": 31,
-              "handle": "Elky Dori",
-              "prefix": "KPB",
-              "twitter": "ElkyDori",
-              "smashggId": "176525"
-            }
-          }
-        ],
-        "tournament": "Lunar Bout '20: Day 1",
-        "event": "KOF XIV D Pools",
-        "messages": [
-          "KOF XIV Pools Soon!"
-        ],
-        "set": {
-          "id": "26470030",
-          "phaseId": "693785",
-          "match": {
-            "id": "ws",
-            "name": "D1 Winners Semis",
-            "smashggId": "Winners Semi-Final"
-          },
-          "videogame": {
-            "id": "kofxiv",
-            "name": "The King of Fighters XIV",
-            "shortNames": [
-              "King of Fighters XIV",
-              "KOF XIV"
-            ],
-            "hashtags": [
-              "KOFXIV",
-              "KOF"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "The King of Fighters XIV"
-              },
-              "smashgg": {
-                "id": "38"
-              }
-            }
-          },
-          "shortIdentifier": "E",
-          "displayName": "D1 E - Winners Semis: Shadow780 vs domino",
-          "entrants": [
-            {
-              "name": "Shadow780",
-              "participants": [
-                {
-                  "smashggId": "208495",
-                  "handle": "Shadow780",
-                  "prefix": null,
-                  "twitter": null
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "domino",
-              "participants": [
-                {
-                  "smashggId": "53611",
-                  "handle": "domino",
-                  "prefix": null,
-                  "twitter": "omnomdomino"
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "id": "26470029",
+      "displayName": "D1 D - Winners Quarters: Tamn Son! vs A5",
+      "start": "06:24:30",
+      "end": "06:33:46.200"
     },
     {
       "id": "26470030",
       "displayName": "D1 E - Winners Semis: Shadow780 vs domino",
-      "start": "06:34:09.909",
+      "start": "06:33:57",
       "end": "06:45:58.129",
       "state": {
         "players": [

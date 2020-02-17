@@ -1,0 +1,446 @@
+{
+  "file": "C:\\Users\\Stream\\OBS\\NYCFB\\OBS-Studio\\bin\\64bit\\root\\Recording\\2020-02-09 18-33-23_twitch.mp4",
+  "phaseId": "738298",
+  "phaseName": "Top 8",
+  "eventId": "414877",
+  "event": {
+    "tournament": {
+      "name": "Lunar Bout '20: The East Coast Dream Match",
+      "shortName": "Lunar Bout '20",
+      "hashtag": "LunarBout2020",
+      "additionalTags": ["Lunar Bout 2020"],
+      "venueName": "Next Level Arcade"
+    }
+  },
+  "sets": [
+    {
+      "id": "26504822",
+      "displayName": "C - Winners Finals: Didimokof vs #secret SMRT| | TSF",
+      "start": "00:01:21",
+      "end": "00:14:43",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": 26,
+              "handle": "Didimokof",
+              "prefix": "BDG",
+              "twitter": "didimokof",
+              "smashggId": "358503"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": 93,
+              "handle": "TSF",
+              "prefix": "#secret SMRT",
+              "twitter": "holdenTSF",
+              "smashggId": "176247"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "kof98",
+          "name": "The King of Fighters '98: UMFE",
+          "shortNames": [
+            "King of Fighters 98 UMFE",
+            "KOF 98 UMFE"
+          ],
+          "hashtags": [
+            "KOF98",
+            "KOF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters '98 Ultimate Match"
+            },
+            "smashgg": {
+              "id": "17413"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": 50,
+              "handle": "Marco Polo",
+              "prefix": "TxC | GG",
+              "twitter": "ECMarcoPolo",
+              "smashggId": "246112"
+            }
+          },
+          {
+            "person": {
+              "id": 25,
+              "handle": "desmond_kof",
+              "prefix": null,
+              "twitter": "desmond_kof",
+              "smashggId": "212964"
+            }
+          }
+        ],
+        "tournament": "Lunar Bout '20 Day 2",
+        "event": "KOF 98 UMFE Top 8",
+        "messages": [
+          "BRB"
+        ],
+        "set": {
+          "id": "26504822",
+          "phaseId": "738298",
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "kof98",
+            "name": "The King of Fighters '98: UMFE",
+            "shortNames": [
+              "King of Fighters 98 UMFE",
+              "KOF 98 UMFE"
+            ],
+            "hashtags": [
+              "KOF98",
+              "KOF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters '98 Ultimate Match"
+              },
+              "smashgg": {
+                "id": "17413"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - Winners Finals: Didimokof vs #secret SMRT| | TSF",
+          "entrants": [
+            {
+              "name": "Didimokof",
+              "participants": [
+                {
+                  "smashggId": "358503",
+                  "handle": "Didimokof",
+                  "prefix": "BDG",
+                  "twitter": "didimokof"
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "#secret SMRT| | TSF",
+              "participants": [
+                {
+                  "smashggId": "176247",
+                  "handle": "TSF",
+                  "prefix": "#secret SMRT|",
+                  "twitter": "holdenTSF"
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "26504837",
+      "displayName": "J - Losers Semis: desmond vs Laban",
+      "start": "00:19:00",
+      "end": "00:29:17"
+    },
+    {
+      "id": "26504838",
+      "displayName": "K - Losers Finals: #secret SMRT| | TSF vs Laban",
+      "start": "00:31:42",
+      "end": "00:44:43",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": 47,
+              "handle": "Laban",
+              "prefix": null,
+              "twitter": null,
+              "smashggId": "148046"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": 93,
+              "handle": "TSF",
+              "prefix": "#secret SMRT",
+              "twitter": "holdenTSF",
+              "smashggId": "176247"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "kof98",
+          "name": "The King of Fighters '98: UMFE",
+          "shortNames": [
+            "King of Fighters 98 UMFE",
+            "KOF 98 UMFE"
+          ],
+          "hashtags": [
+            "KOF98",
+            "KOF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters '98 Ultimate Match"
+            },
+            "smashgg": {
+              "id": "17413"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": 50,
+              "handle": "Marco Polo",
+              "prefix": "TxC | GG",
+              "twitter": "ECMarcoPolo",
+              "smashggId": "246112"
+            }
+          },
+          {
+            "person": {
+              "id": 49,
+              "handle": "ManChest",
+              "prefix": "GG",
+              "twitter": "ManChest",
+              "smashggId": "225012"
+            }
+          }
+        ],
+        "tournament": "Lunar Bout '20 Day 2",
+        "event": "KOF 98 UMFE Top 8",
+        "messages": [
+          "BRB"
+        ],
+        "set": {
+          "id": "26504838",
+          "phaseId": "738298",
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "kof98",
+            "name": "The King of Fighters '98: UMFE",
+            "shortNames": [
+              "King of Fighters 98 UMFE",
+              "KOF 98 UMFE"
+            ],
+            "hashtags": [
+              "KOF98",
+              "KOF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters '98 Ultimate Match"
+              },
+              "smashgg": {
+                "id": "17413"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - Losers Finals: #secret SMRT| | TSF vs Laban",
+          "entrants": [
+            {
+              "name": "#secret SMRT| | TSF",
+              "participants": [
+                {
+                  "smashggId": "176247",
+                  "handle": "TSF",
+                  "prefix": "#secret SMRT|",
+                  "twitter": "holdenTSF"
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Laban",
+              "participants": [
+                {
+                  "smashggId": "148046",
+                  "handle": "Laban",
+                  "prefix": null,
+                  "twitter": null
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "26504823",
+      "displayName": "D - Grand Finals: Didimokof vs #secret SMRT| | TSF",
+      "start": "00:47:12",
+      "end": "01:02:33.5",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": 93,
+              "handle": "TSF",
+              "prefix": "#secret SMRT",
+              "twitter": "holdenTSF",
+              "smashggId": "176247"
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": 26,
+              "handle": "Didimokof",
+              "prefix": "BDG",
+              "twitter": "didimokof",
+              "smashggId": "358503"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "kof98",
+          "name": "The King of Fighters '98: UMFE",
+          "shortNames": [
+            "King of Fighters 98 UMFE",
+            "KOF 98 UMFE"
+          ],
+          "hashtags": [
+            "KOF98",
+            "KOF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters '98 Ultimate Match"
+            },
+            "smashgg": {
+              "id": "17413"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": 50,
+              "handle": "Marco Polo",
+              "prefix": "TxC | GG",
+              "twitter": "ECMarcoPolo",
+              "smashggId": "246112"
+            }
+          },
+          {
+            "person": {
+              "id": 49,
+              "handle": "ManChest",
+              "prefix": "GG",
+              "twitter": "ManChest",
+              "smashggId": "225012"
+            }
+          }
+        ],
+        "tournament": "Lunar Bout '20 Day 2",
+        "event": "KOF 98 UMFE Top 8",
+        "messages": [
+          "BRB"
+        ],
+        "set": {
+          "id": "26504823",
+          "phaseId": "738298",
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "kof98",
+            "name": "The King of Fighters '98: UMFE",
+            "shortNames": [
+              "King of Fighters 98 UMFE",
+              "KOF 98 UMFE"
+            ],
+            "hashtags": [
+              "KOF98",
+              "KOF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters '98 Ultimate Match"
+              },
+              "smashgg": {
+                "id": "17413"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - Grand Finals: Didimokof vs #secret SMRT| | TSF",
+          "entrants": [
+            {
+              "name": "Didimokof",
+              "participants": [
+                {
+                  "smashggId": "358503",
+                  "handle": "Didimokof",
+                  "prefix": "BDG",
+                  "twitter": "didimokof"
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "#secret SMRT| | TSF",
+              "participants": [
+                {
+                  "smashggId": "176247",
+                  "handle": "TSF",
+                  "prefix": "#secret SMRT|",
+                  "twitter": "holdenTSF"
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
