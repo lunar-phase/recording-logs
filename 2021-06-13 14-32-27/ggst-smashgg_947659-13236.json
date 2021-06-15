@@ -1,0 +1,2792 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-06-13 14-32-27.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "947659",
+  "eventId": "581207",
+  "start": "02:56:31.661",
+  "end": "05:55:16.018",
+  "sets": [
+    {
+      "id": "38101595",
+      "displayName": "O - w1: Phantom Blue vs PGN | M-AS",
+      "start": "02:56:31.661",
+      "end": "03:02:52.246",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132124354560000",
+              "handle": "Phantom Blue",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "752837"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202009122344208190000",
+              "handle": "M-AS",
+              "prefix": "PGN",
+              "serviceIds": {
+                "twitter": "MatthewRobo",
+                "smashgg": "1274804"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101595",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - w1: Phantom Blue vs PGN | M-AS",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Phantom Blue",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "752837",
+                  "handle": "Phantom Blue",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "PGN | M-AS",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1274804",
+                  "handle": "M-AS",
+                  "prefix": "PGN",
+                  "serviceIds": {
+                    "twitter": "MatthewRobo"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101611",
+      "displayName": "AA - w2: Skeleton vs Onikage",
+      "start": "03:04:00.000",
+      "end": "03:11:06.220",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inetshitlord"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350950001",
+              "handle": "Onikage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "692046",
+                "twitter": "onikage224"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101611",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "w2",
+            "name": "Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AA",
+          "displayName": "AA - w2: Onikage vs Skeleton",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Onikage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "692046",
+                  "handle": "Onikage",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "onikage224"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Skeleton",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "287708",
+                  "handle": "Skeleton",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "inetshitlord"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101622",
+      "displayName": "AL - w3: PsrK | RED (Jace) vs BNP | Gosuda",
+      "start": "03:13:33.304",
+      "end": "03:18:34.819",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352080002",
+              "handle": "Jace",
+              "prefix": "PsrK",
+              "serviceIds": {
+                "twitter": "REDvsFantasy",
+                "smashgg": "328014"
+              },
+              "alias": "RED"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "serviceIds": {
+                "twitter": "Gosuda_",
+                "smashgg": "1225997"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w3",
+          "name": "Winners Round 3",
+          "smashggId": "Winners Round 3"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101622",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "w3",
+            "name": "Winners Round 3",
+            "smashggId": "Winners Round 3"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AL",
+          "displayName": "AL - w3: PsrK | RED vs BNP | Gosuda",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "PsrK | RED",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "328014",
+                  "handle": "RED",
+                  "prefix": "PsrK",
+                  "serviceIds": {
+                    "twitter": "REDvsFantasy"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "BNP | Gosuda",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1225997",
+                  "handle": "Gosuda",
+                  "prefix": "BNP",
+                  "serviceIds": {
+                    "twitter": "Gosuda_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101626",
+      "displayName": "AP - w3: OmniSScythe vs GrandmastaJ",
+      "start": "03:21:15.890",
+      "end": "03:30:14.446",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132151524350000",
+              "handle": "OmniSScythe",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "OmniSScythe",
+                "smashgg": "336272"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106132151524390000",
+              "handle": "GrandmastaJ",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2309814"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w3",
+          "name": "Winners Round 3",
+          "smashggId": "Winners Round 3"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101626",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "w3",
+            "name": "Winners Round 3",
+            "smashggId": "Winners Round 3"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AP",
+          "displayName": "AP - w3: OmniSScythe vs GrandmastaJ",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "OmniSScythe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "336272",
+                  "handle": "OmniSScythe",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "OmniSScythe"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GrandmastaJ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2309814",
+                  "handle": "GrandmastaJ",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101625",
+      "displayName": "AO - w3: DaiAndOh vs NJ | Pandabetic",
+      "start": "03:31:02.762",
+      "end": "03:35:28.848",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350130000",
+              "handle": "DaiAndOh",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DaiAndOh1",
+                "smashgg": "155413"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "NJ",
+              "serviceIds": {
+                "smashgg": "617072"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w3",
+          "name": "Winners Round 3",
+          "smashggId": "Winners Round 3"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101625",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "w3",
+            "name": "Winners Round 3",
+            "smashggId": "Winners Round 3"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AO",
+          "displayName": "AO - w3: DaiAndOh vs NJ | Pandabetic",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "DaiAndOh",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "155413",
+                  "handle": "DaiAndOh",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "DaiAndOh1"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NJ | Pandabetic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "617072",
+                  "handle": "Pandabetic",
+                  "prefix": "NJ",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101630",
+      "displayName": "AT - wq: RVA | Joker vs PsrK | RED (Jace)",
+      "start": "03:37:41.254",
+      "end": "03:45:25.605",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106131844117730000",
+              "handle": "Joker",
+              "prefix": "RVA",
+              "serviceIds": {
+                "smashgg": "28366"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352080002",
+              "handle": "Jace",
+              "prefix": "PsrK",
+              "serviceIds": {
+                "twitter": "REDvsFantasy",
+                "smashgg": "328014"
+              },
+              "alias": "RED"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101630",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AT",
+          "displayName": "AT - wq: PsrK | RED vs RVA | Joker",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "PsrK | RED",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "328014",
+                  "handle": "RED",
+                  "prefix": "PsrK",
+                  "serviceIds": {
+                    "twitter": "REDvsFantasy"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "RVA | Joker",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "28366",
+                  "handle": "Joker",
+                  "prefix": "RVA",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101631",
+      "displayName": "AU - wq: NJ | Pandabetic vs SchoolBus",
+      "start": "03:46:15.982",
+      "end": "03:54:39.550",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "NJ",
+              "serviceIds": {
+                "smashgg": "617072"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106132218559340000",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "518419"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101631",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AU",
+          "displayName": "AU - wq: SchoolBus vs NJ | Pandabetic",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SchoolBus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "518419",
+                  "handle": "SchoolBus",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NJ | Pandabetic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "617072",
+                  "handle": "Pandabetic",
+                  "prefix": "NJ",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101633",
+      "displayName": "AW - wq: YC | HARD_BREAD vs ChrisBardow",
+      "start": "04:02:55.000",
+      "end": "04:10:26.707",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350450002",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351790001",
+              "handle": "ChrisBardow",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChrisBardow",
+                "smashgg": "1154263"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101633",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AW",
+          "displayName": "AW - wq: ChrisBardow vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ChrisBardow",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1154263",
+                  "handle": "ChrisBardow",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "ChrisBardow"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101635",
+      "displayName": "AY - ws: YC | HARD_BREAD vs GrandmastaJ",
+      "start": "04:10:28.213",
+      "end": "04:16:33.308",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350450002",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106132151524390000",
+              "handle": "GrandmastaJ",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2309814"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101635",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AY",
+          "displayName": "AY - ws: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101634",
+      "displayName": "AX - ws: SchoolBus vs PsrK | RED (Jace)",
+      "start": "04:17:03.189",
+      "end": "04:24:56.913",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132218559340000",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "518419"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352080002",
+              "handle": "Jace",
+              "prefix": "PsrK",
+              "serviceIds": {
+                "twitter": "REDvsFantasy",
+                "smashgg": "328014"
+              },
+              "alias": "RED"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101634",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AX",
+          "displayName": "AX - ws: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101750",
+      "displayName": "CM - l4: OmniSScythe vs RVA | Joker",
+      "start": "04:30:07.692",
+      "end": "04:36:28.496",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132151524350000",
+              "handle": "OmniSScythe",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "OmniSScythe",
+                "smashgg": "336272"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106131844117730000",
+              "handle": "Joker",
+              "prefix": "RVA",
+              "serviceIds": {
+                "smashgg": "28366"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l4",
+          "name": "Losers Round 4",
+          "smashggId": "Losers Round 4"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101750",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "l4",
+            "name": "Losers Round 4",
+            "smashggId": "Losers Round 4"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "CM",
+          "displayName": "CM - l4: OmniSScythe vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "OmniSScythe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "336272",
+                  "handle": "OmniSScythe",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "OmniSScythe"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101759",
+      "displayName": "CV - l7: BXBonobo | Papaya vs Onikage",
+      "start": "04:36:42.065",
+      "end": "04:43:25.147",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132310283750000",
+              "handle": "Papaya",
+              "prefix": "BXBonobo",
+              "serviceIds": {}
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350950001",
+              "handle": "Onikage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "692046",
+                "twitter": "onikage224"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l7",
+          "name": "Losers Round 7",
+          "smashggId": "Losers Round 7"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101759",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "l7",
+            "name": "Losers Round 7",
+            "smashggId": "Losers Round 7"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "CV",
+          "displayName": "CV - l7: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101762",
+      "displayName": "CY - lq: OmniSScythe vs YC | HARD_BREAD",
+      "start": "04:43:26.424",
+      "end": "04:50:27.925",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132151524350000",
+              "handle": "OmniSScythe",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "OmniSScythe",
+                "smashgg": "336272"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350450002",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101762",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "CY",
+          "displayName": "CY - lq: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101761",
+      "displayName": "CX - lq: PsrK | RED (Jace) vs Onikage",
+      "start": "04:50:33.011",
+      "end": "04:56:27.184",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352080002",
+              "handle": "Jace",
+              "prefix": "PsrK",
+              "serviceIds": {
+                "twitter": "REDvsFantasy",
+                "smashgg": "328014"
+              },
+              "alias": "RED"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350950001",
+              "handle": "Onikage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "692046",
+                "twitter": "onikage224"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101761",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "CX",
+          "displayName": "CX - lq: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101636",
+      "displayName": "AZ - wf: SchoolBus vs GrandmastaJ",
+      "start": "04:56:28.580",
+      "end": "05:05:15.278",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132218559340000",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "518419"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106132151524390000",
+              "handle": "GrandmastaJ",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2309814"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101636",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AZ",
+          "displayName": "AZ - wf: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101763",
+      "displayName": "CZ - lf: OmniSScythe vs PsrK | RED (Jace)",
+      "start": "05:06:30.406",
+      "end": "05:12:48.340",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132151524350000",
+              "handle": "OmniSScythe",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "OmniSScythe",
+                "smashgg": "336272"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352080002",
+              "handle": "Jace",
+              "prefix": "PsrK",
+              "serviceIds": {
+                "twitter": "REDvsFantasy",
+                "smashgg": "328014"
+              },
+              "alias": "RED"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101763",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "CZ",
+          "displayName": "CZ - ls: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101764",
+      "displayName": "DA - lf: OmniSScythe vs SchoolBus",
+      "start": "05:13:00.902",
+      "end": "05:23:49.494",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132151524350000",
+              "handle": "OmniSScythe",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "OmniSScythe",
+                "smashgg": "336272"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "orange"
+          },
+          {
+            "person": {
+              "id": "d202106132218559340000",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "518419"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "yellow"
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101764",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "DA",
+          "displayName": "DA - lf: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38101637",
+      "displayName": "BA - tf: GrandmastaJ vs SchoolBus",
+      "start": "05:24:34.873",
+      "end": "05:55:16.018",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132151524390000",
+              "handle": "GrandmastaJ",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2309814"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106132218559340000",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "518419"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106132135110920000",
+              "handle": "DrunkenChicken",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "drunkthechicken"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38101637",
+            "phaseId": "947659",
+            "phaseGroupId": "1506189"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "BA",
+          "displayName": "BA - gf: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

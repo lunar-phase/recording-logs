@@ -1,0 +1,930 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-06-13 14-32-27.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "946747",
+  "eventId": "580522",
+  "start": "00:04:26.949",
+  "end": "00:59:21.329",
+  "sets": [
+    {
+      "id": "38094533",
+      "displayName": "E - rr: Saint Ivalice vs Akihisa Sendo",
+      "start": "00:04:26.949",
+      "end": "00:11:35.787",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106131755267510000",
+              "handle": "Saint Ivalice",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2318195"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106131835324770000",
+              "handle": "Akihisa Sendo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Akihisa_Sendo",
+                "smashgg": "1099464"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "bbcf",
+          "name": "Blazblue Central Fiction",
+          "shortNames": [
+            "Blazblue",
+            "BBCF"
+          ],
+          "hashtags": [
+            "BBCF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "BlazBlue: Central Fiction"
+            },
+            "smashgg": {
+              "id": "37"
+            },
+            "challonge": {
+              "id": "55777"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202106131816019280000",
+              "handle": "LazyDiablos",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LazyDiablos"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38094533",
+            "phaseId": "946747",
+            "phaseGroupId": "1504893"
+          },
+          "match": null,
+          "videogame": {
+            "id": "bbcf",
+            "name": "Blazblue Central Fiction",
+            "shortNames": [
+              "Blazblue",
+              "BBCF"
+            ],
+            "hashtags": [
+              "BBCF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "BlazBlue: Central Fiction"
+              },
+              "smashgg": {
+                "id": "37"
+              },
+              "challonge": {
+                "id": "55777"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - Round 2: Saint Ivalice vs Akihisa Sendo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Saint Ivalice",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2318195",
+                  "handle": "Saint Ivalice",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Akihisa Sendo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1099464",
+                  "handle": "Akihisa Sendo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Akihisa_Sendo"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38094534",
+      "displayName": "F - rr: RVA | Joker vs Onikage",
+      "start": "00:12:23.000",
+      "end": "00:22:15.742",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106131844117730000",
+              "handle": "Joker",
+              "prefix": "RVA",
+              "serviceIds": {
+                "smashgg": "28366"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "gray"
+          },
+          {
+            "person": {
+              "id": "d202008220402350950001",
+              "handle": "Onikage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "692046",
+                "twitter": "onikage224"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "red"
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "bbcf",
+          "name": "Blazblue Central Fiction",
+          "shortNames": [
+            "Blazblue",
+            "BBCF"
+          ],
+          "hashtags": [
+            "BBCF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "BlazBlue: Central Fiction"
+            },
+            "smashgg": {
+              "id": "37"
+            },
+            "challonge": {
+              "id": "55777"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349940000",
+              "handle": "BasedTuxedoMask",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BasedTuxedoMask",
+                "smashgg": "317154"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106131816019280000",
+              "handle": "LazyDiablos",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LazyDiablos"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38094534",
+            "phaseId": "946747",
+            "phaseGroupId": "1504893"
+          },
+          "match": null,
+          "videogame": {
+            "id": "bbcf",
+            "name": "Blazblue Central Fiction",
+            "shortNames": [
+              "Blazblue",
+              "BBCF"
+            ],
+            "hashtags": [
+              "BBCF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "BlazBlue: Central Fiction"
+              },
+              "smashgg": {
+                "id": "37"
+              },
+              "challonge": {
+                "id": "55777"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - Round 2: RVA | Joker vs Onikage",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "RVA | Joker",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "28366",
+                  "handle": "Joker",
+                  "prefix": "RVA",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Onikage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "692046",
+                  "handle": "Onikage",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "onikage224"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38094538",
+      "displayName": "J - rr: BasedTuxedoMask vs Onikage",
+      "start": "00:23:54.850",
+      "end": "00:28:20.007",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402349940000",
+              "handle": "BasedTuxedoMask",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BasedTuxedoMask",
+                "smashgg": "317154"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350950001",
+              "handle": "Onikage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "692046",
+                "twitter": "onikage224"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "bbcf",
+          "name": "Blazblue Central Fiction",
+          "shortNames": [
+            "Blazblue",
+            "BBCF"
+          ],
+          "hashtags": [
+            "BBCF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "BlazBlue: Central Fiction"
+            },
+            "smashgg": {
+              "id": "37"
+            },
+            "challonge": {
+              "id": "55777"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202106131816019280000",
+              "handle": "LazyDiablos",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LazyDiablos"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38094538",
+            "phaseId": "946747",
+            "phaseGroupId": "1504893"
+          },
+          "match": null,
+          "videogame": {
+            "id": "bbcf",
+            "name": "Blazblue Central Fiction",
+            "shortNames": [
+              "Blazblue",
+              "BBCF"
+            ],
+            "hashtags": [
+              "BBCF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "BlazBlue: Central Fiction"
+              },
+              "smashgg": {
+                "id": "37"
+              },
+              "challonge": {
+                "id": "55777"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - Round 4: BasedTuxedoMask vs Onikage",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BasedTuxedoMask",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "317154",
+                  "handle": "BasedTuxedoMask",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BasedTuxedoMask"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Onikage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "692046",
+                  "handle": "Onikage",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "onikage224"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38094536",
+      "displayName": "H - rr: Kiranchi vs Onikage",
+      "start": "00:29:38.320",
+      "end": "00:36:42.951",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106131902264160000",
+              "handle": "Kiranchi",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "142720"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "yellow"
+          },
+          {
+            "person": {
+              "id": "d202008220402350950001",
+              "handle": "Onikage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "692046",
+                "twitter": "onikage224"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "red"
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "bbcf",
+          "name": "Blazblue Central Fiction",
+          "shortNames": [
+            "Blazblue",
+            "BBCF"
+          ],
+          "hashtags": [
+            "BBCF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "BlazBlue: Central Fiction"
+            },
+            "smashgg": {
+              "id": "37"
+            },
+            "challonge": {
+              "id": "55777"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349940000",
+              "handle": "BasedTuxedoMask",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BasedTuxedoMask",
+                "smashgg": "317154"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106131816019280000",
+              "handle": "LazyDiablos",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LazyDiablos"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38094536",
+            "phaseId": "946747",
+            "phaseGroupId": "1504893"
+          },
+          "match": null,
+          "videogame": {
+            "id": "bbcf",
+            "name": "Blazblue Central Fiction",
+            "shortNames": [
+              "Blazblue",
+              "BBCF"
+            ],
+            "hashtags": [
+              "BBCF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "BlazBlue: Central Fiction"
+              },
+              "smashgg": {
+                "id": "37"
+              },
+              "challonge": {
+                "id": "55777"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - Round 3: Kiranchi vs Onikage",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Kiranchi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "142720",
+                  "handle": "Kiranchi",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Onikage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "692046",
+                  "handle": "Onikage",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "onikage224"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38094543",
+      "displayName": "O - rr: Kiranchi vs Akihisa Sendo",
+      "start": "00:37:34.000",
+      "end": "00:44:30.017",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106131902264160000",
+              "handle": "Kiranchi",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "142720"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106131835324770000",
+              "handle": "Akihisa Sendo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Akihisa_Sendo",
+                "smashgg": "1099464"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "bbcf",
+          "name": "Blazblue Central Fiction",
+          "shortNames": [
+            "Blazblue",
+            "BBCF"
+          ],
+          "hashtags": [
+            "BBCF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "BlazBlue: Central Fiction"
+            },
+            "smashgg": {
+              "id": "37"
+            },
+            "challonge": {
+              "id": "55777"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202106131816019280000",
+              "handle": "LazyDiablos",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LazyDiablos"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38094543",
+            "phaseId": "946747",
+            "phaseGroupId": "1504893"
+          },
+          "match": null,
+          "videogame": {
+            "id": "bbcf",
+            "name": "Blazblue Central Fiction",
+            "shortNames": [
+              "Blazblue",
+              "BBCF"
+            ],
+            "hashtags": [
+              "BBCF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "BlazBlue: Central Fiction"
+              },
+              "smashgg": {
+                "id": "37"
+              },
+              "challonge": {
+                "id": "55777"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - Round 5: Akihisa Sendo vs Kiranchi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Akihisa Sendo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1099464",
+                  "handle": "Akihisa Sendo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Akihisa_Sendo"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Kiranchi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "142720",
+                  "handle": "Kiranchi",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38094541",
+      "displayName": "M - rr: RVA | Joker vs BasedTuxedoMask",
+      "start": "00:45:57.627",
+      "end": "00:59:21.329",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106131844117730000",
+              "handle": "Joker",
+              "prefix": "RVA",
+              "serviceIds": {
+                "smashgg": "28366"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402349940000",
+              "handle": "BasedTuxedoMask",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BasedTuxedoMask",
+                "smashgg": "317154"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "bbcf",
+          "name": "Blazblue Central Fiction",
+          "shortNames": [
+            "Blazblue",
+            "BBCF"
+          ],
+          "hashtags": [
+            "BBCF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "BlazBlue: Central Fiction"
+            },
+            "smashgg": {
+              "id": "37"
+            },
+            "challonge": {
+              "id": "55777"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350950001",
+              "handle": "Onikage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "692046",
+                "twitter": "onikage224"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106131816019280000",
+              "handle": "LazyDiablos",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LazyDiablos"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "Plus R Starting Soon",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38094541",
+            "phaseId": "946747",
+            "phaseGroupId": "1504893"
+          },
+          "match": null,
+          "videogame": {
+            "id": "bbcf",
+            "name": "Blazblue Central Fiction",
+            "shortNames": [
+              "Blazblue",
+              "BBCF"
+            ],
+            "hashtags": [
+              "BBCF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "BlazBlue: Central Fiction"
+              },
+              "smashgg": {
+                "id": "37"
+              },
+              "challonge": {
+                "id": "55777"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - Round 5: BasedTuxedoMask vs RVA | Joker",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BasedTuxedoMask",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "317154",
+                  "handle": "BasedTuxedoMask",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BasedTuxedoMask"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "RVA | Joker",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "28366",
+                  "handle": "Joker",
+                  "prefix": "RVA",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

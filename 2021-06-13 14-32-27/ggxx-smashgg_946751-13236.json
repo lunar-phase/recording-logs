@@ -1,0 +1,482 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-06-13 14-32-27.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "946751",
+  "eventId": "580525",
+  "start": "02:01:11.800",
+  "end": "02:22:10.391",
+  "sets": [
+    {
+      "id": "38096660",
+      "displayName": "J - rr: Lem vs BigMind420",
+      "start": "02:01:11.800",
+      "end": "02:06:10.965",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106132024532510000",
+              "handle": "BigMind420",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1707893"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350950001",
+              "handle": "Onikage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "692046",
+                "twitter": "onikage224"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106131816019280000",
+              "handle": "LazyDiablos",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LazyDiablos"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38096660",
+            "phaseId": "946751",
+            "phaseGroupId": "1504898"
+          },
+          "match": null,
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - Round 4: Lem vs BigMind420",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Lem",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "BigMind420",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1707893",
+                  "handle": "BigMind420",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38096663",
+      "displayName": "M - rr: Lem vs NJ | Pandabetic",
+      "start": "02:07:09.452",
+      "end": "02:16:10.534",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "NJ",
+              "serviceIds": {
+                "smashgg": "617072"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38096663",
+            "phaseId": "946751",
+            "phaseGroupId": "1504898"
+          },
+          "match": null,
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - Round 5: Lem vs NJ | Pandabetic",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Lem",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NJ | Pandabetic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "617072",
+                  "handle": "Pandabetic",
+                  "prefix": "NJ",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38096662",
+      "displayName": "L - rr: Skeleton vs Highwind",
+      "start": "02:16:12.196",
+      "end": "02:22:10.391",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inetshitlord"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106132024532480000",
+              "handle": "Highwind",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1688401"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "Strive Starting Soon",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38096662",
+            "phaseId": "946751",
+            "phaseGroupId": "1504898"
+          },
+          "match": null,
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - Round 4: Highwind vs Skeleton",
+          "completedAt": 1623617101,
+          "entrants": [
+            {
+              "name": "Highwind",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1688401",
+                  "handle": "Highwind",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Skeleton",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "287708",
+                  "handle": "Skeleton",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "inetshitlord"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
