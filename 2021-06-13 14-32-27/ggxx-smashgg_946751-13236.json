@@ -5,9 +5,74 @@
   "bracketService": "smashgg",
   "phaseId": "946751",
   "eventId": "580525",
-  "start": "02:01:11.800",
-  "end": "02:22:10.391",
+  "title": "Guilty Gear XX Accent Core +R @ LP x PAG Strive Release Tournament",
+  "start": "01:50:15",
+  "end": "02:19:18",
   "sets": [
+    {
+      "id": "38096658",
+      "displayName": "rr: HighWind vs BigMind420",
+      "start": "01:50:40",
+      "end": "02:01:11.800",
+      "state": {
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350950001",
+              "handle": "Onikage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "692046",
+                "twitter": "onikage224"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106131816019280000",
+              "handle": "LazyDiablos",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LazyDiablos"
+              }
+            }
+          }
+        ],
+        "tournament": "Strive Release Tournament",
+        "event": "",
+        "messages": []
+      }
+    },
     {
       "id": "38096660",
       "displayName": "J - rr: Lem vs BigMind420",
