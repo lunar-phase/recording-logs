@@ -1,0 +1,704 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-06-19 16-12-07.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "946854",
+  "eventId": "580605",
+  "start": "05:19:02.860",
+  "end": "06:21:40.753",
+  "sets": [
+    {
+      "id": "38232268",
+      "displayName": "R - wf: Skeleton vs IA | j.g.",
+      "start": "05:19:02.860",
+      "end": "05:32:02.234",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inetshitlord"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "XLB",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Phase Resurgence",
+        "event": "",
+        "messages": [
+          "UNIclr Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38232268",
+            "phaseId": "946854",
+            "phaseGroupId": "1505025"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - wf: Skeleton vs IA | j.g.",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Skeleton",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "287708",
+                  "handle": "Skeleton",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "inetshitlord"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "IA | j.g.",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "353501",
+                  "handle": "j.g.",
+                  "prefix": "IA",
+                  "serviceIds": {
+                    "twitter": "landofpoverty"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38232331",
+      "displayName": "AJ - ls: YC | HARD_BREAD vs DN | Crocs N' Socks",
+      "start": "05:32:43.796",
+      "end": "05:38:26.221",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350450002",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106192016250960000",
+              "handle": "Crocs N' Socks",
+              "prefix": "DN",
+              "serviceIds": {
+                "smashgg": "566104"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "XLB",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Phase Resurgence",
+        "event": "",
+        "messages": [
+          "UNIclr Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38232331",
+            "phaseId": "946854",
+            "phaseGroupId": "1505025"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "AJ",
+          "displayName": "AJ - ls: YC | HARD_BREAD vs DN | Crocs N' Socks",
+          "completedAt": 1624153773,
+          "entrants": [
+            {
+              "name": "YC | HARD_BREAD",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "530924",
+                  "handle": "HARD_BREAD",
+                  "prefix": "YC",
+                  "serviceIds": {
+                    "twitter": "HARD_BREAD"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "DN | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "DN",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38232332",
+      "displayName": "AK - lf: YC | HARD_BREAD vs IA | j.g.",
+      "start": "05:38:33.052",
+      "end": "05:53:48.383",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350450002",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "XLB",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Phase Resurgence",
+        "event": "",
+        "messages": [
+          "UNIclr Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38232332",
+            "phaseId": "946854",
+            "phaseGroupId": "1505025"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "AK",
+          "displayName": "AK - lf: IA | j.g. vs YC | HARD_BREAD",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "IA | j.g.",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "353501",
+                  "handle": "j.g.",
+                  "prefix": "IA",
+                  "serviceIds": {
+                    "twitter": "landofpoverty"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "YC | HARD_BREAD",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "530924",
+                  "handle": "HARD_BREAD",
+                  "prefix": "YC",
+                  "serviceIds": {
+                    "twitter": "HARD_BREAD"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38232269",
+      "displayName": "S - gf: Skeleton vs IA | j.g.",
+      "start": "06:21:38.767",
+      "end": "06:21:40.753",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inetshitlord"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350470000",
+              "handle": "GoldenCen",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "goldencen"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Phase Resurgence",
+        "event": "",
+        "messages": [
+          "UNIclr Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38232269",
+            "phaseId": "946854",
+            "phaseGroupId": "1505025"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - gf: Skeleton vs IA | j.g.",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Skeleton",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "287708",
+                  "handle": "Skeleton",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "inetshitlord"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "IA | j.g.",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "353501",
+                  "handle": "j.g.",
+                  "prefix": "IA",
+                  "serviceIds": {
+                    "twitter": "landofpoverty"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

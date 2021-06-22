@@ -1,0 +1,348 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-06-19 16-12-07.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "946855",
+  "eventId": "580606",
+  "start": "02:23:34.000",
+  "end": "02:57:22.621",
+  "sets": [
+    {
+      "id": "38220260",
+      "displayName": "E - wf: KPB | Deezee Kujaku vs DF | Rome_Himself",
+      "start": "02:23:34.000",
+      "end": "02:40:01.572",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350250001",
+              "handle": "Deezee Kujaku",
+              "prefix": "KPB",
+              "serviceIds": {
+                "smashgg": "159971",
+                "twitter": "Deezee_Kujaku"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "kof02",
+          "name": "The King of Fighters 2002: UM",
+          "shortNames": [
+            "King of Fighters 2002 UM",
+            "KOF 2002 UM"
+          ],
+          "hashtags": [
+            "KOF2K2UM",
+            "KOF2002",
+            "KOF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters 2002 Unlimited Match"
+            },
+            "smashgg": {
+              "id": "33632"
+            },
+            "challonge": {
+              "id": "5338"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106191952296380000",
+              "handle": "Animonk",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "AN1M0NK",
+                "smashgg": "357659"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Phase Resurgence",
+        "event": "",
+        "messages": [
+          "KOF 02UM Top 3 Starts Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38220260",
+            "phaseId": "946855",
+            "phaseGroupId": "1505026"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "kof02",
+            "name": "The King of Fighters 2002: UM",
+            "shortNames": [
+              "King of Fighters 2002 UM",
+              "KOF 2002 UM"
+            ],
+            "hashtags": [
+              "KOF2K2UM",
+              "KOF2002",
+              "KOF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters 2002 Unlimited Match"
+              },
+              "smashgg": {
+                "id": "33632"
+              },
+              "challonge": {
+                "id": "5338"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - wf: KPB | Deezee Kujaku vs DF | Rome_Himself",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "KPB | Deezee Kujaku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "159971",
+                  "handle": "Deezee Kujaku",
+                  "prefix": "KPB",
+                  "serviceIds": {
+                    "twitter": "Deezee_Kujaku"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "DF | Rome_Himself",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147893",
+                  "handle": "Rome_Himself",
+                  "prefix": "DF",
+                  "serviceIds": {
+                    "twitter": "Romulus_Himself"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38220276",
+      "displayName": "K - lf: KPB | Animonk vs DF | Rome_Himself",
+      "start": "02:40:03.278",
+      "end": "02:57:22.621",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106191952296380000",
+              "handle": "Animonk",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "AN1M0NK",
+                "smashgg": "357659"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "kof02",
+          "name": "The King of Fighters 2002: UM",
+          "shortNames": [
+            "King of Fighters 2002 UM",
+            "KOF 2002 UM"
+          ],
+          "hashtags": [
+            "KOF2K2UM",
+            "KOF2002",
+            "KOF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters 2002 Unlimited Match"
+            },
+            "smashgg": {
+              "id": "33632"
+            },
+            "challonge": {
+              "id": "5338"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106191952296380000",
+              "handle": "Animonk",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "AN1M0NK",
+                "smashgg": "357659"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Phase Resurgence",
+        "event": "",
+        "messages": [
+          "KOF 02UM Top 3 Starts Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38220276",
+            "phaseId": "946855",
+            "phaseGroupId": "1505026"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "kof02",
+            "name": "The King of Fighters 2002: UM",
+            "shortNames": [
+              "King of Fighters 2002 UM",
+              "KOF 2002 UM"
+            ],
+            "hashtags": [
+              "KOF2K2UM",
+              "KOF2002",
+              "KOF"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters 2002 Unlimited Match"
+              },
+              "smashgg": {
+                "id": "33632"
+              },
+              "challonge": {
+                "id": "5338"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lf: DF | Rome_Himself vs KPB | Animonk",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "DF | Rome_Himself",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147893",
+                  "handle": "Rome_Himself",
+                  "prefix": "DF",
+                  "serviceIds": {
+                    "twitter": "Romulus_Himself"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "KPB | Animonk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "357659",
+                  "handle": "Animonk",
+                  "prefix": "KPB",
+                  "serviceIds": {
+                    "twitter": "AN1M0NK"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
