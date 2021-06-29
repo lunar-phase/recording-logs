@@ -2,6 +2,7 @@
   "format": "1",
   "version": "0.6.0-rc3",
   "file": "..\\2021-06-27 16-17-20.mkv",
+  "keyframeInterval": 3,
   "bracketService": "smashgg",
   "phaseId": "944914",
   "eventId": "451315",
@@ -1191,22 +1192,23 @@
       }
     },
     {
-      "id": "38446130",
-      "displayName": "D - gf: BN | Shin Paulo vs MrFlubbs",
+      "id": "38446145",
+      "displayName": "K - lf: MrFlubbs vs BLITZ",
       "start": "04:41:53.993",
       "end": "04:59:57.801",
       "state": {
         "players": [
           {
             "person": {
-              "id": "d202106272212583690000",
-              "handle": "Shin Paulo",
-              "prefix": "BN",
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
               "serviceIds": {
-                "smashgg": "211473"
-              }
+                "smashgg": "508746"
+              },
+              "alias": "BLITZ"
             },
-            "score": 0,
+            "score": 2,
             "inLosers": false,
             "comment": ""
           },
@@ -1219,15 +1221,15 @@
                 "smashgg": "223407"
               }
             },
-            "score": 0,
-            "inLosers": true,
+            "score": 3,
+            "inLosers": false,
             "comment": ""
           }
         ],
         "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
         },
         "game": {
           "id": "t7",
@@ -1275,14 +1277,14 @@
         "set": {
           "serviceInfo": {
             "serviceName": "smashgg",
-            "id": "38446130",
+            "id": "38446145",
             "phaseId": "944914",
             "phaseGroupId": "1502463"
           },
           "match": {
-            "id": "gf",
-            "name": "Grand Finals",
-            "smashggId": "Grand Final"
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
           },
           "videogame": {
             "id": "t7",

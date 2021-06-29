@@ -2,12 +2,264 @@
   "format": "1",
   "version": "0.6.0-rc3",
   "file": "..\\2021-06-27 16-17-20.mkv",
+  "keyframeInterval": 3,
   "bracketService": "smashgg",
   "phaseId": "757675",
   "eventId": "451315",
-  "start": "01:55:23.327",
+  "start": "01:18:28.804",
   "end": "03:11:26.591",
   "sets": [
+    {
+      "id": "38438949",
+      "displayName": "w1: MTS | Haezl vs EVAC",
+      "start": "01:18:28.804",
+      "end": "01:29:56.347",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272133012450000",
+              "handle": "Haezl",
+              "prefix": "MTS",
+              "serviceIds": {
+                "twitter": "Haezl_",
+                "smashgg": "199198"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272133012500000",
+              "handle": "EVAC",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "278118"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272036169740000",
+              "handle": "Flip-Flop",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "FlipPpg"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": []
+      }
+    },
+    {
+      "id": "38438949",
+      "displayName": "w1: DrHero vs MWM | JC_Light",
+      "start": "01:32:16.475",
+      "end": "01:43:16.216",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272147490540000",
+              "handle": "DrHero",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DerrickHero",
+                "smashgg": "949688"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272147490550000",
+              "handle": "JC_Light",
+              "prefix": "MWM",
+              "serviceIds": {
+                "twitter": "jclight611",
+                "smashgg": "1149683"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272200090900000",
+              "handle": "DesignerCLK",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272036169740000",
+              "handle": "Flip-Flop",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "FlipPpg"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": []
+      }
+    },
+    {
+      "id": "38438949",
+      "displayName": "w3: RenoFace vs Long Island | Eddie",
+      "start": "01:46:12.049",
+      "end": "01:53:25.531",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272203157410000",
+              "handle": "RenoFace",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "RenoFace",
+                "smashgg": "228470"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272203157520000",
+              "handle": "Eddie",
+              "prefix": "Long Island",
+              "serviceIds": {
+                "twitter": "LINYEddie",
+                "smashgg": "473532"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w3",
+          "name": "Winners Round 3",
+          "smashggId": "Winners Round 3"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "DesignerCLK_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272208534510000",
+              "handle": "Romeo",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": []
+      }
+    },
     {
       "id": "38438996",
       "displayName": "U - w3: BN | Shin Paulo vs MTS | iVesperX",
@@ -298,6 +550,89 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "38438949",
+      "displayName": "wq: BN | Shin Paulo vs The (B.A.D) Exalted",
+      "start": "02:14:12.277",
+      "end": "02:21:12.164",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272212583690000",
+              "handle": "Shin Paulo",
+              "prefix": "BN",
+              "serviceIds": {
+                "smashgg": "211473"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272231173120000",
+              "handle": "The (B.A.D) Exalted",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "260340"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "508746"
+              },
+              "alias": "BLITZ"
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": []
       }
     },
     {
