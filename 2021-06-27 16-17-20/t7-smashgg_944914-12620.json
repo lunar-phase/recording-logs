@@ -1,0 +1,1476 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-06-27 16-17-20.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "944914",
+  "eventId": "451315",
+  "start": "03:14:11.444",
+  "end": "05:19:51.408",
+  "sets": [
+    {
+      "id": "38446127",
+      "displayName": "A - ws: BN | Shin Paulo vs Long Island | Eddie",
+      "start": "03:14:11.444",
+      "end": "03:22:06.576",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272212583690000",
+              "handle": "Shin Paulo",
+              "prefix": "BN",
+              "serviceIds": {
+                "smashgg": "211473"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272203157520000",
+              "handle": "Eddie",
+              "prefix": "Long Island",
+              "serviceIds": {
+                "twitter": "LINYEddie",
+                "smashgg": "473532"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "DesignerCLK_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272208534510000",
+              "handle": "Romeo",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38446127",
+            "phaseId": "944914",
+            "phaseGroupId": "1502463"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - ws: BN | Shin Paulo vs Long Island | Eddie",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BN | Shin Paulo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "211473",
+                  "handle": "Shin Paulo",
+                  "prefix": "BN",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Long Island | Eddie",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "473532",
+                  "handle": "Eddie",
+                  "prefix": "Long Island",
+                  "serviceIds": {
+                    "twitter": "LINYEddie"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38446128",
+      "displayName": "B - ws: BLITZ (Blitz) vs MrFlubbs",
+      "start": "03:23:39.851",
+      "end": "03:31:05.090",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "508746"
+              },
+              "alias": "BLITZ"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272029176760000",
+              "handle": "MrFlubbs",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "223407"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "DesignerCLK_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272208534510000",
+              "handle": "Romeo",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38446128",
+            "phaseId": "944914",
+            "phaseGroupId": "1502463"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - ws: MrFlubbs vs BLITZ",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MrFlubbs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "223407",
+                  "handle": "MrFlubbs",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "BLITZ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "508746",
+                  "handle": "BLITZ",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38446140",
+      "displayName": "F - l1: Timbs | Fear vs The (B.A.D) Exalted",
+      "start": "03:33:19.398",
+      "end": "03:44:28.658",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "Timbs",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272231173120000",
+              "handle": "The (B.A.D) Exalted",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "260340"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l1",
+          "name": "Losers Round 1",
+          "smashggId": "Losers Round 1"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "DesignerCLK_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272208534510000",
+              "handle": "Romeo",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38446140",
+            "phaseId": "944914",
+            "phaseGroupId": "1502463"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - l1: The (B.A.D) Exalted vs Timbs | Fear",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "The (B.A.D) Exalted",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "260340",
+                  "handle": "The (B.A.D) Exalted",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Timbs | Fear",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "889042",
+                  "handle": "Fear",
+                  "prefix": "Timbs",
+                  "serviceIds": {
+                    "twitter": "Fearofsilence3"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38446141",
+      "displayName": "G - l1: niKILLem vs RenoFace",
+      "start": "03:46:15.809",
+      "end": "03:53:26.705",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351960001",
+              "handle": "niKILLem",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "niK1LLem",
+                "smashgg": "1177824"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272203157410000",
+              "handle": "RenoFace",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "RenoFace",
+                "smashgg": "228470"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l1",
+          "name": "Losers Round 1",
+          "smashggId": "Losers Round 1"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "DesignerCLK_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272208534510000",
+              "handle": "Romeo",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38446141",
+            "phaseId": "944914",
+            "phaseGroupId": "1502463"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - l1: RenoFace vs niKILLem",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "RenoFace",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "228470",
+                  "handle": "RenoFace",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "RenoFace"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "niKILLem",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1177824",
+                  "handle": "niKILLem",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "niK1LLem"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38446142",
+      "displayName": "H - lq: The (B.A.D) Exalted vs BLITZ (Blitz)",
+      "start": "03:53:41.232",
+      "end": "04:05:39.913",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272231173120000",
+              "handle": "The (B.A.D) Exalted",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "260340"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "508746"
+              },
+              "alias": "BLITZ"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "DesignerCLK_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272208534510000",
+              "handle": "Romeo",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38446142",
+            "phaseId": "944914",
+            "phaseGroupId": "1502463"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - lq: BLITZ vs The (B.A.D) Exalted",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BLITZ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "508746",
+                  "handle": "BLITZ",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "The (B.A.D) Exalted",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "260340",
+                  "handle": "The (B.A.D) Exalted",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38446143",
+      "displayName": "I - lq: Long Island | Eddie vs niKILLem",
+      "start": "04:07:46.835",
+      "end": "04:14:55.742",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272203157520000",
+              "handle": "Eddie",
+              "prefix": "Long Island",
+              "serviceIds": {
+                "twitter": "LINYEddie",
+                "smashgg": "473532"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351960001",
+              "handle": "niKILLem",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "niK1LLem",
+                "smashgg": "1177824"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "DesignerCLK_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272036169740000",
+              "handle": "Flip-Flop",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "FlipPpg"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38446143",
+            "phaseId": "944914",
+            "phaseGroupId": "1502463"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - lq: Long Island | Eddie vs niKILLem",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Long Island | Eddie",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "473532",
+                  "handle": "Eddie",
+                  "prefix": "Long Island",
+                  "serviceIds": {
+                    "twitter": "LINYEddie"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "niKILLem",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1177824",
+                  "handle": "niKILLem",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "niK1LLem"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38446129",
+      "displayName": "C - wf: BN | Shin Paulo vs MrFlubbs",
+      "start": "04:19:06.000",
+      "end": "04:27:23.758",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272212583690000",
+              "handle": "Shin Paulo",
+              "prefix": "BN",
+              "serviceIds": {
+                "smashgg": "211473"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272029176760000",
+              "handle": "MrFlubbs",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "223407"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "DesignerCLK_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272036169740000",
+              "handle": "Flip-Flop",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "FlipPpg"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38446129",
+            "phaseId": "944914",
+            "phaseGroupId": "1502463"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wf: BN | Shin Paulo vs MrFlubbs",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BN | Shin Paulo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "211473",
+                  "handle": "Shin Paulo",
+                  "prefix": "BN",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "MrFlubbs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "223407",
+                  "handle": "MrFlubbs",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38446144",
+      "displayName": "J - ls: BLITZ (Blitz) vs Long Island | Eddie",
+      "start": "04:28:48.427",
+      "end": "04:40:33.971",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "508746"
+              },
+              "alias": "BLITZ"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "jacket"
+          },
+          {
+            "person": {
+              "id": "d202106272203157520000",
+              "handle": "Eddie",
+              "prefix": "Long Island",
+              "serviceIds": {
+                "twitter": "LINYEddie",
+                "smashgg": "473532"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "goggles"
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "DesignerCLK_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272036169740000",
+              "handle": "Flip-Flop",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "FlipPpg"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38446144",
+            "phaseId": "944914",
+            "phaseGroupId": "1502463"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ls: BLITZ vs Long Island | Eddie",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BLITZ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "508746",
+                  "handle": "BLITZ",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Long Island | Eddie",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "473532",
+                  "handle": "Eddie",
+                  "prefix": "Long Island",
+                  "serviceIds": {
+                    "twitter": "LINYEddie"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38446130",
+      "displayName": "D - gf: BN | Shin Paulo vs MrFlubbs",
+      "start": "04:41:53.993",
+      "end": "04:59:57.801",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272212583690000",
+              "handle": "Shin Paulo",
+              "prefix": "BN",
+              "serviceIds": {
+                "smashgg": "211473"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272029176760000",
+              "handle": "MrFlubbs",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "223407"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "DesignerCLK_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272036169740000",
+              "handle": "Flip-Flop",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "FlipPpg"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38446130",
+            "phaseId": "944914",
+            "phaseGroupId": "1502463"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - gf: BN | Shin Paulo vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BN | Shin Paulo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "211473",
+                  "handle": "Shin Paulo",
+                  "prefix": "BN",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "38446130",
+      "displayName": "D - gf: BN | Shin Paulo vs MrFlubbs",
+      "start": "05:01:40.436",
+      "end": "05:19:51.408",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272212583690000",
+              "handle": "Shin Paulo",
+              "prefix": "BN",
+              "serviceIds": {
+                "smashgg": "211473"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272029176760000",
+              "handle": "MrFlubbs",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "223407"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC TKN",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "38446130",
+            "phaseId": "944914",
+            "phaseGroupId": "1502463"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - gf: BN | Shin Paulo vs MrFlubbs",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BN | Shin Paulo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "211473",
+                  "handle": "Shin Paulo",
+                  "prefix": "BN",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "MrFlubbs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "223407",
+                  "handle": "MrFlubbs",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
