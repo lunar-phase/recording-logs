@@ -1,0 +1,100 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-07-03 16-09-52.mkv",
+  "phaseId": "unknown",
+  "start": "00:11:22.706",
+  "end": "00:22:09.643",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "wq: BE | Tomuhawk (Tomahawk) vs UBW SDR | nyczbrandon",
+      "start": "00:11:22.706",
+      "end": "00:22:09.643",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomahawk",
+              "prefix": "BE",
+              "serviceIds": {
+                "twitter": "NYC_Tomahawk",
+                "smashgg": "170633"
+              },
+              "alias": "Tomuhawk"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350940000",
+              "handle": "nyczbrandon",
+              "prefix": "UBW SDR",
+              "serviceIds": {
+                "twitter": "nyczbrandon",
+                "smashgg": "567810"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351400000",
+              "handle": "yung willy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Honks4Life"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #1",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
