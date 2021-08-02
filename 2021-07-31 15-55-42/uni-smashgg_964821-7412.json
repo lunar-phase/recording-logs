@@ -5,11 +5,17 @@
   "bracketService": "smashgg",
   "phaseId": "964821",
   "eventId": "593397",
-  "start": "02:47:58.684",
-  "end": "03:52:17.648",
+  "phaseName": "Top 4",
+  "event": {
+    "tournament": {
+      "name": "Lunatic Perilune #2"
+    }
+  },
+  "start": "02:44:36",
+  "end": "03:50:36",
   "sets": [
     {
-      "id": "preview_1530337_1_0",
+      "id": "39301956",
       "displayName": "A - ws: Nicky Videogames vs Kanjiru",
       "start": "02:47:58.684",
       "end": "02:53:10.032",
@@ -180,6 +186,103 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "39301957",
+      "displayName": "ws: willys bro vs PPT | nyczbrandon",
+      "start": "02:54:13.397",
+      "end": "03:02:33.381",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351570000",
+              "handle": "willys bro",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Tachibako",
+                "smashgg": "918278"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350940000",
+              "handle": "nyczbrandon",
+              "prefix": "PPT",
+              "serviceIds": {
+                "twitter": "nyczbrandon",
+                "smashgg": "567810"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "additionalTags": [
+            "Under Night In-Birth",
+            "Under Night"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            },
+            "battlefy": {
+              "id": "5e7e0d0ba6da6f1083738975"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202107312248321720000",
+              "handle": "???",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "mystery_man"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #2",
+        "event": "",
+        "messages": []
       }
     },
     {
@@ -362,7 +465,7 @@
     {
       "id": "39301965",
       "displayName": "F - ls: PPT | nyczbrandon vs Kanjiru",
-      "start": "03:10:53.186",
+      "start": "03:09:33",
       "end": "03:16:27.255",
       "state": {
         "players": [
@@ -718,7 +821,7 @@
       "id": "39301959",
       "displayName": "D - tf: PPT | nyczbrandon vs Nicky Videogames",
       "start": "03:28:29.545",
-      "end": "03:52:17.648",
+      "end": "03:50:36",
       "state": {
         "players": [
           {
