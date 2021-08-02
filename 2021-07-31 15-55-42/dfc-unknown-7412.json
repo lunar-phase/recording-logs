@@ -1,0 +1,197 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-07-31 15-55-42.mkv",
+  "phaseId": "unknown",
+  "start": "00:18:31.290",
+  "end": "03:02:33.381",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "Swiss Round 1: LP | StraylightP vs BE | Tomuhawk (Tomahawk)",
+      "start": "00:18:31.290",
+      "end": "00:32:42.640",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomahawk",
+              "prefix": "BE",
+              "serviceIds": {
+                "twitter": "NYC_Tomahawk",
+                "smashgg": "170633"
+              },
+              "alias": "Tomuhawk"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Swiss Round 1",
+          "smashggId": null
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "XLB",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351400000",
+              "handle": "yung willy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "_"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #2",
+        "event": "",
+        "messages": []
+      }
+    },
+    {
+      "id": null,
+      "displayName": "ws: willys bro vs PPT | nyczbrandon",
+      "start": "02:54:13.397",
+      "end": "03:02:33.381",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351570000",
+              "handle": "willys bro",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Tachibako",
+                "smashgg": "918278"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350940000",
+              "handle": "nyczbrandon",
+              "prefix": "PPT",
+              "serviceIds": {
+                "twitter": "nyczbrandon",
+                "smashgg": "567810"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "additionalTags": [
+            "Under Night In-Birth",
+            "Under Night"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            },
+            "battlefy": {
+              "id": "5e7e0d0ba6da6f1083738975"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202107312248321720000",
+              "handle": "???",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "mystery_man"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #2",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
