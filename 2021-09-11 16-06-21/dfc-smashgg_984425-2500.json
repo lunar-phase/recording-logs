@@ -5,13 +5,17 @@
   "bracketService": "smashgg",
   "phaseId": "984425",
   "eventId": "609789",
-  "start": "00:25:13.039",
-  "end": "02:14:09.876",
+  "phaseName": "Pools",
+  "excludedTags": [
+    "Dengeki Bunko Fighting Climax: Ignition"
+  ],
+  "start": "00:15:33",
+  "end": "01:59:03",
   "sets": [
     {
       "id": "40434356",
       "displayName": "B - Pools: XLB | Shana vs BE | Tomuhawk (Tomahawk)",
-      "start": "00:25:13.039",
+      "start": "00:25:09",
       "end": "00:34:01.270",
       "state": {
         "players": [
@@ -165,7 +169,7 @@
     {
       "id": "40434651",
       "displayName": "B - Pools: NYStateAlchemist vs KPB | Animonk",
-      "start": "00:39:55.399",
+      "start": "00:39:51",
       "end": "00:44:51.465",
       "state": {
         "players": [
@@ -315,7 +319,7 @@
     {
       "id": "40434658",
       "displayName": "I - Pools: Denpa vs Alps",
-      "start": "00:46:21.263",
+      "start": "00:46:15",
       "end": "00:54:05.591",
       "state": {
         "players": [
@@ -1369,156 +1373,6 @@
                   "serviceIds": {
                     "twitter": "nyczbrandon"
                   }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "40434355",
-      "displayName": "A - Pools: GunFrame | Spectryn vs IA | j.g.",
-      "start": "02:08:40.741",
-      "end": "02:14:09.876",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351140001",
-              "handle": "Spectryn",
-              "prefix": "GunFrame",
-              "serviceIds": {
-                "smashgg": "171548"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402350590000",
-              "handle": "j.g.",
-              "prefix": "IA",
-              "serviceIds": {
-                "twitter": "landofpoverty",
-                "smashgg": "353501"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "Pools",
-          "smashggId": null
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402351400000",
-              "handle": "yung willy",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "883113"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #4",
-        "event": "",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "40434355",
-            "phaseId": "984425",
-            "phaseGroupId": "1556008"
-          },
-          "match": null,
-          "videogame": {
-            "id": "dfc",
-            "name": "Dengeki Bunko Fighting Climax: Ignition",
-            "shortNames": [
-              "Dengeki Bunko Fighting Climax",
-              "Dengeki Bunko",
-              "DFCI"
-            ],
-            "hashtags": [
-              "DFCI"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Dengeki Bunko: Fighting Climax Ignition"
-              },
-              "smashgg": {
-                "id": "4267"
-              }
-            }
-          },
-          "shortIdentifier": "A",
-          "displayName": "A1 A - Round 1: IA | j.g. vs GunFrame | Spectryn",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "IA | j.g.",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "353501",
-                  "handle": "j.g.",
-                  "prefix": "IA",
-                  "serviceIds": {
-                    "twitter": "landofpoverty"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "GunFrame | Spectryn",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "171548",
-                  "handle": "Spectryn",
-                  "prefix": "GunFrame",
-                  "serviceIds": {}
                 }
               ],
               "inLosers": false

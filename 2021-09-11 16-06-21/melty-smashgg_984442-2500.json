@@ -5,8 +5,9 @@
   "bracketService": "smashgg",
   "phaseId": "984442",
   "eventId": "609788",
-  "start": "07:03:50.822",
-  "end": "08:13:57.124",
+  "phaseName": "Top 8",
+  "start": "07:02:54",
+  "end": "08:13:57",
   "sets": [
     {
       "id": "40450965",
@@ -1201,6 +1202,102 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "40450999",
+      "displayName": "lf: Soara vs IA | j.g.",
+      "start": "07:51:44.645",
+      "end": "08:01:36.916",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102150032482550000",
+              "handle": "Soara",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "sosoarara",
+                "smashgg": "2120149"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #4",
+        "event": "",
+        "messages": [
+          "SamSho up next"
+        ]
       }
     },
     {
