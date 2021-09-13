@@ -1,0 +1,825 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-09-11 16-06-21.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "984440",
+  "eventId": "609786",
+  "start": "05:44:19.822",
+  "end": "06:56:05.585",
+  "sets": [
+    {
+      "id": "40454085",
+      "displayName": "B - ws: Aroo vs GREGSPORTS | AyoItsDave",
+      "start": "05:44:19.822",
+      "end": "05:55:21.196",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402349930001",
+              "handle": "AyoItsDave",
+              "prefix": "GREGSPORTS",
+              "serviceIds": {
+                "twitter": "AyoItsDave",
+                "smashgg": "316555"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ss7",
+          "name": "Samurai Shodown",
+          "shortNames": [
+            "SamSho 7",
+            "SS7"
+          ],
+          "hashtags": [
+            "SamSho",
+            "EmbraceDeath"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "SAMURAI SHODOWN"
+            },
+            "smashgg": {
+              "id": "3568"
+            },
+            "challonge": {
+              "id": "39280"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #4",
+        "event": "",
+        "messages": [
+          "SamSho up next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "40454085",
+            "phaseId": "984440",
+            "phaseGroupId": "1556030"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ss7",
+            "name": "Samurai Shodown",
+            "shortNames": [
+              "SamSho 7",
+              "SS7"
+            ],
+            "hashtags": [
+              "SamSho",
+              "EmbraceDeath"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "SAMURAI SHODOWN"
+              },
+              "smashgg": {
+                "id": "3568"
+              },
+              "challonge": {
+                "id": "39280"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - ws: GREGSPORTS | AyoItsDave vs Aroo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GREGSPORTS | AyoItsDave",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "316555",
+                  "handle": "AyoItsDave",
+                  "prefix": "GREGSPORTS",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Aroo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "372499",
+                  "handle": "Aroo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "aroolee"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "40454093",
+      "displayName": "F - ls: DCB | LATEENX vs GREGSPORTS | AyoItsDave",
+      "start": "05:55:42.641",
+      "end": "06:07:34.077",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352900001",
+              "handle": "LATEENX",
+              "prefix": "DCB",
+              "serviceIds": {
+                "smashgg": "193815"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402349930001",
+              "handle": "AyoItsDave",
+              "prefix": "GREGSPORTS",
+              "serviceIds": {
+                "twitter": "AyoItsDave",
+                "smashgg": "316555"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ss7",
+          "name": "Samurai Shodown",
+          "shortNames": [
+            "SamSho 7",
+            "SS7"
+          ],
+          "hashtags": [
+            "SamSho",
+            "EmbraceDeath"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "SAMURAI SHODOWN"
+            },
+            "smashgg": {
+              "id": "3568"
+            },
+            "challonge": {
+              "id": "39280"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #4",
+        "event": "",
+        "messages": [
+          "SamSho up next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "40454093",
+            "phaseId": "984440",
+            "phaseGroupId": "1556030"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ss7",
+            "name": "Samurai Shodown",
+            "shortNames": [
+              "SamSho 7",
+              "SS7"
+            ],
+            "hashtags": [
+              "SamSho",
+              "EmbraceDeath"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "SAMURAI SHODOWN"
+              },
+              "smashgg": {
+                "id": "3568"
+              },
+              "challonge": {
+                "id": "39280"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - ls: DCB | LATEENX vs GREGSPORTS | AyoItsDave",
+          "completedAt": 1631412783,
+          "entrants": [
+            {
+              "name": "DCB | LATEENX",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "193815",
+                  "handle": "LATEENX",
+                  "prefix": "DCB",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GREGSPORTS | AyoItsDave",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "316555",
+                  "handle": "AyoItsDave",
+                  "prefix": "GREGSPORTS",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "40454086",
+      "displayName": "C - wf: Aroo vs NJN",
+      "start": "06:07:50.000",
+      "end": "06:24:57.392",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106192033512990000",
+              "handle": "NJN",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Nickcool96",
+                "smashgg": "327337"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ss7",
+          "name": "Samurai Shodown",
+          "shortNames": [
+            "SamSho 7",
+            "SS7"
+          ],
+          "hashtags": [
+            "SamSho",
+            "EmbraceDeath"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "SAMURAI SHODOWN"
+            },
+            "smashgg": {
+              "id": "3568"
+            },
+            "challonge": {
+              "id": "39280"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #4",
+        "event": "",
+        "messages": [
+          "SamSho up next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "40454086",
+            "phaseId": "984440",
+            "phaseGroupId": "1556030"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ss7",
+            "name": "Samurai Shodown",
+            "shortNames": [
+              "SamSho 7",
+              "SS7"
+            ],
+            "hashtags": [
+              "SamSho",
+              "EmbraceDeath"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "SAMURAI SHODOWN"
+              },
+              "smashgg": {
+                "id": "3568"
+              },
+              "challonge": {
+                "id": "39280"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wf: NJN vs Aroo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NJN",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "327337",
+                  "handle": "NJN",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Nickcool96"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Aroo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "372499",
+                  "handle": "Aroo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "aroolee"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "40454094",
+      "displayName": "G - lf: GREGSPORTS | AyoItsDave vs NJN",
+      "start": "06:25:05.000",
+      "end": "06:37:26.586",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402349930001",
+              "handle": "AyoItsDave",
+              "prefix": "GREGSPORTS",
+              "serviceIds": {
+                "twitter": "AyoItsDave",
+                "smashgg": "316555"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106192033512990000",
+              "handle": "NJN",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Nickcool96",
+                "smashgg": "327337"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ss7",
+          "name": "Samurai Shodown",
+          "shortNames": [
+            "SamSho 7",
+            "SS7"
+          ],
+          "hashtags": [
+            "SamSho",
+            "EmbraceDeath"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "SAMURAI SHODOWN"
+            },
+            "smashgg": {
+              "id": "3568"
+            },
+            "challonge": {
+              "id": "39280"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402352900001",
+              "handle": "LATEENX",
+              "prefix": "DCB",
+              "serviceIds": {
+                "smashgg": "193815",
+                "twitter": "Dshiznetzz"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #4",
+        "event": "",
+        "messages": [
+          "SamSho up next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "40454094",
+            "phaseId": "984440",
+            "phaseGroupId": "1556030"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ss7",
+            "name": "Samurai Shodown",
+            "shortNames": [
+              "SamSho 7",
+              "SS7"
+            ],
+            "hashtags": [
+              "SamSho",
+              "EmbraceDeath"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "SAMURAI SHODOWN"
+              },
+              "smashgg": {
+                "id": "3568"
+              },
+              "challonge": {
+                "id": "39280"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - lf: NJN vs GREGSPORTS | AyoItsDave",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NJN",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "327337",
+                  "handle": "NJN",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Nickcool96"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GREGSPORTS | AyoItsDave",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "316555",
+                  "handle": "AyoItsDave",
+                  "prefix": "GREGSPORTS",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "40454087",
+      "displayName": "D - gf: GREGSPORTS | AyoItsDave vs Aroo",
+      "start": "06:37:39.401",
+      "end": "06:56:05.585",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402349930001",
+              "handle": "AyoItsDave",
+              "prefix": "GREGSPORTS",
+              "serviceIds": {
+                "twitter": "AyoItsDave",
+                "smashgg": "316555"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ss7",
+          "name": "Samurai Shodown",
+          "shortNames": [
+            "SamSho 7",
+            "SS7"
+          ],
+          "hashtags": [
+            "SamSho",
+            "EmbraceDeath"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "SAMURAI SHODOWN"
+            },
+            "smashgg": {
+              "id": "3568"
+            },
+            "challonge": {
+              "id": "39280"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #4",
+        "event": "",
+        "messages": [
+          "SamSho up next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "40454087",
+            "phaseId": "984440",
+            "phaseGroupId": "1556030"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ss7",
+            "name": "Samurai Shodown",
+            "shortNames": [
+              "SamSho 7",
+              "SS7"
+            ],
+            "hashtags": [
+              "SamSho",
+              "EmbraceDeath"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "SAMURAI SHODOWN"
+              },
+              "smashgg": {
+                "id": "3568"
+              },
+              "challonge": {
+                "id": "39280"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - gf: Aroo vs GREGSPORTS | AyoItsDave",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Aroo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "372499",
+                  "handle": "Aroo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "aroolee"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GREGSPORTS | AyoItsDave",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "316555",
+                  "handle": "AyoItsDave",
+                  "prefix": "GREGSPORTS",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
