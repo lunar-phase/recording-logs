@@ -5,9 +5,93 @@
   "bracketService": "smashgg",
   "phaseId": "985438",
   "eventId": "610564",
-  "start": "01:45:27.702",
+  "start": "01:37:13.485",
   "end": "03:16:53.881",
   "sets": [
+    {
+      "id": "40669815",
+      "displayName": "w1: Victim_of_Ritual vs ninjadogs",
+      "start": "01:37:13.485",
+      "end": "01:43:57.178",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109192228255720000",
+              "handle": "Victim_of_Ritual",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "V_o_Ritual",
+                "smashgg": "411847"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202109192228255730000",
+              "handle": "ninjadogs",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "581704"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "RidazOnTheStorm",
+                "smashgg": "413544"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #18",
+        "event": "",
+        "messages": []
+      }
+    },
     {
       "id": "40669820",
       "displayName": "F - w1: WD | BigDame21 vs Subway_Wang",

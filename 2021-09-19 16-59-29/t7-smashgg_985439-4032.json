@@ -9,7 +9,7 @@
   "end": "06:02:07.961",
   "sets": [
     {
-      "id": "preview_1557461_2_0",
+      "id": "40674385",
       "displayName": "A - ws: Ukiyo vs Victim_of_Ritual",
       "start": "03:30:10.316",
       "end": "03:42:59.554",
@@ -95,7 +95,7 @@
         "set": {
           "serviceInfo": {
             "serviceName": "smashgg",
-            "id": "preview_1557461_2_0",
+            "id": "40674385",
             "phaseId": "985439",
             "phaseGroupId": "1557461"
           },
@@ -156,6 +156,93 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "40674386",
+      "displayName": "ws: MTS | B Rich vs NYC Tekken | Fear",
+      "start": "03:43:54.826",
+      "end": "03:56:12.792",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202107252331017350000",
+              "handle": "B Rich",
+              "prefix": "MTS",
+              "serviceIds": {
+                "twitter": "B_Richie98",
+                "smashgg": "1151828"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC TKN",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272203157410000",
+              "handle": "RenoFace",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "RenoFace",
+                "smashgg": "228470"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #18",
+        "event": "",
+        "messages": []
       }
     },
     {
