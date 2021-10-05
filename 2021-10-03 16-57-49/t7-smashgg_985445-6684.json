@@ -5,153 +5,18 @@
   "bracketService": "smashgg",
   "phaseId": "985445",
   "eventId": "610569",
+  "phaseName": "Pools",
   "start": "01:25:03.596",
   "end": "03:08:52.760",
   "sets": [
     {
-      "id": "preview_1557468_1_8",
-      "displayName": "H - w1: Wolfvz vs JM | JUSTINIGLESIAS",
+      "id": "41090120",
+      "displayName": "D - w1: ty vs WD | BigDame21",
       "start": "01:25:03.596",
-      "end": "01:32:53.019",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202110032229594120000",
-              "handle": "Wolfvz",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "397223"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202110032229594100000",
-              "handle": "JUSTINIGLESIAS",
-              "prefix": "JM",
-              "serviceIds": {
-                "smashgg": "761529"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "w1",
-          "name": "Winners Round 1",
-          "smashggId": "Winners Round 1"
-        },
-        "game": {
-          "id": "t7",
-          "name": "Tekken 7",
-          "shortNames": [
-            "T7"
-          ],
-          "hashtags": [
-            "TEKKEN7"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Tekken 7"
-            },
-            "smashgg": {
-              "id": "17"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202110032214597050000",
-              "handle": "Shwelpz Justice",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "NYC Tekken Monthly #19",
-        "event": "",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "preview_1557468_1_8",
-            "phaseId": "985445",
-            "phaseGroupId": "1557468"
-          },
-          "match": {
-            "id": "w1",
-            "name": "Winners Round 1",
-            "smashggId": "Winners Round 1"
-          },
-          "videogame": {
-            "id": "t7",
-            "name": "Tekken 7",
-            "shortNames": [
-              "T7"
-            ],
-            "hashtags": [
-              "TEKKEN7"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Tekken 7"
-              },
-              "smashgg": {
-                "id": "17"
-              }
-            }
-          },
-          "shortIdentifier": "H",
-          "displayName": "H - w1: JM | JUSTINIGLESIAS vs Wolfvz",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "JM | JUSTINIGLESIAS",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "761529",
-                  "handle": "JUSTINIGLESIAS",
-                  "prefix": "JM",
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Wolfvz",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "397223",
-                  "handle": "Wolfvz",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "end": "01:32:53.019"
     },
     {
-      "id": "preview_1557468_1_8",
+      "id": "41090124",
       "displayName": "H - w1: Wolfvz vs JM | JUSTINIGLESIAS",
       "start": "01:32:45.000",
       "end": "01:38:53.425",
@@ -295,7 +160,7 @@
       }
     },
     {
-      "id": "preview_1557468_1_13",
+      "id": "41090129",
       "displayName": "M - w1: Ladyrigz vs NYTobi",
       "start": "01:41:35.911",
       "end": "01:48:48.977",
@@ -440,6 +305,90 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "41090135",
+      "displayName": "w2: RareGroove | Flop vs NYC Tekken | Fear",
+      "start": "01:50:39.419",
+      "end": "01:57:14.289",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202110032151039660000",
+              "handle": "Flop",
+              "prefix": "RareGroove",
+              "serviceIds": {
+                "smashgg": "409981"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202110032219415140000",
+              "handle": "ty",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "tyler_beecroft",
+                "smashgg": "837257"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202110032254474740000",
+              "handle": "PR_Romeo",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #19",
+        "event": "",
+        "messages": []
       }
     },
     {

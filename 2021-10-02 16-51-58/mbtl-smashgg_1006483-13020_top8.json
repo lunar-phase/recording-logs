@@ -5,28 +5,27 @@
   "bracketService": "smashgg",
   "phaseId": "1006483",
   "eventId": "609801",
-  "phaseName": "Top 16 to Top 8",
-  "start": "04:28:24",
-  "end": "05:23:00",
+  "phaseName": "Top 8",
+  "start": "05:23:21",
+  "end": "07:00:13.584",
   "sets": [
     {
-      "id": "41060512",
-      "displayName": "A - wq: Zeptogram vs LP | EJay",
-      "start": "04:29:34.959",
-      "end": "04:34:35.544",
+      "id": "41060516",
+      "displayName": "E - ws: Fame96 vs LP | EJay",
+      "start": "05:24:53.653",
+      "end": "05:31:05.798",
       "state": {
         "players": [
           {
             "person": {
-              "id": "d202110030114272760000",
-              "handle": "Zeptogram",
+              "id": "d202110030126471250000",
+              "handle": "Fame96",
               "prefix": null,
               "serviceIds": {
-                "twitter": "Arc_Dollars",
-                "smashgg": "395733"
+                "smashgg": "160141"
               }
             },
-            "score": 0,
+            "score": 2,
             "inLosers": false,
             "comment": ""
           },
@@ -40,15 +39,15 @@
                 "smashgg": "472237"
               }
             },
-            "score": 1,
+            "score": 0,
             "inLosers": false,
             "comment": ""
           }
         ],
         "match": {
-          "id": "wq",
-          "name": "Winners Quarters",
-          "smashggId": "Winners Quarter-Final"
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
         },
         "game": {
           "id": "mbtl",
@@ -77,11 +76,12 @@
         "commentators": [
           {
             "person": {
-              "id": "d202008220402351290001",
-              "handle": "UnsafeonHit",
-              "prefix": null,
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
               "serviceIds": {
-                "twitter": "UnsafeonHit"
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
               }
             }
           },
@@ -105,14 +105,14 @@
         "set": {
           "serviceInfo": {
             "serviceName": "smashgg",
-            "id": "41060512",
+            "id": "41060516",
             "phaseId": "1006483",
             "phaseGroupId": "1587588"
           },
           "match": {
-            "id": "wq",
-            "name": "Winners Quarters",
-            "smashggId": "Winners Quarter-Final"
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
           },
           "videogame": {
             "id": "mbtl",
@@ -138,25 +138,10 @@
               }
             }
           },
-          "shortIdentifier": "A",
-          "displayName": "A - wq: Zeptogram vs LP | EJay",
+          "shortIdentifier": "E",
+          "displayName": "E - ws: LP | EJay vs Fame96",
           "completedAt": null,
           "entrants": [
-            {
-              "name": "Zeptogram",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "395733",
-                  "handle": "Zeptogram",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "Arc_Dollars"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
             {
               "name": "LP | EJay",
               "participants": [
@@ -171,39 +156,53 @@
                 }
               ],
               "inLosers": false
+            },
+            {
+              "name": "Fame96",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "160141",
+                  "handle": "Fame96",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
             }
           ]
         }
       }
     },
     {
-      "id": "41060513",
-      "displayName": "B - wq: Fame96 vs SchoolBus",
-      "start": "04:35:07.699",
-      "end": "04:43:20.688",
+      "id": "41060517",
+      "displayName": "F - ws: TempestNYC vs Alps",
+      "start": "05:32:37.390",
+      "end": "05:40:33.184",
       "state": {
         "players": [
           {
             "person": {
-              "id": "d202110030126471250000",
-              "handle": "Fame96",
+              "id": "d202110030143222700000",
+              "handle": "TempestNYC",
               "prefix": null,
               "serviceIds": {
-                "smashgg": "160141"
+                "twitter": "Tempest_NYC",
+                "smashgg": "504187"
               }
             },
-            "score": 1,
+            "score": 2,
             "inLosers": false,
             "comment": ""
           },
           {
             "person": {
-              "id": "d202008220402351110001",
-              "handle": "SchoolBus",
+              "id": "d202008220402349880000",
+              "handle": "Alps",
               "prefix": null,
               "serviceIds": {
-                "twitter": "Sometimes_Fendo",
-                "smashgg": "518419"
+                "twitter": "Fimbulvetr090",
+                "smashgg": "557587"
               }
             },
             "score": 1,
@@ -212,9 +211,9 @@
           }
         ],
         "match": {
-          "id": "wq",
-          "name": "Winners Quarters",
-          "smashggId": "Winners Quarter-Final"
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
         },
         "game": {
           "id": "mbtl",
@@ -243,12 +242,12 @@
         "commentators": [
           {
             "person": {
-              "id": "d202008220402351110001",
-              "handle": "SchoolBus",
-              "prefix": null,
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
               "serviceIds": {
-                "twitter": "Sometimes_Fendo",
-                "smashgg": "518419"
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
               }
             }
           },
@@ -272,14 +271,14 @@
         "set": {
           "serviceInfo": {
             "serviceName": "smashgg",
-            "id": "41060513",
+            "id": "41060517",
             "phaseId": "1006483",
             "phaseGroupId": "1587588"
           },
           "match": {
-            "id": "wq",
-            "name": "Winners Quarters",
-            "smashggId": "Winners Quarter-Final"
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
           },
           "videogame": {
             "id": "mbtl",
@@ -305,8 +304,1180 @@
               }
             }
           },
-          "shortIdentifier": "B",
-          "displayName": "B - wq: Fame96 vs SchoolBus",
+          "shortIdentifier": "F",
+          "displayName": "F - ws: Alps vs TempestNYC",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Alps",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "557587",
+                  "handle": "Alps",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Fimbulvetr090"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TempestNYC",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "504187",
+                  "handle": "TempestNYC",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Tempest_NYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "41060545",
+      "displayName": "R - Losers top 8: YC | HARD_BREAD vs noctchill | 『Tamaki』",
+      "start": "05:41:22.771",
+      "end": "05:46:19.480",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350450002",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202107312124470030000",
+              "handle": "『Tamaki』",
+              "prefix": "noctchill",
+              "serviceIds": {
+                "twitter": "Tamaki_sh",
+                "smashgg": "175572"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers top 8",
+          "smashggId": null
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #5",
+        "event": "",
+        "messages": [
+          "Type Lumina finals soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41060545",
+            "phaseId": "1006483",
+            "phaseGroupId": "1587588"
+          },
+          "match": {
+            "id": "l3",
+            "name": "Losers Round 3",
+            "smashggId": "Losers Round 3"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - l3: YC | HARD_BREAD vs noctchill | 『Tamaki』",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "YC | HARD_BREAD",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "530924",
+                  "handle": "HARD_BREAD",
+                  "prefix": "YC",
+                  "serviceIds": {
+                    "twitter": "HARD_BREAD"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "noctchill | 『Tamaki』",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "175572",
+                  "handle": "『Tamaki』",
+                  "prefix": "noctchill",
+                  "serviceIds": {
+                    "twitter": "Tamaki_sh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "41060546",
+      "displayName": "S - Losers top 8: SchoolBus vs SUGOI | UnsafeonHit",
+      "start": "05:47:20.300",
+      "end": "05:53:48.994",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202110030238267390000",
+              "handle": "UnsafeonHit",
+              "prefix": "SUGOI",
+              "serviceIds": {
+                "twitter": "UnsafeonHit",
+                "smashgg": "348561"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers top 8",
+          "smashggId": null
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #5",
+        "event": "",
+        "messages": [
+          "Type Lumina finals soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41060546",
+            "phaseId": "1006483",
+            "phaseGroupId": "1587588"
+          },
+          "match": {
+            "id": "l3",
+            "name": "Losers Round 3",
+            "smashggId": "Losers Round 3"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - l3: SchoolBus vs SUGOI | UnsafeonHit",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SchoolBus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "518419",
+                  "handle": "SchoolBus",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Sometimes_Fendo"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SUGOI | UnsafeonHit",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "348561",
+                  "handle": "UnsafeonHit",
+                  "prefix": "SUGOI",
+                  "serviceIds": {
+                    "twitter": "UnsafeonHit"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "41060547",
+      "displayName": "T - lq: LP | EJay vs noctchill | 『Tamaki』",
+      "start": "05:54:17.017",
+      "end": "06:02:49.763",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350290001",
+              "handle": "EJay",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "EJayCV",
+                "smashgg": "472237"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202107312124470030000",
+              "handle": "『Tamaki』",
+              "prefix": "noctchill",
+              "serviceIds": {
+                "twitter": "Tamaki_sh",
+                "smashgg": "175572"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #5",
+        "event": "",
+        "messages": [
+          "Type Lumina finals soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41060547",
+            "phaseId": "1006483",
+            "phaseGroupId": "1587588"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "T",
+          "displayName": "T - lq: LP | EJay vs noctchill | 『Tamaki』",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP | EJay",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "472237",
+                  "handle": "EJay",
+                  "prefix": "LP",
+                  "serviceIds": {
+                    "twitter": "EJayCV"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "noctchill | 『Tamaki』",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "175572",
+                  "handle": "『Tamaki』",
+                  "prefix": "noctchill",
+                  "serviceIds": {
+                    "twitter": "Tamaki_sh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "41060548",
+      "displayName": "U - lq: SchoolBus vs Alps",
+      "start": "06:03:04.090",
+      "end": "06:10:50.287",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402349880000",
+              "handle": "Alps",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Fimbulvetr090",
+                "smashgg": "557587"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #5",
+        "event": "",
+        "messages": [
+          "Type Lumina finals soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41060548",
+            "phaseId": "1006483",
+            "phaseGroupId": "1587588"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "U",
+          "displayName": "U - lq: Alps vs SchoolBus",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Alps",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "557587",
+                  "handle": "Alps",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Fimbulvetr090"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SchoolBus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "518419",
+                  "handle": "SchoolBus",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Sometimes_Fendo"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "41060518",
+      "displayName": "G - wf: TempestNYC vs Fame96",
+      "start": "06:11:30.379",
+      "end": "06:20:53.127",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202110030143222700000",
+              "handle": "TempestNYC",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Tempest_NYC",
+                "smashgg": "504187"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202110030126471250000",
+              "handle": "Fame96",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "160141"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #5",
+        "event": "",
+        "messages": [
+          "Type Lumina finals soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41060518",
+            "phaseId": "1006483",
+            "phaseGroupId": "1587588"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - wf: Fame96 vs TempestNYC",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Fame96",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "160141",
+                  "handle": "Fame96",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TempestNYC",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "504187",
+                  "handle": "TempestNYC",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Tempest_NYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "41060549",
+      "displayName": "V - ls: SchoolBus vs noctchill | 『Tamaki』",
+      "start": "06:21:54.092",
+      "end": "06:33:13.207",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202107312124470030000",
+              "handle": "『Tamaki』",
+              "prefix": "noctchill",
+              "serviceIds": {
+                "twitter": "Tamaki_sh",
+                "smashgg": "175572"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #5",
+        "event": "",
+        "messages": [
+          "Type Lumina finals soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41060549",
+            "phaseId": "1006483",
+            "phaseGroupId": "1587588"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "V",
+          "displayName": "V - ls: noctchill | 『Tamaki』 vs SchoolBus",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "noctchill | 『Tamaki』",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "175572",
+                  "handle": "『Tamaki』",
+                  "prefix": "noctchill",
+                  "serviceIds": {
+                    "twitter": "Tamaki_sh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SchoolBus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "518419",
+                  "handle": "SchoolBus",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Sometimes_Fendo"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "41060550",
+      "displayName": "W - lf: SchoolBus vs Fame96",
+      "start": "06:33:28.333",
+      "end": "06:49:47.127",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202110030126471250000",
+              "handle": "Fame96",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "160141"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #5",
+        "event": "",
+        "messages": [
+          "Type Lumina finals soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41060550",
+            "phaseId": "1006483",
+            "phaseGroupId": "1587588"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "W",
+          "displayName": "W - lf: Fame96 vs SchoolBus",
           "completedAt": null,
           "entrants": [
             {
@@ -342,71 +1513,12 @@
       }
     },
     {
-      "id": "41060514",
-      "displayName": "C - wq: Alps vs noctchill | 『Tamaki』",
-      "start": "04:43:39.112",
-      "end": "04:51:13.137",
+      "id": "41060519",
+      "displayName": "H - gf: SchoolBus vs TempestNYC",
+      "start": "06:50:40.000",
+      "end": "07:00:13.584",
       "state": {
         "players": [
-          {
-            "person": {
-              "id": "d202008220402349880000",
-              "handle": "Alps",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "Fimbulvetr090",
-                "smashgg": "557587"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202107312124470030000",
-              "handle": "『Tamaki』",
-              "prefix": "noctchill",
-              "serviceIds": {
-                "twitter": "Tamaki_sh",
-                "smashgg": "175572"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "wq",
-          "name": "Winners Quarters",
-          "smashggId": "Winners Quarter-Final"
-        },
-        "game": {
-          "id": "mbtl",
-          "name": "Melty Blood Type Lumina",
-          "shortNames": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "hashtags": [
-            "MBTL",
-            "メルブラ"
-          ],
-          "additionalTags": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Melty Blood: Type Lumina"
-            },
-            "smashgg": {
-              "id": "36865"
-            }
-          }
-        },
-        "commentators": [
           {
             "person": {
               "id": "d202008220402351110001",
@@ -416,106 +1528,11 @@
                 "twitter": "Sometimes_Fendo",
                 "smashgg": "518419"
               }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350320001",
-              "handle": "F O X",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "MakotoFOX_",
-                "smashgg": "249913"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #5",
-        "event": "",
-        "messages": [
-          "Type Lumina finals soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "41060514",
-            "phaseId": "1006483",
-            "phaseGroupId": "1587588"
-          },
-          "match": {
-            "id": "wq",
-            "name": "Winners Quarters",
-            "smashggId": "Winners Quarter-Final"
-          },
-          "videogame": {
-            "id": "mbtl",
-            "name": "Melty Blood Type Lumina",
-            "shortNames": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "hashtags": [
-              "MBTL",
-              "メルブラ"
-            ],
-            "additionalTags": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Melty Blood: Type Lumina"
-              },
-              "smashgg": {
-                "id": "36865"
-              }
-            }
-          },
-          "shortIdentifier": "C",
-          "displayName": "C - wq: Alps vs noctchill | 『Tamaki』",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Alps",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "557587",
-                  "handle": "Alps",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "Fimbulvetr090"
-                  }
-                }
-              ],
-              "inLosers": false
             },
-            {
-              "name": "noctchill | 『Tamaki』",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "175572",
-                  "handle": "『Tamaki』",
-                  "prefix": "noctchill",
-                  "serviceIds": {
-                    "twitter": "Tamaki_sh"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "41060515",
-      "displayName": "D - wq: TempestNYC vs YC | HARD_BREAD",
-      "start": "04:51:19.121",
-      "end": "04:57:01.653",
-      "state": {
-        "players": [
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
           {
             "person": {
               "id": "d202110030143222700000",
@@ -526,29 +1543,15 @@
                 "smashgg": "504187"
               }
             },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402350450002",
-              "handle": "HARD_BREAD",
-              "prefix": "YC",
-              "serviceIds": {
-                "twitter": "HARD_BREAD",
-                "smashgg": "530924"
-              }
-            },
-            "score": 0,
+            "score": 3,
             "inLosers": false,
             "comment": ""
           }
         ],
         "match": {
-          "id": "wq",
-          "name": "Winners Quarters",
-          "smashggId": "Winners Quarter-Final"
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
         },
         "game": {
           "id": "mbtl",
@@ -606,14 +1609,14 @@
         "set": {
           "serviceInfo": {
             "serviceName": "smashgg",
-            "id": "41060515",
+            "id": "41060519",
             "phaseId": "1006483",
             "phaseGroupId": "1587588"
           },
           "match": {
-            "id": "wq",
-            "name": "Winners Quarters",
-            "smashggId": "Winners Quarter-Final"
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
           },
           "videogame": {
             "id": "mbtl",
@@ -639,8 +1642,8 @@
               }
             }
           },
-          "shortIdentifier": "D",
-          "displayName": "D - wq: TempestNYC vs YC | HARD_BREAD",
+          "shortIdentifier": "H",
+          "displayName": "H - gf: TempestNYC vs SchoolBus",
           "completedAt": null,
           "entrants": [
             {
@@ -659,158 +1662,6 @@
               "inLosers": false
             },
             {
-              "name": "YC | HARD_BREAD",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "530924",
-                  "handle": "HARD_BREAD",
-                  "prefix": "YC",
-                  "serviceIds": {
-                    "twitter": "HARD_BREAD"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "41060543",
-      "displayName": "P - Losers top 12: AONI | moku vs SchoolBus",
-      "start": "04:57:15.219",
-      "end": "05:02:49.801",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202009122313009280000",
-              "handle": "moku",
-              "prefix": "AONI",
-              "serviceIds": {
-                "smashgg": "63607"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351110001",
-              "handle": "SchoolBus",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "Sometimes_Fendo",
-                "smashgg": "518419"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "Losers top 12",
-          "smashggId": null
-        },
-        "game": {
-          "id": "mbtl",
-          "name": "Melty Blood Type Lumina",
-          "shortNames": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "hashtags": [
-            "MBTL",
-            "メルブラ"
-          ],
-          "additionalTags": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Melty Blood: Type Lumina"
-            },
-            "smashgg": {
-              "id": "36865"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350320001",
-              "handle": "F O X",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "MakotoFOX_",
-                "smashgg": "249913"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #5",
-        "event": "",
-        "messages": [
-          "Type Lumina finals soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "41060543",
-            "phaseId": "1006483",
-            "phaseGroupId": "1587588"
-          },
-          "match": {
-            "id": "l2",
-            "name": "Losers Round 2",
-            "smashggId": "Losers Round 2"
-          },
-          "videogame": {
-            "id": "mbtl",
-            "name": "Melty Blood Type Lumina",
-            "shortNames": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "hashtags": [
-              "MBTL",
-              "メルブラ"
-            ],
-            "additionalTags": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Melty Blood: Type Lumina"
-              },
-              "smashgg": {
-                "id": "36865"
-              }
-            }
-          },
-          "shortIdentifier": "P",
-          "displayName": "P - l2: SchoolBus vs AONI | moku",
-          "completedAt": null,
-          "entrants": [
-            {
               "name": "SchoolBus",
               "participants": [
                 {
@@ -823,356 +1674,7 @@
                   }
                 }
               ],
-              "inLosers": false
-            },
-            {
-              "name": "AONI | moku",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "63607",
-                  "handle": "moku",
-                  "prefix": "AONI",
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "41060542",
-      "displayName": "O - l2: noctchill | 『Tamaki』 vs Fusionist",
-      "start": "05:03:15",
-      "end": "05:10:00",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202107312124470030000",
-              "handle": "『Tamaki』",
-              "prefix": "noctchill",
-              "serviceIds": {
-                "twitter": "Tamaki_sh",
-                "smashgg": "175572"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202110022053403520000",
-              "handle": "Fusionist",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "FusionistCT",
-                "smashgg": "395392"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "Losers top 12",
-          "smashggId": null
-        },
-        "game": {
-          "id": "mbtl",
-          "name": "Melty Blood Type Lumina",
-          "shortNames": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "hashtags": [
-            "MBTL",
-            "メルブラ"
-          ],
-          "additionalTags": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Melty Blood: Type Lumina"
-            },
-            "smashgg": {
-              "id": "36865"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350320001",
-              "handle": "F O X",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "MakotoFOX_",
-                "smashgg": "249913"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #5",
-        "event": "",
-        "messages": [
-          "Type Lumina finals soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "41060542",
-            "phaseId": "1006483",
-            "phaseGroupId": "1587588"
-          },
-          "match": {
-            "id": "l2",
-            "name": "Losers Round 2",
-            "smashggId": "Losers Round 2"
-          },
-          "videogame": {
-            "id": "mbtl",
-            "name": "Melty Blood Type Lumina",
-            "shortNames": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "hashtags": [
-              "MBTL",
-              "メルブラ"
-            ],
-            "additionalTags": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Melty Blood: Type Lumina"
-              },
-              "smashgg": {
-                "id": "36865"
-              }
-            }
-          },
-          "shortIdentifier": "O",
-          "displayName": "O - l2: noctchill | 『Tamaki』 vs Fusionist",
-          "completedAt": 1633226421,
-          "entrants": [
-            {
-              "name": "noctchill | 『Tamaki』",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "175572",
-                  "handle": "『Tamaki』",
-                  "prefix": "noctchill",
-                  "serviceIds": {
-                    "twitter": "Tamaki_sh"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Fusionist",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "395392",
-                  "handle": "Fusionist",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "FusionistCT"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "41060541",
-      "displayName": "N - l2: YC | HARD_BREAD vs twang",
-      "start": "05:10:00",
-      "end": "05:23:00",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350450002",
-              "handle": "HARD_BREAD",
-              "prefix": "YC",
-              "serviceIds": {
-                "twitter": "HARD_BREAD",
-                "smashgg": "530924"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351580001",
-              "handle": "twang",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "1523041",
-                "twitter": "twaaaaaang"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "Losers top 12",
-          "smashggId": null
-        },
-        "game": {
-          "id": "mbtl",
-          "name": "Melty Blood Type Lumina",
-          "shortNames": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "hashtags": [
-            "MBTL",
-            "メルブラ"
-          ],
-          "additionalTags": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Melty Blood: Type Lumina"
-            },
-            "smashgg": {
-              "id": "36865"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350320001",
-              "handle": "F O X",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "MakotoFOX_",
-                "smashgg": "249913"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #5",
-        "event": "",
-        "messages": [
-          "Type Lumina finals soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "41060541",
-            "phaseId": "1006483",
-            "phaseGroupId": "1587588"
-          },
-          "match": {
-            "id": "l2",
-            "name": "Losers Round 2",
-            "smashggId": "Losers Round 2"
-          },
-          "videogame": {
-            "id": "mbtl",
-            "name": "Melty Blood Type Lumina",
-            "shortNames": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "hashtags": [
-              "MBTL",
-              "メルブラ"
-            ],
-            "additionalTags": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Melty Blood: Type Lumina"
-              },
-              "smashgg": {
-                "id": "36865"
-              }
-            }
-          },
-          "shortIdentifier": "N",
-          "displayName": "N - l2: YC | HARD_BREAD vs twang",
-          "completedAt": 1633227259,
-          "entrants": [
-            {
-              "name": "YC | HARD_BREAD",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "530924",
-                  "handle": "HARD_BREAD",
-                  "prefix": "YC",
-                  "serviceIds": {
-                    "twitter": "HARD_BREAD"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "twang",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1523041",
-                  "handle": "twang",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "twaaaaaang"
-                  }
-                }
-              ],
-              "inLosers": false
+              "inLosers": true
             }
           ]
         }
