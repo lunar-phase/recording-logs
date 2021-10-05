@@ -1,0 +1,94 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-10-03 16-57-49.mkv",
+  "phaseId": "unknown",
+  "start": "01:50:39.419",
+  "end": "01:57:14.289",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w2: RareGroove | Flop vs NYC Tekken | Fear",
+      "start": "01:50:39.419",
+      "end": "01:57:14.289",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202110032151039660000",
+              "handle": "Flop",
+              "prefix": "RareGroove",
+              "serviceIds": {
+                "smashgg": "409981"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202110032219415140000",
+              "handle": "ty",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "tyler_beecroft",
+                "smashgg": "837257"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202110032254474740000",
+              "handle": "PR_Romeo",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #19",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
