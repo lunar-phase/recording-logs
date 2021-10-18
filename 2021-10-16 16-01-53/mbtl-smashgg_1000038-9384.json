@@ -1,0 +1,680 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2021-10-16 16-01-53.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1000038",
+  "eventId": "622235",
+  "start": "02:43:18.981",
+  "end": "03:14:58.824",
+  "sets": [
+    {
+      "id": "41464406",
+      "displayName": "T - C1 Winners Quarters: TempestNYC vs PPT | KaiAi (nyczbrandon)",
+      "start": "02:43:18.981",
+      "end": "02:48:28.921",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202110030143222700000",
+              "handle": "TempestNYC",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Tempest_NYC",
+                "smashgg": "504187"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350940000",
+              "handle": "nyczbrandon",
+              "prefix": "PPT",
+              "serviceIds": {
+                "twitter": "nyczbrandon",
+                "smashgg": "567810"
+              },
+              "alias": "KaiAi"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "C1 Winners Quarters",
+          "smashggId": null
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #6",
+        "event": "",
+        "messages": [
+          "Type Lumina up next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41464406",
+            "phaseId": "1000038",
+            "phaseGroupId": "1578588"
+          },
+          "match": {
+            "id": "",
+            "name": "C1 Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "T",
+          "displayName": "C1 T - wq: TempestNYC vs PPT | KaiAi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TempestNYC",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "504187",
+                  "handle": "TempestNYC",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Tempest_NYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "PPT | KaiAi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "567810",
+                  "handle": "KaiAi",
+                  "prefix": "PPT",
+                  "serviceIds": {
+                    "twitter": "nyczbrandon"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "41464407",
+      "displayName": "U - C1 Winners Quarters: NecroUndine vs GunFrame | Spectryn",
+      "start": "02:48:55.865",
+      "end": "02:53:04.493",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350930001",
+              "handle": "NecroUndine",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NecroUndine",
+                "smashgg": "397281"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351140001",
+              "handle": "Spectryn",
+              "prefix": "GunFrame",
+              "serviceIds": {
+                "smashgg": "171548"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "C1 Winners Quarters",
+          "smashggId": null
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #6",
+        "event": "",
+        "messages": [
+          "Type Lumina up next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41464407",
+            "phaseId": "1000038",
+            "phaseGroupId": "1578588"
+          },
+          "match": {
+            "id": "",
+            "name": "C1 Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "U",
+          "displayName": "C1 U - wq: NecroUndine vs GunFrame | Spectryn",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NecroUndine",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "397281",
+                  "handle": "NecroUndine",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NecroUndine"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GunFrame | Spectryn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "171548",
+                  "handle": "Spectryn",
+                  "prefix": "GunFrame",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "41464408",
+      "displayName": "V - C1 Winners Quarters: LP | StraylightP vs MF | Jostle",
+      "start": "02:56:53.859",
+      "end": "03:06:19.816",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Jostle",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "JostleHoward",
+                "smashgg": "1670118"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "C1 Winners Quarters",
+          "smashggId": null
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "serviceIds": {
+                "twitter": "Gosuda_",
+                "smashgg": "1225997"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #6",
+        "event": "",
+        "messages": [
+          "Type Lumina up next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41464408",
+            "phaseId": "1000038",
+            "phaseGroupId": "1578588"
+          },
+          "match": {
+            "id": "",
+            "name": "C1 Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "V",
+          "displayName": "C1 V - wq: MF | Jostle vs LP | StraylightP",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MF | Jostle",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1670118",
+                  "handle": "Jostle",
+                  "prefix": "MF",
+                  "serviceIds": {
+                    "twitter": "JostleHoward"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LP | StraylightP",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "413756",
+                  "handle": "StraylightP",
+                  "prefix": "LP",
+                  "serviceIds": {
+                    "twitter": "LoFi_Yokai"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "41464502",
+      "displayName": "U - C2 Winners Quarters: LP | EJay vs Kamina",
+      "start": "03:07:17.339",
+      "end": "03:14:58.824",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350290001",
+              "handle": "EJay",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "EJayCV",
+                "smashgg": "472237"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350620000",
+              "handle": "Kamina",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Kamikouma",
+                "smashgg": "681614"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "C2 Winners Quarters",
+          "smashggId": null
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "serviceIds": {
+                "twitter": "Gosuda_",
+                "smashgg": "1225997"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #6",
+        "event": "",
+        "messages": [
+          "Type Lumina up next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "41464502",
+            "phaseId": "1000038",
+            "phaseGroupId": "1600474"
+          },
+          "match": {
+            "id": "",
+            "name": "C2 Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              }
+            }
+          },
+          "shortIdentifier": "U",
+          "displayName": "C2 U - wq: LP | EJay vs Kamina",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP | EJay",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "472237",
+                  "handle": "EJay",
+                  "prefix": "LP",
+                  "serviceIds": {
+                    "twitter": "EJayCV"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Kamina",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "681614",
+                  "handle": "Kamina",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
