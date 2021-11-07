@@ -1,0 +1,702 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2021-11-06 18-38-48.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1022544",
+  "eventId": "640042",
+  "start": "01:41:05.106",
+  "end": "02:30:33.219",
+  "sets": [
+    {
+      "id": "42108606",
+      "displayName": "M - wf: YC | HARD_BREAD vs IA | j.g.",
+      "start": "01:41:05.106",
+      "end": "01:54:51.338",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350450002",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "XLB",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #7",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42108606",
+            "phaseId": "1022544",
+            "phaseGroupId": "1609634"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - wf: IA | j.g. vs YC | HARD_BREAD",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "IA | j.g.",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "353501",
+                  "handle": "j.g.",
+                  "prefix": "IA",
+                  "serviceIds": {
+                    "twitter": "landofpoverty"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "YC | HARD_BREAD",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "530924",
+                  "handle": "HARD_BREAD",
+                  "prefix": "YC",
+                  "serviceIds": {
+                    "twitter": "HARD_BREAD"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42108637",
+      "displayName": "Z - ls: XLB | Shana vs AONI | Crocs N' Socks",
+      "start": "01:55:04.000",
+      "end": "02:01:22.448",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "XLB",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "XLB",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #7",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42108637",
+            "phaseId": "1022544",
+            "phaseGroupId": "1609634"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "Z",
+          "displayName": "Z - ls: XLB | Shana vs AONI | Crocs N' Socks",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "XLB | Shana",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566103",
+                  "handle": "Shana",
+                  "prefix": "XLB",
+                  "serviceIds": {
+                    "twitter": "ShanaFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42108638",
+      "displayName": "AA - lf: XLB | Shana vs YC | HARD_BREAD",
+      "start": "02:01:40.463",
+      "end": "02:11:38.564",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "XLB",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350450002",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #7",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42108638",
+            "phaseId": "1022544",
+            "phaseGroupId": "1609634"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "AA",
+          "displayName": "AA - lf: YC | HARD_BREAD vs XLB | Shana",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "YC | HARD_BREAD",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "530924",
+                  "handle": "HARD_BREAD",
+                  "prefix": "YC",
+                  "serviceIds": {
+                    "twitter": "HARD_BREAD"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "XLB | Shana",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566103",
+                  "handle": "Shana",
+                  "prefix": "XLB",
+                  "serviceIds": {
+                    "twitter": "ShanaFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42108607",
+      "displayName": "N - gf: IA | j.g. vs YC | HARD_BREAD",
+      "start": "02:11:56.409",
+      "end": "02:30:33.219",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350450002",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "XLB",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #7",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42108607",
+            "phaseId": "1022544",
+            "phaseGroupId": "1609634"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - gf: IA | j.g. vs YC | HARD_BREAD",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "IA | j.g.",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "353501",
+                  "handle": "j.g.",
+                  "prefix": "IA",
+                  "serviceIds": {
+                    "twitter": "landofpoverty"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "YC | HARD_BREAD",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "530924",
+                  "handle": "HARD_BREAD",
+                  "prefix": "YC",
+                  "serviceIds": {
+                    "twitter": "HARD_BREAD"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

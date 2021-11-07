@@ -1,0 +1,486 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2021-11-06 18-38-48.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1022545",
+  "eventId": "640043",
+  "start": "00:11:37.997",
+  "end": "01:33:19.544",
+  "sets": [
+    {
+      "id": "42107443",
+      "displayName": "J - wf: Denpa vs LP | StraylightP",
+      "start": "00:11:37.997",
+      "end": "00:23:57.183",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350780001",
+              "handle": "Denpa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DenpaEXE",
+                "smashgg": "692211"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350290001",
+              "handle": "EJay",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "EJayCV",
+                "smashgg": "472237"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349940000",
+              "handle": "BasedTuxedoMask",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BasedTuxedoMask",
+                "smashgg": "317154"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #7",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42107443",
+            "phaseId": "1022545",
+            "phaseGroupId": "1609635"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - wf: Denpa vs LP | StraylightP",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Denpa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "692211",
+                  "handle": "Denpa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "DenpaEXE"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LP | StraylightP",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "413756",
+                  "handle": "StraylightP",
+                  "prefix": "LP",
+                  "serviceIds": {
+                    "twitter": "LoFi_Yokai"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42107475",
+      "displayName": "U - lf: LP | StraylightP vs IA | j.g.",
+      "start": "00:37:26.756",
+      "end": "00:55:58.500",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350290001",
+              "handle": "EJay",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "EJayCV",
+                "smashgg": "472237"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349940000",
+              "handle": "BasedTuxedoMask",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BasedTuxedoMask",
+                "smashgg": "317154"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #7",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42107475",
+            "phaseId": "1022545",
+            "phaseGroupId": "1609635"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "U",
+          "displayName": "U - lf: LP | StraylightP vs IA | j.g.",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP | StraylightP",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "413756",
+                  "handle": "StraylightP",
+                  "prefix": "LP",
+                  "serviceIds": {
+                    "twitter": "LoFi_Yokai"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "IA | j.g.",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "353501",
+                  "handle": "j.g.",
+                  "prefix": "IA",
+                  "serviceIds": {
+                    "twitter": "landofpoverty"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42107444",
+      "displayName": "K - tf: LP | StraylightP vs Denpa",
+      "start": "00:57:06.000",
+      "end": "01:33:19.544",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350780001",
+              "handle": "Denpa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DenpaEXE",
+                "smashgg": "692211"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350290001",
+              "handle": "EJay",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "EJayCV",
+                "smashgg": "472237"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349940000",
+              "handle": "BasedTuxedoMask",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BasedTuxedoMask",
+                "smashgg": "317154"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #7",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42107444",
+            "phaseId": "1022545",
+            "phaseGroupId": "1609635"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - gf: Denpa vs LP | StraylightP",
+          "completedAt": 1636242674,
+          "entrants": [
+            {
+              "name": "Denpa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "692211",
+                  "handle": "Denpa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "DenpaEXE"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LP | StraylightP",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "413756",
+                  "handle": "StraylightP",
+                  "prefix": "LP",
+                  "serviceIds": {
+                    "twitter": "LoFi_Yokai"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
