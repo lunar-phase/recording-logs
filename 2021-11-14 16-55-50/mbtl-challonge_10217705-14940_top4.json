@@ -1,0 +1,597 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2021-11-14 16-55-50.mkv",
+  "bracketService": "challonge",
+  "phaseId": "10217705",
+  "eventId": "10217705",
+  "phaseName": "Top 4",
+  "event": {
+    "tournament": {
+      "name": "Quarantined Rapport 4",
+      "venueName": "Online",
+      "startAt": 1636736400,
+      "endAt": 1636948800
+    }
+  },
+  "start": "02:57:52",
+  "end": "03:44:21.664",
+  "sets": [
+    {
+      "id": "256707209",
+      "displayName": "AN - wf: Oni vs LucyBruh",
+      "start": "02:58:36.529",
+      "end": "03:07:26.280",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202111142227022470000",
+              "handle": "Oni",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "158406011"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202111142250533320000",
+              "handle": "LucyBruh",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "158532313"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Quarantined Rapport 4",
+        "event": "",
+        "messages": [
+          "Top 4 Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "challonge",
+            "id": "256707209",
+            "phaseId": "10217705",
+            "phaseGroupId": "10217705"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "",
+            "name": "Melty Blood: Type Lumina",
+            "shortNames": [],
+            "hashtags": [],
+            "serviceInfo": {}
+          },
+          "shortIdentifier": "AN",
+          "displayName": "AN - wf: Oni vs LucyBruh",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Oni",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "158406011",
+                  "prefix": null,
+                  "handle": "Oni",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LucyBruh",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "158532313",
+                  "prefix": null,
+                  "handle": "LucyBruh",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "256707247",
+      "displayName": "CB - ls: Yousoro7 vs JurassicJack",
+      "start": "03:08:24.986",
+      "end": "03:15:35.081",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202111142233373150000",
+              "handle": "Yousoro7",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "157561678"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202111142240343140000",
+              "handle": "JurassicJack",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "158674494"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Quarantined Rapport 4",
+        "event": "",
+        "messages": [
+          "Top 4 Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "challonge",
+            "id": "256707247",
+            "phaseId": "10217705",
+            "phaseGroupId": "10217705"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "",
+            "name": "Melty Blood: Type Lumina",
+            "shortNames": [],
+            "hashtags": [],
+            "serviceInfo": {}
+          },
+          "shortIdentifier": "CB",
+          "displayName": "CB - ls: Yousoro7 vs JurassicJack",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Yousoro7",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "157561678",
+                  "prefix": null,
+                  "handle": "Yousoro7",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "JurassicJack",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "158674494",
+                  "prefix": null,
+                  "handle": "JurassicJack",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "256707248",
+      "displayName": "CC - lf: Yousoro7 vs Oni",
+      "start": "03:15:56.977",
+      "end": "03:30:55.422",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202111142233373150000",
+              "handle": "Yousoro7",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "157561678"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202111142227022470000",
+              "handle": "Oni",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "158406011"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Quarantined Rapport 4",
+        "event": "",
+        "messages": [
+          "Top 4 Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "challonge",
+            "id": "256707248",
+            "phaseId": "10217705",
+            "phaseGroupId": "10217705"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "",
+            "name": "Melty Blood: Type Lumina",
+            "shortNames": [],
+            "hashtags": [],
+            "serviceInfo": {}
+          },
+          "shortIdentifier": "CC",
+          "displayName": "CC - lf: Oni vs Yousoro7",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Oni",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "158406011",
+                  "prefix": null,
+                  "handle": "Oni",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Yousoro7",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "157561678",
+                  "prefix": null,
+                  "handle": "Yousoro7",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "256707249",
+      "displayName": "AO - gf: LucyBruh vs Oni",
+      "start": "03:32:42.280",
+      "end": "03:44:21.664",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202111142250533320000",
+              "handle": "LucyBruh",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "158532313"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202111142227022470000",
+              "handle": "Oni",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "158406011"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Quarantined Rapport 4",
+        "event": "",
+        "messages": [
+          "Top 4 Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "challonge",
+            "id": "256707249",
+            "phaseId": "10217705",
+            "phaseGroupId": "10217705"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "",
+            "name": "Melty Blood: Type Lumina",
+            "shortNames": [],
+            "hashtags": [],
+            "serviceInfo": {}
+          },
+          "shortIdentifier": "AO",
+          "displayName": "AO - gf: LucyBruh vs Oni",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LucyBruh",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "158532313",
+                  "prefix": null,
+                  "handle": "LucyBruh",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Oni",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "158406011",
+                  "prefix": null,
+                  "handle": "Oni",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
