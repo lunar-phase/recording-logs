@@ -1,0 +1,1544 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2021-11-28 17-09-16.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1016478",
+  "eventId": "635112",
+  "start": "02:54:13.406",
+  "end": "04:57:33.360",
+  "sets": [
+    {
+      "id": "42756631",
+      "displayName": "B - ws: BLITZ (Blitz) vs MTS | B Rich",
+      "start": "02:54:13.406",
+      "end": "03:00:53.100",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "508746",
+                "twitter": "BLITZ__TK"
+              },
+              "alias": "BLITZ"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202107252331017350000",
+              "handle": "B Rich",
+              "prefix": "MTS",
+              "serviceIds": {
+                "twitter": "B_Richie98",
+                "smashgg": "1151828"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202109192139236630000",
+              "handle": "Ukiyo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "599243",
+                "twitter": "Bx_Ukiyo"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #20",
+        "event": "",
+        "messages": [
+          "Top 8 starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42756631",
+            "phaseId": "1016478",
+            "phaseGroupId": "1601095"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - ws: MTS | B Rich vs BLITZ",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MTS | B Rich",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1151828",
+                  "handle": "B Rich",
+                  "prefix": "MTS",
+                  "serviceIds": {
+                    "twitter": "B_Richie98"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "BLITZ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "508746",
+                  "handle": "BLITZ",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BLITZ__TK"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42756630",
+      "displayName": "A - ws: NYC Tekken | Fear vs Blood Hawk",
+      "start": "03:02:04.000",
+      "end": "03:09:56.610",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Bloodhawk_",
+                "smashgg": "425574"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202108222129352630000",
+              "handle": "BUFFOON97",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "OOdamian1",
+                "smashgg": "2287184"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #20",
+        "event": "",
+        "messages": [
+          "Top 8 starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42756630",
+            "phaseId": "1016478",
+            "phaseGroupId": "1601095"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - ws: NYC Tekken | Fear vs Blood Hawk",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC Tekken | Fear",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "889042",
+                  "handle": "Fear",
+                  "prefix": "NYC Tekken",
+                  "serviceIds": {
+                    "twitter": "Fearofsilence3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Blood Hawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "425574",
+                  "handle": "Blood Hawk",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42756643",
+      "displayName": "F - Losers top 8: Ukiyo vs Erikku-Dono",
+      "start": "03:10:46.299",
+      "end": "03:19:03.026",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109192139236630000",
+              "handle": "Ukiyo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "599243",
+                "twitter": "Bx_Ukiyo"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202111282353077440000",
+              "handle": "Erikku-Dono",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "483539"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers top 8",
+          "smashggId": null
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202108222129352630000",
+              "handle": "BUFFOON97",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "OOdamian1",
+                "smashgg": "2287184"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #20",
+        "event": "",
+        "messages": [
+          "Top 8 starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42756643",
+            "phaseId": "1016478",
+            "phaseGroupId": "1601095"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - l1: Erikku-Dono vs Ukiyo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Erikku-Dono",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "483539",
+                  "handle": "Erikku-Dono",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Ukiyo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "599243",
+                  "handle": "Ukiyo",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42756644",
+      "displayName": "G - Losers top 8: WinnieCommittee vs Furogu",
+      "start": "03:21:09.733",
+      "end": "03:27:14.271",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351560000",
+              "handle": "WinnieCommittee",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WinnieCommittee",
+                "smashgg": "1165433"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202111290015349330000",
+              "handle": "Furogu",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "614298"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers top 8",
+          "smashggId": null
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202108222129352630000",
+              "handle": "BUFFOON97",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "OOdamian1",
+                "smashgg": "2287184"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #20",
+        "event": "",
+        "messages": [
+          "Top 8 starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42756644",
+            "phaseId": "1016478",
+            "phaseGroupId": "1601095"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - l1: Furogu vs WinnieCommittee",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Furogu",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "614298",
+                  "handle": "Furogu",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WinnieCommittee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1165433",
+                  "handle": "WinnieCommittee",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "WinnieCommittee"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42756645",
+      "displayName": "H - lq: BLITZ (Blitz) vs Ukiyo",
+      "start": "03:29:00.293",
+      "end": "03:34:13.550",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "508746",
+                "twitter": "BLITZ__TK"
+              },
+              "alias": "BLITZ"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202109192139236630000",
+              "handle": "Ukiyo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "599243",
+                "twitter": "Bx_Ukiyo"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202108222129352630000",
+              "handle": "BUFFOON97",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "OOdamian1",
+                "smashgg": "2287184"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #20",
+        "event": "",
+        "messages": [
+          "Top 8 starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42756645",
+            "phaseId": "1016478",
+            "phaseGroupId": "1601095"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - lq: BLITZ vs Ukiyo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BLITZ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "508746",
+                  "handle": "BLITZ",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BLITZ__TK"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Ukiyo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "599243",
+                  "handle": "Ukiyo",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42756646",
+      "displayName": "I - lq: WinnieCommittee vs Blood Hawk",
+      "start": "03:35:51.784",
+      "end": "03:44:18.934",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351560000",
+              "handle": "WinnieCommittee",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WinnieCommittee",
+                "smashgg": "1165433"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Bloodhawk_",
+                "smashgg": "425574"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #20",
+        "event": "",
+        "messages": [
+          "Top 8 starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42756646",
+            "phaseId": "1016478",
+            "phaseGroupId": "1601095"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - lq: Blood Hawk vs WinnieCommittee",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Blood Hawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "425574",
+                  "handle": "Blood Hawk",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WinnieCommittee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1165433",
+                  "handle": "WinnieCommittee",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "WinnieCommittee"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42756632",
+      "displayName": "C - wf: MTS | B Rich vs NYC Tekken | Fear",
+      "start": "03:48:48.264",
+      "end": "03:59:06.387",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202107252331017350000",
+              "handle": "B Rich",
+              "prefix": "MTS",
+              "serviceIds": {
+                "twitter": "B_Richie98",
+                "smashgg": "1151828"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202109192104236970000",
+              "handle": "Regular Sized Majin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Hi_Im_Majin",
+                "smashgg": "897929"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #20",
+        "event": "",
+        "messages": [
+          "Top 8 starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42756632",
+            "phaseId": "1016478",
+            "phaseGroupId": "1601095"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wf: NYC Tekken | Fear vs MTS | B Rich",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC Tekken | Fear",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "889042",
+                  "handle": "Fear",
+                  "prefix": "NYC Tekken",
+                  "serviceIds": {
+                    "twitter": "Fearofsilence3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "MTS | B Rich",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1151828",
+                  "handle": "B Rich",
+                  "prefix": "MTS",
+                  "serviceIds": {
+                    "twitter": "B_Richie98"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42756647",
+      "displayName": "J - ls: Blood Hawk vs Ukiyo",
+      "start": "03:59:52.740",
+      "end": "04:08:21.253",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Bloodhawk_",
+                "smashgg": "425574"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202109192139236630000",
+              "handle": "Ukiyo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "599243",
+                "twitter": "Bx_Ukiyo"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202109192104236970000",
+              "handle": "Regular Sized Majin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Hi_Im_Majin",
+                "smashgg": "897929"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #20",
+        "event": "",
+        "messages": [
+          "Top 8 starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42756647",
+            "phaseId": "1016478",
+            "phaseGroupId": "1601095"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ls: Ukiyo vs Blood Hawk",
+          "completedAt": 1638152218,
+          "entrants": [
+            {
+              "name": "Ukiyo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "599243",
+                  "handle": "Ukiyo",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Blood Hawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "425574",
+                  "handle": "Blood Hawk",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42756648",
+      "displayName": "K - lf: NYC Tekken | Fear vs Ukiyo",
+      "start": "04:08:44.466",
+      "end": "04:25:13.586",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202109192139236630000",
+              "handle": "Ukiyo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "599243",
+                "twitter": "Bx_Ukiyo"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202109192139236630000",
+              "handle": "Ukiyo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "599243",
+                "twitter": "Bx_Ukiyo"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202109192104236970000",
+              "handle": "Regular Sized Majin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Hi_Im_Majin",
+                "smashgg": "897929"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #20",
+        "event": "",
+        "messages": [
+          "Top 8 starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42756648",
+            "phaseId": "1016478",
+            "phaseGroupId": "1601095"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lf: NYC Tekken | Fear vs Ukiyo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC Tekken | Fear",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "889042",
+                  "handle": "Fear",
+                  "prefix": "NYC Tekken",
+                  "serviceIds": {
+                    "twitter": "Fearofsilence3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Ukiyo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "599243",
+                  "handle": "Ukiyo",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "42756633",
+      "displayName": "D - gf: NYC Tekken | Fear vs MTS | B Rich",
+      "start": "04:25:18.000",
+      "end": "04:57:33.360",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202107252331017350000",
+              "handle": "B Rich",
+              "prefix": "MTS",
+              "serviceIds": {
+                "twitter": "B_Richie98",
+                "smashgg": "1151828"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #20",
+        "event": "",
+        "messages": [
+          "Top 8 starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "42756633",
+            "phaseId": "1016478",
+            "phaseGroupId": "1601095"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "t7",
+            "name": "Tekken 7",
+            "shortNames": [
+              "T7"
+            ],
+            "hashtags": [
+              "TEKKEN7"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 7"
+              },
+              "smashgg": {
+                "id": "17"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - gf: MTS | B Rich vs NYC Tekken | Fear",
+          "completedAt": 1638154004,
+          "entrants": [
+            {
+              "name": "MTS | B Rich",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1151828",
+                  "handle": "B Rich",
+                  "prefix": "MTS",
+                  "serviceIds": {
+                    "twitter": "B_Richie98"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYC Tekken | Fear",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "889042",
+                  "handle": "Fear",
+                  "prefix": "NYC Tekken",
+                  "serviceIds": {
+                    "twitter": "Fearofsilence3"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
