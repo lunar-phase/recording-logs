@@ -1,0 +1,97 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2021-12-12 17-03-21.mkv",
+  "phaseId": "unknown",
+  "start": "03:55:35",
+  "end": "04:23:25.317",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "ft5: NYC Tekken | Fear vs MTS | iVesperX",
+      "start": "03:55:35",
+      "end": "04:23:25.317",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              }
+            },
+            "score": 5,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272212583720000",
+              "handle": "iVesperX",
+              "prefix": "MTS",
+              "serviceIds": {
+                "twitter": "iVesperX",
+                "smashgg": "1211576"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ft5",
+          "name": "First to 5",
+          "smashggId": null
+        },
+        "game": {
+          "id": "t7",
+          "name": "Tekken 7",
+          "shortNames": [
+            "T7"
+          ],
+          "hashtags": [
+            "TEKKEN7"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 7"
+            },
+            "smashgg": {
+              "id": "17"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351920002",
+              "handle": "Dancer",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "dancer_tk",
+                "smashgg": "374325"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Monthly #21",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}

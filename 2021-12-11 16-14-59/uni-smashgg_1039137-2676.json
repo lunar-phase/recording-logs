@@ -1,0 +1,718 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2021-12-11 16-14-59.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1039137",
+  "eventId": "652999",
+  "phaseName": "Top 4",
+  "start": "03:51:52",
+  "end": "04:47:40.803",
+  "sets": [
+    {
+      "id": "43099944",
+      "displayName": "E - wf: Marc :) vs DQ",
+      "start": "03:52:34.785",
+      "end": "04:00:16.990",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352090001",
+              "handle": "Marc :)",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MarcForMod",
+                "smashgg": "433852"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202112120100253470000",
+              "handle": "DQ",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2565755"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "additionalTags": [
+            "Under Night In-Birth",
+            "Under Night"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            },
+            "battlefy": {
+              "id": "5e7e0d0ba6da6f1083738975"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402352090001",
+              "handle": "Marc :)",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MarcForMod",
+                "smashgg": "433852"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #8",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "43099944",
+            "phaseId": "1039137",
+            "phaseGroupId": "1632672"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "uni",
+            "name": "Under Night In-Birth Exe:Late[cl-r]",
+            "shortNames": [
+              "Under Night In-Birth",
+              "Under Night",
+              "UNIclr"
+            ],
+            "hashtags": [
+              "UNIclr",
+              "inbirth"
+            ],
+            "additionalTags": [
+              "Under Night In-Birth",
+              "Under Night"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Under Night In-Birth Exe:Late[cl-r]"
+              },
+              "smashgg": {
+                "id": "33870"
+              },
+              "challonge": {
+                "id": "186168"
+              },
+              "battlefy": {
+                "id": "5e7e0d0ba6da6f1083738975"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - wf: DQ vs Marc :)",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "DQ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2565755",
+                  "handle": "DQ",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Marc :)",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "433852",
+                  "handle": "Marc :)",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MarcForMod"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "43099959",
+      "displayName": "J - ls: FREE AGENT | LuFL vs TSB | Spectryn",
+      "start": "04:01:18.454",
+      "end": "04:08:24.007",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "FREE AGENT",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351140001",
+              "handle": "Spectryn",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "171548"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "additionalTags": [
+            "Under Night In-Birth",
+            "Under Night"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            },
+            "battlefy": {
+              "id": "5e7e0d0ba6da6f1083738975"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402352090001",
+              "handle": "Marc :)",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MarcForMod",
+                "smashgg": "433852"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #8",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "43099959",
+            "phaseId": "1039137",
+            "phaseGroupId": "1632672"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "uni",
+            "name": "Under Night In-Birth Exe:Late[cl-r]",
+            "shortNames": [
+              "Under Night In-Birth",
+              "Under Night",
+              "UNIclr"
+            ],
+            "hashtags": [
+              "UNIclr",
+              "inbirth"
+            ],
+            "additionalTags": [
+              "Under Night In-Birth",
+              "Under Night"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Under Night In-Birth Exe:Late[cl-r]"
+              },
+              "smashgg": {
+                "id": "33870"
+              },
+              "challonge": {
+                "id": "186168"
+              },
+              "battlefy": {
+                "id": "5e7e0d0ba6da6f1083738975"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ls: FREE AGENT | LuFL vs TSB | Spectryn",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "FREE AGENT | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "FREE AGENT",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TSB | Spectryn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "171548",
+                  "handle": "Spectryn",
+                  "prefix": "TSB",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "43099960",
+      "displayName": "K - lf: FREE AGENT | LuFL vs DQ",
+      "start": "04:08:55.000",
+      "end": "04:17:44.087",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "FREE AGENT",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202112120100253470000",
+              "handle": "DQ",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2565755"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "additionalTags": [
+            "Under Night In-Birth",
+            "Under Night"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            },
+            "battlefy": {
+              "id": "5e7e0d0ba6da6f1083738975"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202112120132393650000",
+              "handle": "\"DQ\"",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #8",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "43099960",
+            "phaseId": "1039137",
+            "phaseGroupId": "1632672"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "uni",
+            "name": "Under Night In-Birth Exe:Late[cl-r]",
+            "shortNames": [
+              "Under Night In-Birth",
+              "Under Night",
+              "UNIclr"
+            ],
+            "hashtags": [
+              "UNIclr",
+              "inbirth"
+            ],
+            "additionalTags": [
+              "Under Night In-Birth",
+              "Under Night"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Under Night In-Birth Exe:Late[cl-r]"
+              },
+              "smashgg": {
+                "id": "33870"
+              },
+              "challonge": {
+                "id": "186168"
+              },
+              "battlefy": {
+                "id": "5e7e0d0ba6da6f1083738975"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lf: DQ vs FREE AGENT | LuFL",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "DQ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2565755",
+                  "handle": "DQ",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FREE AGENT | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "FREE AGENT",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "43099945",
+      "displayName": "F - tf: FREE AGENT | LuFL vs Marc :)",
+      "start": "04:18:20.000",
+      "end": "04:47:40.803",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "FREE AGENT",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352090001",
+              "handle": "Marc :)",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MarcForMod",
+                "smashgg": "433852"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "additionalTags": [
+            "Under Night In-Birth",
+            "Under Night"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            },
+            "battlefy": {
+              "id": "5e7e0d0ba6da6f1083738975"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202112120132393650000",
+              "handle": "\"DQ\"",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #8",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "43099945",
+            "phaseId": "1039137",
+            "phaseGroupId": "1632672"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "uni",
+            "name": "Under Night In-Birth Exe:Late[cl-r]",
+            "shortNames": [
+              "Under Night In-Birth",
+              "Under Night",
+              "UNIclr"
+            ],
+            "hashtags": [
+              "UNIclr",
+              "inbirth"
+            ],
+            "additionalTags": [
+              "Under Night In-Birth",
+              "Under Night"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Under Night In-Birth Exe:Late[cl-r]"
+              },
+              "smashgg": {
+                "id": "33870"
+              },
+              "challonge": {
+                "id": "186168"
+              },
+              "battlefy": {
+                "id": "5e7e0d0ba6da6f1083738975"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - gf: Marc :) vs FREE AGENT | LuFL",
+          "completedAt": 1639273838,
+          "entrants": [
+            {
+              "name": "Marc :)",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "433852",
+                  "handle": "Marc :)",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MarcForMod"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FREE AGENT | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "FREE AGENT",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
