@@ -1,0 +1,87 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2021-12-18 16-49-22.mkv",
+  "phaseId": "unknown",
+  "start": "01:48:46.782",
+  "end": "02:16:45.927",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "ft5: WD | BigDame21 vs Omen",
+      "start": "01:48:46.782",
+      "end": "02:16:45.927",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": "WD",
+              "serviceIds": {
+                "twitter": "WDBigDame21",
+                "smashgg": "301462"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202112182256444260000",
+              "handle": "Omen",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "739690"
+              }
+            },
+            "score": 5,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ft5",
+          "name": "First to 5",
+          "smashggId": null
+        },
+        "game": {
+          "id": "",
+          "name": "Tekken Advance",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202112182256444260000",
+              "handle": "Omen",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "739690"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106272133012450000",
+              "handle": "Haezl",
+              "prefix": "MTS",
+              "serviceIds": {
+                "twitter": "Haezl_",
+                "smashgg": "199198"
+              }
+            }
+          }
+        ],
+        "tournament": "NYC Tekken Holiday Party",
+        "event": "",
+        "messages": [
+          "DOA Grudge Match Next"
+        ]
+      }
+    }
+  ]
+}
