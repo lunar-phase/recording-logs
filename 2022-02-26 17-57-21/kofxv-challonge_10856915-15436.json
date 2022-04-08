@@ -5,9 +5,356 @@
   "bracketService": "challonge",
   "phaseId": "10856915",
   "eventId": "10856915",
-  "start": "02:06:15.254",
-  "end": "04:03:12.517",
+  "event": {
+    "tournament": {
+      "name": "Lunar Phase Training Session #1",
+      "url": "https://challonge.com/lpkoftrain1a\nhttps://challonge.com/lpkoftrain1b"
+    }
+  },
+  "start": "01:15:09",
+  "end": "04:02:02",
   "sets": [
+    {
+      "id": "267185290",
+      "displayName": "B - Round Robin B: TWang (twang) vs DF | PrettyBoyJackal",
+      "start": "01:17:11.776",
+      "end": "01:41:18.518",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351580001",
+              "handle": "twang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1523041",
+                "twitter": "twaaaaaang",
+                "challonge": "165606589"
+              },
+              "alias": "TWang"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202202270014245670000",
+              "handle": "PrettyBoyJackal",
+              "prefix": "DF",
+              "serviceIds": {
+                "challonge": "165606532"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Round Robin B",
+          "smashggId": null
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunar Phase Training Session",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "challonge",
+            "id": "267185290",
+            "phaseId": "10856927",
+            "phaseGroupId": "10856927"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - w1: DF | PrettyBoyJackal vs TWang",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "DF | PrettyBoyJackal",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "165606532",
+                  "prefix": "DF",
+                  "handle": "PrettyBoyJackal",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TWang",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "165606589",
+                  "prefix": null,
+                  "handle": "TWang",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "267185294",
+      "displayName": "F - Round Robin B: KPB | Animonk vs Shadow780",
+      "start": "01:43:30.000",
+      "end": "02:01:59.570",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402349900001",
+              "handle": "Animonk",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "AN1M0NK",
+                "smashgg": "357659",
+                "challonge": "165606565"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351120000",
+              "handle": "Shadow780",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "165606596"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Round Robin B",
+          "smashggId": null
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Phase Training Session",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "challonge",
+            "id": "267185294",
+            "phaseId": "10856927",
+            "phaseGroupId": "10856927"
+          },
+          "match": {
+            "id": "w2",
+            "name": "Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - w2: Shadow780 vs KPB | Animonk",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Shadow780",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "165606596",
+                  "prefix": null,
+                  "handle": "Shadow780",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "KPB | Animonk",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "165606565",
+                  "prefix": "KPB",
+                  "handle": "Animonk",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
     {
       "id": "267184670",
       "displayName": "G - Round Robin A: AstralSoulSpark vs Hyde",
@@ -168,6 +515,180 @@
                   "serviceId": "165606106",
                   "prefix": null,
                   "handle": "AstralSoulSpark",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "267185297",
+      "displayName": "I - Round Robin B: ChexGuy vs TWang (twang)",
+      "start": "02:20:08.000",
+      "end": "02:34:55.422",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350090000",
+              "handle": "ChexGuy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChexGuy",
+                "smashgg": "328359",
+                "challonge": "165606538"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351580001",
+              "handle": "twang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1523041",
+                "twitter": "twaaaaaang",
+                "challonge": "165606589"
+              },
+              "alias": "TWang"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Round Robin B",
+          "smashggId": null
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Phase Training Session",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "challonge",
+            "id": "267185297",
+            "phaseId": "10856927",
+            "phaseGroupId": "10856927"
+          },
+          "match": {
+            "id": "w3",
+            "name": "Winners Round 3",
+            "smashggId": "Winners Round 3"
+          },
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - w3: ChexGuy vs TWang",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ChexGuy",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "165606538",
+                  "prefix": null,
+                  "handle": "ChexGuy",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TWang",
+              "participants": [
+                {
+                  "serviceName": "challonge",
+                  "serviceId": "165606589",
+                  "prefix": null,
+                  "handle": "TWang",
                   "serviceIds": {}
                 }
               ],
