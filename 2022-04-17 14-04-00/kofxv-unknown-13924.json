@@ -1,0 +1,110 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2022-04-17 14-04-00.mkv",
+  "phaseId": "unknown",
+  "start": "07:10:48.000",
+  "end": "07:23:51.350",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "ws: Awhile vs AU | Pachukof",
+      "start": "07:10:48.000",
+      "end": "07:23:51.350",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310339900000",
+              "handle": "Awhile",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "AwhileNY",
+                "smashgg": "155290"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310335920000",
+              "handle": "Pachukof",
+              "prefix": "AU",
+              "serviceIds": {
+                "smashgg": "2702562"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310335530000",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161310337380000",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 2",
+        "event": "The King of Fighters XV top 8",
+        "messages": [
+          "KOF XV top 8 Starting Soon!"
+        ]
+      }
+    }
+  ]
+}

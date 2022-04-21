@@ -1,0 +1,1228 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2022-04-16 15-29-01.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1039169",
+  "eventId": "653027",
+  "start": "00:18:24.544",
+  "end": "01:34:11.704",
+  "sets": [
+    {
+      "id": "46405787",
+      "displayName": "K - ws: Nicky Videogames vs NeoRasa",
+      "start": "00:18:24.544",
+      "end": "00:21:37.331",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310335960000",
+              "handle": "Nicky Videogames",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LongIslandNick",
+                "smashgg": "157930"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310336180000",
+              "handle": "NeoRasa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "SpinningSkull",
+                "smashgg": "1574111"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "garou",
+          "name": "Garou: Mark of the Wolves",
+          "shortNames": [
+            "Garou"
+          ],
+          "hashtags": [
+            "GarouMOTW",
+            "MOTW",
+            "Garou"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Garou: Mark of the Wolves"
+            },
+            "smashgg": {
+              "id": "10838"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310339740000",
+              "handle": "DenjinLoops",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "693886",
+                "twitter": "DenjinLoops"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161310339920000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "smashgg": "1481948",
+                "twitter": "SuperBulletWill"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 1",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46405787",
+            "phaseId": "1039169",
+            "phaseGroupId": "1632705"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "garou",
+            "name": "Garou: Mark of the Wolves",
+            "shortNames": [
+              "Garou"
+            ],
+            "hashtags": [
+              "GarouMOTW",
+              "MOTW",
+              "Garou"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Garou: Mark of the Wolves"
+              },
+              "smashgg": {
+                "id": "10838"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - ws: NeoRasa vs Nicky Videogames",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NeoRasa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1574111",
+                  "handle": "NeoRasa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "SpinningSkull"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Nicky Videogames",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "157930",
+                  "handle": "Nicky Videogames",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "LongIslandNick"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46405788",
+      "displayName": "L - ws: TakiTonfa vs GenesisDC",
+      "start": "00:24:14.000",
+      "end": "00:29:06.423",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310335500000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310336380000",
+              "handle": "GenesisDC",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GenesisDC02",
+                "smashgg": "355343"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "garou",
+          "name": "Garou: Mark of the Wolves",
+          "shortNames": [
+            "Garou"
+          ],
+          "hashtags": [
+            "GarouMOTW",
+            "MOTW",
+            "Garou"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Garou: Mark of the Wolves"
+            },
+            "smashgg": {
+              "id": "10838"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310339740000",
+              "handle": "DenjinLoops",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "693886",
+                "twitter": "DenjinLoops"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161310339920000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "smashgg": "1481948",
+                "twitter": "SuperBulletWill"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 1",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46405788",
+            "phaseId": "1039169",
+            "phaseGroupId": "1632705"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "garou",
+            "name": "Garou: Mark of the Wolves",
+            "shortNames": [
+              "Garou"
+            ],
+            "hashtags": [
+              "GarouMOTW",
+              "MOTW",
+              "Garou"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Garou: Mark of the Wolves"
+              },
+              "smashgg": {
+                "id": "10838"
+              }
+            }
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - ws: TakiTonfa vs GenesisDC",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TakiTonfa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "999177",
+                  "handle": "TakiTonfa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TakiTonfa"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GenesisDC",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "355343",
+                  "handle": "GenesisDC",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GenesisDC02"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46405818",
+      "displayName": "X - lq: NeoRasa vs SchoolBus",
+      "start": "00:32:46.000",
+      "end": "00:36:13.569",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310336180000",
+              "handle": "NeoRasa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "SpinningSkull",
+                "smashgg": "1574111"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310340140000",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "garou",
+          "name": "Garou: Mark of the Wolves",
+          "shortNames": [
+            "Garou"
+          ],
+          "hashtags": [
+            "GarouMOTW",
+            "MOTW",
+            "Garou"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Garou: Mark of the Wolves"
+            },
+            "smashgg": {
+              "id": "10838"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310339740000",
+              "handle": "DenjinLoops",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "693886",
+                "twitter": "DenjinLoops"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161310339920000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "smashgg": "1481948",
+                "twitter": "SuperBulletWill"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 1",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46405818",
+            "phaseId": "1039169",
+            "phaseGroupId": "1632705"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "garou",
+            "name": "Garou: Mark of the Wolves",
+            "shortNames": [
+              "Garou"
+            ],
+            "hashtags": [
+              "GarouMOTW",
+              "MOTW",
+              "Garou"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Garou: Mark of the Wolves"
+              },
+              "smashgg": {
+                "id": "10838"
+              }
+            }
+          },
+          "shortIdentifier": "X",
+          "displayName": "X - lq: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46405819",
+      "displayName": "Y - lq: J Dash vs TakiTonfa",
+      "start": "00:37:46.599",
+      "end": "00:43:44.309",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310338480000",
+              "handle": "J Dash",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "JDashPrime",
+                "smashgg": "62810"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310335500000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "garou",
+          "name": "Garou: Mark of the Wolves",
+          "shortNames": [
+            "Garou"
+          ],
+          "hashtags": [
+            "GarouMOTW",
+            "MOTW",
+            "Garou"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Garou: Mark of the Wolves"
+            },
+            "smashgg": {
+              "id": "10838"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310339740000",
+              "handle": "DenjinLoops",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "693886",
+                "twitter": "DenjinLoops"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161310339920000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "smashgg": "1481948",
+                "twitter": "SuperBulletWill"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 1",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46405819",
+            "phaseId": "1039169",
+            "phaseGroupId": "1632705"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "garou",
+            "name": "Garou: Mark of the Wolves",
+            "shortNames": [
+              "Garou"
+            ],
+            "hashtags": [
+              "GarouMOTW",
+              "MOTW",
+              "Garou"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Garou: Mark of the Wolves"
+              },
+              "smashgg": {
+                "id": "10838"
+              }
+            }
+          },
+          "shortIdentifier": "Y",
+          "displayName": "Y - lq: ??? vs J Dash",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "J Dash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "62810",
+                  "handle": "J Dash",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "JDashPrime"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46405789",
+      "displayName": "M - wf: GenesisDC vs Nicky Videogames",
+      "start": "00:45:56.499",
+      "end": "00:55:17.837",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310336380000",
+              "handle": "GenesisDC",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GenesisDC02",
+                "smashgg": "355343"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310335960000",
+              "handle": "Nicky Videogames",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LongIslandNick",
+                "smashgg": "157930"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "garou",
+          "name": "Garou: Mark of the Wolves",
+          "shortNames": [
+            "Garou"
+          ],
+          "hashtags": [
+            "GarouMOTW",
+            "MOTW",
+            "Garou"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Garou: Mark of the Wolves"
+            },
+            "smashgg": {
+              "id": "10838"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310339740000",
+              "handle": "DenjinLoops",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "693886",
+                "twitter": "DenjinLoops"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161310339920000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "smashgg": "1481948",
+                "twitter": "SuperBulletWill"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 1",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46405789",
+            "phaseId": "1039169",
+            "phaseGroupId": "1632705"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "garou",
+            "name": "Garou: Mark of the Wolves",
+            "shortNames": [
+              "Garou"
+            ],
+            "hashtags": [
+              "GarouMOTW",
+              "MOTW",
+              "Garou"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Garou: Mark of the Wolves"
+              },
+              "smashgg": {
+                "id": "10838"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - wf: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46405820",
+      "displayName": "Z - ls: SchoolBus vs TakiTonfa",
+      "start": "00:58:27.104",
+      "end": "01:03:57.119",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310340140000",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310335500000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "garou",
+          "name": "Garou: Mark of the Wolves",
+          "shortNames": [
+            "Garou"
+          ],
+          "hashtags": [
+            "GarouMOTW",
+            "MOTW",
+            "Garou"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Garou: Mark of the Wolves"
+            },
+            "smashgg": {
+              "id": "10838"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310339740000",
+              "handle": "DenjinLoops",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "693886",
+                "twitter": "DenjinLoops"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161310339920000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "smashgg": "1481948",
+                "twitter": "SuperBulletWill"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 1",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46405820",
+            "phaseId": "1039169",
+            "phaseGroupId": "1632705"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "garou",
+            "name": "Garou: Mark of the Wolves",
+            "shortNames": [
+              "Garou"
+            ],
+            "hashtags": [
+              "GarouMOTW",
+              "MOTW",
+              "Garou"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Garou: Mark of the Wolves"
+              },
+              "smashgg": {
+                "id": "10838"
+              }
+            }
+          },
+          "shortIdentifier": "Z",
+          "displayName": "Z - ls: SchoolBus vs TakiTonfa",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SchoolBus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "518419",
+                  "handle": "SchoolBus",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Sometimes_Fendo"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TakiTonfa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "999177",
+                  "handle": "TakiTonfa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TakiTonfa"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46405821",
+      "displayName": "AA - lf: SchoolBus vs GenesisDC",
+      "start": "01:05:23.000",
+      "end": "01:14:38.052",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310340140000",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310336380000",
+              "handle": "GenesisDC",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GenesisDC02",
+                "smashgg": "355343"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "garou",
+          "name": "Garou: Mark of the Wolves",
+          "shortNames": [
+            "Garou"
+          ],
+          "hashtags": [
+            "GarouMOTW",
+            "MOTW",
+            "Garou"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Garou: Mark of the Wolves"
+            },
+            "smashgg": {
+              "id": "10838"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310339740000",
+              "handle": "DenjinLoops",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "693886",
+                "twitter": "DenjinLoops"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161310339920000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "smashgg": "1481948",
+                "twitter": "SuperBulletWill"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 1",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46405821",
+            "phaseId": "1039169",
+            "phaseGroupId": "1632705"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "garou",
+            "name": "Garou: Mark of the Wolves",
+            "shortNames": [
+              "Garou"
+            ],
+            "hashtags": [
+              "GarouMOTW",
+              "MOTW",
+              "Garou"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Garou: Mark of the Wolves"
+              },
+              "smashgg": {
+                "id": "10838"
+              }
+            }
+          },
+          "shortIdentifier": "AA",
+          "displayName": "AA - lf: GenesisDC vs SchoolBus",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GenesisDC",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "355343",
+                  "handle": "GenesisDC",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GenesisDC02"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SchoolBus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "518419",
+                  "handle": "SchoolBus",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Sometimes_Fendo"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46405790",
+      "displayName": "N - gf: Nicky Videogames vs GenesisDC",
+      "start": "01:15:02.000",
+      "end": "01:34:11.704",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310335960000",
+              "handle": "Nicky Videogames",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LongIslandNick",
+                "smashgg": "157930"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310336380000",
+              "handle": "GenesisDC",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GenesisDC02",
+                "smashgg": "355343"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "garou",
+          "name": "Garou: Mark of the Wolves",
+          "shortNames": [
+            "Garou"
+          ],
+          "hashtags": [
+            "GarouMOTW",
+            "MOTW",
+            "Garou"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Garou: Mark of the Wolves"
+            },
+            "smashgg": {
+              "id": "10838"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310339740000",
+              "handle": "DenjinLoops",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "693886",
+                "twitter": "DenjinLoops"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161310339920000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "smashgg": "1481948",
+                "twitter": "SuperBulletWill"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 1",
+        "event": "",
+        "messages": [
+          "Saurai Shodown V SP Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46405790",
+            "phaseId": "1039169",
+            "phaseGroupId": "1632705"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "garou",
+            "name": "Garou: Mark of the Wolves",
+            "shortNames": [
+              "Garou"
+            ],
+            "hashtags": [
+              "GarouMOTW",
+              "MOTW",
+              "Garou"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Garou: Mark of the Wolves"
+              },
+              "smashgg": {
+                "id": "10838"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - gf: Nicky Videogames vs GenesisDC",
+          "completedAt": 1650142436,
+          "entrants": [
+            {
+              "name": "Nicky Videogames",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "157930",
+                  "handle": "Nicky Videogames",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "LongIslandNick"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GenesisDC",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "355343",
+                  "handle": "GenesisDC",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GenesisDC02"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

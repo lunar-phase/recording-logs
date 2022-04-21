@@ -1,0 +1,988 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2022-04-17 14-04-00.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1105737",
+  "eventId": "653025",
+  "start": "01:11:17.606",
+  "end": "02:43:47.000",
+  "sets": [
+    {
+      "id": "46439455",
+      "displayName": "B - ws: benjillaz vs AU | Pachukof",
+      "start": "01:11:17.606",
+      "end": "01:20:35.435",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310337570000",
+              "handle": "benjillaz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1342902"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310335920000",
+              "handle": "Pachukof",
+              "prefix": "AU",
+              "serviceIds": {
+                "smashgg": "2702562"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "kof98um",
+          "name": "The King of Fighters '98: UMFE",
+          "shortNames": [
+            "King of Fighters 98 UMFE",
+            "KOF 98 UMFE"
+          ],
+          "hashtags": [
+            "KOF98",
+            "KOF"
+          ],
+          "additionalTags": [
+            "KOF98",
+            "KOF98UM"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters '98 Ultimate Match"
+            },
+            "smashgg": {
+              "id": "17413"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310337380000",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161328495380000",
+              "handle": "Rodimus Prime",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "KPBRodimusPrime"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 2",
+        "event": "The King of Fighters '98: UMFE top 8",
+        "messages": [
+          "KOF 98: UMFE top 8 Starting at 3pm EST!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46439455",
+            "phaseId": "1105737",
+            "phaseGroupId": "1722795"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "kof98um",
+            "name": "The King of Fighters '98: UMFE",
+            "shortNames": [
+              "King of Fighters 98 UMFE",
+              "KOF 98 UMFE"
+            ],
+            "hashtags": [
+              "KOF98",
+              "KOF"
+            ],
+            "additionalTags": [
+              "KOF98",
+              "KOF98UM"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters '98 Ultimate Match"
+              },
+              "smashgg": {
+                "id": "17413"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - ws: benjillaz vs AU | Pachukof",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "benjillaz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1342902",
+                  "handle": "benjillaz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AU | Pachukof",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2702562",
+                  "handle": "Pachukof",
+                  "prefix": "AU",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46439456",
+      "displayName": "C - wf: AU | Pachukof vs Aroo",
+      "start": "01:25:54.452",
+      "end": "01:37:19.327",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310335920000",
+              "handle": "Pachukof",
+              "prefix": "AU",
+              "serviceIds": {
+                "smashgg": "2702562"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310335530000",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "kof98um",
+          "name": "The King of Fighters '98: UMFE",
+          "shortNames": [
+            "King of Fighters 98 UMFE",
+            "KOF 98 UMFE"
+          ],
+          "hashtags": [
+            "KOF98",
+            "KOF"
+          ],
+          "additionalTags": [
+            "KOF98",
+            "KOF98UM"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters '98 Ultimate Match"
+            },
+            "smashgg": {
+              "id": "17413"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310337380000",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161328495380000",
+              "handle": "Rodimus Prime",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "KPBRodimusPrime"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 2",
+        "event": "The King of Fighters '98: UMFE top 8",
+        "messages": [
+          "KOF 98: UMFE top 8 Starting at 3pm EST!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46439456",
+            "phaseId": "1105737",
+            "phaseGroupId": "1722795"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "kof98um",
+            "name": "The King of Fighters '98: UMFE",
+            "shortNames": [
+              "King of Fighters 98 UMFE",
+              "KOF 98 UMFE"
+            ],
+            "hashtags": [
+              "KOF98",
+              "KOF"
+            ],
+            "additionalTags": [
+              "KOF98",
+              "KOF98UM"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters '98 Ultimate Match"
+              },
+              "smashgg": {
+                "id": "17413"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wf: Aroo vs AU | Pachukof",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Aroo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "372499",
+                  "handle": "Aroo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "aroolee"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AU | Pachukof",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2702562",
+                  "handle": "Pachukof",
+                  "prefix": "AU",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46439469",
+      "displayName": "H - lq: benjillaz vs YC | HARD_BREAD",
+      "start": "01:38:23.779",
+      "end": "01:45:43.983",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310337570000",
+              "handle": "benjillaz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1342902"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310339910000",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "kof98um",
+          "name": "The King of Fighters '98: UMFE",
+          "shortNames": [
+            "King of Fighters 98 UMFE",
+            "KOF 98 UMFE"
+          ],
+          "hashtags": [
+            "KOF98",
+            "KOF"
+          ],
+          "additionalTags": [
+            "KOF98",
+            "KOF98UM"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters '98 Ultimate Match"
+            },
+            "smashgg": {
+              "id": "17413"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310337380000",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161328495380000",
+              "handle": "Rodimus Prime",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "KPBRodimusPrime"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 2",
+        "event": "The King of Fighters '98: UMFE top 8",
+        "messages": [
+          "KOF 98: UMFE top 8 Starting at 3pm EST!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46439469",
+            "phaseId": "1105737",
+            "phaseGroupId": "1722795"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "kof98um",
+            "name": "The King of Fighters '98: UMFE",
+            "shortNames": [
+              "King of Fighters 98 UMFE",
+              "KOF 98 UMFE"
+            ],
+            "hashtags": [
+              "KOF98",
+              "KOF"
+            ],
+            "additionalTags": [
+              "KOF98",
+              "KOF98UM"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters '98 Ultimate Match"
+              },
+              "smashgg": {
+                "id": "17413"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - lq: benjillaz vs YC | HARD_BREAD",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "benjillaz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1342902",
+                  "handle": "benjillaz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "YC | HARD_BREAD",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "530924",
+                  "handle": "HARD_BREAD",
+                  "prefix": "YC",
+                  "serviceIds": {
+                    "twitter": "HARD_BREAD"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46439471",
+      "displayName": "J - ls: benjillaz vs LazieFreddy",
+      "start": "01:46:41.732",
+      "end": "01:55:43.036",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310337570000",
+              "handle": "benjillaz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1342902"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310340010000",
+              "handle": "LazieFreddy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "laziefred",
+                "smashgg": "338184"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "kof98um",
+          "name": "The King of Fighters '98: UMFE",
+          "shortNames": [
+            "King of Fighters 98 UMFE",
+            "KOF 98 UMFE"
+          ],
+          "hashtags": [
+            "KOF98",
+            "KOF"
+          ],
+          "additionalTags": [
+            "KOF98",
+            "KOF98UM"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters '98 Ultimate Match"
+            },
+            "smashgg": {
+              "id": "17413"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310337380000",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161328495380000",
+              "handle": "Rodimus Prime",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "KPBRodimusPrime"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 2",
+        "event": "The King of Fighters '98: UMFE top 8",
+        "messages": [
+          "KOF 98: UMFE top 8 Starting at 3pm EST!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46439471",
+            "phaseId": "1105737",
+            "phaseGroupId": "1722795"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "kof98um",
+            "name": "The King of Fighters '98: UMFE",
+            "shortNames": [
+              "King of Fighters 98 UMFE",
+              "KOF 98 UMFE"
+            ],
+            "hashtags": [
+              "KOF98",
+              "KOF"
+            ],
+            "additionalTags": [
+              "KOF98",
+              "KOF98UM"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters '98 Ultimate Match"
+              },
+              "smashgg": {
+                "id": "17413"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ls: benjillaz vs LazieFreddy",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "benjillaz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1342902",
+                  "handle": "benjillaz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LazieFreddy",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "338184",
+                  "handle": "LazieFreddy",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "laziefred"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46439472",
+      "displayName": "K - lf: benjillaz vs Aroo",
+      "start": "01:56:49.896",
+      "end": "02:07:33.382",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310337570000",
+              "handle": "benjillaz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1342902"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310335530000",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "kof98um",
+          "name": "The King of Fighters '98: UMFE",
+          "shortNames": [
+            "King of Fighters 98 UMFE",
+            "KOF 98 UMFE"
+          ],
+          "hashtags": [
+            "KOF98",
+            "KOF"
+          ],
+          "additionalTags": [
+            "KOF98",
+            "KOF98UM"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters '98 Ultimate Match"
+            },
+            "smashgg": {
+              "id": "17413"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310337380000",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161328495380000",
+              "handle": "Rodimus Prime",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "KPBRodimusPrime"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 2",
+        "event": "The King of Fighters '98: UMFE top 8",
+        "messages": [
+          "KOF 98: UMFE top 8 Starting at 3pm EST!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46439472",
+            "phaseId": "1105737",
+            "phaseGroupId": "1722795"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "kof98um",
+            "name": "The King of Fighters '98: UMFE",
+            "shortNames": [
+              "King of Fighters 98 UMFE",
+              "KOF 98 UMFE"
+            ],
+            "hashtags": [
+              "KOF98",
+              "KOF"
+            ],
+            "additionalTags": [
+              "KOF98",
+              "KOF98UM"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters '98 Ultimate Match"
+              },
+              "smashgg": {
+                "id": "17413"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lf: Aroo vs benjillaz",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Aroo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "372499",
+                  "handle": "Aroo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "aroolee"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "benjillaz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1342902",
+                  "handle": "benjillaz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "46439457",
+      "displayName": "D - tf: benjillaz vs AU | Pachukof",
+      "start": "02:10:22.000",
+      "end": "02:43:47.000",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310337570000",
+              "handle": "benjillaz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1342902"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310335920000",
+              "handle": "Pachukof",
+              "prefix": "AU",
+              "serviceIds": {
+                "smashgg": "2702562"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "kof98um",
+          "name": "The King of Fighters '98: UMFE",
+          "shortNames": [
+            "King of Fighters 98 UMFE",
+            "KOF 98 UMFE"
+          ],
+          "hashtags": [
+            "KOF98",
+            "KOF"
+          ],
+          "additionalTags": [
+            "KOF98",
+            "KOF98UM"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters '98 Ultimate Match"
+            },
+            "smashgg": {
+              "id": "17413"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310337380000",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161328495380000",
+              "handle": "Rodimus Prime",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "KPBRodimusPrime"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 2",
+        "event": "The King of Fighters '98: UMFE top 8",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "46439457",
+            "phaseId": "1105737",
+            "phaseGroupId": "1722795"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "kof98um",
+            "name": "The King of Fighters '98: UMFE",
+            "shortNames": [
+              "King of Fighters 98 UMFE",
+              "KOF 98 UMFE"
+            ],
+            "hashtags": [
+              "KOF98",
+              "KOF"
+            ],
+            "additionalTags": [
+              "KOF98",
+              "KOF98UM"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters '98 Ultimate Match"
+              },
+              "smashgg": {
+                "id": "17413"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - gf: AU | Pachukof vs benjillaz",
+          "completedAt": 1650227250,
+          "entrants": [
+            {
+              "name": "AU | Pachukof",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2702562",
+                  "handle": "Pachukof",
+                  "prefix": "AU",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "benjillaz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1342902",
+                  "handle": "benjillaz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
