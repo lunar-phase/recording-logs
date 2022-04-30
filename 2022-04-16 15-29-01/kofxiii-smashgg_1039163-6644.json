@@ -5,12 +5,21 @@
   "bracketService": "smashgg",
   "phaseId": "1039163",
   "eventId": "653023",
-  "start": "03:42:17.270",
-  "end": "05:27:01.676",
+  "phaseName": "Top 6",
+  "title": "[KOFXIII] Lunar Bout 2022 Top 6",
+  "event": {
+    "tournament": {
+      "name": "Lunar Bout 2022",
+      "venueName": "BrookLAN"
+    }
+  },
+  "start": "03:40:13",
+  "end": "05:27:00",
   "sets": [
     {
       "id": "46423007",
       "displayName": "K - ws: El Rashikal vs Shadow780",
+      "title": "[KOFXIII] Lunar Bout 2022 Winners Semis: El Rashikal vs Shadow780",
       "start": "03:42:17.270",
       "end": "03:48:44.937",
       "state": {
@@ -173,6 +182,7 @@
     {
       "id": "46423008",
       "displayName": "L - ws: ASAPxPOCKY vs AU | Pachukof",
+      "title": "[KOFXIII] Lunar Bout 2022 Winners Semis: ASAPxPOCKY vs AU | Pachukof",
       "start": "03:49:50.000",
       "end": "03:58:01.569",
       "state": {
@@ -332,6 +342,7 @@
     {
       "id": "46423038",
       "displayName": "X - lq: LazieFreddy vs El Rashikal",
+      "title": "[KOFXIII] Lunar Bout 2022 Losers Quarters: LazieFreddy vs El Rashikal",
       "start": "03:59:31.000",
       "end": "04:11:34.216",
       "state": {
@@ -497,6 +508,7 @@
     {
       "id": "46423039",
       "displayName": "Y - lq: MexiKen vs ASAPxPOCKY",
+      "title": "[KOFXIII] Lunar Bout 2022 Losers Quarters: MexiKen vs ASAPxPOCKY",
       "start": "04:12:40.166",
       "end": "04:20:58.854",
       "state": {
@@ -659,7 +671,8 @@
     {
       "id": "46423009",
       "displayName": "M - wf: Shadow780 vs AU | Pachukof",
-      "start": "04:21:03.158",
+      "title": "[KOFXIII] Lunar Bout 2022 Winners Finals: Shadow780 vs AU | Pachukof",
+      "start": "04:21:06",
       "end": "04:38:57.069",
       "state": {
         "players": [
@@ -818,6 +831,7 @@
     {
       "id": "46423040",
       "displayName": "Z - ls: LazieFreddy vs MexiKen",
+      "title": "[KOFXIII] Lunar Bout 2022 Losers Semis: LazieFreddy vs MexiKen",
       "start": "04:40:30.304",
       "end": "04:53:04.955",
       "state": {
@@ -983,6 +997,7 @@
     {
       "id": "46423041",
       "displayName": "AA - lf: Shadow780 vs MexiKen",
+      "title": "[KOFXIII] Lunar Bout 2022 Losers Finals: Shadow780 vs MexiKen",
       "start": "04:54:05.333",
       "end": "05:04:14.347",
       "state": {
@@ -1145,8 +1160,9 @@
     {
       "id": "46423010",
       "displayName": "N - gf: Shadow780 vs AU | Pachukof",
+      "title": "[KOFXIII] Lunar Bout 2022 Grand Finals: Shadow780 vs AU | Pachukof",
       "start": "05:05:02.936",
-      "end": "05:27:01.676",
+      "end": "05:27:00",
       "state": {
         "players": [
           {

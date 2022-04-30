@@ -5,12 +5,21 @@
   "bracketService": "smashgg",
   "phaseId": "1110074",
   "eventId": "646239",
-  "start": "06:59:24.956",
-  "end": "09:33:20.878",
+  "phaseName": "Top 8",
+  "title": "[KOFXV] Lunar Bout 2022 Top 8",
+  "event": {
+    "tournament": {
+      "name": "Lunar Bout 2022",
+      "venueName": "BrookLAN"
+    }
+  },
+  "start": "06:56:15",
+  "end": "09:33:20",
   "sets": [
     {
-      "id": "preview_1728407_2_0",
+      "id": "46455235",
       "displayName": "A - ws: LazieFreddy vs DMV | Tao",
+      "title": "[KOFXV] Lunar Bout 2022 Top 8 Winners Semis: LazieFreddy vs DMV | Tao",
       "start": "06:59:24.956",
       "end": "07:09:12.751",
       "state": {
@@ -187,8 +196,110 @@
       }
     },
     {
+      "id": "46455236",
+      "displayName": "B - ws: Awhile vs AU | Pachukof",
+      "title": "[KOFXV] Lunar Bout 2022 Top 8 Winners Semis: Awhile vs AU | Pachukof",
+      "start": "07:10:48.000",
+      "end": "07:23:51.350",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202204161310339900000",
+              "handle": "Awhile",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "AwhileNY",
+                "smashgg": "155290"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202204161310335920000",
+              "handle": "Pachukof",
+              "prefix": "AU",
+              "serviceIds": {
+                "smashgg": "2702562"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202204161310335530000",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202204161310337380000",
+              "handle": "Rome_Himself",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2022: Day 2",
+        "event": "The King of Fighters XV top 8",
+        "messages": [
+          "KOF XV top 8 Starting Soon!"
+        ]
+      }
+    },
+    {
       "id": "46455248",
       "displayName": "F - Losers Eighths: Crazy Salvi vs Shadow780",
+      "title": "[KOFXV] Lunar Bout 2022 Top 8 Losers Eighths: Crazy Salvi vs Shadow780",
       "start": "07:26:04.000",
       "end": "07:35:17.387",
       "state": {
@@ -363,8 +474,9 @@
     },
     {
       "id": "46455249",
-      "displayName": "G - Losers Eighths: Proton MTFY | Coach Steve vs Dinotail",
-      "start": "07:37:00.000",
+      "displayName": "G - Losers Eighths: Proton | Coach Steve vs Dinotail",
+      "title": "[KOFXV] Lunar Bout 2022 Top 8 Losers Eighths: Proton | Coach Steve vs Dinotail",
+      "start": "07:36:54",
       "end": "07:43:40.744",
       "state": {
         "players": [
@@ -372,7 +484,7 @@
             "person": {
               "id": "d202204161310339170000",
               "handle": "Coach Steve",
-              "prefix": "Proton MTFY",
+              "prefix": "Proton",
               "serviceIds": {
                 "twitter": "FightCoachFight",
                 "smashgg": "139852"
@@ -539,6 +651,7 @@
     {
       "id": "46455250",
       "displayName": "H - lq: Awhile vs Crazy Salvi",
+      "title": "[KOFXV] Lunar Bout 2022 Top 8 Losers Quarters: Awhile vs Crazy Salvi",
       "start": "07:44:59.511",
       "end": "07:55:07.746",
       "state": {
@@ -716,7 +829,8 @@
     },
     {
       "id": "46455251",
-      "displayName": "I - lq: Proton MTFY | Coach Steve vs DMV | Tao",
+      "displayName": "I - lq: Proton | Coach Steve vs DMV | Tao",
+      "title": "[KOFXV] Lunar Bout 2022 Top 8 Losers Quarters: Proton | Coach Steve vs DMV | Tao",
       "start": "07:56:15.000",
       "end": "08:05:20.678",
       "state": {
@@ -725,7 +839,7 @@
             "person": {
               "id": "d202204161310339170000",
               "handle": "Coach Steve",
-              "prefix": "Proton MTFY",
+              "prefix": "Proton",
               "serviceIds": {
                 "twitter": "FightCoachFight",
                 "smashgg": "139852"
@@ -895,6 +1009,7 @@
     {
       "id": "46455237",
       "displayName": "C - wf: LazieFreddy vs AU | Pachukof",
+      "title": "[KOFXV] Lunar Bout 2022 Top 8 Winners Finals: LazieFreddy vs AU | Pachukof",
       "start": "08:07:07.434",
       "end": "08:31:41.576",
       "state": {
@@ -1070,6 +1185,7 @@
     {
       "id": "46455252",
       "displayName": "J - ls: DMV | Tao vs Crazy Salvi",
+      "title": "[KOFXV] Lunar Bout 2022 Top 8 Losers Semis: DMV | Tao vs Crazy Salvi",
       "start": "08:39:14.000",
       "end": "08:49:36.452",
       "state": {
@@ -1248,6 +1364,7 @@
     {
       "id": "46455253",
       "displayName": "K - lf: DMV | Tao vs AU | Pachukof",
+      "title": "[KOFXV] Lunar Bout 2022 Top 8 Losers Finals: DMV | Tao vs AU | Pachukof",
       "start": "08:52:40.372",
       "end": "09:07:01.908",
       "state": {
@@ -1423,8 +1540,9 @@
     {
       "id": "46455238",
       "displayName": "D - gf: DMV | Tao vs LazieFreddy",
+      "title": "[KOFXV] Lunar Bout 2022 Top 8 Grand Finals: DMV | Tao vs LazieFreddy",
       "start": "09:08:12.000",
-      "end": "09:33:20.878",
+      "end": "09:33:20",
       "state": {
         "players": [
           {

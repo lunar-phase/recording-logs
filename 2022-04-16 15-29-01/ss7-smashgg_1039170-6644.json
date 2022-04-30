@@ -5,13 +5,21 @@
   "bracketService": "smashgg",
   "phaseId": "1039170",
   "eventId": "653028",
-  "start": "05:55:29.316",
+  "phaseName": "Pools",
+  "title": "[SamSho] Lunar Bout 2022 Pool D",
+  "event": {
+    "tournament": {
+      "name": "Lunar Bout 2022",
+      "venueName": "BrookLAN"
+    }
+  },
+  "start": "05:52:31",
   "end": "06:39:19.020",
   "sets": [
     {
       "id": "46432821",
       "displayName": "J - D1 Winners Semis: Paygun vs Enemy",
-      "start": "05:55:29.316",
+      "start": "05:55:20",
       "end": "06:04:00.902",
       "state": {
         "players": [
@@ -329,7 +337,7 @@
     {
       "id": "46432849",
       "displayName": "R - D1 Losers Round 2: Aroo vs John Do (John Do: Party Hanzo)",
-      "start": "06:16:18.000",
+      "start": "06:16:31",
       "end": "06:22:10.933",
       "state": {
         "players": [
@@ -494,8 +502,8 @@
     },
     {
       "id": "46432852",
-      "displayName": "U - D1 Losers Quarters: DTN MTFY | Ghost the Trinity vs Enemy",
-      "start": "06:23:05.000",
+      "displayName": "U - D1 Losers Quarters: DTN | Ghost the Trinity vs Enemy",
+      "start": "06:23:04.000",
       "end": "06:28:14.485",
       "state": {
         "players": [
@@ -503,7 +511,7 @@
             "person": {
               "id": "d202204161310340050000",
               "handle": "Ghost the Trinity",
-              "prefix": "DTN MTFY",
+              "prefix": "DTN",
               "serviceIds": {
                 "twitter": "GHOST_EMPEROR",
                 "smashgg": "156051"

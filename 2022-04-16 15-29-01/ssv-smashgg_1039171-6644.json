@@ -5,12 +5,21 @@
   "bracketService": "smashgg",
   "phaseId": "1039171",
   "eventId": "653029",
-  "start": "01:58:24.090",
-  "end": "03:25:48.000",
+  "phaseName": "Top 6",
+  "title": "[SSVSP] Lunar Bout 2022 Top 6",
+  "event": {
+    "tournament": {
+      "name": "Lunar Bout 2022",
+      "venueName": "BrookLAN"
+    }
+  },
+  "start": "01:54:55",
+  "end": "03:24:36",
   "sets": [
     {
       "id": "46414662",
       "displayName": "H - ws: jdjenk vs DMV | Tao",
+      "title": "[SSVSP] Lunar Bout 2022 Winners Semis: jdjenk (Charlotte) vs DMV | Tao (Galford)",
       "start": "01:58:24.090",
       "end": "02:03:15.152",
       "state": {
@@ -173,6 +182,7 @@
     {
       "id": "46414663",
       "displayName": "I - ws: GREGSPORTS | AyoItsDave vs Aroo",
+      "title": "[SSVSP] Lunar Bout 2022 Winners Semis: GREGSPORTS | AyoItsDave (Hanzo) vs Aroo (Yoshitora)",
       "start": "02:05:44.756",
       "end": "02:11:20.105",
       "state": {
@@ -332,6 +342,7 @@
     {
       "id": "46414693",
       "displayName": "R - lq: jdjenk vs TakiTonfa",
+      "title": "[SSVSP] Lunar Bout 2022 Losers Quarters: jdjenk (Charlotte) vs TakiTonfa (Rasetsumaru)",
       "start": "02:12:50.701",
       "end": "02:18:27.691",
       "state": {
@@ -494,6 +505,7 @@
     {
       "id": "46414694",
       "displayName": "S - lq: GREGSPORTS | AyoItsDave vs Sleepy Ben",
+      "title": "[SSVSP] Lunar Bout 2022 Losers Quarters: GREGSPORTS | AyoItsDave (Hanzo) vs Sleepy Ben (Haohmaru)",
       "start": "02:20:15.000",
       "end": "02:29:56.085",
       "state": {
@@ -653,6 +665,7 @@
     {
       "id": "46414664",
       "displayName": "J - wf: DMV | Tao vs Aroo",
+      "title": "[SSVSP] Lunar Bout 2022 Winners Finals: DMV | Tao (Galford) vs Aroo (Yoshitora)",
       "start": "02:31:10.542",
       "end": "02:43:18.815",
       "state": {
@@ -815,6 +828,7 @@
     {
       "id": "46414695",
       "displayName": "T - ls: jdjenk vs GREGSPORTS | AyoItsDave",
+      "title": "[SSVSP] Lunar Bout 2022 Losers Semis: jdjenk (Charlotte) vs GREGSPORTS | AyoItsDave (Hanzo)",
       "start": "02:45:37.000",
       "end": "02:53:47.000",
       "state": {
@@ -971,7 +985,8 @@
     {
       "id": "46414696",
       "displayName": "U - lf: jdjenk vs Aroo",
-      "start": "02:55:19.417",
+      "title": "[SSVSP] Lunar Bout 2022 Losers Finals: jdjenk (Charlotte) vs Aroo (Yoshitora)",
+      "start": "02:55:17",
       "end": "03:07:02.370",
       "state": {
         "players": [
@@ -1133,8 +1148,9 @@
     {
       "id": "46414665",
       "displayName": "K - gf: jdjenk vs DMV | Tao",
+      "title": "[SSVSP] Lunar Bout 2022 Grand Finals: jdjenk (Charlotte, Genjuro) vs DMV | Tao (Galford)",
       "start": "03:07:36.784",
-      "end": "03:25:48.000",
+      "end": "03:24:36",
       "state": {
         "players": [
           {

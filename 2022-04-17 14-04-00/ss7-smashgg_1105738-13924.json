@@ -5,23 +5,32 @@
   "bracketService": "smashgg",
   "phaseId": "1105738",
   "eventId": "653028",
-  "start": "02:59:23.549",
+  "phaseName": "Top 8",
+  "title": "[SamSho] Lunar Bout 2022 Top 8",
+  "event": {
+    "tournament": {
+      "name": "Lunar Bout 2022",
+      "venueName": "BrookLAN"
+    }
+  },
+  "start": "02:56:56",
   "end": "05:08:52.382",
   "sets": [
     {
-      "id": "46448216",
-      "displayName": "B - ws: Chueko vs Paygun",
+      "id": "46448215",
+      "displayName": "A - ws: Sorrow vs ScrubSaibot",
+      "title": "[SamSho] Lunar Bout 2022 Top 8 Winners Semis: Sorrow (Hibiki) vs ScrubSaibot (Baiken)",
       "start": "02:59:23.549",
       "end": "03:05:32.873",
       "state": {
         "players": [
           {
             "person": {
-              "id": "d202204161310336140000",
-              "handle": "Chueko",
+              "id": "d202204161310336050000",
+              "handle": "Sorrow",
               "prefix": null,
               "serviceIds": {
-                "smashgg": "286317"
+                "smashgg": "576351"
               }
             },
             "score": 0,
@@ -30,11 +39,11 @@
           },
           {
             "person": {
-              "id": "d202204161310339200000",
-              "handle": "Paygun",
+              "id": "d202204161310339980000",
+              "handle": "ScrubSaibot",
               "prefix": null,
               "serviceIds": {
-                "smashgg": "904480"
+                "smashgg": "149186"
               }
             },
             "score": 0,
@@ -97,79 +106,13 @@
         "event": "Samurai Shodown top 8",
         "messages": [
           "Samurai Shodown top 8 Starting Soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "46448216",
-            "phaseId": "1105738",
-            "phaseGroupId": "1722796"
-          },
-          "match": {
-            "id": "ws",
-            "name": "Winners Semis",
-            "smashggId": "Winners Semi-Final"
-          },
-          "videogame": {
-            "id": "ss7",
-            "name": "Samurai Shodown",
-            "shortNames": [
-              "SamSho 7",
-              "SS7"
-            ],
-            "hashtags": [
-              "SamSho",
-              "EmbraceDeath"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "SAMURAI SHODOWN"
-              },
-              "smashgg": {
-                "id": "3568"
-              },
-              "challonge": {
-                "id": "39280"
-              }
-            }
-          },
-          "shortIdentifier": "B",
-          "displayName": "B - ws: Chueko vs Paygun",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Chueko",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "286317",
-                  "handle": "Chueko",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Paygun",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "904480",
-                  "handle": "Paygun",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
+        ]
       }
     },
     {
       "id": "46448216",
       "displayName": "B - ws: Paygun vs Chueko",
+      "title": "[SamSho] Lunar Bout 2022 Top 8 Winners Semis: Paygun (Jubei) vs Chueko (Ruixiang)",
       "start": "03:06:45.014",
       "end": "03:17:18.063",
       "state": {
@@ -329,7 +272,8 @@
     {
       "id": "46448228",
       "displayName": "F - Losers Eighths: TakiTonfa vs DMV | Tao",
-      "start": "03:18:44.000",
+      "title": "[SamSho] Lunar Bout 2022 Top 8 Losers Eighths: TakiTonfa (Jubei) vs DMV | Tao (Rimururu, Galford)",
+      "start": "03:18:36",
       "end": "03:29:23.996",
       "state": {
         "players": [
@@ -493,7 +437,8 @@
     },
     {
       "id": "46448229",
-      "displayName": "G - Losers Eighths: DTN MTFY | Ghost the Trinity vs Viet Luu",
+      "displayName": "G - Losers Eighths: DTN | Ghost the Trinity vs Viet Luu",
+      "title": "[SamSho] Lunar Bout 2022 Top 8 Losers Eighths: DTN | Ghost the Trinity (Ukyo) vs Viet Luu (Nakoruru)",
       "start": "03:30:04.140",
       "end": "03:44:30.444",
       "state": {
@@ -502,7 +447,7 @@
             "person": {
               "id": "d202204161310340050000",
               "handle": "Ghost the Trinity",
-              "prefix": "DTN MTFY",
+              "prefix": "DTN",
               "serviceIds": {
                 "twitter": "GHOST_EMPEROR",
                 "smashgg": "156051"
@@ -656,7 +601,8 @@
     {
       "id": "46448217",
       "displayName": "C - wf: ScrubSaibot vs Paygun",
-      "start": "03:46:01.046",
+      "title": "[SamSho] Lunar Bout 2022 Top 8 Winners Finals: ScrubSaibot (Baiken) vs Paygun (Jubei)",
+      "start": "03:46:37",
       "end": "03:55:45.748",
       "state": {
         "players": [
@@ -815,6 +761,7 @@
     {
       "id": "46448230",
       "displayName": "H - lq: DMV | Tao vs Chueko",
+      "title": "[SamSho] Lunar Bout 2022 Top 8 Losers Quarters: DMV | Tao (Galford) vs Chueko (Ruixiang)",
       "start": "03:57:21.864",
       "end": "04:03:27.461",
       "state": {
@@ -977,6 +924,7 @@
     {
       "id": "46448231",
       "displayName": "I - lq: Sorrow vs DTN | Ghost the Trinity",
+      "title": "[SamSho] Lunar Bout 2022 Top 8 Losers Quarters: Sorrow (Hibiki) vs DTN | Ghost the Trinity (Ukyo)",
       "start": "04:04:15.125",
       "end": "04:15:37.973",
       "state": {
@@ -1138,7 +1086,8 @@
     },
     {
       "id": "46448232",
-      "displayName": "J - ls: DMV | Tao vs DTN MTFY | Ghost the Trinity",
+      "displayName": "J - ls: DMV | Tao vs DTN | Ghost the Trinity",
+      "title": "[SamSho] Lunar Bout 2022 Top 8 Losers Semis: DMV | Tao (Galford) vs DTN | Ghost the Trinity (Ukyo)",
       "start": "04:16:56.382",
       "end": "04:22:46.780",
       "state": {
@@ -1161,7 +1110,7 @@
             "person": {
               "id": "d202204161310340050000",
               "handle": "Ghost the Trinity",
-              "prefix": "DTN MTFY",
+              "prefix": "DTN",
               "serviceIds": {
                 "twitter": "GHOST_EMPEROR",
                 "smashgg": "156051"
@@ -1304,6 +1253,7 @@
     {
       "id": "46448233",
       "displayName": "K - lf: DMV | Tao vs Paygun",
+      "title": "[SamSho] Lunar Bout 2022 Top 8 Losers Finals: DMV | Tao (Galford) vs Paygun (Jubei)",
       "start": "04:23:04.513",
       "end": "04:32:08.444",
       "state": {
@@ -1466,6 +1416,7 @@
     {
       "id": "46448218",
       "displayName": "D - tf: DMV | Tao vs ScrubSaibot",
+      "title": "[SamSho] Lunar Bout 2022 Top 8 Grand Finals: DMV | Tao (Galford) vs ScrubSaibot (Baiken, Gongsun Li)",
       "start": "04:34:06.077",
       "end": "05:08:52.382",
       "state": {
