@@ -1,0 +1,355 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2022-05-21 15-59-46.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1122666",
+  "eventId": "718868",
+  "phaseName": "Top 3",
+  "start": "01:38:25",
+  "end": "02:18:16",
+  "sets": [
+    {
+      "id": "47582203",
+      "displayName": "Q - lf: Threxx vs MrQuotes",
+      "start": "01:39:25.252",
+      "end": "01:49:54.882",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202205212137574430000",
+              "handle": "Threxx",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Threxx11",
+                "smashgg": "571690"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202205212137574420000",
+              "handle": "MrQuotes",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "quotesdeezy",
+                "smashgg": "704259"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "gbvs",
+          "name": "Granblue Fantasy: Versus",
+          "shortNames": [
+            "Granblue Versus",
+            "Granblue"
+          ],
+          "hashtags": [
+            "GBVS"
+          ],
+          "additionalTags": [
+            "Granblue Fantasy",
+            "Granblue",
+            "GBFV"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Granblue Fantasy: Versus"
+            },
+            "smashgg": {
+              "id": "22107"
+            },
+            "challonge": {
+              "id": "157010"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #11",
+        "event": "",
+        "messages": [
+          "Granblue top 3 up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "47582203",
+            "phaseId": "1122666",
+            "phaseGroupId": "1745791"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "gbvs",
+            "name": "Granblue Fantasy: Versus",
+            "shortNames": [
+              "Granblue Versus",
+              "Granblue"
+            ],
+            "hashtags": [
+              "GBVS"
+            ],
+            "additionalTags": [
+              "Granblue Fantasy",
+              "Granblue",
+              "GBFV"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Granblue Fantasy: Versus"
+              },
+              "smashgg": {
+                "id": "22107"
+              },
+              "challonge": {
+                "id": "157010"
+              }
+            }
+          },
+          "shortIdentifier": "Q",
+          "displayName": "Q - lf: MrQuotes vs Threxx",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MrQuotes",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "704259",
+                  "handle": "MrQuotes",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "quotesdeezy"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Threxx",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "571690",
+                  "handle": "Threxx",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Threxx11"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "47582172",
+      "displayName": "I - tf: Buscar Luz vs MrQuotes",
+      "start": "01:51:21.359",
+      "end": "02:18:21.869",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203192032560660001",
+              "handle": "Buscar Luz",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Buscarluz",
+                "smashgg": "1039293"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202205212137574420000",
+              "handle": "MrQuotes",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "quotesdeezy",
+                "smashgg": "704259"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "gbvs",
+          "name": "Granblue Fantasy: Versus",
+          "shortNames": [
+            "Granblue Versus",
+            "Granblue"
+          ],
+          "hashtags": [
+            "GBVS"
+          ],
+          "additionalTags": [
+            "Granblue Fantasy",
+            "Granblue",
+            "GBFV"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Granblue Fantasy: Versus"
+            },
+            "smashgg": {
+              "id": "22107"
+            },
+            "challonge": {
+              "id": "157010"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #11",
+        "event": "",
+        "messages": [
+          "Be Back Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "47582172",
+            "phaseId": "1122666",
+            "phaseGroupId": "1745791"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "gbvs",
+            "name": "Granblue Fantasy: Versus",
+            "shortNames": [
+              "Granblue Versus",
+              "Granblue"
+            ],
+            "hashtags": [
+              "GBVS"
+            ],
+            "additionalTags": [
+              "Granblue Fantasy",
+              "Granblue",
+              "GBFV"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Granblue Fantasy: Versus"
+              },
+              "smashgg": {
+                "id": "22107"
+              },
+              "challonge": {
+                "id": "157010"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - gf: Buscar Luz vs MrQuotes",
+          "completedAt": 1653170845,
+          "entrants": [
+            {
+              "name": "Buscar Luz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1039293",
+                  "handle": "Buscar Luz",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Buscarluz"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "MrQuotes",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "704259",
+                  "handle": "MrQuotes",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "quotesdeezy"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
