@@ -1,0 +1,1236 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2022-07-23 16-05-08.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1153765",
+  "eventId": "742785",
+  "start": "00:12:56.527",
+  "end": "01:33:14.000",
+  "sets": [
+    {
+      "id": "49887604",
+      "displayName": "B - wq: Nighto vs Low / masato (masato)",
+      "start": "00:12:56.527",
+      "end": "00:19:47.286",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350930002",
+              "handle": "Nighto",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2921652"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351780002",
+              "handle": "masato",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "masato_ult",
+                "smashgg": "180631"
+              },
+              "alias": "Low / masato"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "JostleHoward",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #13",
+        "event": "",
+        "messages": [
+          "MBTL Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "49887604",
+            "phaseId": "1153765",
+            "phaseGroupId": "1789600"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - wq: Nighto vs Low / masato",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Nighto",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2921652",
+                  "handle": "Nighto",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Low / masato",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "180631",
+                  "handle": "Low / masato",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "masato_ult"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "49887607",
+      "displayName": "E - ws: MF | Hyde vs Low / masato (masato)",
+      "start": "00:22:17.131",
+      "end": "00:31:57.460",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "JostleHoward",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351780002",
+              "handle": "masato",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "masato_ult",
+                "smashgg": "180631"
+              },
+              "alias": "Low / masato"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "JostleHoward",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #13",
+        "event": "",
+        "messages": [
+          "MBTL Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "49887607",
+            "phaseId": "1153765",
+            "phaseGroupId": "1789600"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - ws: MF | Hyde vs Low / masato",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MF | Hyde",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1670118",
+                  "handle": "Hyde",
+                  "prefix": "MF",
+                  "serviceIds": {
+                    "twitter": "JostleHoward"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Low / masato",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "180631",
+                  "handle": "Low / masato",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "masato_ult"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "49887608",
+      "displayName": "F - ws: Darker vs Safe",
+      "start": "00:32:15.082",
+      "end": "00:38:02.156",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202207232037195580000",
+              "handle": "Darker",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2927134"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351100001",
+              "handle": "Safe",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "232367",
+                "twitter": "SafeAndOne"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "JostleHoward",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #13",
+        "event": "",
+        "messages": [
+          "MBTL Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "49887608",
+            "phaseId": "1153765",
+            "phaseGroupId": "1789600"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - ws: Safe vs Darker",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Safe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "232367",
+                  "handle": "Safe",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "SafeAndOne"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Darker",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2927134",
+                  "handle": "Darker",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "49887623",
+      "displayName": "M - lq: deltazura vs Low / masato (masato)",
+      "start": "00:38:38.181",
+      "end": "00:44:09.434",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202207232043546650000",
+              "handle": "deltazura",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "deltazura_",
+                "smashgg": "2924300"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351780002",
+              "handle": "masato",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "masato_ult",
+                "smashgg": "180631"
+              },
+              "alias": "Low / masato"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "JostleHoward",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #13",
+        "event": "",
+        "messages": [
+          "MBTL Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "49887623",
+            "phaseId": "1153765",
+            "phaseGroupId": "1789600"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - lq: Low / masato vs deltazura",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Low / masato",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "180631",
+                  "handle": "Low / masato",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "masato_ult"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "deltazura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2924300",
+                  "handle": "deltazura",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "deltazura_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "49887609",
+      "displayName": "G - wf: MF | Hyde vs Safe",
+      "start": "00:44:54.463",
+      "end": "00:55:32.358",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "JostleHoward",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351100001",
+              "handle": "Safe",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "232367",
+                "twitter": "SafeAndOne"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "JostleHoward",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #13",
+        "event": "",
+        "messages": [
+          "MBTL Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "49887609",
+            "phaseId": "1153765",
+            "phaseGroupId": "1789600"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - wf: MF | Hyde vs Safe",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MF | Hyde",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1670118",
+                  "handle": "Hyde",
+                  "prefix": "MF",
+                  "serviceIds": {
+                    "twitter": "JostleHoward"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Safe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "232367",
+                  "handle": "Safe",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "SafeAndOne"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "49887625",
+      "displayName": "O - lf: MF | Hyde vs Low / masato (masato)",
+      "start": "01:07:33.812",
+      "end": "01:15:45.923",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "JostleHoward",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351780002",
+              "handle": "masato",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "masato_ult",
+                "smashgg": "180631"
+              },
+              "alias": "Low / masato"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351100001",
+              "handle": "Safe",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "232367",
+                "twitter": "SafeAndOne"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #13",
+        "event": "",
+        "messages": [
+          "MBTL Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "49887625",
+            "phaseId": "1153765",
+            "phaseGroupId": "1789600"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - lf: MF | Hyde vs Low / masato",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MF | Hyde",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1670118",
+                  "handle": "Hyde",
+                  "prefix": "MF",
+                  "serviceIds": {
+                    "twitter": "JostleHoward"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Low / masato",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "180631",
+                  "handle": "Low / masato",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "masato_ult"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "49887610",
+      "displayName": "H - gf: MF | Hyde vs Safe",
+      "start": "01:16:12.604",
+      "end": "01:33:14.000",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "JostleHoward",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351100001",
+              "handle": "Safe",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "232367",
+                "twitter": "SafeAndOne"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #13",
+        "event": "",
+        "messages": [
+          "KOFXV At 6pm EDT"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "49887610",
+            "phaseId": "1153765",
+            "phaseGroupId": "1789600"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - gf: Safe vs MF | Hyde",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Safe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "232367",
+                  "handle": "Safe",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "SafeAndOne"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "MF | Hyde",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1670118",
+                  "handle": "Hyde",
+                  "prefix": "MF",
+                  "serviceIds": {
+                    "twitter": "JostleHoward"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

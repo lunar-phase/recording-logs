@@ -1,0 +1,178 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2022-07-23 14-33-47.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1135032",
+  "eventId": "728294",
+  "start": "00:02:58.819",
+  "end": "00:03:01.055",
+  "sets": [
+    {
+      "id": "48574706",
+      "displayName": "G - ws: Threxx vs 25-ji | 『Tamaki』",
+      "start": "00:02:58.819",
+      "end": "00:03:01.055",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202205212137574430000",
+              "handle": "Threxx",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Threxx11",
+                "smashgg": "571690"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202107312124470030000",
+              "handle": "『Tamaki』",
+              "prefix": "25-ji",
+              "serviceIds": {
+                "twitter": "Tamaki_sh",
+                "smashgg": "175572"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "gbvs",
+          "name": "Granblue Fantasy: Versus",
+          "shortNames": [
+            "Granblue Versus",
+            "Granblue"
+          ],
+          "hashtags": [
+            "GBVS"
+          ],
+          "additionalTags": [
+            "Granblue Fantasy",
+            "Granblue",
+            "GBFV"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Granblue Fantasy: Versus"
+            },
+            "smashgg": {
+              "id": "22107"
+            },
+            "challonge": {
+              "id": "157010"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "48574706",
+            "phaseId": "1135032",
+            "phaseGroupId": "1763379"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "gbvs",
+            "name": "Granblue Fantasy: Versus",
+            "shortNames": [
+              "Granblue Versus",
+              "Granblue"
+            ],
+            "hashtags": [
+              "GBVS"
+            ],
+            "additionalTags": [
+              "Granblue Fantasy",
+              "Granblue",
+              "GBFV"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Granblue Fantasy: Versus"
+              },
+              "smashgg": {
+                "id": "22107"
+              },
+              "challonge": {
+                "id": "157010"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - ws: Threxx vs 25-ji | 『Tamaki』",
+          "completedAt": 1655585632,
+          "entrants": [
+            {
+              "name": "Threxx",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "571690",
+                  "handle": "Threxx",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Threxx11"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "25-ji | 『Tamaki』",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "175572",
+                  "handle": "『Tamaki』",
+                  "prefix": "25-ji",
+                  "serviceIds": {
+                    "twitter": "Tamaki_sh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
