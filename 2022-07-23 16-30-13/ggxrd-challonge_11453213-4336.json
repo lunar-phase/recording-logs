@@ -1,0 +1,334 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2022-07-23 16-30-13.mkv",
+  "bracketService": "challonge",
+  "phaseId": "11453213",
+  "eventId": "11453213",
+  "phaseName": "Top 4",
+  "event": {
+    "tournament": {
+      "venueAddress": "874 4th Ave, Brooklyn, NY 11232, USA",
+      "hashtag": "AONI"
+    }
+  },
+  "userData": {
+    "notes": "This broadcast is from our secondary stream, which we're currently piloting.\nExpect even better quality in the future!"
+  },
+  "start": "00:11:40",
+  "end": "00:53:26",
+  "sets": [
+    {
+      "id": "283722425",
+      "displayName": "wf: AONI | moku vs AONI | Crocs N' Socks",
+      "start": "00:12:11",
+      "end": "00:19:36.585",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "",
+          "name": "Guilty Gear Xrd Rev 2",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202106191952296290000",
+              "handle": "Reicy",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "535664",
+                "twitter": "noliferei"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd Rev 2 Top 3 Soon"
+        ]
+      }
+    },
+    {
+      "id": "283722428",
+      "displayName": "ls: AONI | pzooo vs AONI | Reicy",
+      "start": "00:22:00",
+      "end": "00:29:33.035",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106191952296290000",
+              "handle": "Reicy",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "535664",
+                "twitter": "noliferei"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "",
+          "name": "Guilty Gear Xrd Rev 2",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607",
+                "twitter": "moku_gya"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd Rev 2 Top 3 Soon"
+        ]
+      }
+    },
+    {
+      "id": "283722429",
+      "displayName": "lf: AONI | pzooo vs AONI | moku",
+      "start": "00:31:42",
+      "end": "00:44:16.236",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607",
+                "twitter": "moku_gya"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "",
+          "name": "Guilty Gear Xrd Rev 2",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080002",
+              "handle": "Royalmann00",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "Kurukurtz"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd Rev 2 Top 3 Soon"
+        ]
+      }
+    },
+    {
+      "id": "283722430",
+      "displayName": "Grand Finals: AONI | Crocs N' Socks vs AONI | moku",
+      "start": "00:46:22",
+      "end": "00:53:28.365",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607",
+                "twitter": "moku_gya"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Grand Finals",
+          "smashggId": null
+        },
+        "game": {
+          "id": "",
+          "name": "Guilty Gear Xrd Rev 2",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080002",
+              "handle": "Royalmann00",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "Kurukurtz"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd Rev 2 Top 3 Soon"
+        ]
+      }
+    }
+  ]
+}

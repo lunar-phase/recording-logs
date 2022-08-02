@@ -1,0 +1,202 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2022-07-23 16-30-13.mkv",
+  "phaseId": "unknown",
+  "phaseName": "Exhibitions",
+  "title": "Lunatic Perilune #13: DFCI Exhibitions",
+  "event": {
+    "tournament": {
+      "name": "Lunatic Perilune #13",
+      "startAt": 1658592000,
+      "url": "https://www.start.gg/tournament/lunatic-perilune-13",
+      "venueAddress": "874 4th Ave, Brooklyn, NY 11232, USA"
+    }
+  },
+  "start": "03:55:58",
+  "end": "05:08:20.5",
+  "sets": [
+    {
+      "id": null,
+      "displayName": ": BE | Tomuhawk vs SCS | Denpa",
+      "start": "03:58:56",
+      "end": "04:41:22",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomahawk",
+              "prefix": "BE",
+              "serviceIds": {
+                "twitter": "NYC_Tomuhawk",
+                "smashgg": "170633"
+              },
+              "alias": "Tomuhawk"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350780001",
+              "handle": "Denpa",
+              "prefix": "SCS",
+              "serviceIds": {
+                "twitter": "DenpaEXE",
+                "smashgg": "692211"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ft7",
+          "name": "First to 7",
+          "smashggId": null
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350090000",
+              "handle": "ChexGuy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChexGuy",
+                "smashgg": "328359"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Dengeki Bunko Fighting Climax: Ignition",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd Rev 2 Top 3 Soon"
+        ]
+      }
+    },
+    {
+      "id": null,
+      "displayName": ": LP | StraylightP vs SCS | Denpa",
+      "start": "04:42:52",
+      "end": "05:04:26.120",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350780001",
+              "handle": "Denpa",
+              "prefix": "SCS",
+              "serviceIds": {
+                "twitter": "DenpaEXE",
+                "smashgg": "692211"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ft3",
+          "name": "First to 3",
+          "smashggId": null
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350780001",
+              "handle": "Denpa",
+              "prefix": "SCS",
+              "serviceIds": {
+                "twitter": "DenpaEXE",
+                "smashgg": "692211"
+              }
+            }
+          }
+        ],
+        "tournament": "Dengeki Bunko Fighting Climax: Ignition",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd Rev 2 Top 3 Soon"
+        ]
+      }
+    }
+  ]
+}

@@ -1,17 +1,17 @@
 {
   "format": "1",
   "version": "0.6.0-rc.4",
-  "file": "..\\2022-07-23 14-33-47.mkv",
+  "file": "..\\2022-07-23 16-30-13.mkv",
   "bracketService": "smashgg",
   "phaseId": "1153769",
   "eventId": "742790",
-  "start": "01:33:31.712",
-  "end": "03:16:51.634",
+  "start": "01:29:54",
+  "end": "03:22:48",
   "sets": [
     {
-      "id": "preview_1789604_1_1",
+      "id": "49914703",
       "displayName": "A - w1: CetCam vs strobes",
-      "start": "01:33:31.712",
+      "start": "01:33:19",
       "end": "01:38:30.603",
       "state": {
         "players": [
@@ -188,10 +188,16 @@
       }
     },
     {
+      "id": "49905117",
+      "displayName": "B - w1: OMAR vs OSNYC | Kira",
+      "start": "01:44:27",
+      "end": "01:52:31.288"
+    },
+    {
       "id": "49905118",
       "displayName": "C - ws: LuFL vs CetCam",
-      "start": "01:45:05.987",
-      "end": "01:52:31.288",
+      "start": "01:56:55",
+      "end": "02:01:34",
       "state": {
         "players": [
           {
@@ -367,191 +373,15 @@
       }
     },
     {
-      "id": "49905120",
-      "displayName": "E - wf: LuFL vs ChrisBardow",
-      "start": "02:04:10.750",
-      "end": "02:12:13.992",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351790001",
-              "handle": "ChrisBardow",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "ChrisBardow",
-                "smashgg": "1154263"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "wf",
-          "name": "Winners Finals",
-          "smashggId": "Winners Final"
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          }
-        ],
-        "tournament": "Under Night In-Birth",
-        "event": "",
-        "messages": [
-          "Guilty Gear Xrd Rev 2 Top 3 Soon"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "49905120",
-            "phaseId": "1153769",
-            "phaseGroupId": "1789604"
-          },
-          "match": {
-            "id": "wf",
-            "name": "Winners Finals",
-            "smashggId": "Winners Final"
-          },
-          "videogame": {
-            "id": "uni",
-            "name": "Under Night In-Birth Exe:Late[cl-r]",
-            "shortNames": [
-              "Under Night In-Birth",
-              "Under Night",
-              "UNIclr"
-            ],
-            "hashtags": [
-              "UNIclr",
-              "inbirth"
-            ],
-            "additionalTags": [
-              "Under Night In-Birth",
-              "Under Night"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Under Night In-Birth Exe:Late[cl-r]"
-              },
-              "smashgg": {
-                "id": "33870"
-              },
-              "challonge": {
-                "id": "186168"
-              },
-              "battlefy": {
-                "id": "5e7e0d0ba6da6f1083738975"
-              }
-            }
-          },
-          "shortIdentifier": "E",
-          "displayName": "E - wf: LuFL vs ChrisBardow",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "LuFL",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "951409",
-                  "handle": "LuFL",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "LuFL_FGC"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "ChrisBardow",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1154263",
-                  "handle": "ChrisBardow",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "ChrisBardow"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "id": "49905119",
+      "displayName": "D - ws: ChrisBardow vs OSNYC | Kira",
+      "start": "02:04:00",
+      "end": "02:12:13.992"
     },
     {
       "id": "49905120",
       "displayName": "E - wf: LuFL vs ChrisBardow",
-      "start": "02:14:06.451",
+      "start": "02:13:06",
       "end": "02:24:57.990",
       "state": {
         "players": [
@@ -731,188 +561,21 @@
       }
     },
     {
-      "id": "49905136",
-      "displayName": "K - lf: ChrisBardow vs CetCam",
+      "id": "49905133",
+      "displayName": "H - lq: OSNYC | Kira vs strobes",
+      "start": "02:26:21",
+      "end": "02:35:00"
+    },
+    {
+      "id": "49905135",
+      "displayName": "J - ls: CetCam vs strobes",
       "start": "02:35:13.000",
-      "end": "02:40:24.268",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351790001",
-              "handle": "ChrisBardow",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "ChrisBardow",
-                "smashgg": "1154263"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202207232155490120000",
-              "handle": "CetCam",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "1532460"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "lf",
-          "name": "Losers Finals",
-          "smashggId": "Losers Final"
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          }
-        ],
-        "tournament": "Under Night In-Birth",
-        "event": "",
-        "messages": [
-          "Guilty Gear Xrd Rev 2 Top 3 Soon"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "49905136",
-            "phaseId": "1153769",
-            "phaseGroupId": "1789604"
-          },
-          "match": {
-            "id": "lf",
-            "name": "Losers Finals",
-            "smashggId": "Losers Final"
-          },
-          "videogame": {
-            "id": "uni",
-            "name": "Under Night In-Birth Exe:Late[cl-r]",
-            "shortNames": [
-              "Under Night In-Birth",
-              "Under Night",
-              "UNIclr"
-            ],
-            "hashtags": [
-              "UNIclr",
-              "inbirth"
-            ],
-            "additionalTags": [
-              "Under Night In-Birth",
-              "Under Night"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Under Night In-Birth Exe:Late[cl-r]"
-              },
-              "smashgg": {
-                "id": "33870"
-              },
-              "challonge": {
-                "id": "186168"
-              },
-              "battlefy": {
-                "id": "5e7e0d0ba6da6f1083738975"
-              }
-            }
-          },
-          "shortIdentifier": "K",
-          "displayName": "K - lf: ChrisBardow vs CetCam",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "ChrisBardow",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1154263",
-                  "handle": "ChrisBardow",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "ChrisBardow"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "CetCam",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1532460",
-                  "handle": "CetCam",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "end": "02:40:24.268"
     },
     {
       "id": "49905136",
       "displayName": "K - lf: CetCam vs ChrisBardow",
-      "start": "02:44:25.133",
+      "start": "02:42:08",
       "end": "02:50:09.086",
       "state": {
         "players": [
@@ -1092,187 +755,6 @@
       "id": "49905121",
       "displayName": "F - gf: LuFL vs ChrisBardow",
       "start": "02:52:31.457",
-      "end": "03:04:44.403",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351790001",
-              "handle": "ChrisBardow",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "ChrisBardow",
-                "smashgg": "1154263"
-              }
-            },
-            "score": 2,
-            "inLosers": true,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202207232155490120000",
-              "handle": "CetCam",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "1532460"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          }
-        ],
-        "tournament": "Under Night In-Birth",
-        "event": "",
-        "messages": [
-          "Guilty Gear Xrd Rev 2 Top 3 Soon"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "49905121",
-            "phaseId": "1153769",
-            "phaseGroupId": "1789604"
-          },
-          "match": {
-            "id": "gf",
-            "name": "Grand Finals",
-            "smashggId": "Grand Final"
-          },
-          "videogame": {
-            "id": "uni",
-            "name": "Under Night In-Birth Exe:Late[cl-r]",
-            "shortNames": [
-              "Under Night In-Birth",
-              "Under Night",
-              "UNIclr"
-            ],
-            "hashtags": [
-              "UNIclr",
-              "inbirth"
-            ],
-            "additionalTags": [
-              "Under Night In-Birth",
-              "Under Night"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Under Night In-Birth Exe:Late[cl-r]"
-              },
-              "smashgg": {
-                "id": "33870"
-              },
-              "challonge": {
-                "id": "186168"
-              },
-              "battlefy": {
-                "id": "5e7e0d0ba6da6f1083738975"
-              }
-            }
-          },
-          "shortIdentifier": "F",
-          "displayName": "F - gf: LuFL vs ChrisBardow",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "LuFL",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "951409",
-                  "handle": "LuFL",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "LuFL_FGC"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "ChrisBardow",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1154263",
-                  "handle": "ChrisBardow",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "ChrisBardow"
-                  }
-                }
-              ],
-              "inLosers": true
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "49905121",
-      "displayName": "F - gf: LuFL vs ChrisBardow",
-      "start": "03:04:57.473",
       "end": "03:16:51.634",
       "state": {
         "players": [
@@ -1287,7 +769,7 @@
               }
             },
             "score": 1,
-            "inLosers": true,
+            "inLosers": false,
             "comment": ""
           },
           {
