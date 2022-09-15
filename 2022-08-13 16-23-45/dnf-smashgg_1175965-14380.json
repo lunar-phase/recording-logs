@@ -1,0 +1,1640 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2022-08-13 16-23-45.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1175965",
+  "eventId": "759860",
+  "start": "00:23:16",
+  "end": "02:08:08.410",
+  "sets": [
+    {
+      "id": "50687037",
+      "displayName": "B - w1: AONI | Crocs N' Socks vs TSB | MannyBlaze",
+      "start": "00:24:01.814",
+      "end": "00:33:37.740",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132047279530000",
+              "handle": "MannyBlaze",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "175256"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202208132037504460000",
+              "handle": "Ishtar",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ishtarlive"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202202270014245670000",
+              "handle": "Jackal",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "PrettyBoyJackal",
+                "smashgg": "128068"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #14",
+        "event": "",
+        "messages": [
+          "DNF Duel Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "50687037",
+            "phaseId": "1175965",
+            "phaseGroupId": "1821181"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - w1: TSB | MannyBlaze vs AONI | Crocs N' Socks",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TSB | MannyBlaze",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "175256",
+                  "handle": "MannyBlaze",
+                  "prefix": "TSB",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "50687042",
+      "displayName": "E - wq: AONI | Crocs N' Socks vs DF | Jackal",
+      "start": "00:35:32.124",
+      "end": "00:42:55.428",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202202270014245670000",
+              "handle": "Jackal",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "PrettyBoyJackal",
+                "smashgg": "128068"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202208132037504460000",
+              "handle": "Ishtar",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ishtarlive"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #14",
+        "event": "",
+        "messages": [
+          "DNF Duel Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "50687042",
+            "phaseId": "1175965",
+            "phaseGroupId": "1821181"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - wq: DF | Jackal vs AONI | Crocs N' Socks",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "DF | Jackal",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "128068",
+                  "handle": "Jackal",
+                  "prefix": "DF",
+                  "serviceIds": {
+                    "twitter": "PrettyBoyJackal"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "50687044",
+      "displayName": "G - ws: Dang vs Jonah",
+      "start": "00:44:15.000",
+      "end": "00:49:15.607",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "cyan"
+          },
+          {
+            "person": {
+              "id": "d202008220402351620001",
+              "handle": "Jonah",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1315944"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "cream"
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202208132037504460000",
+              "handle": "Ishtar",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ishtarlive"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202202270014245670000",
+              "handle": "Jackal",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "PrettyBoyJackal",
+                "smashgg": "128068"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #14",
+        "event": "",
+        "messages": [
+          "DNF Duel Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "50687044",
+            "phaseId": "1175965",
+            "phaseGroupId": "1821181"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - ws: Dang vs Jonah",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Jonah",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1315944",
+                  "handle": "Jonah",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "50687045",
+      "displayName": "H - ws: AONI | Crocs N' Socks vs MM | Venixiline-",
+      "start": "00:50:49.937",
+      "end": "00:56:53.586",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132115238430000",
+              "handle": "Venixiline-",
+              "prefix": "MM",
+              "serviceIds": {
+                "twitter": "venixilines",
+                "smashgg": "2305271"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202208132047279530000",
+              "handle": "MannyBlaze",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "175256",
+                "twitter": "tsb_blaze"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202202270014245670000",
+              "handle": "Jackal",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "PrettyBoyJackal",
+                "smashgg": "128068"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #14",
+        "event": "",
+        "messages": [
+          "DNF Duel Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "50687045",
+            "phaseId": "1175965",
+            "phaseGroupId": "1821181"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - ws: AONI | Crocs N' Socks vs MM | Venixiline-",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "MM | Venixiline-",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2305271",
+                  "handle": "Venixiline-",
+                  "prefix": "MM",
+                  "serviceIds": {
+                    "twitter": "venixilines"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "50687075",
+      "displayName": "P - lq: Dang vs DF | Jackal",
+      "start": "00:58:35.873",
+      "end": "01:07:55.613",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202202270014245670000",
+              "handle": "Jackal",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "PrettyBoyJackal",
+                "smashgg": "128068"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202208132047279530000",
+              "handle": "MannyBlaze",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "175256",
+                "twitter": "tsb_blaze"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202208132037504460000",
+              "handle": "Ishtar",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ishtarlive"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #14",
+        "event": "",
+        "messages": [
+          "DNF Duel Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "50687075",
+            "phaseId": "1175965",
+            "phaseGroupId": "1821181"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "P",
+          "displayName": "P - lq: Dang vs DF | Jackal",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "DF | Jackal",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "128068",
+                  "handle": "Jackal",
+                  "prefix": "DF",
+                  "serviceIds": {
+                    "twitter": "PrettyBoyJackal"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "50687076",
+      "displayName": "Q - lq: MM | Venixiline- vs TSB | MannyBlaze",
+      "start": "01:08:37.450",
+      "end": "01:18:01.840",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202208132115238430000",
+              "handle": "Venixiline-",
+              "prefix": "MM",
+              "serviceIds": {
+                "twitter": "venixilines",
+                "smashgg": "2305271"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132047279530000",
+              "handle": "MannyBlaze",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "175256",
+                "twitter": "tsb_blaze"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #14",
+        "event": "",
+        "messages": [
+          "DNF Duel Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "50687076",
+            "phaseId": "1175965",
+            "phaseGroupId": "1821181"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "Q",
+          "displayName": "Q - lq: MM | Venixiline- vs TSB | MannyBlaze",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MM | Venixiline-",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2305271",
+                  "handle": "Venixiline-",
+                  "prefix": "MM",
+                  "serviceIds": {
+                    "twitter": "venixilines"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TSB | MannyBlaze",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "175256",
+                  "handle": "MannyBlaze",
+                  "prefix": "TSB",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "50687046",
+      "displayName": "I - wf: AONI | Crocs N' Socks vs Jonah",
+      "start": "01:19:18.000",
+      "end": "01:29:13.673",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351620001",
+              "handle": "Jonah",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1315944"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "MF",
+              "serviceIds": {
+                "twitter": "HydeDaLightning",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202208132037504460000",
+              "handle": "Ishtar",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ishtarlive"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #14",
+        "event": "",
+        "messages": [
+          "DNF Duel Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "50687046",
+            "phaseId": "1175965",
+            "phaseGroupId": "1821181"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - wf: Jonah vs AONI | Crocs N' Socks",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Jonah",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1315944",
+                  "handle": "Jonah",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "50687077",
+      "displayName": "R - ls: Dang vs TSB | MannyBlaze",
+      "start": "01:31:06.000",
+      "end": "01:35:36.489",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132047279530000",
+              "handle": "MannyBlaze",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "175256",
+                "twitter": "tsb_blaze"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202202270014245670000",
+              "handle": "Jackal",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "PrettyBoyJackal",
+                "smashgg": "128068"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202208132037504460000",
+              "handle": "Ishtar",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ishtarlive"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #14",
+        "event": "",
+        "messages": [
+          "DNF Duel Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "50687077",
+            "phaseId": "1175965",
+            "phaseGroupId": "1821181"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - ls: Dang vs TSB | MannyBlaze",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TSB | MannyBlaze",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "175256",
+                  "handle": "MannyBlaze",
+                  "prefix": "TSB",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "50687078",
+      "displayName": "S - lf: AONI | Crocs N' Socks vs TSB | MannyBlaze",
+      "start": "01:36:19.378",
+      "end": "01:46:13.023",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132047279530000",
+              "handle": "MannyBlaze",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "175256",
+                "twitter": "tsb_blaze"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202202270014245670000",
+              "handle": "Jackal",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "PrettyBoyJackal",
+                "smashgg": "128068"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202208132037504460000",
+              "handle": "Ishtar",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ishtarlive"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #14",
+        "event": "",
+        "messages": [
+          "DNF Duel Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "50687078",
+            "phaseId": "1175965",
+            "phaseGroupId": "1821181"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - lf: AONI | Crocs N' Socks vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "50687047",
+      "displayName": "J - gf: Jonah vs TSB | MannyBlaze",
+      "start": "01:47:35.661",
+      "end": "02:08:08.410",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351620001",
+              "handle": "Jonah",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1315944"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132047279530000",
+              "handle": "MannyBlaze",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "175256",
+                "twitter": "tsb_blaze"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202202270014245670000",
+              "handle": "Jackal",
+              "prefix": "DF",
+              "serviceIds": {
+                "twitter": "PrettyBoyJackal",
+                "smashgg": "128068"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202208132037504460000",
+              "handle": "Ishtar",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ishtarlive"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #14",
+        "event": "",
+        "messages": [
+          "KOF XV Up Next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "50687047",
+            "phaseId": "1175965",
+            "phaseGroupId": "1821181"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - gf: Jonah vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Jonah",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1315944",
+                  "handle": "Jonah",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
