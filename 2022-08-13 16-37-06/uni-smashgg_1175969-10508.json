@@ -1,17 +1,21 @@
 {
   "format": "1",
   "version": "0.6.0-rc.4",
-  "file": "..\\2022-07-23 16-30-13.mkv",
+  "file": "..\\2022-08-13 16-37-06.mkv",
   "bracketService": "smashgg",
   "phaseId": "1175969",
+  "phaseName": "Top 4",
   "eventId": "759864",
-  "start": "05:00:48.221",
-  "end": "05:44:51.000",
+  "userData": {
+    "notes": "This broadcast is from our secondary stream, which we're currently piloting.\nExpect even better quality in the future!"
+  },
+  "start": "04:59:56",
+  "end": "05:46:54",
   "sets": [
     {
       "id": "50703023",
       "displayName": "G - wf: LuFL vs DBZFORMERS",
-      "start": "05:00:48.221",
+      "start": "05:02:12",
       "end": "05:13:00.409",
       "state": {
         "players": [
@@ -192,179 +196,21 @@
       }
     },
     {
-      "id": "50703024",
-      "displayName": "H - gf: LuFL",
-      "start": "05:25:41.642",
-      "end": "05:34:05.490",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 0,
-            "inLosers": true,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202110162258542300000",
-              "handle": "Hyde",
-              "prefix": "MF",
-              "serviceIds": {
-                "twitter": "JostleHoward",
-                "smashgg": "1670118",
-                "challonge": "154836488"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #14",
-        "event": "Under Night In-Birth Exe:Late[cl-r]",
-        "messages": [
-          "Under Night In Birth Up Next"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "50703024",
-            "phaseId": "1175969",
-            "phaseGroupId": "1821186"
-          },
-          "match": {
-            "id": "gf",
-            "name": "Grand Finals",
-            "smashggId": "Grand Final"
-          },
-          "videogame": {
-            "id": "uni",
-            "name": "Under Night In-Birth Exe:Late[cl-r]",
-            "shortNames": [
-              "Under Night In-Birth",
-              "Under Night",
-              "UNIclr"
-            ],
-            "hashtags": [
-              "UNIclr",
-              "inbirth"
-            ],
-            "additionalTags": [
-              "Under Night In-Birth",
-              "Under Night"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Under Night In-Birth Exe:Late[cl-r]"
-              },
-              "smashgg": {
-                "id": "33870"
-              },
-              "challonge": {
-                "id": "186168"
-              },
-              "battlefy": {
-                "id": "5e7e0d0ba6da6f1083738975"
-              }
-            }
-          },
-          "shortIdentifier": "H",
-          "displayName": "H - gf: LuFL vs ???",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "LuFL",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "951409",
-                  "handle": "LuFL",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "LuFL_FGC"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "",
-              "participants": [],
-              "inLosers": true
-            }
-          ]
-        }
-      }
+      "id": "50703038",
+      "displayName": "N - ls: yung willy vs GaryButternubs",
+      "start": "05:16:16",
+      "end": "05:23:56"
+    },
+    {
+      "id": "50703039",
+      "displayName": "O - lf: DBZFORMERS vs GaryButternubs",
+      "start": "05:25:52",
+      "end": "05:34:05.490"
     },
     {
       "id": "50703024",
       "displayName": "H - gf: LuFL vs GaryButternubs (GaryButterNubs)",
-      "start": "05:34:31.520",
+      "start": "05:34:56",
       "end": "05:44:51.000",
       "state": {
         "players": [
