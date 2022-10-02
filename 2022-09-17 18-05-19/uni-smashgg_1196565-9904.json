@@ -5,16 +5,29 @@
   "bracketService": "smashgg",
   "phaseId": "1196565",
   "eventId": "775922",
+  "phaseName": "Top 6",
   "userData": {
     "notes": "This broadcast is from our secondary stream, which we're currently piloting.\nExpect even better quality in the future!"
   },
-  "start": "03:04:30.043",
-  "end": "04:04:49.315",
+  "start": "02:40:54",
+  "end": "04:47:46",
   "sets": [
+    {
+      "id": "52009861",
+      "displayName": "F - ws: twang vs EJay",
+      "start": "02:48:05",
+      "end": "02:54:19"
+    },
+    {
+      "id": "52009862",
+      "displayName": "G - ws: ChrisBardow vs LuFL",
+      "start": "02:57:09",
+      "end": "03:02:04"
+    },
     {
       "id": "52009893",
       "displayName": "O - lq: ChrisBardow vs LP | StraylightP",
-      "start": "03:04:30.043",
+      "start": "03:05:27",
       "end": "03:12:56.909",
       "state": {
         "players": [
@@ -191,9 +204,9 @@
       }
     },
     {
-      "id": "52009893",
+      "id": "52009892",
       "displayName": "O - lq: Zeal vs LP | EJay",
-      "start": "03:22:10.832",
+      "start": "03:21:58",
       "end": "03:30:51.384",
       "state": {
         "players": [
@@ -372,9 +385,9 @@
       }
     },
     {
-      "id": "52009893",
+      "id": "52009863",
       "displayName": "O - wf: RVNT | LuFL vs twang",
-      "start": "03:34:34.342",
+      "start": "03:34:06",
       "end": "03:45:02.356",
       "state": {
         "players": [
@@ -554,9 +567,9 @@
       }
     },
     {
-      "id": "52009893",
+      "id": "52009894",
       "displayName": "O - ls: LP | EJay vs LP | StraylightP",
-      "start": "03:49:49.381",
+      "start": "03:47:13",
       "end": "03:54:24.564",
       "state": {
         "players": [
@@ -736,9 +749,9 @@
       }
     },
     {
-      "id": "52009861",
+      "id": "52009895",
       "displayName": "F - lf: LP | EJay vs twang",
-      "start": "03:55:44.054",
+      "start": "03:55:25",
       "end": "04:04:49.315",
       "state": {
         "players": [
@@ -915,6 +928,109 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "52009864",
+      "displayName": "gf: RVNT | LuFL vs twang",
+      "start": "04:09:10",
+      "end": "04:42:49.490",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "RVNT",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351580001",
+              "handle": "twang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1523041",
+                "twitter": "twaaaaaang"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "additionalTags": [
+            "Under Night In-Birth",
+            "Under Night"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            },
+            "battlefy": {
+              "id": "5e7e0d0ba6da6f1083738975"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351580001",
+              "handle": "twang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1523041",
+                "twitter": "twaaaaaang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune:15",
+        "event": "",
+        "messages": [
+          "Under Night In Birth Up Next"
+        ]
       }
     }
   ]
