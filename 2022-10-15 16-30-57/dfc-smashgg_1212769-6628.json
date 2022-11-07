@@ -5,14 +5,106 @@
   "bracketService": "smashgg",
   "phaseId": "1212769",
   "eventId": "788593",
-  "start": "01:40:10.434",
-  "end": "03:30:19.913",
+  "userData": {
+    "notes": "This broadcast is from our secondary stream, which we're currently piloting.\nExpect even better quality in the future!"
+  },
+  "start": "01:21:54",
+  "end": "03:32:30",
   "sets": [
+    {
+      "id": "53056484",
+      "displayName": "w1: ChexGuy vs Syrorin",
+      "start": "01:23:48",
+      "end": "01:33:10.944",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350090000",
+              "handle": "ChexGuy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChexGuy",
+                "smashgg": "328359"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351250001",
+              "handle": "Syrorin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "syrorin",
+                "smashgg": "573623"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [
+          "Dengeki Bunko Coming Up"
+        ]
+      }
+    },
     {
       "id": "53056493",
       "displayName": "D - wq: Alps vs PPT | KaiAi (nyczbrandon)",
-      "start": "01:40:10.434",
-      "end": "01:41:44.104",
+      "start": "01:34:54",
+      "end": "01:42:12",
       "state": {
         "players": [
           {
@@ -172,8 +264,8 @@
     {
       "id": "53056494",
       "displayName": "E - wq: IA | j.g. vs S.O.N.G. | Tomuhawk (Tomahawk)",
-      "start": "01:44:01.329",
-      "end": "01:50:41.789",
+      "start": "01:43:52",
+      "end": "01:50:55",
       "state": {
         "players": [
           {
@@ -332,10 +424,16 @@
       }
     },
     {
+      "id": "53056520",
+      "displayName": "l1: Tomuhawk vs ChexGuy",
+      "start": "01:58:00",
+      "end": "02:02:46"
+    },
+    {
       "id": "53056495",
       "displayName": "F - ws: 25-ji | 『Tamaki』 vs LP | StraylightP",
-      "start": "01:58:11.590",
-      "end": "02:10:19.941",
+      "start": "02:03:48",
+      "end": "02:10:33",
       "state": {
         "players": [
           {
@@ -495,8 +593,8 @@
     {
       "id": "53056496",
       "displayName": "G - ws: Alps vs IA | j.g.",
-      "start": "02:12:17.596",
-      "end": "02:23:41.513",
+      "start": "02:11:40",
+      "end": "02:23:00",
       "state": {
         "players": [
           {
@@ -655,8 +753,8 @@
     {
       "id": "53056497",
       "displayName": "H - wf: Alps vs 25-ji | 『Tamaki』",
-      "start": "02:26:30.461",
-      "end": "02:37:53.843",
+      "start": "02:24:34",
+      "end": "02:37:25",
       "state": {
         "players": [
           {
@@ -816,8 +914,8 @@
     {
       "id": "53056527",
       "displayName": "O - lq: IA | j.g. vs Denpa",
-      "start": "02:42:08.381",
-      "end": "02:47:54.626",
+      "start": "02:42:25",
+      "end": "02:48:07",
       "state": {
         "players": [
           {
@@ -977,8 +1075,8 @@
     {
       "id": "53056528",
       "displayName": "P - ls: LP | StraylightP vs Denpa",
-      "start": "02:49:10.926",
-      "end": "03:00:02.974",
+      "start": "02:49:36",
+      "end": "03:00:33",
       "state": {
         "players": [
           {
@@ -1136,9 +1234,15 @@
       }
     },
     {
+      "id": "53056529",
+      "displayName": "lf: Alps vs Denpa",
+      "start": "03:01:26",
+      "end": "03:14:45"
+    },
+    {
       "id": "53056498",
       "displayName": "I - gf: Alps vs 25-ji | 『Tamaki』",
-      "start": "03:17:21.183",
+      "start": "03:16:13",
       "end": "03:30:19.913",
       "state": {
         "players": [

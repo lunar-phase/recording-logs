@@ -4,15 +4,19 @@
   "file": "..\\2022-10-15 16-30-57.mkv",
   "bracketService": "smashgg",
   "phaseId": "1212772",
+  "phaseName": "Top 4",
   "eventId": "788596",
-  "start": "05:11:02.720",
-  "end": "06:14:24.507",
+  "userData": {
+    "notes": "This broadcast is from our secondary stream, which we're currently piloting.\nExpect even better quality in the future!"
+  },
+  "start": "05:07:15",
+  "end": "06:14:44",
   "sets": [
     {
       "id": "53065819",
       "displayName": "H - wf: RVNT | LuFL vs twang",
-      "start": "05:11:02.720",
-      "end": "05:25:35.839",
+      "start": "05:09:30",
+      "end": "05:26:11",
       "state": {
         "players": [
           {
@@ -191,182 +195,21 @@
       }
     },
     {
-      "id": "53065820",
-      "displayName": "I - gf: RVNT | LuFL vs Low / masato (masato)",
-      "start": "05:34:19.242",
-      "end": "05:48:48.319",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": "RVNT",
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351780002",
-              "handle": "masato",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "masato_ult",
-                "smashgg": "180631"
-              },
-              "alias": "Low / masato"
-            },
-            "score": 0,
-            "inLosers": true,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202103141900097160000",
-              "handle": "Pandabetic",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "617072",
-                "twitter": "Pandabetic__"
-              }
-            }
-          }
-        ],
-        "tournament": "",
-        "event": "",
-        "messages": [
-          "Guilty Gear XRD REV2 coming up!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "53065820",
-            "phaseId": "1212772",
-            "phaseGroupId": "1871229"
-          },
-          "match": {
-            "id": "gf",
-            "name": "Grand Finals",
-            "smashggId": "Grand Final"
-          },
-          "videogame": {
-            "id": "uni",
-            "name": "Under Night In-Birth Exe:Late[cl-r]",
-            "shortNames": [
-              "Under Night In-Birth",
-              "Under Night",
-              "UNIclr"
-            ],
-            "hashtags": [
-              "UNIclr",
-              "inbirth"
-            ],
-            "additionalTags": [
-              "Under Night In-Birth",
-              "Under Night"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Under Night In-Birth Exe:Late[cl-r]"
-              },
-              "smashgg": {
-                "id": "33870"
-              },
-              "challonge": {
-                "id": "186168"
-              },
-              "battlefy": {
-                "id": "5e7e0d0ba6da6f1083738975"
-              }
-            }
-          },
-          "shortIdentifier": "I",
-          "displayName": "I - gf: RVNT | LuFL vs ???",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "RVNT | LuFL",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "951409",
-                  "handle": "LuFL",
-                  "prefix": "RVNT",
-                  "serviceIds": {
-                    "twitter": "LuFL_FGC"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "",
-              "participants": [],
-              "inLosers": true
-            }
-          ]
-        }
-      }
+      "id": "53065850",
+      "displayName": "ls: Cy vs Low",
+      "start": "05:28:36",
+      "end": "05:33:27"
+    },
+    {
+      "id": "53065851",
+      "displayName": "lf: twang vs Low",
+      "start": "05:34:06",
+      "end": "05:48:08"
     },
     {
       "id": "53065820",
       "displayName": "I - gf: RVNT | LuFL vs Low / masato (masato)",
-      "start": "05:50:34.345",
+      "start": "05:49:55",
       "end": "06:14:24.507",
       "state": {
         "players": [
