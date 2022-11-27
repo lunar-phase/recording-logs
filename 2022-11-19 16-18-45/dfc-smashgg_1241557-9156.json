@@ -1,0 +1,163 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2022-11-19 16-18-45.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1241557",
+  "eventId": "811179",
+  "start": "00:11:58.798",
+  "end": "00:42:05.974",
+  "sets": [
+    {
+      "id": "preview_1908817_1_0",
+      "displayName": "A - ft7: S.O.N.G. | Tomuhawk (Tomahawk) vs IA | j.g.",
+      "start": "00:11:58.798",
+      "end": "00:42:05.974",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomahawk",
+              "prefix": "S.O.N.G.",
+              "serviceIds": {
+                "twitter": "NYC_Tomuhawk",
+                "smashgg": "170633"
+              },
+              "alias": "Tomuhawk"
+            },
+            "score": 6,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            },
+            "score": 6,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ft7",
+          "name": "First to 7",
+          "smashggId": null
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [
+          "Guilty Gear: Xrd Coming Up Next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "preview_1908817_1_0",
+            "phaseId": "1241557",
+            "phaseGroupId": "1908817"
+          },
+          "match": null,
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - Round 1: IA | j.g. vs S.O.N.G. | Tomuhawk",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "IA | j.g.",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "353501",
+                  "handle": "j.g.",
+                  "prefix": "IA",
+                  "serviceIds": {
+                    "twitter": "landofpoverty"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "S.O.N.G. | Tomuhawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "170633",
+                  "handle": "Tomuhawk",
+                  "prefix": "S.O.N.G.",
+                  "serviceIds": {
+                    "twitter": "NYC_Tomuhawk"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
