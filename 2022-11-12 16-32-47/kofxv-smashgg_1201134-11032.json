@@ -5,9 +5,115 @@
   "bracketService": "smashgg",
   "phaseId": "1201134",
   "eventId": "779536",
-  "start": "00:24:06.000",
+  "title": "Heavenly Kings Colosseum: New York Qualifier",
+  "event": {
+    "tournament": {
+      "name": "Heavenly Kings Colosseum",
+      "hashtag": "HKColosseum"
+    }
+  },
+  "start": "00:10:50",
   "end": "01:14:03.639",
   "sets": [
+    {
+      "id": "54113070",
+      "displayName": "rr: PAG | Virgo vs Steevy",
+      "start": "00:14:00.427",
+      "end": "00:22:18.256",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351640000",
+              "handle": "Virgo",
+              "prefix": "PAG",
+              "serviceIds": {
+                "twitter": "PAG_VIRGO",
+                "smashgg": "142256"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202211122149361510000",
+              "handle": "Steevy",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3123125"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202211122146311490000",
+              "handle": "El Promesa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "El_Hoemesa"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Heavenly Kings Colosseum",
+        "event": "",
+        "messages": [
+          "HKC Qualifier Starting Soon"
+        ]
+      }
+    },
     {
       "id": "54113069",
       "displayName": "C - rr: Newtype vs LP | Monta",
