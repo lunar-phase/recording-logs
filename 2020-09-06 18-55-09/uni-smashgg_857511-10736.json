@@ -1,0 +1,876 @@
+{
+  "format": "1",
+  "version": "0.5.0",
+  "file": "C:\\Users\\mullings\\Projects\\OBS\\NYCFB\\OBS-Studio\\bin\\64bit\\root\\Recording\\2020-09-06 18-55-09.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "857511",
+  "eventId": "515347",
+  "event": {
+    "tournament": {
+      "name": "LP Online #13",
+      "venueName": "Online"
+    }
+  },
+  "start": "00:14:30",
+  "end": "01:34:00",
+  "sets": [
+    {
+      "id": "31987028",
+      "displayName": "E - Round 3: Azure Under Night vs WS| | AngryMad",
+      "start": "00:21:40.445",
+      "end": "00:30:33.534",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008240120465500000",
+              "handle": "Azure Under Night",
+              "prefix": null,
+              "smashggId": "937011",
+              "twitter": "Azure_Under"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008232346449930000",
+              "handle": "AngryMad",
+              "prefix": "WS",
+              "smashggId": "426306"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "twitter": "gramofdata"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "twitter": "Gosuda_",
+              "smashggId": "1225997"
+            }
+          }
+        ],
+        "tournament": "LP Online #13",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "31987028",
+            "phaseId": "857511"
+          },
+          "match": null,
+          "videogame": {
+            "id": "uni",
+            "name": "Under Night In-Birth Exe:Late[cl-r]",
+            "shortNames": [
+              "Under Night In-Birth",
+              "Under Night",
+              "UNIclr"
+            ],
+            "hashtags": [
+              "UNIclr",
+              "inbirth"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Under Night In-Birth Exe:Late[cl-r]"
+              },
+              "smashgg": {
+                "id": "33870"
+              },
+              "challonge": {
+                "id": "186168"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - Round 3: Azure Under Night vs WS| | AngryMad",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Azure Under Night",
+              "participants": [
+                {
+                  "smashggId": "937011",
+                  "handle": "Azure Under Night",
+                  "prefix": null,
+                  "twitter": "Azure_Under"
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WS| | AngryMad",
+              "participants": [
+                {
+                  "smashggId": "426306",
+                  "handle": "AngryMad",
+                  "prefix": "WS|"
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "31987029",
+      "displayName": "F - Round 3: LYC | John Vi vs Orochi(Shinobi)",
+      "start": "00:32:44.000",
+      "end": "00:41:54.494",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008232359566990000",
+              "handle": "John Vi",
+              "prefix": "LYC",
+              "smashggId": "1993726"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202009062249333010000",
+              "handle": "Orochi(Shinobi)",
+              "prefix": null,
+              "smashggId": "1977958"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "twitter": "gramofdata"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "twitter": "Gosuda_",
+              "smashggId": "1225997"
+            }
+          }
+        ],
+        "tournament": "LP Online #13",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "31987029",
+            "phaseId": "857511"
+          },
+          "match": null,
+          "videogame": {
+            "id": "uni",
+            "name": "Under Night In-Birth Exe:Late[cl-r]",
+            "shortNames": [
+              "Under Night In-Birth",
+              "Under Night",
+              "UNIclr"
+            ],
+            "hashtags": [
+              "UNIclr",
+              "inbirth"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Under Night In-Birth Exe:Late[cl-r]"
+              },
+              "smashgg": {
+                "id": "33870"
+              },
+              "challonge": {
+                "id": "186168"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - Round 3: LYC | John Vi vs Orochi(Shinobi)",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LYC | John Vi",
+              "participants": [
+                {
+                  "smashggId": "1993726",
+                  "handle": "John Vi",
+                  "prefix": "LYC"
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Orochi(Shinobi)",
+              "participants": [
+                {
+                  "smashggId": "1977958",
+                  "handle": "Orochi(Shinobi)",
+                  "prefix": null
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "31987025",
+      "displayName": "B - Round 1: WS| | AngryMad vs LYC | John Vi",
+      "start": "00:42:59.105",
+      "end": "00:53:21.247",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008232346449930000",
+              "handle": "AngryMad",
+              "prefix": "WS",
+              "smashggId": "426306"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008232359566990000",
+              "handle": "John Vi",
+              "prefix": "LYC",
+              "smashggId": "1993726"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "twitter": "gramofdata"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "twitter": "Gosuda_",
+              "smashggId": "1225997"
+            }
+          }
+        ],
+        "tournament": "LP Online #13",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "31987025",
+            "phaseId": "857511"
+          },
+          "match": null,
+          "videogame": {
+            "id": "uni",
+            "name": "Under Night In-Birth Exe:Late[cl-r]",
+            "shortNames": [
+              "Under Night In-Birth",
+              "Under Night",
+              "UNIclr"
+            ],
+            "hashtags": [
+              "UNIclr",
+              "inbirth"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Under Night In-Birth Exe:Late[cl-r]"
+              },
+              "smashgg": {
+                "id": "33870"
+              },
+              "challonge": {
+                "id": "186168"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - Round 1: WS| | AngryMad vs LYC | John Vi",
+          "completedAt": 1599436099,
+          "entrants": [
+            {
+              "name": "WS| | AngryMad",
+              "participants": [
+                {
+                  "smashggId": "426306",
+                  "handle": "AngryMad",
+                  "prefix": "WS|"
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LYC | John Vi",
+              "participants": [
+                {
+                  "smashggId": "1993726",
+                  "handle": "John Vi",
+                  "prefix": "LYC"
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "31987024",
+      "displayName": "A - Round 1: Azure Under Night vs Orochi(Shinobi)",
+      "start": "00:54:05.000",
+      "end": "01:03:27.127",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202009062249333010000",
+              "handle": "Orochi(Shinobi)",
+              "prefix": null,
+              "smashggId": "1977958"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008240120465500000",
+              "handle": "Azure Under Night",
+              "prefix": null,
+              "smashggId": "937011",
+              "twitter": "Azure_Under"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "twitter": "gramofdata"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "twitter": "Gosuda_",
+              "smashggId": "1225997"
+            }
+          }
+        ],
+        "tournament": "LP Online #13",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "31987024",
+            "phaseId": "857511"
+          },
+          "match": null,
+          "videogame": {
+            "id": "uni",
+            "name": "Under Night In-Birth Exe:Late[cl-r]",
+            "shortNames": [
+              "Under Night In-Birth",
+              "Under Night",
+              "UNIclr"
+            ],
+            "hashtags": [
+              "UNIclr",
+              "inbirth"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Under Night In-Birth Exe:Late[cl-r]"
+              },
+              "smashgg": {
+                "id": "33870"
+              },
+              "challonge": {
+                "id": "186168"
+              }
+            }
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - Round 1: Azure Under Night vs Orochi(Shinobi)",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Azure Under Night",
+              "participants": [
+                {
+                  "smashggId": "937011",
+                  "handle": "Azure Under Night",
+                  "prefix": null,
+                  "twitter": "Azure_Under"
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Orochi(Shinobi)",
+              "participants": [
+                {
+                  "smashggId": "1977958",
+                  "handle": "Orochi(Shinobi)",
+                  "prefix": null
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "31987026",
+      "displayName": "C - Round 2: Azure Under Night vs LYC | John Vi",
+      "start": "01:05:15.810",
+      "end": "01:15:22.625",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008232359566990000",
+              "handle": "John Vi",
+              "prefix": "LYC",
+              "smashggId": "1993726"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008240120465500000",
+              "handle": "Azure Under Night",
+              "prefix": null,
+              "smashggId": "937011",
+              "twitter": "Azure_Under"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "twitter": "gramofdata"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "twitter": "Gosuda_",
+              "smashggId": "1225997"
+            }
+          }
+        ],
+        "tournament": "LP Online #13",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "31987026",
+            "phaseId": "857511"
+          },
+          "match": null,
+          "videogame": {
+            "id": "uni",
+            "name": "Under Night In-Birth Exe:Late[cl-r]",
+            "shortNames": [
+              "Under Night In-Birth",
+              "Under Night",
+              "UNIclr"
+            ],
+            "hashtags": [
+              "UNIclr",
+              "inbirth"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Under Night In-Birth Exe:Late[cl-r]"
+              },
+              "smashgg": {
+                "id": "33870"
+              },
+              "challonge": {
+                "id": "186168"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - Round 2: Azure Under Night vs LYC | John Vi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Azure Under Night",
+              "participants": [
+                {
+                  "smashggId": "937011",
+                  "handle": "Azure Under Night",
+                  "prefix": null,
+                  "twitter": "Azure_Under"
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LYC | John Vi",
+              "participants": [
+                {
+                  "smashggId": "1993726",
+                  "handle": "John Vi",
+                  "prefix": "LYC"
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "31987027",
+      "displayName": "D - Round 2: Orochi(Shinobi) vs WS| | AngryMad",
+      "start": "01:18:45.000",
+      "end": "01:31:01.831",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202009062249333010000",
+              "handle": "Orochi(Shinobi)",
+              "prefix": null,
+              "smashggId": "1977958"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008232346449930000",
+              "handle": "AngryMad",
+              "prefix": "WS",
+              "smashggId": "426306"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "twitter": "gramofdata"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "twitter": "Gosuda_",
+              "smashggId": "1225997"
+            }
+          }
+        ],
+        "tournament": "LP Online #13",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "31987027",
+            "phaseId": "857511"
+          },
+          "match": null,
+          "videogame": {
+            "id": "uni",
+            "name": "Under Night In-Birth Exe:Late[cl-r]",
+            "shortNames": [
+              "Under Night In-Birth",
+              "Under Night",
+              "UNIclr"
+            ],
+            "hashtags": [
+              "UNIclr",
+              "inbirth"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Under Night In-Birth Exe:Late[cl-r]"
+              },
+              "smashgg": {
+                "id": "33870"
+              },
+              "challonge": {
+                "id": "186168"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - Round 2: Orochi(Shinobi) vs WS| | AngryMad",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Orochi(Shinobi)",
+              "participants": [
+                {
+                  "smashggId": "1977958",
+                  "handle": "Orochi(Shinobi)",
+                  "prefix": null
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WS| | AngryMad",
+              "participants": [
+                {
+                  "smashggId": "426306",
+                  "handle": "AngryMad",
+                  "prefix": "WS|"
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

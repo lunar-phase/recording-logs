@@ -1,0 +1,2147 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc2",
+  "file": "..\\2021-02-28 13-52-17.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "908044",
+  "eventId": "552517",
+  "event": {
+    "tournament": {
+      "name": "LP Online #16",
+      "venueName": "Online"
+    }
+  },
+  "title": "LP x NYCFurby GGXXAC+R Hexagonal Shift",
+  "additionalTags": [ "NYCFurby" ],
+  "start": "00:14:19",
+  "end": "02:45:07",
+  "sets": [
+    {
+      "id": "35655282",
+      "displayName": "B - w1: Ryan_K vs sweeb makuto",
+      "start": "00:20:23.189",
+      "end": "00:26:10.940",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352060000",
+              "handle": "Ryan_K",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "RYANdashK",
+                "smashgg": "4919"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102281905131940000",
+              "handle": "sweeb makuto",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1981827"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655282",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - w1: Ryan_K vs sweeb makuto",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Ryan_K",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4919",
+                  "handle": "Ryan_K",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "sweeb makuto",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1981827",
+                  "handle": "sweeb makuto",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655304",
+      "displayName": "Q - wq: PNW | SeizonSenryaku vs SRK | Woocash",
+      "start": "00:26:26.000",
+      "end": "00:40:39.954",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102281927459350000",
+              "handle": "SeizonSenryaku",
+              "prefix": "PNW",
+              "serviceIds": {
+                "smashgg": "512482"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102142057155560000",
+              "handle": "Woocash",
+              "prefix": "SRK",
+              "serviceIds": {
+                "smashgg": "156734"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655304",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "Q",
+          "displayName": "Q - wq: SRK | Woocash vs PNW | SeizonSenryaku",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SRK | Woocash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156734",
+                  "handle": "Woocash",
+                  "prefix": "SRK",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "PNW | SeizonSenryaku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "512482",
+                  "handle": "SeizonSenryaku",
+                  "prefix": "PNW",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655302",
+      "displayName": "O - wq: The | Agendine vs GBG | Capconian",
+      "start": "00:41:10.057",
+      "end": "00:46:20.746",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102281933054000000",
+              "handle": "Agendine",
+              "prefix": "The",
+              "serviceIds": {
+                "smashgg": "2185554"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350080000",
+              "handle": "Capconian",
+              "prefix": "GBG",
+              "serviceIds": {
+                "smashgg": "158908",
+                "twitter": "Capconian"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655302",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - wq: GBG | Capconian vs The | Agendine",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GBG | Capconian",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "158908",
+                  "handle": "Capconian",
+                  "prefix": "GBG",
+                  "serviceIds": {
+                    "twitter": "Capconian"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "The | Agendine",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2185554",
+                  "handle": "Agendine",
+                  "prefix": "The",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655305",
+      "displayName": "R - ws: GBG | Capconian vs FF | ElvenShadow",
+      "start": "00:59:07.081",
+      "end": "01:03:57.641",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350080000",
+              "handle": "Capconian",
+              "prefix": "GBG",
+              "serviceIds": {
+                "smashgg": "158908",
+                "twitter": "Capconian"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102142117266360000",
+              "handle": "ElvenShadow",
+              "prefix": "FF",
+              "serviceIds": {
+                "twitter": "elvenshadowmike",
+                "smashgg": "156744"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655305",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - ws: FF | ElvenShadow vs GBG | Capconian",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "FF | ElvenShadow",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156744",
+                  "handle": "ElvenShadow",
+                  "prefix": "FF",
+                  "serviceIds": {
+                    "twitter": "elvenshadowmike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GBG | Capconian",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "158908",
+                  "handle": "Capconian",
+                  "prefix": "GBG",
+                  "serviceIds": {
+                    "twitter": "Capconian"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655306",
+      "displayName": "S - ws: SRK | Woocash vs Skeletal Minion",
+      "start": "01:05:03.988",
+      "end": "01:12:58.392",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102142057155560000",
+              "handle": "Woocash",
+              "prefix": "SRK",
+              "serviceIds": {
+                "smashgg": "156734"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202011070416335420000",
+              "handle": "Skeletal Minion",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "173063",
+                "twitter": "Skeletal_Minion"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655306",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - ws: Skeletal Minion vs SRK | Woocash",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Skeletal Minion",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173063",
+                  "handle": "Skeletal Minion",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Skeletal_Minion"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SRK | Woocash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156734",
+                  "handle": "Woocash",
+                  "prefix": "SRK",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655367",
+      "displayName": "AK - l4: PNW | SeizonSenryaku vs Infinity",
+      "start": "01:14:28.884",
+      "end": "01:20:57.080",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102281927459350000",
+              "handle": "SeizonSenryaku",
+              "prefix": "PNW",
+              "serviceIds": {
+                "smashgg": "512482"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "white"
+          },
+          {
+            "person": {
+              "id": "d202008220402352760001",
+              "handle": "Infinity",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "10564"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "royal blue"
+          }
+        ],
+        "match": {
+          "id": "l4",
+          "name": "Losers Round 4",
+          "smashggId": "Losers Round 4"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655367",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "l4",
+            "name": "Losers Round 4",
+            "smashggId": "Losers Round 4"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AK",
+          "displayName": "AK - l4: PNW | SeizonSenryaku vs Infinity",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "PNW | SeizonSenryaku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "512482",
+                  "handle": "SeizonSenryaku",
+                  "prefix": "PNW",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Infinity",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "10564",
+                  "handle": "Infinity",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655366",
+      "displayName": "AJ - l4: Booleanaire vs Froton Blanco X",
+      "start": "01:21:32.272",
+      "end": "01:28:37.022",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102282013208160000",
+              "handle": "Booleanaire",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "407080"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202011280138377240000",
+              "handle": "Froton Blanco X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "theefenders",
+                "smashgg": "1407630"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l4",
+          "name": "Losers Round 4",
+          "smashggId": "Losers Round 4"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655366",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "l4",
+            "name": "Losers Round 4",
+            "smashggId": "Losers Round 4"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AJ",
+          "displayName": "AJ - l4: Booleanaire vs Froton Blanco X",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Booleanaire",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "407080",
+                  "handle": "Booleanaire",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Froton Blanco X",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1407630",
+                  "handle": "Froton Blanco X",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "theefenders"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655369",
+      "displayName": "AM - lq: GBG | Capconian vs Infinity",
+      "start": "01:34:07.556",
+      "end": "01:43:05.240",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350080000",
+              "handle": "Capconian",
+              "prefix": "GBG",
+              "serviceIds": {
+                "smashgg": "158908",
+                "twitter": "Capconian"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352760001",
+              "handle": "Infinity",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "10564"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655369",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AM",
+          "displayName": "AM - lq: GBG | Capconian vs Infinity",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GBG | Capconian",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "158908",
+                  "handle": "Capconian",
+                  "prefix": "GBG",
+                  "serviceIds": {
+                    "twitter": "Capconian"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Infinity",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "10564",
+                  "handle": "Infinity",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655368",
+      "displayName": "AL - lq: Froton Blanco X vs SRK | Woocash",
+      "start": "01:43:43.567",
+      "end": "01:49:13.687",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011280138377240000",
+              "handle": "Froton Blanco X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "theefenders",
+                "smashgg": "1407630"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102142057155560000",
+              "handle": "Woocash",
+              "prefix": "SRK",
+              "serviceIds": {
+                "smashgg": "156734"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655368",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AL",
+          "displayName": "AL - lq: SRK | Woocash vs Froton Blanco X",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SRK | Woocash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156734",
+                  "handle": "Woocash",
+                  "prefix": "SRK",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Froton Blanco X",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1407630",
+                  "handle": "Froton Blanco X",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "theefenders"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655307",
+      "displayName": "T - wf: Skeletal Minion vs FF | ElvenShadow",
+      "start": "01:51:33.353",
+      "end": "02:00:32.563",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011070416335420000",
+              "handle": "Skeletal Minion",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "173063",
+                "twitter": "Skeletal_Minion"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102142117266360000",
+              "handle": "ElvenShadow",
+              "prefix": "FF",
+              "serviceIds": {
+                "twitter": "elvenshadowmike",
+                "smashgg": "156744"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655307",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "T",
+          "displayName": "T - wf: FF | ElvenShadow vs Skeletal Minion",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "FF | ElvenShadow",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156744",
+                  "handle": "ElvenShadow",
+                  "prefix": "FF",
+                  "serviceIds": {
+                    "twitter": "elvenshadowmike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Skeletal Minion",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173063",
+                  "handle": "Skeletal Minion",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Skeletal_Minion"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655370",
+      "displayName": "AN - ls: Infinity vs SRK | Woocash",
+      "start": "02:01:27.000",
+      "end": "02:09:45.905",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352760001",
+              "handle": "Infinity",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "10564"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102142057155560000",
+              "handle": "Woocash",
+              "prefix": "SRK",
+              "serviceIds": {
+                "smashgg": "156734"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655370",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AN",
+          "displayName": "AN - ls: SRK | Woocash vs Infinity",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SRK | Woocash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156734",
+                  "handle": "Woocash",
+                  "prefix": "SRK",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Infinity",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "10564",
+                  "handle": "Infinity",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655371",
+      "displayName": "AO - lf: Skeletal Minion vs SRK | Woocash",
+      "start": "02:09:58.345",
+      "end": "02:21:25.443",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011070416335420000",
+              "handle": "Skeletal Minion",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "173063",
+                "twitter": "Skeletal_Minion"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102142057155560000",
+              "handle": "Woocash",
+              "prefix": "SRK",
+              "serviceIds": {
+                "smashgg": "156734"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655371",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AO",
+          "displayName": "AO - lf: Skeletal Minion vs SRK | Woocash",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Skeletal Minion",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173063",
+                  "handle": "Skeletal Minion",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Skeletal_Minion"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SRK | Woocash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156734",
+                  "handle": "Woocash",
+                  "prefix": "SRK",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35655308",
+      "displayName": "U - gf: FF | ElvenShadow vs SRK | Woocash",
+      "start": "02:26:18.091",
+      "end": "02:46:55.600",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102142117266360000",
+              "handle": "ElvenShadow",
+              "prefix": "FF",
+              "serviceIds": {
+                "twitter": "elvenshadowmike",
+                "smashgg": "156744"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102142057155560000",
+              "handle": "Woocash",
+              "prefix": "SRK",
+              "serviceIds": {
+                "smashgg": "156734"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #16",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35655308",
+            "phaseId": "908044",
+            "phaseGroupId": "1448500"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "U",
+          "displayName": "U - gf: FF | ElvenShadow vs SRK | Woocash",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "FF | ElvenShadow",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156744",
+                  "handle": "ElvenShadow",
+                  "prefix": "FF",
+                  "serviceIds": {
+                    "twitter": "elvenshadowmike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SRK | Woocash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156734",
+                  "handle": "Woocash",
+                  "prefix": "SRK",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

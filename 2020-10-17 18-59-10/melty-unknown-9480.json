@@ -1,0 +1,107 @@
+{
+  "format": "1",
+  "version": "0.5.0",
+  "file": "C:\\Users\\mullings\\Projects\\OBS\\NYCFB\\OBS-Studio\\bin\\64bit\\root\\Recording\\2020-10-17 18-59-10.mkv",
+  "phaseId": "unknown",
+  "start": "00:09:36.429",
+  "end": "00:17:09.676",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: GAWR | Flesk vs Wassabitsuga",
+      "start": "00:09:36.429",
+      "end": "00:17:09.676",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008222350140420000",
+              "handle": "Flesk",
+              "prefix": "GAWR",
+              "serviceIds": {
+                "twitter": "fleskjerte3",
+                "smashgg": "1061378"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202009122301587610000",
+              "handle": "Wassabitsuga",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Wassabitsuga_",
+                "smashgg": "910426"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402352920002",
+              "handle": "ScrawtVermillion",
+              "prefix": "W2W",
+              "serviceIds": {
+                "twitter": "ScrawtV",
+                "smashgg": "171490"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402352110002",
+              "handle": "ADA_SIX",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ADA_SIX",
+                "smashgg": "1280642"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #14",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-03-26 20-52-04.mkv",
+  "phaseId": "unknown",
+  "start": "00:13:23.093",
+  "end": "00:20:03.949",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "rr: Intimidaving vs Athos",
+      "start": "00:13:23.093",
+      "end": "00:20:03.949",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103270102470990000",
+              "handle": "Intimidaving",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1266480"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352950002",
+              "handle": "Athos",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Athos_fgc",
+                "smashgg": "1235551"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "additionalTags": [
+            "Under Night In-Birth",
+            "Under Night"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            },
+            "battlefy": {
+              "id": "5e7e0d0ba6da6f1083738975"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350610001",
+              "handle": "Juushichi",
+              "prefix": "SUGOI",
+              "serviceIds": {
+                "twitter": "EnginoJuushichi"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "serviceIds": {
+                "twitter": "Gosuda_",
+                "smashgg": "1225997"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #18",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,678 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-04-11 18-56-08.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "927576",
+  "eventId": "566566",
+  "phaseName": "Top 4",
+  "title": "THE MIDNIGHT CARNIVAL: Top 4",
+  "event": {
+    "tournament": {
+      "venueName": "Online"
+    }
+  },
+  "additionalTags": [
+    "TMC"
+  ],
+  "excludedTags": [
+    "THE MIDNIGHT CARNIVAL Guilty Gear XX Accent Core +R"
+  ],
+  "start": "06:00:00",
+  "end": "07:07:46.505",
+  "sets": [
+    {
+      "id": "36646544",
+      "displayName": "AE - wf: TalesofDawn vs Blitz",
+      "start": "06:04:51.275",
+      "end": "06:12:49.391",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120129397780000",
+              "handle": "TalesofDawn",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "338406"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1335213"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646544",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AE",
+          "displayName": "AE - wf: TalesofDawn vs Blitz",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TalesofDawn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "338406",
+                  "handle": "TalesofDawn",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Blitz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1335213",
+                  "handle": "Blitz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646607",
+      "displayName": "BJ - ls: Honnou vs Dead Generals | Raekw0n187",
+      "start": "06:14:30.535",
+      "end": "06:24:31.994",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120035513450000",
+              "handle": "Honnou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2248820"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646607",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BJ",
+          "displayName": "BJ - ls: Honnou vs Dead Generals | Raekw0n187",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Honnou",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2248820",
+                  "handle": "Honnou",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646608",
+      "displayName": "BK - lf: TalesofDawn vs Dead Generals | Raekw0n187",
+      "start": "06:25:15.647",
+      "end": "06:31:43.759",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120129397780000",
+              "handle": "TalesofDawn",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "338406"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646608",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BK",
+          "displayName": "BK - lf: TalesofDawn vs Dead Generals | Raekw0n187",
+          "completedAt": 1618205226,
+          "entrants": [
+            {
+              "name": "TalesofDawn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "338406",
+                  "handle": "TalesofDawn",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646545",
+      "displayName": "AF - tf: Blitz vs Dead Generals | Raekw0n187",
+      "start": "06:34:34.396",
+      "end": "07:07:46.505",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1335213"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646545",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AF",
+          "displayName": "AF - gf: Blitz vs Dead Generals | Raekw0n187",
+          "completedAt": 1618206094,
+          "entrants": [
+            {
+              "name": "Blitz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1335213",
+                  "handle": "Blitz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

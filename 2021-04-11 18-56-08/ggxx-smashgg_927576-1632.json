@@ -1,0 +1,5556 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-04-11 18-56-08.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "927576",
+  "eventId": "566566",
+  "start": "00:15:51.523",
+  "end": "07:07:46.505",
+  "sets": [
+    {
+      "id": "36646515",
+      "displayName": "B - w1: Foo vs SRK | Woocash",
+      "start": "00:15:51.523",
+      "end": "00:24:32.308",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112301368390000",
+              "handle": "Foo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Foonanigims",
+                "smashgg": "211702"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102142057155560000",
+              "handle": "Woocash",
+              "prefix": "SRK",
+              "serviceIds": {
+                "smashgg": "156734"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646515",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - w1: SRK | Woocash vs Foo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SRK | Woocash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156734",
+                  "handle": "Woocash",
+                  "prefix": "SRK",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Foo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "211702",
+                  "handle": "Foo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Foonanigims"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646517",
+      "displayName": "D - w1: VMP_KyleW vs Jacobpat84",
+      "start": "00:26:25.628",
+      "end": "00:31:52.429",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112322132630000",
+              "handle": "VMP_KyleW",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "155072"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103142130052980000",
+              "handle": "Jacobpat84",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "272481"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646517",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - w1: Jacobpat84 vs VMP_KyleW",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Jacobpat84",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "272481",
+                  "handle": "Jacobpat84",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "VMP_KyleW",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "155072",
+                  "handle": "VMP_KyleW",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646519",
+      "displayName": "F - w1: MiniMatt vs HellSap",
+      "start": "00:33:42.726",
+      "end": "00:46:44.938",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112328156290000",
+              "handle": "MiniMatt",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "217284"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103141900097170000",
+              "handle": "HellSap",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "173235"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646519",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - w1: HellSap vs MiniMatt",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "HellSap",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173235",
+                  "handle": "HellSap",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "MiniMatt",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "217284",
+                  "handle": "MiniMatt",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646521",
+      "displayName": "H - w1: Dave O vs KimJongPhil",
+      "start": "00:47:38.855",
+      "end": "00:55:31.339",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011280205081840000",
+              "handle": "Dave O",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "62795"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104112343369030000",
+              "handle": "KimJongPhil",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "135285"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646521",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - w1: KimJongPhil vs Dave O",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "KimJongPhil",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "135285",
+                  "handle": "KimJongPhil",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dave O",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "62795",
+                  "handle": "Dave O",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646523",
+      "displayName": "J - w1: Digital Watches vs Blitz",
+      "start": "00:58:41.905",
+      "end": "01:05:03.083",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011280150398850000",
+              "handle": "Digital Watches",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DigitalWatches",
+                "smashgg": "173194"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1335213"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646523",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - w1: Blitz vs Digital Watches",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Blitz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1335213",
+                  "handle": "Blitz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Digital Watches",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173194",
+                  "handle": "Digital Watches",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "DigitalWatches"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646524",
+      "displayName": "K - w1: Shadow_Fox vs Dead Generals | Raekw0n187",
+      "start": "01:06:00.831",
+      "end": "01:12:40.253",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011070316321530000",
+              "handle": "Shadow_Fox",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2080574"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646524",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - w1: Dead Generals | Raekw0n187 vs Shadow_Fox",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Shadow_Fox",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2080574",
+                  "handle": "Shadow_Fox",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646527",
+      "displayName": "N - w1: A3Religion vs fiestament (Fiestament)",
+      "start": "01:13:40.000",
+      "end": "01:20:46.273",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402349780000",
+              "handle": "A3Religion",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "A3Religion",
+                "smashgg": "182609"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202011070153394210000",
+              "handle": "Fiestament",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "133924991",
+                "smashgg": "253757"
+              },
+              "alias": "fiestament"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646527",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - w1: A3Religion vs Fiestament",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "A3Religion",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "182609",
+                  "handle": "A3Religion",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Fiestament",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "253757",
+                  "handle": "Fiestament",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646529",
+      "displayName": "P - w1: Drooose vs OmegaTomHanksFL",
+      "start": "01:21:18.720",
+      "end": "01:31:39.977",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103142051358150000",
+              "handle": "Drooose",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1174093"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120017356920000",
+              "handle": "OmegaTomHanksFL",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "OmegaTomHanksFL",
+                "smashgg": "217566"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646529",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "P",
+          "displayName": "P - w1: Drooose vs OmegaTomHanksFL",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Drooose",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1174093",
+                  "handle": "Drooose",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "OmegaTomHanksFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "217566",
+                  "handle": "OmegaTomHanksFL",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "OmegaTomHanksFL"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646531",
+      "displayName": "R - w2: Joe Biden vs Jacobpat84",
+      "start": "01:32:48.384",
+      "end": "01:38:24.591",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011280313207050000",
+              "handle": "Joe Biden",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2098725"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103142130052980000",
+              "handle": "Jacobpat84",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "272481"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646531",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w2",
+            "name": "Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - w2: Joe Biden vs Jacobpat84",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Joe Biden",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2098725",
+                  "handle": "Joe Biden",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Jacobpat84",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "272481",
+                  "handle": "Jacobpat84",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646533",
+      "displayName": "T - w2: Honnou vs KimJongPhil",
+      "start": "01:39:42.000",
+      "end": "01:46:43.216",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120035513450000",
+              "handle": "Honnou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2248820"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104112343369030000",
+              "handle": "KimJongPhil",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "135285"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646533",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w2",
+            "name": "Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "T",
+          "displayName": "T - w2: Honnou vs KimJongPhil",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Honnou",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2248820",
+                  "handle": "Honnou",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "KimJongPhil",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "135285",
+                  "handle": "KimJongPhil",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646535",
+      "displayName": "V - w2: PNW | Jais vs Dead Generals | Raekw0n187",
+      "start": "01:48:42.045",
+      "end": "01:57:09.972",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011140210554910000",
+              "handle": "Jais",
+              "prefix": "PNW",
+              "serviceIds": {
+                "challonge": "133797330",
+                "smashgg": "155053",
+                "twitter": "StarshipJais"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646535",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w2",
+            "name": "Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "V",
+          "displayName": "V - w2: Dead Generals | Raekw0n187 vs PNW | Jais",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "PNW | Jais",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "155053",
+                  "handle": "Jais",
+                  "prefix": "PNW",
+                  "serviceIds": {
+                    "twitter": "StarshipJais"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646536",
+      "displayName": "W - w2: fiestament (Fiestament) vs zt",
+      "start": "02:02:06.652",
+      "end": "02:10:19.152",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011070153394210000",
+              "handle": "Fiestament",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "133924991",
+                "smashgg": "253757"
+              },
+              "alias": "fiestament"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120055296020000",
+              "handle": "zt",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "805127"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646536",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "w2",
+            "name": "Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "W",
+          "displayName": "W - w2: zt vs Fiestament",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "zt",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "805127",
+                  "handle": "zt",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Fiestament",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "253757",
+                  "handle": "Fiestament",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646538",
+      "displayName": "Y - wq: Jacobpat84 vs KBnova",
+      "start": "02:21:44.896",
+      "end": "02:33:16.515",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103142130052980000",
+              "handle": "Jacobpat84",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "272481"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202011140246186170000",
+              "handle": "KBnova",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "134094830",
+                "smashgg": "265897"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646538",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "Y",
+          "displayName": "Y - wq: KBnova vs Jacobpat84",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "KBnova",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "265897",
+                  "handle": "KBnova",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Jacobpat84",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "272481",
+                  "handle": "Jacobpat84",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646539",
+      "displayName": "Z - wq: Honnou vs TalesofDawn",
+      "start": "02:34:17.375",
+      "end": "02:41:27.893",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120035513450000",
+              "handle": "Honnou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2248820"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120129397780000",
+              "handle": "TalesofDawn",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "338406"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646539",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "Z",
+          "displayName": "Z - wq: TalesofDawn vs Honnou",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TalesofDawn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "338406",
+                  "handle": "TalesofDawn",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Honnou",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2248820",
+                  "handle": "Honnou",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646540",
+      "displayName": "AA - wq: Dead Generals | Raekw0n187 vs Blitz",
+      "start": "02:41:57.000",
+      "end": "02:48:36.668",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1335213"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646540",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AA",
+          "displayName": "AA - wq: Blitz vs Dead Generals | Raekw0n187",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Blitz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1335213",
+                  "handle": "Blitz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646541",
+      "displayName": "AB - wq: blackSNAKE vs fiestament (Fiestament)",
+      "start": "02:48:15.000",
+      "end": "02:57:33.296",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103142037060810000",
+              "handle": "blackSNAKE",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "262314"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202011070153394210000",
+              "handle": "Fiestament",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "133924991",
+                "smashgg": "253757"
+              },
+              "alias": "fiestament"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646541",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AB",
+          "displayName": "AB - wq: Fiestament vs blackSNAKE",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Fiestament",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "253757",
+                  "handle": "Fiestament",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "blackSNAKE",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "262314",
+                  "handle": "blackSNAKE",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646595",
+      "displayName": "AX - l3: zt vs Drooose",
+      "start": "02:57:34.769",
+      "end": "03:02:36.163",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120055296020000",
+              "handle": "zt",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "805127"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103142051358150000",
+              "handle": "Drooose",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1174093"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l3",
+          "name": "Losers Round 3",
+          "smashggId": "Losers Round 3"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646595",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "l3",
+            "name": "Losers Round 3",
+            "smashggId": "Losers Round 3"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AX",
+          "displayName": "AX - l3: Drooose vs zt",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Drooose",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1174093",
+                  "handle": "Drooose",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "zt",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "805127",
+                  "handle": "zt",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646596",
+      "displayName": "AY - l3: PNW | Jais vs FF | ElvenShadow",
+      "start": "03:04:20.838",
+      "end": "03:10:49.645",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011140210554910000",
+              "handle": "Jais",
+              "prefix": "PNW",
+              "serviceIds": {
+                "challonge": "133797330",
+                "smashgg": "155053",
+                "twitter": "StarshipJais"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102142117266360000",
+              "handle": "ElvenShadow",
+              "prefix": "FF",
+              "serviceIds": {
+                "twitter": "elvenshadowmike",
+                "smashgg": "156744"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l3",
+          "name": "Losers Round 3",
+          "smashggId": "Losers Round 3"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646596",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "l3",
+            "name": "Losers Round 3",
+            "smashggId": "Losers Round 3"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AY",
+          "displayName": "AY - l3: PNW | Jais vs FF | ElvenShadow",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "PNW | Jais",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "155053",
+                  "handle": "Jais",
+                  "prefix": "PNW",
+                  "serviceIds": {
+                    "twitter": "StarshipJais"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FF | ElvenShadow",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156744",
+                  "handle": "ElvenShadow",
+                  "prefix": "FF",
+                  "serviceIds": {
+                    "twitter": "elvenshadowmike"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646597",
+      "displayName": "AZ - l3: Shadow_Fox vs KimJongPhil",
+      "start": "03:11:48.342",
+      "end": "03:16:40.509",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011070316321530000",
+              "handle": "Shadow_Fox",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2080574"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104112343369030000",
+              "handle": "KimJongPhil",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "135285"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l3",
+          "name": "Losers Round 3",
+          "smashggId": "Losers Round 3"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646597",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "l3",
+            "name": "Losers Round 3",
+            "smashggId": "Losers Round 3"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AZ",
+          "displayName": "AZ - l3: KimJongPhil vs Shadow_Fox",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "KimJongPhil",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "135285",
+                  "handle": "KimJongPhil",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Shadow_Fox",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2080574",
+                  "handle": "Shadow_Fox",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646598",
+      "displayName": "BA - l3: Joe Biden vs Foo",
+      "start": "03:18:42.000",
+      "end": "03:25:19.531",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011280313207050000",
+              "handle": "Joe Biden",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2098725"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104112301368390000",
+              "handle": "Foo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Foonanigims",
+                "smashgg": "211702"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l3",
+          "name": "Losers Round 3",
+          "smashggId": "Losers Round 3"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350810000",
+              "handle": "Milky J",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "themilkyj",
+                "smashgg": "58027"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202104112246494740000",
+              "handle": "swell",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "swellGGs"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646598",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "l3",
+            "name": "Losers Round 3",
+            "smashggId": "Losers Round 3"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BA",
+          "displayName": "BA - l3: Joe Biden vs Foo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Joe Biden",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2098725",
+                  "handle": "Joe Biden",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Foo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "211702",
+                  "handle": "Foo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Foonanigims"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646599",
+      "displayName": "BB - l4: Honnou vs Drooose",
+      "start": "03:36:53.896",
+      "end": "03:44:24.828",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120035513450000",
+              "handle": "Honnou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2248820"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103142051358150000",
+              "handle": "Drooose",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1174093"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l4",
+          "name": "Losers Round 4",
+          "smashggId": "Losers Round 4"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646599",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "l4",
+            "name": "Losers Round 4",
+            "smashggId": "Losers Round 4"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BB",
+          "displayName": "BB - l4: Honnou vs Drooose",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Honnou",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2248820",
+                  "handle": "Honnou",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Drooose",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1174093",
+                  "handle": "Drooose",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646600",
+      "displayName": "BC - l4: FF | ElvenShadow vs KBnova",
+      "start": "03:49:05.454",
+      "end": "03:56:07.576",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102142117266360000",
+              "handle": "ElvenShadow",
+              "prefix": "FF",
+              "serviceIds": {
+                "twitter": "elvenshadowmike",
+                "smashgg": "156744"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202011140246186170000",
+              "handle": "KBnova",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "134094830",
+                "smashgg": "265897"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l4",
+          "name": "Losers Round 4",
+          "smashggId": "Losers Round 4"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646600",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "l4",
+            "name": "Losers Round 4",
+            "smashggId": "Losers Round 4"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BC",
+          "displayName": "BC - l4: KBnova vs FF | ElvenShadow",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "KBnova",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "265897",
+                  "handle": "KBnova",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FF | ElvenShadow",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156744",
+                  "handle": "ElvenShadow",
+                  "prefix": "FF",
+                  "serviceIds": {
+                    "twitter": "elvenshadowmike"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646601",
+      "displayName": "BD - l4: KimJongPhil vs fiestament (Fiestament)",
+      "start": "03:58:49.820",
+      "end": "04:05:37.573",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112343369030000",
+              "handle": "KimJongPhil",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "135285"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202011070153394210000",
+              "handle": "Fiestament",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "133924991",
+                "smashgg": "253757"
+              },
+              "alias": "fiestament"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l4",
+          "name": "Losers Round 4",
+          "smashggId": "Losers Round 4"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646601",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "l4",
+            "name": "Losers Round 4",
+            "smashggId": "Losers Round 4"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BD",
+          "displayName": "BD - l4: Fiestament vs KimJongPhil",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Fiestament",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "253757",
+                  "handle": "Fiestament",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "KimJongPhil",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "135285",
+                  "handle": "KimJongPhil",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646602",
+      "displayName": "BE - l4: Foo vs Dead Generals | Raekw0n187",
+      "start": "04:05:45.000",
+      "end": "04:19:07.308",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112301368390000",
+              "handle": "Foo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Foonanigims",
+                "smashgg": "211702"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "red"
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "blue"
+          }
+        ],
+        "match": {
+          "id": "l4",
+          "name": "Losers Round 4",
+          "smashggId": "Losers Round 4"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646602",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "l4",
+            "name": "Losers Round 4",
+            "smashggId": "Losers Round 4"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BE",
+          "displayName": "BE - l4: Dead Generals | Raekw0n187 vs Foo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Foo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "211702",
+                  "handle": "Foo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Foonanigims"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646542",
+      "displayName": "AC - ws: Jacobpat84 vs TalesofDawn",
+      "start": "04:19:08.551",
+      "end": "04:31:05.762",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103142130052980000",
+              "handle": "Jacobpat84",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "272481"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120129397780000",
+              "handle": "TalesofDawn",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "338406"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646542",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AC",
+          "displayName": "AC - ws: Jacobpat84 vs TalesofDawn",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Jacobpat84",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "272481",
+                  "handle": "Jacobpat84",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TalesofDawn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "338406",
+                  "handle": "TalesofDawn",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646543",
+      "displayName": "AD - ws: blackSNAKE vs Blitz",
+      "start": "04:33:14.560",
+      "end": "04:44:19.298",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103142037060810000",
+              "handle": "blackSNAKE",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "262314"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1335213"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646543",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AD",
+          "displayName": "AD - ws: Blitz vs blackSNAKE",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Blitz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1335213",
+                  "handle": "Blitz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "blackSNAKE",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "262314",
+                  "handle": "blackSNAKE",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646603",
+      "displayName": "BF - Losers top 8: KBnova vs Honnou",
+      "start": "04:45:41.672",
+      "end": "04:59:53.390",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011140246186170000",
+              "handle": "KBnova",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "134094830",
+                "smashgg": "265897"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120035513450000",
+              "handle": "Honnou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2248820"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers top 8",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646603",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "l5",
+            "name": "Losers Round 5",
+            "smashggId": "Losers Round 5"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BF",
+          "displayName": "BF - l5: Honnou vs KBnova",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Honnou",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2248820",
+                  "handle": "Honnou",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "KBnova",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "265897",
+                  "handle": "KBnova",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646604",
+      "displayName": "BG - Losers top 8: fiestament (Fiestament) vs Dead Generals | Raekw0n187",
+      "start": "05:08:01.098",
+      "end": "05:15:14.038",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011070153394210000",
+              "handle": "Fiestament",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "133924991",
+                "smashgg": "253757"
+              },
+              "alias": "fiestament"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers top 8",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646604",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "l5",
+            "name": "Losers Round 5",
+            "smashggId": "Losers Round 5"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BG",
+          "displayName": "BG - l5: Fiestament vs Dead Generals | Raekw0n187",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Fiestament",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "253757",
+                  "handle": "Fiestament",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646605",
+      "displayName": "BH - lq: Honnou vs blackSNAKE",
+      "start": "05:18:39.102",
+      "end": "05:32:30.007",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120035513450000",
+              "handle": "Honnou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2248820"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103142037060810000",
+              "handle": "blackSNAKE",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "262314"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646605",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BH",
+          "displayName": "BH - lq: blackSNAKE vs Honnou",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "blackSNAKE",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "262314",
+                  "handle": "blackSNAKE",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Honnou",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2248820",
+                  "handle": "Honnou",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646606",
+      "displayName": "BI - lq: Jacobpat84 vs Dead Generals | Raekw0n187",
+      "start": "05:37:36.654",
+      "end": "05:51:58.712",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103142130052980000",
+              "handle": "Jacobpat84",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "272481"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646606",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BI",
+          "displayName": "BI - lq: Jacobpat84 vs Dead Generals | Raekw0n187",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Jacobpat84",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "272481",
+                  "handle": "Jacobpat84",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646544",
+      "displayName": "AE - wf: TalesofDawn vs Blitz",
+      "start": "06:04:51.275",
+      "end": "06:12:49.391",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120129397780000",
+              "handle": "TalesofDawn",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "338406"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1335213"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646544",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AE",
+          "displayName": "AE - wf: TalesofDawn vs Blitz",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TalesofDawn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "338406",
+                  "handle": "TalesofDawn",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Blitz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1335213",
+                  "handle": "Blitz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646607",
+      "displayName": "BJ - ls: Honnou vs Dead Generals | Raekw0n187",
+      "start": "06:14:30.535",
+      "end": "06:24:31.994",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120035513450000",
+              "handle": "Honnou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2248820"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646607",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BJ",
+          "displayName": "BJ - ls: Honnou vs Dead Generals | Raekw0n187",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Honnou",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2248820",
+                  "handle": "Honnou",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646608",
+      "displayName": "BK - lf: TalesofDawn vs Dead Generals | Raekw0n187",
+      "start": "06:25:15.647",
+      "end": "06:31:43.759",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104120129397780000",
+              "handle": "TalesofDawn",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "338406"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646608",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "BK",
+          "displayName": "BK - lf: TalesofDawn vs Dead Generals | Raekw0n187",
+          "completedAt": 1618205226,
+          "entrants": [
+            {
+              "name": "TalesofDawn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "338406",
+                  "handle": "TalesofDawn",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "36646545",
+      "displayName": "AF - tf: Blitz vs Dead Generals | Raekw0n187",
+      "start": "06:34:34.396",
+      "end": "07:07:46.505",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202104112355207840000",
+              "handle": "Blitz",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1335213"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202104120001263410000",
+              "handle": "Raekw0n187",
+              "prefix": "Dead Generals",
+              "serviceIds": {
+                "twitter": "raekw0n187",
+                "smashgg": "1697333"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202011070014450180000",
+              "handle": "Samifish",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Samifish11"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoScrub",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "The Midnight Carnival",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "36646545",
+            "phaseId": "927576",
+            "phaseGroupId": "1477218"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "AF",
+          "displayName": "AF - gf: Blitz vs Dead Generals | Raekw0n187",
+          "completedAt": 1618206094,
+          "entrants": [
+            {
+              "name": "Blitz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1335213",
+                  "handle": "Blitz",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dead Generals | Raekw0n187",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1697333",
+                  "handle": "Raekw0n187",
+                  "prefix": "Dead Generals",
+                  "serviceIds": {
+                    "twitter": "raekw0n187"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

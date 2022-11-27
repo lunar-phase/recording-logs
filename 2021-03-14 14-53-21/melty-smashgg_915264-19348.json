@@ -1,0 +1,2403 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc3",
+  "file": "..\\2021-03-14 14-53-21.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "915264",
+  "eventId": "557651",
+  "event": {
+    "tournament": {
+      "name": "LP Online #17",
+      "venueName": "Online"
+    }
+  },
+  "start": "04:35:21",
+  "end": "07:20:25",
+  "sets": [
+    {
+      "id": "35990172",
+      "displayName": "X - wq: Lem vs Skeleton",
+      "start": "04:45:18.539",
+      "end": "04:50:08.102",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inetshitlord"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990172",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "X",
+          "displayName": "X - wq: Skeleton vs Lem",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Skeleton",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "287708",
+                  "handle": "Skeleton",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "inetshitlord"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Lem",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990170",
+      "displayName": "V - wq: Ennui vs Jbelanger",
+      "start": "04:53:29",
+      "end": "04:58:03.905",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202012262355136230000",
+              "handle": "Ennui",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "39185",
+                "twitter": "E1io"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352130002",
+              "handle": "Jbelanger",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1363743",
+                "twitter": "JacobBelanger3"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990170",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "V",
+          "displayName": "V - wq: Jbelanger vs Ennui",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Jbelanger",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1363743",
+                  "handle": "Jbelanger",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "JacobBelanger3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Ennui",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "39185",
+                  "handle": "Ennui",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "E1io"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990173",
+      "displayName": "Y - wq: Counsel vs GREGSPORTS | Tyth",
+      "start": "04:59:55.283",
+      "end": "05:10:37.111",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102150115332190000",
+              "handle": "Counsel",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2142347",
+                "twitter": "Counsool"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202012270043147360000",
+              "handle": "Tyth",
+              "prefix": "GREGSPORTS",
+              "serviceIds": {
+                "twitter": "Tyth3sly",
+                "smashgg": "1370840"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990173",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "Y",
+          "displayName": "Y - wq: GREGSPORTS | Tyth vs Counsel",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GREGSPORTS | Tyth",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1370840",
+                  "handle": "Tyth",
+                  "prefix": "GREGSPORTS",
+                  "serviceIds": {
+                    "twitter": "Tyth3sly"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Counsel",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2142347",
+                  "handle": "Counsel",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Counsool"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990171",
+      "displayName": "W - wq: Soara vs DreamingOnDerse",
+      "start": "05:10:29.000",
+      "end": "05:15:43.152",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102150032482550000",
+              "handle": "Soara",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "sosoarara",
+                "smashgg": "2120149"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102150032482540000",
+              "handle": "DreamingOnDerse",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2097836",
+                "twitter": "DerseOn"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990171",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "W",
+          "displayName": "W - wq: Soara vs DreamingOnDerse",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Soara",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2120149",
+                  "handle": "Soara",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "sosoarara"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "DreamingOnDerse",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2097836",
+                  "handle": "DreamingOnDerse",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "DerseOn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990174",
+      "displayName": "Z - ws: Jbelanger vs Soara",
+      "start": "05:22:13.296",
+      "end": "05:27:59.431",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352130002",
+              "handle": "Jbelanger",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1363743",
+                "twitter": "JacobBelanger3"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102150032482550000",
+              "handle": "Soara",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "sosoarara",
+                "smashgg": "2120149"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990174",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "Z",
+          "displayName": "Z - ws: Jbelanger vs Soara",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Jbelanger",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1363743",
+                  "handle": "Jbelanger",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "JacobBelanger3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Soara",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2120149",
+                  "handle": "Soara",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "sosoarara"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990175",
+      "displayName": "AA - ws: Skeleton vs Counsel",
+      "start": "05:29:23.815",
+      "end": "05:40:01.211",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inetshitlord"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102150115332190000",
+              "handle": "Counsel",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2142347",
+                "twitter": "Counsool"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990175",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "AA",
+          "displayName": "AA - ws: Skeleton vs Counsel",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Skeleton",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "287708",
+                  "handle": "Skeleton",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "inetshitlord"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Counsel",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2142347",
+                  "handle": "Counsel",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Counsool"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990236",
+      "displayName": "BA - l5: GREGSPORTS | Tyth vs cutesports | Deus",
+      "start": "05:46:12.577",
+      "end": "05:55:42.796",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202012270043147360000",
+              "handle": "Tyth",
+              "prefix": "GREGSPORTS",
+              "serviceIds": {
+                "twitter": "Tyth3sly",
+                "smashgg": "1370840"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103142326110060000",
+              "handle": "Deus",
+              "prefix": "cutesports",
+              "serviceIds": {
+                "smashgg": "127848"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l5",
+          "name": "Losers Round 5",
+          "smashggId": "Losers Round 5"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990236",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "l5",
+            "name": "Losers Round 5",
+            "smashggId": "Losers Round 5"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "BA",
+          "displayName": "BA - l5: GREGSPORTS | Tyth vs cutesports | Deus",
+          "completedAt": 1615769158,
+          "entrants": [
+            {
+              "name": "GREGSPORTS | Tyth",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1370840",
+                  "handle": "Tyth",
+                  "prefix": "GREGSPORTS",
+                  "serviceIds": {
+                    "twitter": "Tyth3sly"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "cutesports | Deus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "127848",
+                  "handle": "Deus",
+                  "prefix": "cutesports",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990235",
+      "displayName": "AZ - l5: Ceehill vs Ennui",
+      "start": "05:55:51.779",
+      "end": "06:01:59.202",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202009122313009370000",
+              "handle": "Ceehill",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ceehill561",
+                "smashgg": "139922"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202012262355136230000",
+              "handle": "Ennui",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "39185",
+                "twitter": "E1io"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l5",
+          "name": "Losers Round 5",
+          "smashggId": "Losers Round 5"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990235",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "l5",
+            "name": "Losers Round 5",
+            "smashggId": "Losers Round 5"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "AZ",
+          "displayName": "AZ - l5: Ceehill vs Ennui",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Ceehill",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "139922",
+                  "handle": "Ceehill",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Ceehill561"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Ennui",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "39185",
+                  "handle": "Ennui",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "E1io"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990238",
+      "displayName": "BC - lq: Soara vs cutesports | Deus",
+      "start": "06:08:46.000",
+      "end": "06:14:36.671",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102150032482550000",
+              "handle": "Soara",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "sosoarara",
+                "smashgg": "2120149"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103142326110060000",
+              "handle": "Deus",
+              "prefix": "cutesports",
+              "serviceIds": {
+                "smashgg": "127848"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990238",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "BC",
+          "displayName": "BC - lq: Soara vs cutesports | Deus",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Soara",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2120149",
+                  "handle": "Soara",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "sosoarara"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "cutesports | Deus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "127848",
+                  "handle": "Deus",
+                  "prefix": "cutesports",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990237",
+      "displayName": "BB - lq: Skeleton vs Ennui",
+      "start": "06:17:48.916",
+      "end": "06:21:57.466",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inetshitlord"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202012262355136230000",
+              "handle": "Ennui",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "39185",
+                "twitter": "E1io"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990237",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "BB",
+          "displayName": "BB - lq: Skeleton vs Ennui",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Skeleton",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "287708",
+                  "handle": "Skeleton",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "inetshitlord"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Ennui",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "39185",
+                  "handle": "Ennui",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "E1io"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990176",
+      "displayName": "AB - wf: Counsel vs Jbelanger",
+      "start": "06:24:57.395",
+      "end": "06:33:36.215",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202102150115332190000",
+              "handle": "Counsel",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2142347",
+                "twitter": "Counsool"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352130002",
+              "handle": "Jbelanger",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1363743",
+                "twitter": "JacobBelanger3"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990176",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "AB",
+          "displayName": "AB - wf: Jbelanger vs Counsel",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Jbelanger",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1363743",
+                  "handle": "Jbelanger",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "JacobBelanger3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Counsel",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2142347",
+                  "handle": "Counsel",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Counsool"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990239",
+      "displayName": "BD - ls: Skeleton vs cutesports | Deus",
+      "start": "06:37:03.425",
+      "end": "06:47:51.872",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inetshitlord"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103142326110060000",
+              "handle": "Deus",
+              "prefix": "cutesports",
+              "serviceIds": {
+                "smashgg": "127848"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990239",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "BD",
+          "displayName": "BD - ls: Skeleton vs cutesports | Deus",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Skeleton",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "287708",
+                  "handle": "Skeleton",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "inetshitlord"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "cutesports | Deus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "127848",
+                  "handle": "Deus",
+                  "prefix": "cutesports",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990240",
+      "displayName": "BE - lf: Skeleton vs Counsel",
+      "start": "06:50:02.000",
+      "end": "07:06:22.831",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inetshitlord"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202102150115332190000",
+              "handle": "Counsel",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2142347",
+                "twitter": "Counsool"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990240",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "BE",
+          "displayName": "BE - lf: Counsel vs Skeleton",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Counsel",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2142347",
+                  "handle": "Counsel",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Counsool"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Skeleton",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "287708",
+                  "handle": "Skeleton",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "inetshitlord"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "35990177",
+      "displayName": "AC - gf: Skeleton vs Jbelanger",
+      "start": "07:08:49.000",
+      "end": "07:20:27.424",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inetshitlord"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352130002",
+              "handle": "Jbelanger",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1363743",
+                "twitter": "JacobBelanger3"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "LP Online #17",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "35990177",
+            "phaseId": "915264",
+            "phaseGroupId": "1458523"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "melty",
+            "name": "Melty Blood Actress Again Current Code",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBAACC",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Actress Again: Current Code"
+              },
+              "smashgg": {
+                "id": "22407"
+              },
+              "challonge": {
+                "id": "306"
+              }
+            }
+          },
+          "shortIdentifier": "AC",
+          "displayName": "AC - gf: Jbelanger vs Skeleton",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Jbelanger",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1363743",
+                  "handle": "Jbelanger",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "JacobBelanger3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Skeleton",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "287708",
+                  "handle": "Skeleton",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "inetshitlord"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

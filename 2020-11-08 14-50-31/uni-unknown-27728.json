@@ -1,0 +1,106 @@
+{
+  "format": "1",
+  "version": "0.5.0",
+  "file": "C:\\Users\\mullings\\Projects\\OBS\\NYCFB\\OBS-Studio\\bin\\64bit\\root\\Recording\\2020-11-08 14-50-31.mkv",
+  "phaseId": "unknown",
+  "start": "00:17:31.747",
+  "end": "00:23:11.395",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: Estavel vs SubrosianDimitri",
+      "start": "00:17:31.747",
+      "end": "00:23:11.395",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202010182317181950000",
+              "handle": "Estavel",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1064271"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008232346450050000",
+              "handle": "SubrosianDimitri",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "SubroDimitri",
+                "smashgg": "1000233"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "uni",
+          "name": "Under Night In-Birth Exe:Late[cl-r]",
+          "shortNames": [
+            "Under Night In-Birth",
+            "Under Night",
+            "UNIclr"
+          ],
+          "hashtags": [
+            "UNIclr",
+            "inbirth"
+          ],
+          "additionalTags": [
+            "Under Night In-Birth",
+            "Under Night"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Under Night In-Birth Exe:Late[cl-r]"
+            },
+            "smashgg": {
+              "id": "33870"
+            },
+            "challonge": {
+              "id": "186168"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350430002",
+              "handle": "Gosuda",
+              "prefix": "BNP",
+              "serviceIds": {
+                "twitter": "Gosuda_",
+                "smashgg": "1225997"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350610001",
+              "handle": "Juushichi",
+              "prefix": "SUGOI",
+              "serviceIds": {
+                "twitter": "EnginoJuushichi"
+              }
+            }
+          }
+        ],
+        "tournament": "Transcontinental Transcode Transmission",
+        "event": "NA East Under Night",
+        "messages": []
+      }
+    }
+  ]
+}
