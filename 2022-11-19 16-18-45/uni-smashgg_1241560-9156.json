@@ -2,197 +2,17 @@
   "format": "1",
   "version": "0.6.0-rc.4",
   "file": "..\\2022-11-19 16-18-45.mkv",
-  "phaseId": "unknown",
-  "start": "01:55:58.131",
-  "end": "04:27:54.468",
+  "bracketService": "smashgg",
+  "phaseId": "1241560",
+  "eventId": "811182",
+  "userData": {
+    "notes": "This broadcast is from our secondary stream, which we're currently piloting.\nExpect even better quality in the future!"
+  },
+  "start": "03:43:14",
+  "end": "04:27:34",
   "sets": [
     {
-      "id": null,
-      "displayName": ": AONI | Reicy vs Kidd",
-      "start": "01:55:58.131",
-      "end": "01:59:36.943",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202106191952296290000",
-              "handle": "Reicy",
-              "prefix": "AONI",
-              "serviceIds": {
-                "smashgg": "535664",
-                "twitter": "noliferei"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202211192119138670000",
-              "handle": "Kidd",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "",
-          "smashggId": null
-        },
-        "game": {
-          "id": "ggxrd",
-          "name": "Guilty Gear Xrd",
-          "shortNames": [
-            "Xrd"
-          ],
-          "hashtags": [
-            "GGXRD"
-          ],
-          "additionalTags": [
-            "Guilty Gear"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Guilty Gear Xrd: Rev 2"
-            },
-            "smashgg": {
-              "id": "36"
-            },
-            "challonge": {
-              "id": "121822"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402351450001",
-              "handle": "Crocs N' Socks",
-              "prefix": "AONI",
-              "serviceIds": {
-                "twitter": "DDDS_Main",
-                "challonge": "134105609",
-                "smashgg": "566104"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #17",
-        "event": "",
-        "messages": [
-          "Under Night In Birth Coming Up Next"
-        ]
-      }
-    },
-    {
-      "id": null,
-      "displayName": "lf: AONI | Reicy vs Yun-Wei",
-      "start": "03:01:11.220",
-      "end": "03:10:03.918",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202106191952296290000",
-              "handle": "Reicy",
-              "prefix": "AONI",
-              "serviceIds": {
-                "smashgg": "535664",
-                "twitter": "noliferei"
-              }
-            },
-            "score": 3,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202211192320051650000",
-              "handle": "Yun-Wei",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "lf",
-          "name": "Losers Finals",
-          "smashggId": "Losers Final"
-        },
-        "game": {
-          "id": "ggxrd",
-          "name": "Guilty Gear Xrd",
-          "shortNames": [
-            "Xrd"
-          ],
-          "hashtags": [
-            "GGXRD"
-          ],
-          "additionalTags": [
-            "Guilty Gear"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Guilty Gear Xrd: Rev 2"
-            },
-            "smashgg": {
-              "id": "36"
-            },
-            "challonge": {
-              "id": "121822"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402351450001",
-              "handle": "Crocs N' Socks",
-              "prefix": "AONI",
-              "serviceIds": {
-                "twitter": "DDDS_Main",
-                "challonge": "134105609",
-                "smashgg": "566104"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202106191952296290000",
-              "handle": "Reicy",
-              "prefix": "AONI",
-              "serviceIds": {
-                "smashgg": "535664",
-                "twitter": "noliferei"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #17",
-        "event": "Lunatic Perilune: 17",
-        "messages": [
-          "Under Night In Birth Coming Up Next"
-        ]
-      }
-    },
-    {
-      "id": null,
+      "id": "54381237",
       "displayName": ": RVNT | LuFL vs twang",
       "start": "03:44:44.045",
       "end": "03:50:32.544",
@@ -228,8 +48,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "rr",
+          "name": "Round Robin",
           "smashggId": null
         },
         "game": {
@@ -289,7 +109,7 @@
       }
     },
     {
-      "id": null,
+      "id": "54381240",
       "displayName": ": RVNT | LuFL vs Yuri-Ark",
       "start": "03:53:25.081",
       "end": "03:58:44.049",
@@ -322,8 +142,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "rr",
+          "name": "Round Robin",
           "smashggId": null
         },
         "game": {
@@ -386,7 +206,7 @@
       }
     },
     {
-      "id": null,
+      "id": "54381242",
       "displayName": ": RVNT | LuFL vs ChrisBardow",
       "start": "04:01:46.410",
       "end": "04:16:48.615",
@@ -422,8 +242,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "rr",
+          "name": "Round Robin",
           "smashggId": null
         },
         "game": {
@@ -489,10 +309,10 @@
       }
     },
     {
-      "id": null,
+      "id": "54381239",
       "displayName": ": ChrisBardow vs twang",
       "start": "04:16:49.135",
-      "end": "04:27:54.468",
+      "end": "04:27:34",
       "state": {
         "players": [
           {
@@ -525,8 +345,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "rr",
+          "name": "Round Robin",
           "smashggId": null
         },
         "game": {
