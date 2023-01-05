@@ -5,13 +5,178 @@
   "bracketService": "smashgg",
   "phaseId": "1259688",
   "eventId": "825320",
-  "start": "00:21:17.588",
-  "end": "01:31:49.539",
+  "userData": {
+    "notes": "This broadcast is from our secondary stream.\nExpect even better quality in the future!"
+  },
+  "start": "00:00:06",
+  "end": "02:30:48",
   "sets": [
+    {
+      "id": "55193492",
+      "displayName": "C - wq: BLITZ | Kiri vs S.O.N.G. | Tomuhawk (Tomahawk)",
+      "start": "00:00:36",
+      "end": "00:06:26.123",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202209172046384050000",
+              "handle": "Kiri",
+              "prefix": "BLITZ",
+              "serviceIds": {
+                "twitter": "KirigiriAlpaca",
+                "smashgg": "1437257"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomahawk",
+              "prefix": "S.O.N.G.",
+              "serviceIds": {
+                "twitter": "NYC_Tomuhawk",
+                "smashgg": "170633"
+              },
+              "alias": "Tomuhawk"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351250001",
+              "handle": "Syrorin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "syrorin",
+                "smashgg": "573623"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "55193492",
+            "phaseId": "1259688",
+            "phaseGroupId": "1933140"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wq: BLITZ | Kiri vs S.O.N.G. | Tomuhawk",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BLITZ | Kiri",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1437257",
+                  "handle": "Kiri",
+                  "prefix": "BLITZ",
+                  "serviceIds": {
+                    "twitter": "KirigiriAlpaca"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "S.O.N.G. | Tomuhawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "170633",
+                  "handle": "Tomuhawk",
+                  "prefix": "S.O.N.G.",
+                  "serviceIds": {
+                    "twitter": "NYC_Tomuhawk"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "55193494",
+      "displayName": "E - wq: IA | j.g. vs Syrorin",
+      "start": "00:12:10",
+      "end": "00:18:08"
+    },
     {
       "id": "55193496",
       "displayName": "G - ws: FUMO | Denpa vs IA | j.g.",
-      "start": "00:21:17.588",
+      "start": "00:21:15",
       "end": "00:25:50.599",
       "state": {
         "players": [
@@ -168,7 +333,7 @@
     {
       "id": "55193491",
       "displayName": "B - wq: LP | EJay vs LP | StraylightP",
-      "start": "00:36:31.939",
+      "start": "00:28:01",
       "end": "00:36:37.937",
       "state": {
         "players": [
@@ -483,7 +648,7 @@
     {
       "id": "55193525",
       "displayName": "M - l2: LP | EJay vs BLITZ | Kiri",
-      "start": "00:47:25.431",
+      "start": "00:47:24",
       "end": "00:56:39.308",
       "state": {
         "players": [
@@ -639,166 +804,15 @@
       }
     },
     {
-      "id": "55193526",
-      "displayName": "N - lq: LP | StraylightP vs Syrorin",
+      "id": "55193497",
+      "displayName": "H - wf: S.O.N.G. | Tomuhawk (Tomahawk) vs FUMO | Denpa",
       "start": "00:58:34.301",
-      "end": "01:15:59.707",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351250001",
-              "handle": "Syrorin",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "syrorin",
-                "smashgg": "573623"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "lq",
-          "name": "Losers Quarters",
-          "smashggId": "Losers Quarter-Final"
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402351250001",
-              "handle": "Syrorin",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "syrorin",
-                "smashgg": "573623"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402351400000",
-              "handle": "yung willy",
-              "prefix": "(ToT)",
-              "serviceIds": {
-                "smashgg": "883113"
-              }
-            }
-          }
-        ],
-        "tournament": "",
-        "event": "",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "55193526",
-            "phaseId": "1259688",
-            "phaseGroupId": "1933140"
-          },
-          "match": {
-            "id": "lq",
-            "name": "Losers Quarters",
-            "smashggId": "Losers Quarter-Final"
-          },
-          "videogame": {
-            "id": "dfc",
-            "name": "Dengeki Bunko Fighting Climax: Ignition",
-            "shortNames": [
-              "Dengeki Bunko Fighting Climax",
-              "Dengeki Bunko",
-              "DFCI"
-            ],
-            "hashtags": [
-              "DFCI"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Dengeki Bunko: Fighting Climax Ignition"
-              },
-              "smashgg": {
-                "id": "4267"
-              }
-            }
-          },
-          "shortIdentifier": "N",
-          "displayName": "N - lq: LP | StraylightP vs Syrorin",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "LP | StraylightP",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "413756",
-                  "handle": "StraylightP",
-                  "prefix": "LP",
-                  "serviceIds": {
-                    "twitter": "LoFi_Yokai"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Syrorin",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "573623",
-                  "handle": "Syrorin",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "syrorin"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "end": "01:15:59.707"
     },
     {
       "id": "55193526",
       "displayName": "N - lq: LP | StraylightP vs Syrorin",
-      "start": "01:16:49.424",
+      "start": "01:16:38",
       "end": "01:22:22.820",
       "state": {
         "players": [
@@ -1104,6 +1118,187 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "55193529",
+      "displayName": "lf: LP | StraylightP vs S.O.N.G. | Tomuhawk (Tomahawk)",
+      "start": "01:33:26.777",
+      "end": "01:43:54.403",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomahawk",
+              "prefix": "S.O.N.G.",
+              "serviceIds": {
+                "twitter": "NYC_Tomuhawk",
+                "smashgg": "170633"
+              },
+              "alias": "Tomuhawk"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350780001",
+              "handle": "Denpa",
+              "prefix": "FUMO",
+              "serviceIds": {
+                "twitter": "DenpaEXE",
+                "smashgg": "692211"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351400000",
+              "handle": "yung willy",
+              "prefix": "(ToT)",
+              "serviceIds": {
+                "smashgg": "883113"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": []
+      }
+    },
+    {
+      "id": "55193499",
+      "displayName": "tf: LP | StraylightP vs FUMO | Denpa",
+      "start": "01:58:18",
+      "end": "02:28:48.083",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350780001",
+              "handle": "Denpa",
+              "prefix": "FUMO",
+              "serviceIds": {
+                "twitter": "DenpaEXE",
+                "smashgg": "692211"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351400000",
+              "handle": "yung willy",
+              "prefix": "(ToT)",
+              "serviceIds": {
+                "smashgg": "883113"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd Up Next"
+        ]
       }
     }
   ]

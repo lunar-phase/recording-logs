@@ -5,187 +5,29 @@
   "bracketService": "smashgg",
   "phaseId": "1259685",
   "eventId": "825317",
-  "start": "04:02:00.656",
-  "end": "05:07:19.454",
+  "userData": {
+    "notes": "This broadcast is from our secondary stream.\nExpect even better quality in the future!"
+  },
+  "start": "04:00:52",
+  "end": "05:13:36",
   "sets": [
     {
-      "id": "55214249",
-      "displayName": "E - wf: twang vs Zeal",
-      "start": "04:02:00.656",
-      "end": "04:36:35.470",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351580001",
-              "handle": "twang",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "1523041",
-                "twitter": "twaaaaaang"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351410000",
-              "handle": "Zeal",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "885578"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "wf",
-          "name": "Winners Finals",
-          "smashggId": "Winners Final"
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": "RVNT",
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            }
-          }
-        ],
-        "tournament": "",
-        "event": "",
-        "messages": [
-          "Under Night Coming Up Next"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "55214249",
-            "phaseId": "1259685",
-            "phaseGroupId": "1933137"
-          },
-          "match": {
-            "id": "wf",
-            "name": "Winners Finals",
-            "smashggId": "Winners Final"
-          },
-          "videogame": {
-            "id": "uni",
-            "name": "Under Night In-Birth Exe:Late[cl-r]",
-            "shortNames": [
-              "Under Night In-Birth",
-              "Under Night",
-              "UNIclr"
-            ],
-            "hashtags": [
-              "UNIclr",
-              "inbirth"
-            ],
-            "additionalTags": [
-              "Under Night In-Birth",
-              "Under Night"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Under Night In-Birth Exe:Late[cl-r]"
-              },
-              "smashgg": {
-                "id": "33870"
-              },
-              "challonge": {
-                "id": "186168"
-              },
-              "battlefy": {
-                "id": "5e7e0d0ba6da6f1083738975"
-              }
-            }
-          },
-          "shortIdentifier": "E",
-          "displayName": "E - wf: twang vs Zeal",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "twang",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1523041",
-                  "handle": "twang",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "twaaaaaang"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Zeal",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "885578",
-                  "handle": "Zeal",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "id": "55214246",
+      "displayName": "B - wq: Zeal vs strobes",
+      "start": "04:02:16",
+      "end": "04:10:48"
+    },
+    {
+      "id": "55214248",
+      "displayName": "D - ws: ChrisBardow vs Zeal",
+      "start": "04:14:42",
+      "end": "04:19:28"
+    },
+    {
+      "id": "55214262",
+      "displayName": "H - lq: ChrisBardow vs Banki | Yuri Ark",
+      "start": "04:20:51",
+      "end": "04:31:21"
     },
     {
       "id": "55214249",
@@ -545,7 +387,7 @@
     {
       "id": "55214250",
       "displayName": "F - gf: Zeal vs twang",
-      "start": "05:02:44.155",
+      "start": "05:01:21",
       "end": "05:07:19.454",
       "state": {
         "players": [
