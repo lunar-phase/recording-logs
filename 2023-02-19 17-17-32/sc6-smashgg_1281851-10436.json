@@ -1,0 +1,169 @@
+{
+  "format": "1",
+  "version": "0.6.0-rc.4",
+  "file": "..\\2023-02-19 17-17-32.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1281851",
+  "eventId": "842609",
+  "start": "00:13:35",
+  "end": "00:42:24.000",
+  "sets": [
+    {
+      "id": "57234893",
+      "displayName": "H - gf: DEUS | Incendiate vs MFcoffee",
+      "start": "00:13:35",
+      "end": "00:42:24.000",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202302192230062180000",
+              "handle": "Incendiate",
+              "prefix": "DEUS",
+              "serviceIds": {
+                "twitter": "incendiate",
+                "smashgg": "509796"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202302192230062190000",
+              "handle": "MFcoffee",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "FcoffeeM",
+                "smashgg": "1051849"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "sc6",
+          "name": "SOULCALIBUR VI",
+          "shortNames": [
+            "SC6"
+          ],
+          "hashtags": [
+            "SOULCALIBURVI",
+            "SC6",
+            "ソウルキャリバー"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Soulcalibur VI"
+            },
+            "smashgg": {
+              "id": "904"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351730002",
+              "handle": "Sabin Deus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "SabinDeus"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "57234893",
+            "phaseId": "1281851",
+            "phaseGroupId": "1963275"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "sc6",
+            "name": "SOULCALIBUR VI",
+            "shortNames": [
+              "SC6"
+            ],
+            "hashtags": [
+              "SOULCALIBURVI",
+              "SC6",
+              "ソウルキャリバー"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Soulcalibur VI"
+              },
+              "smashgg": {
+                "id": "904"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - gf: DEUS | Incendiate vs MFcoffee",
+          "completedAt": 1676846718,
+          "entrants": [
+            {
+              "name": "DEUS | Incendiate",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "509796",
+                  "handle": "Incendiate",
+                  "prefix": "DEUS",
+                  "serviceIds": {
+                    "twitter": "incendiate"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "MFcoffee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1051849",
+                  "handle": "MFcoffee",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "FcoffeeM"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
