@@ -5,13 +5,24 @@
   "bracketService": "smashgg",
   "phaseId": "1281584",
   "eventId": "842397",
-  "start": "00:16:04.280",
-  "end": "02:50:57.616",
+  "title": "Lunatic Perilune #20: DFCI Ratio-geki Edition",
+  "userData": {
+    "notes": "For this tournament, players have 7 point to spend on their team. See the list of character/assist costs here: https://twitter.com/LoFi_Yokai/status/1610802000249376769\n\nThis broadcast is from our secondary stream.\nExpect even better quality in the future!"
+  },
+  "additionalTags": [ "ratio tournament" ],
+  "start": "00:08:30",
+  "end": "02:54:01",
   "sets": [
+    {
+      "id": "56944191",
+      "displayName": "C - w1: BLITZ | Kiri vs ChexGuy",
+      "start": "00:08:38",
+      "end": "00:13:41"
+    },
     {
       "id": "56944193",
       "displayName": "E - wq: Tomuhawk vs Hyde",
-      "start": "00:16:04.280",
+      "start": "00:15:55",
       "end": "00:21:24.375",
       "state": {
         "players": [
@@ -159,7 +170,7 @@
     {
       "id": "56944192",
       "displayName": "D - wq: Commiku vs StraylightP",
-      "start": "00:24:30.282",
+      "start": "00:24:22",
       "end": "00:29:16.457",
       "state": {
         "players": [
@@ -307,155 +318,7 @@
     {
       "id": "56944189",
       "displayName": "B - w1: Kai Ai vs GaryButterNubs",
-      "start": "00:33:17.477",
-      "end": "00:42:14.095",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202302112134499720000",
-              "handle": "Kai Ai",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202302112159280150000",
-              "handle": "GaryButterNubs",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": "Red"
-          }
-        ],
-        "match": {
-          "id": "w1",
-          "name": "Winners Round 1",
-          "smashggId": "Winners Round 1"
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202302112157056580000",
-              "handle": "Yung Willy",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202302112137550210000",
-              "handle": "StraylightP",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #20",
-        "event": "Dengeki Bunko Fighting Climax Ignition",
-        "messages": [
-          "Guilty Gear Xrd Up Next"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "56944189",
-            "phaseId": "1281584",
-            "phaseGroupId": "1962912"
-          },
-          "match": {
-            "id": "w1",
-            "name": "Winners Round 1",
-            "smashggId": "Winners Round 1"
-          },
-          "videogame": {
-            "id": "dfc",
-            "name": "Dengeki Bunko Fighting Climax: Ignition",
-            "shortNames": [
-              "Dengeki Bunko Fighting Climax",
-              "Dengeki Bunko",
-              "DFCI"
-            ],
-            "hashtags": [
-              "DFCI"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Dengeki Bunko: Fighting Climax Ignition"
-              },
-              "smashgg": {
-                "id": "4267"
-              }
-            }
-          },
-          "shortIdentifier": "B",
-          "displayName": "B - w1: PPT | KaiAi vs GaryButternubs",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "PPT | KaiAi",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "567810",
-                  "handle": "KaiAi",
-                  "prefix": "PPT",
-                  "serviceIds": {
-                    "twitter": "nyczbrandon"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "GaryButternubs",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1969295",
-                  "handle": "GaryButternubs",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "GButternubs"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "56944189",
-      "displayName": "B - w1: Kai Ai vs GaryButterNubs",
-      "start": "00:42:19.280",
+      "start": "00:33:08",
       "end": "00:46:41.247",
       "state": {
         "players": [
@@ -603,7 +466,7 @@
     {
       "id": "56944195",
       "displayName": "G - wq: j.g vs Kiri",
-      "start": "00:48:16.458",
+      "start": "00:48:10",
       "end": "00:59:05.451",
       "state": {
         "players": [
@@ -751,7 +614,7 @@
     {
       "id": "56944194",
       "displayName": "F - wq: Denpa vs Kai Ai",
-      "start": "01:01:16.475",
+      "start": "01:01:15",
       "end": "01:07:52.317",
       "state": {
         "players": [
@@ -899,7 +762,7 @@
     {
       "id": "56944196",
       "displayName": "H - ws: StraylightP vs Hyde",
-      "start": "01:10:13.432",
+      "start": "01:10:05",
       "end": "01:19:35.001",
       "state": {
         "players": [
@@ -1047,7 +910,7 @@
     {
       "id": "56944197",
       "displayName": "I - ws: Denpa vs j.g",
-      "start": "01:21:22.219",
+      "start": "01:21:20",
       "end": "01:34:30.633",
       "state": {
         "players": [
@@ -1195,7 +1058,7 @@
     {
       "id": "56944227",
       "displayName": "R - lq: Kiri vs Hyde",
-      "start": "01:36:46.568",
+      "start": "01:36:37",
       "end": "01:44:28.965",
       "state": {
         "players": [
@@ -1343,7 +1206,7 @@
     {
       "id": "56944198",
       "displayName": "J - wf: StraylightP vs Denpa",
-      "start": "01:45:57.218",
+      "start": "01:45:50",
       "end": "01:57:23.145",
       "state": {
         "players": [
@@ -1491,7 +1354,7 @@
     {
       "id": "56944229",
       "displayName": "T - ls: j.g vs Hyde",
-      "start": "02:06:45.377",
+      "start": "02:06:39",
       "end": "02:18:10.787",
       "state": {
         "players": [
@@ -1639,7 +1502,7 @@
     {
       "id": "56944230",
       "displayName": "U - lf: j.g vs Denpa",
-      "start": "02:20:01.120",
+      "start": "02:19:51",
       "end": "02:37:50.056",
       "state": {
         "players": [
@@ -1787,7 +1650,7 @@
     {
       "id": "56944199",
       "displayName": "K - gf: j.g vs StraylightP",
-      "start": "02:39:24.729",
+      "start": "02:39:10",
       "end": "02:50:57.616",
       "state": {
         "players": [

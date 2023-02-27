@@ -5,13 +5,22 @@
   "bracketService": "smashgg",
   "phaseId": "1281585",
   "eventId": "842398",
-  "start": "03:04:02.450",
-  "end": "04:09:45.128",
+  "title": "Lunatic Perilune #20: Guilty Gear Xrd Top 6 (presented by AONI)",
+  "event": {
+    "tournament": {
+      "hashtag": "AONI"
+    }
+  },
+  "userData": {
+    "notes": "This broadcast is from our secondary stream.\nExpect even better quality in the future!"
+  },
+  "start": "03:02:54",
+  "end": "04:10:41",
   "sets": [
     {
       "id": "56956224",
       "displayName": "G - ws: AONI | Crocs N' Socks vs AONI | Shana",
-      "start": "03:04:02.450",
+      "start": "03:04:00",
       "end": "03:08:42.572",
       "state": {
         "players": [
@@ -173,7 +182,7 @@
     {
       "id": "56956225",
       "displayName": "H - ws: Alex Y vs TSB | Pandabetic",
-      "start": "03:10:24.503",
+      "start": "03:10:12",
       "end": "03:16:07.477",
       "state": {
         "players": [
@@ -335,7 +344,7 @@
     {
       "id": "56956226",
       "displayName": "I - wf: AONI | Crocs N' Socks vs TSB | Pandabetic",
-      "start": "03:19:09.679",
+      "start": "03:19:02",
       "end": "03:23:35.685",
       "state": {
         "players": [
@@ -495,161 +504,15 @@
       }
     },
     {
-      "id": "56956258",
-      "displayName": "S - lf: TSB | Pandabetic vs AONI | Shana",
-      "start": "03:28:54.092",
-      "end": "03:34:50.317",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202302120037016270000",
-              "handle": "Pandabetic",
-              "prefix": "TSB",
-              "serviceIds": {
-                "smashgg": "617072"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202302120023587750000",
-              "handle": "Shana",
-              "prefix": "AONI",
-              "serviceIds": {
-                "twitter": "ShanaFGC",
-                "smashgg": "566103"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "lf",
-          "name": "Losers Finals",
-          "smashggId": "Losers Final"
-        },
-        "game": {
-          "id": "ggxrd",
-          "name": "Guilty Gear Xrd",
-          "shortNames": [
-            "Xrd"
-          ],
-          "hashtags": [
-            "GGXRD"
-          ],
-          "additionalTags": [
-            "Guilty Gear"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Guilty Gear Xrd: Rev 2"
-            },
-            "smashgg": {
-              "id": "36"
-            },
-            "challonge": {
-              "id": "121822"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202302112157056580000",
-              "handle": "Yung Willy",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202302120023587730000",
-              "handle": "Crocs N' Socks",
-              "prefix": "AONI",
-              "serviceIds": {
-                "twitter": "DDDS_Main",
-                "smashgg": "566104"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #20",
-        "event": "Guilty Gear Xrd Rev 2",
-        "messages": [
-          "Guilty Gear Xrd Up Next"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "56956258",
-            "phaseId": "1281585",
-            "phaseGroupId": "1962913"
-          },
-          "match": {
-            "id": "lf",
-            "name": "Losers Finals",
-            "smashggId": "Losers Final"
-          },
-          "videogame": {
-            "id": "ggxrd",
-            "name": "Guilty Gear Xrd",
-            "shortNames": [
-              "Xrd"
-            ],
-            "hashtags": [
-              "GGXRD"
-            ],
-            "additionalTags": [
-              "Guilty Gear"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Guilty Gear Xrd: Rev 2"
-              },
-              "smashgg": {
-                "id": "36"
-              },
-              "challonge": {
-                "id": "121822"
-              }
-            }
-          },
-          "shortIdentifier": "S",
-          "displayName": "S - lf: TSB | Pandabetic vs ???",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "TSB | Pandabetic",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "617072",
-                  "handle": "Pandabetic",
-                  "prefix": "TSB",
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "",
-              "participants": [],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "id": "56956257",
+      "displayName": "R - ls: Alex Y vs AONI | Shana",
+      "start": "03:28:49",
+      "end": "03:33:16"
     },
     {
       "id": "56956258",
       "displayName": "S - lf: TSB | Pandabetic vs AONI | Shana",
-      "start": "03:50:15.188",
+      "start": "03:33:58",
       "end": "03:50:17.011",
       "state": {
         "players": [
@@ -811,7 +674,7 @@
     {
       "id": "56956227",
       "displayName": "J - gf: TSB | Pandabetic vs AONI | Crocs N' Socks",
-      "start": "03:52:31.174",
+      "start": "03:52:21",
       "end": "04:09:45.128",
       "state": {
         "players": [
