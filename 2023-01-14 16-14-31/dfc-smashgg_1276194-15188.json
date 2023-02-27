@@ -5,176 +5,29 @@
   "bracketService": "smashgg",
   "phaseId": "1276194",
   "eventId": "838132",
-  "start": "00:32:39.083",
-  "end": "02:07:23.077",
+  "userData": {
+    "notes": "This broadcast is from our secondary stream.\nExpect even better quality in the future!"
+  },
+  "start": "00:04:13",
+  "end": "02:12:43.5",
   "sets": [
     {
-      "id": "55872499",
-      "displayName": "A - wq: Denpa vs GaryButternubs (GaryButterNubs)",
-      "start": "00:32:39.083",
-      "end": "00:38:34.230",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350780001",
-              "handle": "Denpa",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "DenpaEXE",
-                "smashgg": "692211"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202208132328085130000",
-              "handle": "GaryButterNubs",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "GButternubs",
-                "smashgg": "1969295"
-              },
-              "alias": "GaryButternubs"
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "wq",
-          "name": "Winners Quarters",
-          "smashggId": "Winners Quarter-Final"
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350590000",
-              "handle": "j.g.",
-              "prefix": "IA",
-              "serviceIds": {
-                "twitter": "landofpoverty",
-                "smashgg": "353501"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402351280002",
-              "handle": "Tomahawk",
-              "prefix": "S.O.N.G.",
-              "serviceIds": {
-                "twitter": "NYC_Tomuhawk",
-                "smashgg": "170633"
-              },
-              "alias": "Tomuhawk"
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #19",
-        "event": "",
-        "messages": [
-          "Guilty Gear Xrd Up Next"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "55872499",
-            "phaseId": "1276194",
-            "phaseGroupId": "1955688"
-          },
-          "match": {
-            "id": "wq",
-            "name": "Winners Quarters",
-            "smashggId": "Winners Quarter-Final"
-          },
-          "videogame": {
-            "id": "dfc",
-            "name": "Dengeki Bunko Fighting Climax: Ignition",
-            "shortNames": [
-              "Dengeki Bunko Fighting Climax",
-              "Dengeki Bunko",
-              "DFCI"
-            ],
-            "hashtags": [
-              "DFCI"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Dengeki Bunko: Fighting Climax Ignition"
-              },
-              "smashgg": {
-                "id": "4267"
-              }
-            }
-          },
-          "shortIdentifier": "A",
-          "displayName": "A - wq: Denpa vs GaryButternubs",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Denpa",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "692211",
-                  "handle": "Denpa",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "DenpaEXE"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "GaryButternubs",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1969295",
-                  "handle": "GaryButternubs",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "GButternubs"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "id": "55872500",
+      "displayName": "B - wq: LP | StraylightP vs S.O.N.G. | Tomuhawk",
+      "start": "00:04:48",
+      "end": "00:12:06"
+    },
+    {
+      "id": "55872502",
+      "displayName": "D - wq: IA | j.g. vs Syrorin",
+      "start": "00:18:50",
+      "end": "00:31:08"
     },
     {
       "id": "55872499",
       "displayName": "A - wq: Denpa vs GaryButternubs (GaryButterNubs)",
-      "start": "00:40:56.276",
-      "end": "00:41:07.554",
+      "start": "00:32:30",
+      "end": "00:38:57",
       "state": {
         "players": [
           {
@@ -335,7 +188,7 @@
     {
       "id": "55872504",
       "displayName": "F - ws: Alps vs IA | j.g.",
-      "start": "00:41:14.211",
+      "start": "00:40:44",
       "end": "00:49:21.091",
       "state": {
         "players": [
@@ -496,7 +349,7 @@
     {
       "id": "55872503",
       "displayName": "E - ws: Denpa vs LP | StraylightP",
-      "start": "00:53:12.126",
+      "start": "00:52:50",
       "end": "00:59:07.856",
       "state": {
         "players": [
@@ -657,7 +510,7 @@
     {
       "id": "55872505",
       "displayName": "G - wf: Alps vs LP | StraylightP",
-      "start": "01:01:20.019",
+      "start": "01:01:12",
       "end": "01:18:03.806",
       "state": {
         "players": [
@@ -817,7 +670,7 @@
     {
       "id": "55872519",
       "displayName": "M - lq: Denpa vs LP | EJay",
-      "start": "01:19:41.826",
+      "start": "01:19:24",
       "end": "01:33:51.567",
       "state": {
         "players": [
@@ -973,160 +826,15 @@
       }
     },
     {
-      "id": "55872521",
-      "displayName": "O - lf: LP | StraylightP vs FUMO | Denpa",
-      "start": "01:36:16.373",
-      "end": "01:43:16.585",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402350780001",
-              "handle": "Denpa",
-              "prefix": "FUMO",
-              "serviceIds": {
-                "twitter": "DenpaEXE",
-                "smashgg": "692211"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "lf",
-          "name": "Losers Finals",
-          "smashggId": "Losers Final"
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402351280002",
-              "handle": "Tomahawk",
-              "prefix": "S.O.N.G.",
-              "serviceIds": {
-                "twitter": "NYC_Tomuhawk",
-                "smashgg": "170633"
-              },
-              "alias": "Tomuhawk"
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402351250001",
-              "handle": "Syrorin",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "syrorin",
-                "smashgg": "573623"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #19",
-        "event": "",
-        "messages": [
-          "Guilty Gear Xrd Up Next"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "55872521",
-            "phaseId": "1276194",
-            "phaseGroupId": "1955688"
-          },
-          "match": {
-            "id": "lf",
-            "name": "Losers Finals",
-            "smashggId": "Losers Final"
-          },
-          "videogame": {
-            "id": "dfc",
-            "name": "Dengeki Bunko Fighting Climax: Ignition",
-            "shortNames": [
-              "Dengeki Bunko Fighting Climax",
-              "Dengeki Bunko",
-              "DFCI"
-            ],
-            "hashtags": [
-              "DFCI"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Dengeki Bunko: Fighting Climax Ignition"
-              },
-              "smashgg": {
-                "id": "4267"
-              }
-            }
-          },
-          "shortIdentifier": "O",
-          "displayName": "O - lf: LP | StraylightP vs ???",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "LP | StraylightP",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "413756",
-                  "handle": "StraylightP",
-                  "prefix": "LP",
-                  "serviceIds": {
-                    "twitter": "LoFi_Yokai"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "",
-              "participants": [],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "id": "55872520",
+      "displayName": "N - ls: IA | j.g. vs FUMO | Denpa",
+      "start": "01:36:03",
+      "end": "01:43:16.585"
     },
     {
       "id": "55872521",
       "displayName": "O - lf: FUMO | Denpa vs LP | StraylightP",
-      "start": "01:43:22.477",
+      "start": "01:43:09",
       "end": "01:51:25.420",
       "state": {
         "players": [
@@ -1286,7 +994,7 @@
     {
       "id": "55872506",
       "displayName": "H - gf: Alps vs LP | StraylightP",
-      "start": "01:52:52.685",
+      "start": "01:52:44",
       "end": "02:07:23.077",
       "state": {
         "players": [

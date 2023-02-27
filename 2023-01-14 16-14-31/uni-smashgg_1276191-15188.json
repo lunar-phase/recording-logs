@@ -5,39 +5,43 @@
   "bracketService": "smashgg",
   "phaseId": "1276191",
   "eventId": "838129",
-  "start": "04:01:00.133",
-  "end": "05:42:42.999",
+  "userData": {
+    "notes": "This broadcast is from our secondary stream.\nExpect even better quality in the future!"
+  },
+  "start": "03:59:25",
+  "end": "05:45:18",
   "sets": [
     {
-      "id": "55892228",
-      "displayName": "C - wq: Young_OG vs Low / masato (masato)",
-      "start": "04:01:00.133",
+      "id": "55892229",
+      "displayName": "wq: ChrisBardow vs GaryButternubs (GaryButterNubs)",
+      "start": "04:01:20",
       "end": "04:12:03.897",
       "state": {
         "players": [
           {
             "person": {
-              "id": "d202301150125335900000",
-              "handle": "Young_OG",
+              "id": "d202008220402351790001",
+              "handle": "ChrisBardow",
               "prefix": null,
               "serviceIds": {
-                "smashgg": "1505730"
+                "twitter": "ChrisBardow",
+                "smashgg": "1154263"
               }
             },
-            "score": 0,
+            "score": 2,
             "inLosers": false,
             "comment": ""
           },
           {
             "person": {
-              "id": "d202008220402351780002",
-              "handle": "masato",
+              "id": "d202208132328085130000",
+              "handle": "GaryButterNubs",
               "prefix": null,
               "serviceIds": {
-                "twitter": "masato_ult",
-                "smashgg": "180631"
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
               },
-              "alias": "Low / masato"
+              "alias": "GaryButternubs"
             },
             "score": 0,
             "inLosers": false,
@@ -83,12 +87,12 @@
         "commentators": [
           {
             "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "RVNT",
               "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
               }
             }
           },
@@ -108,90 +112,13 @@
         "event": "",
         "messages": [
           "Under Night Up Next"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "55892228",
-            "phaseId": "1276191",
-            "phaseGroupId": "1955685"
-          },
-          "match": {
-            "id": "wq",
-            "name": "Winners Quarters",
-            "smashggId": "Winners Quarter-Final"
-          },
-          "videogame": {
-            "id": "uni",
-            "name": "Under Night In-Birth Exe:Late[cl-r]",
-            "shortNames": [
-              "Under Night In-Birth",
-              "Under Night",
-              "UNIclr"
-            ],
-            "hashtags": [
-              "UNIclr",
-              "inbirth"
-            ],
-            "additionalTags": [
-              "Under Night In-Birth",
-              "Under Night"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Under Night In-Birth Exe:Late[cl-r]"
-              },
-              "smashgg": {
-                "id": "33870"
-              },
-              "challonge": {
-                "id": "186168"
-              },
-              "battlefy": {
-                "id": "5e7e0d0ba6da6f1083738975"
-              }
-            }
-          },
-          "shortIdentifier": "C",
-          "displayName": "C - wq: Low / masato vs Young_OG",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Low / masato",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "180631",
-                  "handle": "Low / masato",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "masato_ult"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Young_OG",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1505730",
-                  "handle": "Young_OG",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
+        ]
       }
     },
     {
       "id": "55892228",
       "displayName": "C - wq: Low / masato (masato) vs Young_OG",
-      "start": "04:12:05.065",
+      "start": "04:11:56",
       "end": "04:16:28.967",
       "state": {
         "players": [
@@ -371,7 +298,7 @@
     {
       "id": "55892233",
       "displayName": "H - ws: RVNT | LuFL vs DBZFORMERS",
-      "start": "04:19:56.021",
+      "start": "04:19:44",
       "end": "04:23:58.393",
       "state": {
         "players": [
@@ -553,7 +480,7 @@
     {
       "id": "55892232",
       "displayName": "G - ws: ChrisBardow vs Low / masato (masato)",
-      "start": "04:26:13.410",
+      "start": "04:26:21",
       "end": "04:31:01.945",
       "state": {
         "players": [
@@ -736,7 +663,7 @@
     {
       "id": "55892261",
       "displayName": "N - l2: AONI | paz (Paz) vs Zeal",
-      "start": "04:35:48.723",
+      "start": "04:35:42",
       "end": "04:39:18.727",
       "state": {
         "players": [
@@ -916,7 +843,7 @@
     {
       "id": "55892264",
       "displayName": "Q - lq: DBZFORMERS vs GaryButternubs (GaryButterNubs)",
-      "start": "04:41:18.293",
+      "start": "04:41:14",
       "end": "04:46:24.417",
       "state": {
         "players": [
@@ -1099,7 +1026,7 @@
     {
       "id": "55892234",
       "displayName": "I - wf: RVNT | LuFL vs Low / masato (masato)",
-      "start": "04:56:47.621",
+      "start": "04:56:34",
       "end": "05:03:13.760",
       "state": {
         "players": [
@@ -1282,7 +1209,7 @@
     {
       "id": "55892265",
       "displayName": "R - ls: ChrisBardow vs GaryButternubs (GaryButterNubs)",
-      "start": "05:06:15.420",
+      "start": "05:06:03",
       "end": "05:11:53.971",
       "state": {
         "players": [
@@ -1465,7 +1392,7 @@
     {
       "id": "55892266",
       "displayName": "S - lf: RVNT | LuFL vs GaryButternubs (GaryButterNubs)",
-      "start": "05:13:49.945",
+      "start": "05:13:33",
       "end": "05:21:43.739",
       "state": {
         "players": [
@@ -1648,7 +1575,7 @@
     {
       "id": "55892235",
       "displayName": "J - gf: RVNT | LuFL vs Low / masato (masato)",
-      "start": "05:23:54.644",
+      "start": "05:23:35",
       "end": "05:31:37.248",
       "state": {
         "players": [
@@ -1829,9 +1756,9 @@
       }
     },
     {
-      "id": "55892235",
-      "displayName": "J - BONUS ROUND: Juushichi vs Low / masato (masato)",
-      "start": "05:34:17.135",
+      "id":  null,
+      "displayName": "BONUS ROUND: Juushichi vs Low / masato (masato)",
+      "start": "05:33:35",
       "end": "05:42:42.999",
       "state": {
         "players": [

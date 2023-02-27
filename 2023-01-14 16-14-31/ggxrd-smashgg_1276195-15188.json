@@ -4,14 +4,24 @@
   "file": "..\\2023-01-14 16-14-31.mkv",
   "bracketService": "smashgg",
   "phaseId": "1276195",
+  "phaseName": "Top 6",
   "eventId": "838133",
-  "start": "02:31:54.247",
-  "end": "03:44:06.322",
+  "title": "Lunatic Perilune #19: Guilty Gear Xrd Top 6 (presented by AONI)",
+  "event": {
+    "tournament": {
+      "hashtag": "AONI"
+    }
+  },
+  "userData": {
+    "notes": "This broadcast is from our secondary stream.\nExpect even better quality in the future!"
+  },
+  "start": "02:30:07.5",
+  "end": "03:48:32.5",
   "sets": [
     {
       "id": "55882122",
       "displayName": "L - ws: liluglymay vs AONI | Reicy",
-      "start": "02:31:54.247",
+      "start": "02:31:44",
       "end": "02:39:00.842",
       "state": {
         "players": [
@@ -175,7 +185,7 @@
     {
       "id": "55882123",
       "displayName": "M - ws: TSB | Spectryn vs AONI | Paz",
-      "start": "02:41:35.338",
+      "start": "02:41:28",
       "end": "02:49:21.157",
       "state": {
         "players": [
@@ -336,7 +346,7 @@
     {
       "id": "55882154",
       "displayName": "AA - lq: GaG | Nozerz 0F delay vs AONI | paz (Paz)",
-      "start": "02:53:10.480",
+      "start": "02:53:01",
       "end": "02:57:50.559",
       "state": {
         "players": [
@@ -501,7 +511,7 @@
     {
       "id": "55882153",
       "displayName": "Z - lq: AONI | Shana vs AONI | Reicy",
-      "start": "02:59:49.099",
+      "start": "02:59:41",
       "end": "03:05:19.596",
       "state": {
         "players": [
@@ -669,7 +679,7 @@
     {
       "id": "55882124",
       "displayName": "N - wf: AONI | lil ugly may (moku) vs Spectryn",
-      "start": "03:06:42.930",
+      "start": "03:06:40",
       "end": "03:13:49.623",
       "state": {
         "players": [
@@ -834,7 +844,7 @@
     {
       "id": "55882155",
       "displayName": "AB - ls: AONI | Shana vs AONI | paz (Paz)",
-      "start": "03:15:16.172",
+      "start": "03:15:12",
       "end": "03:20:12.266",
       "state": {
         "players": [
@@ -1004,7 +1014,7 @@
     {
       "id": "55882156",
       "displayName": "AC - lf: Spectryn vs AONI | paz (Paz)",
-      "start": "03:21:23.021",
+      "start": "03:21:17",
       "end": "03:31:23.169",
       "state": {
         "players": [
@@ -1171,174 +1181,7 @@
     {
       "id": "55882125",
       "displayName": "O - gf: AONI | lil ugly may (moku) vs AONI | paz (Paz)",
-      "start": "03:32:37.633",
-      "end": "03:32:48.290",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202009122313009280000",
-              "handle": "moku",
-              "prefix": "AONI",
-              "serviceIds": {
-                "smashgg": "63607",
-                "twitter": "moku_gya"
-              },
-              "alias": "lil ugly may"
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202301142355433380000",
-              "handle": "Paz",
-              "prefix": "AONI",
-              "serviceIds": {
-                "twitter": "pzooo_",
-                "smashgg": "286842"
-              },
-              "alias": "paz"
-            },
-            "score": 0,
-            "inLosers": true,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
-        },
-        "game": {
-          "id": "ggxrd",
-          "name": "Guilty Gear Xrd",
-          "shortNames": [
-            "Xrd"
-          ],
-          "hashtags": [
-            "GGXRD"
-          ],
-          "additionalTags": [
-            "Guilty Gear"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Guilty Gear Xrd: Rev 2"
-            },
-            "smashgg": {
-              "id": "36"
-            },
-            "challonge": {
-              "id": "121822"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202210160005315270000",
-              "handle": "Deadward",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "DeadwardFGC"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202106191952296290000",
-              "handle": "Reicy",
-              "prefix": "AONI",
-              "serviceIds": {
-                "smashgg": "535664",
-                "twitter": "NoLifeRei"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #19",
-        "event": "",
-        "messages": [
-          "Under Night Up Next"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "55882125",
-            "phaseId": "1276195",
-            "phaseGroupId": "1955689"
-          },
-          "match": {
-            "id": "gf",
-            "name": "Grand Finals",
-            "smashggId": "Grand Final"
-          },
-          "videogame": {
-            "id": "ggxrd",
-            "name": "Guilty Gear Xrd",
-            "shortNames": [
-              "Xrd"
-            ],
-            "hashtags": [
-              "GGXRD"
-            ],
-            "additionalTags": [
-              "Guilty Gear"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Guilty Gear Xrd: Rev 2"
-              },
-              "smashgg": {
-                "id": "36"
-              },
-              "challonge": {
-                "id": "121822"
-              }
-            }
-          },
-          "shortIdentifier": "O",
-          "displayName": "O - gf: AONI | lil ugly may vs AONI | paz",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "AONI | lil ugly may",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "63607",
-                  "handle": "lil ugly may",
-                  "prefix": "AONI",
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "AONI | paz",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "286842",
-                  "handle": "paz",
-                  "prefix": "AONI",
-                  "serviceIds": {
-                    "twitter": "pzooo_"
-                  }
-                }
-              ],
-              "inLosers": true
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "55882125",
-      "displayName": "O - gf: AONI | lil ugly may (moku) vs AONI | paz (Paz)",
-      "start": "03:32:49.773",
+      "start": "03:32:19",
       "end": "03:44:06.322",
       "state": {
         "players": [
