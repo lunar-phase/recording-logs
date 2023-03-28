@@ -4,9 +4,33 @@
   "file": "..\\2023-02-18 16-04-22.mkv",
   "bracketService": "smashgg",
   "phaseId": "1281610",
+  "phaseName": "Top 4",
   "eventId": "842415",
-  "start": "04:57:24.452",
-  "end": "05:49:51.836",
+  "event": {
+    "tournament": {
+      "name": "Lunar Phase 2 on 2",
+      "venueAddress": "Brooklan - 339 Troutman St, Brooklyn, NY 11237, USA"
+    }
+  },
+  "additionalTags": [
+    "team tournament",
+    "WitchHazel",
+    "Maelrawn",
+    "TempestNYC",
+    "Shine",
+    "Kiranchi",
+    "Shakim",
+    "Kaz",
+    "JunoSisqo"
+  ],
+  "excludedTags": [
+    "WitchHazel  Maelrawn",
+    "TempestNYC  Shine",
+    "Kiranchi  Shakim샤킴",
+    "Kaz  JunoSisqo"
+  ],
+  "start": "04:54:34",
+  "end": "05:49:51",
   "sets": [
     {
       "id": "57196802",
@@ -193,186 +217,6 @@
       "id": "57196817",
       "displayName": "L - ls: Kiranchi / Shakim(샤킴) vs Kaz / JunoSisqo",
       "start": "05:10:02.165",
-      "end": "05:15:08.240",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202302190212546510000",
-              "handle": "Kiranchi / Shakim(샤킴)",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": "Shakim"
-          },
-          {
-            "person": {
-              "id": "d202302190212546520000",
-              "handle": "Kaz / JunoSisqo",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "Kaz"
-          }
-        ],
-        "match": {
-          "id": "ls",
-          "name": "Losers Semis",
-          "smashggId": "Losers Semi-Final"
-        },
-        "game": {
-          "id": "ggst",
-          "name": "Guilty Gear: Strive",
-          "shortNames": [
-            "Strive",
-            "GGST"
-          ],
-          "hashtags": [
-            "GGST"
-          ],
-          "additionalTags": [
-            "Guilty Gear"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Guilty Gear: Strive"
-            },
-            "smashgg": {
-              "id": "33945"
-            },
-            "challonge": {
-              "id": "198501"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202302190159102220000",
-              "handle": "Jaytsu",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "jaytsu_"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402351450001",
-              "handle": "Crocs N' Socks",
-              "prefix": "AONI",
-              "serviceIds": {
-                "twitter": "DDDS_Main",
-                "challonge": "134105609",
-                "smashgg": "566104"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunar Phase 2 on 2",
-        "event": "",
-        "messages": [
-          "GG Strive top 4 up next!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "57196817",
-            "phaseId": "1281610",
-            "phaseGroupId": "1962955"
-          },
-          "match": {
-            "id": "ls",
-            "name": "Losers Semis",
-            "smashggId": "Losers Semi-Final"
-          },
-          "videogame": {
-            "id": "ggst",
-            "name": "Guilty Gear: Strive",
-            "shortNames": [
-              "Strive",
-              "GGST"
-            ],
-            "hashtags": [
-              "GGST"
-            ],
-            "additionalTags": [
-              "Guilty Gear"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Guilty Gear: Strive"
-              },
-              "smashgg": {
-                "id": "33945"
-              },
-              "challonge": {
-                "id": "198501"
-              }
-            }
-          },
-          "shortIdentifier": "L",
-          "displayName": "L - ls: Kiranchi / Shakim(샤킴) vs Kaz / JunoSisqo",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Kiranchi / Shakim(샤킴)",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "142720",
-                  "handle": "Kiranchi",
-                  "prefix": "MGV",
-                  "serviceIds": {}
-                },
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "2281567",
-                  "handle": "Shakim(샤킴)",
-                  "prefix": "Team MGV",
-                  "serviceIds": {
-                    "twitter": "NotMGV"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Kaz / JunoSisqo",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "797741",
-                  "handle": "Kaz",
-                  "prefix": "oomfie",
-                  "serviceIds": {
-                    "twitter": "segajenisis"
-                  }
-                },
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "927971",
-                  "handle": "JunoSisqo",
-                  "prefix": "Mom <3",
-                  "serviceIds": {
-                    "twitter": "JunoSisqo"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "57196817",
-      "displayName": "L - ls: Kiranchi / Shakim(샤킴) vs Kaz / JunoSisqo",
-      "start": "05:15:09.419",
       "end": "05:20:15.311",
       "state": {
         "players": [
