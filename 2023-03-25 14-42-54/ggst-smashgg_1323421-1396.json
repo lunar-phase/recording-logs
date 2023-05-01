@@ -1,0 +1,1364 @@
+{
+  "format": "1",
+  "version": "0.8.0",
+  "file": "..\\2023-03-25 14-42-54.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1323421",
+  "eventId": "781573",
+  "start": "03:39:00.149",
+  "end": "05:26:29.015",
+  "sets": [
+    {
+      "id": "preview_2019348_2_0",
+      "displayName": "A - ws: M&I | TempestNYC vs Nitro",
+      "start": "03:39:00.149",
+      "end": "03:45:28.399",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202110030143222700000",
+              "handle": "TempestNYC",
+              "prefix": "M&I",
+              "serviceIds": {
+                "twitter": "Tempest_NYC",
+                "smashgg": "504187"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303252134050270000",
+              "handle": "Nitro",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NitroNY_",
+                "smashgg": "1274962"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "Pandabetic__"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "preview_2019348_2_0",
+            "phaseId": "1323421",
+            "phaseGroupId": "2019348"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - ws: M&I | TempestNYC vs Nitro",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "M&I | TempestNYC",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "504187",
+                  "handle": "TempestNYC",
+                  "prefix": "M&I",
+                  "serviceIds": {
+                    "twitter": "Tempest_NYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Nitro",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1274962",
+                  "handle": "Nitro",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NitroNY_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "58543140",
+      "displayName": "F - Losers Eighths: BBC | WitchHazel vs Buscar Luz",
+      "start": "03:57:04.482",
+      "end": "04:08:27.449",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303252238486420000",
+              "handle": "WitchHazel",
+              "prefix": "BBC",
+              "serviceIds": {
+                "twitter": "WitchhazelHazel",
+                "smashgg": "2895967"
+              },
+              "pronouns": "Her/They"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203192032560660001",
+              "handle": "Buscar Luz",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Buscarluz",
+                "smashgg": "1039293"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "Pandabetic__"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "58543140",
+            "phaseId": "1323421",
+            "phaseGroupId": "2019348"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - l1: BBC | WitchHazel vs Buscar Luz",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BBC | WitchHazel",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2895967",
+                  "handle": "WitchHazel",
+                  "prefix": "BBC",
+                  "pronouns": "Her/They",
+                  "serviceIds": {
+                    "twitter": "WitchhazelHazel"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Buscar Luz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1039293",
+                  "handle": "Buscar Luz",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Buscarluz"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "58543141",
+      "displayName": "G - Losers Eighths: BBC | Maelrawn vs Meaty | Meat",
+      "start": "04:09:22.000",
+      "end": "04:17:24.082",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303252251341680000",
+              "handle": "Maelrawn",
+              "prefix": "BBC",
+              "serviceIds": {
+                "twitter": "Maelrawn_",
+                "smashgg": "2762110"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303252251341600000",
+              "handle": "Meat",
+              "prefix": "Meaty",
+              "serviceIds": {
+                "twitter": "meat_elite",
+                "smashgg": "2591124"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "Pandabetic__"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "58543141",
+            "phaseId": "1323421",
+            "phaseGroupId": "2019348"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - l1: Meaty | Meat vs BBC | Maelrawn",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Meaty | Meat",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2591124",
+                  "handle": "Meat",
+                  "prefix": "Meaty",
+                  "serviceIds": {
+                    "twitter": "meat_elite"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "BBC | Maelrawn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2762110",
+                  "handle": "Maelrawn",
+                  "prefix": "BBC",
+                  "serviceIds": {
+                    "twitter": "Maelrawn_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "58543142",
+      "displayName": "H - lq: 9Moons | Shine vs BBC | WitchHazel",
+      "start": "04:19:28.000",
+      "end": "04:26:10.066",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203202319573750000",
+              "handle": "Shine",
+              "prefix": "9Moons",
+              "serviceIds": {
+                "twitter": "shine_potyo",
+                "smashgg": "220002"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303252238486420000",
+              "handle": "WitchHazel",
+              "prefix": "BBC",
+              "serviceIds": {
+                "twitter": "WitchhazelHazel",
+                "smashgg": "2895967"
+              },
+              "pronouns": "Her/They"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "Pandabetic__"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "58543142",
+            "phaseId": "1323421",
+            "phaseGroupId": "2019348"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - lq: 9Moons | Shine vs BBC | WitchHazel",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "9Moons | Shine",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "220002",
+                  "handle": "Shine",
+                  "prefix": "9Moons",
+                  "serviceIds": {
+                    "twitter": "shine_potyo"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "BBC | WitchHazel",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2895967",
+                  "handle": "WitchHazel",
+                  "prefix": "BBC",
+                  "pronouns": "Her/They",
+                  "serviceIds": {
+                    "twitter": "WitchhazelHazel"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "58543143",
+      "displayName": "I - lq: BBC | Maelrawn vs Nitro",
+      "start": "04:27:16.932",
+      "end": "04:41:03.882",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303252251341680000",
+              "handle": "Maelrawn",
+              "prefix": "BBC",
+              "serviceIds": {
+                "twitter": "Maelrawn_",
+                "smashgg": "2762110"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303252134050270000",
+              "handle": "Nitro",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NitroNY_",
+                "smashgg": "1274962"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "Pandabetic__"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "58543143",
+            "phaseId": "1323421",
+            "phaseGroupId": "2019348"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - lq: Nitro vs BBC | Maelrawn",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Nitro",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1274962",
+                  "handle": "Nitro",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NitroNY_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "BBC | Maelrawn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2762110",
+                  "handle": "Maelrawn",
+                  "prefix": "BBC",
+                  "serviceIds": {
+                    "twitter": "Maelrawn_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "58543129",
+      "displayName": "C - wf: M&I | TempestNYC vs AGONbyAOC | Bean",
+      "start": "04:42:38.349",
+      "end": "04:49:23.332",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202110030143222700000",
+              "handle": "TempestNYC",
+              "prefix": "M&I",
+              "serviceIds": {
+                "twitter": "Tempest_NYC",
+                "smashgg": "504187"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303252228349040000",
+              "handle": "Bean",
+              "prefix": "AGONbyAOC",
+              "serviceIds": {
+                "twitter": "EC_Bean",
+                "smashgg": "2334193"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "Pandabetic__"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "58543129",
+            "phaseId": "1323421",
+            "phaseGroupId": "2019348"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wf: M&I | TempestNYC vs AGONbyAOC | Bean",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "M&I | TempestNYC",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "504187",
+                  "handle": "TempestNYC",
+                  "prefix": "M&I",
+                  "serviceIds": {
+                    "twitter": "Tempest_NYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AGONbyAOC | Bean",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2334193",
+                  "handle": "Bean",
+                  "prefix": "AGONbyAOC",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "EC_Bean"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "58543145",
+      "displayName": "K - lf: 9Moons | Shine vs M&I | TempestNYC",
+      "start": "05:03:25.000",
+      "end": "05:11:47.715",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203202319573750000",
+              "handle": "Shine",
+              "prefix": "9Moons",
+              "serviceIds": {
+                "twitter": "shine_potyo",
+                "smashgg": "220002"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202110030143222700000",
+              "handle": "TempestNYC",
+              "prefix": "M&I",
+              "serviceIds": {
+                "twitter": "Tempest_NYC",
+                "smashgg": "504187"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "Pandabetic__"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "58543145",
+            "phaseId": "1323421",
+            "phaseGroupId": "2019348"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lf: M&I | TempestNYC vs 9Moons | Shine",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "M&I | TempestNYC",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "504187",
+                  "handle": "TempestNYC",
+                  "prefix": "M&I",
+                  "serviceIds": {
+                    "twitter": "Tempest_NYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "9Moons | Shine",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "220002",
+                  "handle": "Shine",
+                  "prefix": "9Moons",
+                  "serviceIds": {
+                    "twitter": "shine_potyo"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "58543130",
+      "displayName": "D - gf: 9Moons | Shine vs AGONbyAOC | Bean",
+      "start": "05:13:02.665",
+      "end": "05:26:29.015",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203202319573750000",
+              "handle": "Shine",
+              "prefix": "9Moons",
+              "serviceIds": {
+                "twitter": "shine_potyo",
+                "smashgg": "220002"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303252228349040000",
+              "handle": "Bean",
+              "prefix": "AGONbyAOC",
+              "serviceIds": {
+                "twitter": "EC_Bean",
+                "smashgg": "2334193"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "Pandabetic__"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "58543130",
+            "phaseId": "1323421",
+            "phaseGroupId": "2019348"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - gf: AGONbyAOC | Bean vs 9Moons | Shine",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AGONbyAOC | Bean",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2334193",
+                  "handle": "Bean",
+                  "prefix": "AGONbyAOC",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "EC_Bean"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "9Moons | Shine",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "220002",
+                  "handle": "Shine",
+                  "prefix": "9Moons",
+                  "serviceIds": {
+                    "twitter": "shine_potyo"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
