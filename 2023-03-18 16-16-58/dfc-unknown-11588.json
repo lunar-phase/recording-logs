@@ -2,606 +2,23 @@
   "format": "1",
   "version": "0.7.0",
   "file": "..\\2023-03-18 16-16-58.mkv",
+  "title": "Lunatic Perilune #21: Noddy Kumite [DFCI]",
+  "event": {
+    "tournament": {
+      "name": "Lunatic Perilune #21",
+      "startAt": 1679169600,
+      "url": "https://www.start.gg/tournament/lunatic-perilune-21",
+      "venueAddress": "874 4th Ave, Brooklyn, NY 11232, USA"
+    }
+  },
   "phaseId": "unknown",
-  "start": "03:59:01.632",
-  "end": "06:19:50.099",
+  "userData": {
+    "notes": "Note: This broadcast is from our secondary stream. Apologies for all the background karaoke!"
+  },
+  "additionalTags": [ "kumite" ],
+  "start": "05:02:54",
+  "end": "07:00:41",
   "sets": [
-    {
-      "id": null,
-      "displayName": "gf: RVNT | LuFL vs reid",
-      "start": "03:59:01.632",
-      "end": "04:02:41.749",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": "RVNT",
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202303190014153670000",
-              "handle": "reid",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402349970000",
-              "handle": "Brainnn",
-              "prefix": "BFGC",
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350940000",
-              "handle": "nyczbrandon",
-              "prefix": "PPT",
-              "serviceIds": {
-                "twitter": "nyczbrandon",
-                "smashgg": "567810"
-              },
-              "alias": "KaiAi"
-            }
-          }
-        ],
-        "tournament": "Under Night In Birth",
-        "event": "Lunatic Perilune #21",
-        "messages": [
-          "Under Night Up Next"
-        ]
-      }
-    },
-    {
-      "id": null,
-      "displayName": ": RVNT | LuFL vs PPT | KaiAi (nyczbrandon)",
-      "start": "04:09:37.716",
-      "end": "04:14:46.866",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": "RVNT",
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402350940000",
-              "handle": "nyczbrandon",
-              "prefix": "PPT",
-              "serviceIds": {
-                "twitter": "nyczbrandon",
-                "smashgg": "567810"
-              },
-              "alias": "KaiAi"
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "",
-          "smashggId": null
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402349970000",
-              "handle": "Brainnn",
-              "prefix": "BFGC",
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350940000",
-              "handle": "nyczbrandon",
-              "prefix": "PPT",
-              "serviceIds": {
-                "twitter": "nyczbrandon",
-                "smashgg": "567810"
-              },
-              "alias": "KaiAi"
-            }
-          }
-        ],
-        "tournament": "Under Night In Birth",
-        "event": "Lunatic Perilune #21",
-        "messages": [
-          "Under Night Up Next"
-        ]
-      }
-    },
-    {
-      "id": null,
-      "displayName": ": BFGC | Brainnn vs PPT | KaiAi (nyczbrandon)",
-      "start": "04:16:14.332",
-      "end": "04:23:14.766",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402349970000",
-              "handle": "Brainnn",
-              "prefix": "BFGC",
-              "serviceIds": {}
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402350940000",
-              "handle": "nyczbrandon",
-              "prefix": "PPT",
-              "serviceIds": {
-                "twitter": "nyczbrandon",
-                "smashgg": "567810"
-              },
-              "alias": "KaiAi"
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "",
-          "smashggId": null
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": "RVNT",
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350940000",
-              "handle": "nyczbrandon",
-              "prefix": "PPT",
-              "serviceIds": {
-                "twitter": "nyczbrandon",
-                "smashgg": "567810"
-              },
-              "alias": "KaiAi"
-            }
-          }
-        ],
-        "tournament": "Under Night In Birth",
-        "event": "Lunatic Perilune #21",
-        "messages": [
-          "Under Night Up Next"
-        ]
-      }
-    },
-    {
-      "id": null,
-      "displayName": ": BFGC | Brainnn vs RVNT | LuFL",
-      "start": "04:26:29.749",
-      "end": "04:30:19.882",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402349970000",
-              "handle": "Brainnn",
-              "prefix": "BFGC",
-              "serviceIds": {}
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": "RVNT",
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "",
-          "smashggId": null
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350940000",
-              "handle": "nyczbrandon",
-              "prefix": "PPT",
-              "serviceIds": {
-                "twitter": "nyczbrandon",
-                "smashgg": "567810"
-              },
-              "alias": "KaiAi"
-            }
-          },
-          {
-            "person": {
-              "id": "d202303190041216490000",
-              "handle": "reid",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Under Night In Birth",
-        "event": "Lunatic Perilune #21",
-        "messages": [
-          "Under Night Up Next"
-        ]
-      }
-    },
-    {
-      "id": null,
-      "displayName": ": BFGC | Brainnn vs reid",
-      "start": "04:34:59.349",
-      "end": "04:39:47.265",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402349970000",
-              "handle": "Brainnn",
-              "prefix": "BFGC",
-              "serviceIds": {}
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202303190041216490000",
-              "handle": "reid",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "",
-          "smashggId": null
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350940000",
-              "handle": "nyczbrandon",
-              "prefix": "PPT",
-              "serviceIds": {
-                "twitter": "nyczbrandon",
-                "smashgg": "567810"
-              },
-              "alias": "KaiAi"
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": "RVNT",
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            }
-          }
-        ],
-        "tournament": "Under Night In Birth",
-        "event": "Lunatic Perilune #21",
-        "messages": [
-          "Under Night Up Next"
-        ]
-      }
-    },
-    {
-      "id": null,
-      "displayName": ": PPT | KaiAi (nyczbrandon) vs reid",
-      "start": "04:41:18.182",
-      "end": "04:45:35.849",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350940000",
-              "handle": "nyczbrandon",
-              "prefix": "PPT",
-              "serviceIds": {
-                "twitter": "nyczbrandon",
-                "smashgg": "567810"
-              },
-              "alias": "KaiAi"
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202303190041216490000",
-              "handle": "reid",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "",
-          "smashggId": null
-        },
-        "game": {
-          "id": "uni",
-          "name": "Under Night In-Birth Exe:Late[cl-r]",
-          "shortNames": [
-            "Under Night In-Birth",
-            "Under Night",
-            "UNIclr"
-          ],
-          "hashtags": [
-            "UNIclr",
-            "inbirth"
-          ],
-          "additionalTags": [
-            "Under Night In-Birth",
-            "Under Night"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Under Night In-Birth Exe:Late[cl-r]"
-            },
-            "smashgg": {
-              "id": "33870"
-            },
-            "challonge": {
-              "id": "186168"
-            },
-            "battlefy": {
-              "id": "5e7e0d0ba6da6f1083738975"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402349970000",
-              "handle": "Brainnn",
-              "prefix": "BFGC",
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402351460000",
-              "handle": "LuFL",
-              "prefix": "RVNT",
-              "serviceIds": {
-                "twitter": "LuFL_FGC",
-                "smashgg": "951409"
-              }
-            }
-          }
-        ],
-        "tournament": "Under Night In Birth",
-        "event": "Lunatic Perilune #21",
-        "messages": [
-          "Under Night Up Next"
-        ]
-      }
-    },
     {
       "id": null,
       "displayName": ": PINKCOMET | noddy vs kidd",
@@ -637,8 +54,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "ft2",
+          "name": "First to 2",
           "smashggId": null
         },
         "game": {
@@ -695,7 +112,7 @@
     {
       "id": null,
       "displayName": ": PINKCOMET | noddy vs adct",
-      "start": "05:17:28.365",
+      "start": "05:11:29",
       "end": "05:17:29.732",
       "state": {
         "players": [
@@ -727,8 +144,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "ft2",
+          "name": "First to 2",
           "smashggId": null
         },
         "game": {
@@ -786,7 +203,7 @@
       "id": null,
       "displayName": ": PINKCOMET | noddy vs Syrorin",
       "start": "05:20:03.782",
-      "end": "05:20:18.499",
+      "end": "05:26:55",
       "state": {
         "players": [
           {
@@ -820,8 +237,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "ft2",
+          "name": "First to 2",
           "smashggId": null
         },
         "game": {
@@ -913,8 +330,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "ft2",
+          "name": "First to 2",
           "smashggId": null
         },
         "game": {
@@ -1003,8 +420,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "ft2",
+          "name": "First to 2",
           "smashggId": null
         },
         "game": {
@@ -1097,8 +514,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "ft2",
+          "name": "First to 2",
           "smashggId": null
         },
         "game": {
@@ -1156,100 +573,6 @@
       "id": null,
       "displayName": ": PINKCOMET | noddy vs IA | j.g.",
       "start": "05:48:57.815",
-      "end": "05:54:58.882",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402352120000",
-              "handle": "noddy",
-              "prefix": "PINKCOMET",
-              "serviceIds": {
-                "smashgg": "1743693",
-                "twitter": "noddyisnutty"
-              },
-              "pronouns": "The"
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402350590000",
-              "handle": "j.g.",
-              "prefix": "IA",
-              "serviceIds": {
-                "twitter": "landofpoverty",
-                "smashgg": "353501"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "",
-          "smashggId": null
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350940000",
-              "handle": "nyczbrandon",
-              "prefix": "PPT",
-              "serviceIds": {
-                "twitter": "nyczbrandon",
-                "smashgg": "567810"
-              },
-              "alias": "KaiAi"
-            }
-          }
-        ],
-        "tournament": "Under Night In Birth",
-        "event": "Lunatic Perilune #21",
-        "messages": [
-          "Under Night Up Next"
-        ]
-      }
-    },
-    {
-      "id": null,
-      "displayName": ": PINKCOMET | noddy vs IA | j.g.",
-      "start": "05:55:14.682",
       "end": "05:57:27.982",
       "state": {
         "players": [
@@ -1284,8 +607,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "ft3",
+          "name": "First to 3",
           "smashggId": null
         },
         "game": {
@@ -1378,8 +701,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "ft2",
+          "name": "First to 2",
           "smashggId": null
         },
         "game": {
@@ -1437,7 +760,7 @@
     {
       "id": null,
       "displayName": ": PINKCOMET | noddy vs Denpa",
-      "start": "06:12:57.365",
+      "start": "06:06:36",
       "end": "06:13:05.349",
       "state": {
         "players": [
@@ -1472,8 +795,8 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "ft2",
+          "name": "First to 2",
           "smashggId": null
         },
         "game": {
@@ -1531,7 +854,7 @@
     {
       "id": null,
       "displayName": ": PINKCOMET | noddy vs S.O.N.G. | Tomuhawk (Tomahawk)",
-      "start": "06:19:49.432",
+      "start": "06:14:05",
       "end": "06:19:50.099",
       "state": {
         "players": [
@@ -1567,8 +890,102 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "",
+          "id": "ft2",
+          "name": "First to 2",
+          "smashggId": null
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "landofpoverty",
+                "smashgg": "353501"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350940000",
+              "handle": "nyczbrandon",
+              "prefix": "PPT",
+              "serviceIds": {
+                "twitter": "nyczbrandon",
+                "smashgg": "567810"
+              },
+              "alias": "KaiAi"
+            }
+          }
+        ],
+        "tournament": "Under Night In Birth",
+        "event": "Lunatic Perilune #21",
+        "messages": [
+          "Under Night Up Next"
+        ]
+      }
+    },
+    {
+      "id": null,
+      "displayName": ": PINKCOMET | noddy vs Walküre | 『Tamaki』",
+      "start": "06:21:26",
+      "end": "07:00:41",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352120000",
+              "handle": "noddy",
+              "prefix": "PINKCOMET",
+              "serviceIds": {
+                "smashgg": "1743693",
+                "twitter": "noddyisnutty"
+              },
+              "pronouns": "The"
+            },
+            "score": 5,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202107312124470030000",
+              "handle": "『Tamaki』",
+              "prefix": "Walküre",
+              "serviceIds": {
+                "twitter": "Tamaki_sh",
+                "smashgg": "175572"
+              }
+            },
+            "score": 4,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ft5",
+          "name": "First to 5",
           "smashggId": null
         },
         "game": {

@@ -5,13 +5,16 @@
   "bracketService": "smashgg",
   "phaseId": "1321547",
   "eventId": "873804",
-  "start": "00:08:38.716",
-  "end": "02:30:32.482",
+  "userData": {
+    "notes": "Note: This broadcast is from our secondary stream."
+  },
+  "start": "00:01:20",
+  "end": "02:32:14",
   "sets": [
     {
       "id": "58251761",
       "displayName": "D - w1: S.O.N.G. | Tomuhawk (Tomahawk) vs AONI | Crocs N' Socks",
-      "start": "00:08:38.716",
+      "start": "00:02:06",
       "end": "00:08:39.616",
       "state": {
         "players": [
@@ -172,8 +175,8 @@
     {
       "id": "58251759",
       "displayName": "C - w1: IA | j.g. vs ChexGuy",
-      "start": "00:17:38.283",
-      "end": "00:21:14.583",
+      "start": "00:21:22",
+      "end": "00:27:00",
       "state": {
         "players": [
           {
@@ -330,7 +333,7 @@
       "id": "58251766",
       "displayName": "I - wq: PINKCOMET | noddy vs S.O.N.G. | Tomuhawk (Tomahawk)",
       "start": "00:30:15.516",
-      "end": "00:39:05.149",
+      "end": "00:39:14",
       "state": {
         "players": [
           {
@@ -489,7 +492,7 @@
     {
       "id": "58251768",
       "displayName": "K - ws: LP | StraylightP vs Walküre | 『Tamaki』",
-      "start": "00:42:33.383",
+      "start": "00:42:26",
       "end": "00:46:58.949",
       "state": {
         "players": [
@@ -648,7 +651,7 @@
       "id": "58251769",
       "displayName": "L - ws: GaryButternubs (GaryButterNubs) vs PINKCOMET | noddy",
       "start": "00:48:54.933",
-      "end": "00:54:45.716",
+      "end": "00:54:56",
       "state": {
         "players": [
           {
@@ -808,169 +811,7 @@
       "id": "58251798",
       "displayName": "W - l3: YAYA <3 | Hyde vs IA | j.g.",
       "start": "01:00:55.766",
-      "end": "01:07:22.349",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202110162258542300000",
-              "handle": "Hyde",
-              "prefix": "YAYA <3",
-              "serviceIds": {
-                "twitter": "hydechiko",
-                "smashgg": "1670118",
-                "challonge": "154836488"
-              },
-              "pronouns": "any pronouns"
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402350590000",
-              "handle": "j.g.",
-              "prefix": "IA",
-              "serviceIds": {
-                "twitter": "landofpoverty",
-                "smashgg": "353501"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "l3",
-          "name": "Losers Round 3",
-          "smashggId": "Losers Round 3"
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402352120000",
-              "handle": "noddy",
-              "prefix": "PINKCOMET",
-              "serviceIds": {
-                "smashgg": "1743693",
-                "twitter": "noddyisnutty"
-              },
-              "pronouns": "The"
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            }
-          }
-        ],
-        "tournament": "Dengeki Bunko Fighting Climax Ignition",
-        "event": "Lunatic Perilune #21",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "58251798",
-            "phaseId": "1321547",
-            "phaseGroupId": "2016750"
-          },
-          "match": {
-            "id": "l3",
-            "name": "Losers Round 3",
-            "smashggId": "Losers Round 3"
-          },
-          "videogame": {
-            "id": "dfc",
-            "name": "Dengeki Bunko Fighting Climax: Ignition",
-            "shortNames": [
-              "Dengeki Bunko Fighting Climax",
-              "Dengeki Bunko",
-              "DFCI"
-            ],
-            "hashtags": [
-              "DFCI"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Dengeki Bunko: Fighting Climax Ignition"
-              },
-              "smashgg": {
-                "id": "4267"
-              }
-            }
-          },
-          "shortIdentifier": "W",
-          "displayName": "W - l3: IA | j.g. vs YAYA <3 | Hyde",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "IA | j.g.",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "353501",
-                  "handle": "j.g.",
-                  "prefix": "IA",
-                  "serviceIds": {
-                    "twitter": "landofpoverty"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "YAYA <3 | Hyde",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1670118",
-                  "handle": "Hyde",
-                  "prefix": "YAYA <3",
-                  "pronouns": "any pronouns",
-                  "serviceIds": {
-                    "twitter": "hydechiko"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "58251798",
-      "displayName": "W - l3: YAYA <3 | Hyde vs IA | j.g.",
-      "start": "01:07:22.849",
-      "end": "01:16:14.916",
+      "end": "01:16:25",
       "state": {
         "players": [
           {
@@ -1131,8 +972,8 @@
     {
       "id": "58251799",
       "displayName": "X - lq: LP | StraylightP vs S.O.N.G. | Tomuhawk (Tomahawk)",
-      "start": "01:17:36.616",
-      "end": "01:29:06.483",
+      "start": "01:17:35",
+      "end": "01:29:16",
       "state": {
         "players": [
           {
@@ -1293,8 +1134,8 @@
     {
       "id": "58251770",
       "displayName": "M - wf: PINKCOMET | noddy vs Walküre | 『Tamaki』",
-      "start": "01:31:13.533",
-      "end": "01:51:08.183",
+      "start": "01:31:07",
+      "end": "01:51:15",
       "state": {
         "players": [
           {
@@ -1455,7 +1296,7 @@
     {
       "id": "58251801",
       "displayName": "Z - ls: GaryButternubs (GaryButterNubs) vs S.O.N.G. | Tomuhawk (Tomahawk)",
-      "start": "01:52:31.416",
+      "start": "01:52:28",
       "end": "01:58:06.916",
       "state": {
         "players": [
@@ -1781,8 +1622,8 @@
     {
       "id": "58251771",
       "displayName": "N - gf: PINKCOMET | noddy vs Walküre | 『Tamaki』",
-      "start": "02:10:39.166",
-      "end": "02:30:32.482",
+      "start": "02:10:34",
+      "end": "02:32:14",
       "state": {
         "players": [
           {
