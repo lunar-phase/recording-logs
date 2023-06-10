@@ -5,11 +5,17 @@
   "bracketService": "smashgg",
   "phaseId": "1325576",
   "eventId": "781584",
-  "start": "00:22:06.216",
+  "title": "[KOFXV | The King of Fighters XV] Crossover Arc 2023, Top 8",
+  "event": {
+    "tournament": {
+      "endAt": 1679889599
+    }
+  },
+  "start": "00:20:32",
   "end": "02:40:06.766",
   "sets": [
     {
-      "id": "preview_2022323_2_0",
+      "id": "58521036",
       "displayName": "A - ws: NYCMashermike (NYCMastermike) vs NecroUndine",
       "start": "00:22:06.216",
       "end": "00:32:06.583",
@@ -183,6 +189,106 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "58521037",
+      "displayName": "ws: Awhile vs Newtype",
+      "start": "00:32:43.683",
+      "end": "00:46:47.566",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202210152333278080000",
+              "handle": "Awhile",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "AwhileNY",
+                "smashgg": "155290"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202211122145438080000",
+              "handle": "Newtype",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "newtype623",
+                "smashgg": "57625"
+              },
+              "pronouns": "she/her"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": []
       }
     },
     {

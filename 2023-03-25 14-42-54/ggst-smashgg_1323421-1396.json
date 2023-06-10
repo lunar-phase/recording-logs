@@ -5,11 +5,17 @@
   "bracketService": "smashgg",
   "phaseId": "1323421",
   "eventId": "781573",
-  "start": "03:39:00.149",
+  "title": "[GGST | Guilty Gear: Strive] Crossover Arc 2023, Top 8",
+  "event": {
+    "tournament": {
+      "endAt": 1679889599
+    }
+  },
+  "start": "03:32:25",
   "end": "05:26:29.015",
   "sets": [
     {
-      "id": "preview_2019348_2_0",
+      "id": "58543127",
       "displayName": "A - ws: M&I | TempestNYC vs Nitro",
       "start": "03:39:00.149",
       "end": "03:45:28.399",
@@ -174,6 +180,102 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "58543128",
+      "displayName": "ws: 9Moons | Shine vs AGONbyAOC | Bean",
+      "start": "03:47:03.000",
+      "end": "03:55:46.416",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203202319573750000",
+              "handle": "Shine",
+              "prefix": "9Moons",
+              "serviceIds": {
+                "twitter": "shine_potyo",
+                "smashgg": "220002"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303252228349040000",
+              "handle": "Bean",
+              "prefix": "AGONbyAOC",
+              "serviceIds": {
+                "twitter": "EC_Bean",
+                "smashgg": "2334193"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "Pandabetic__"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": []
       }
     },
     {
@@ -1021,6 +1123,12 @@
           ]
         }
       }
+    },
+    {
+      "id": "58543144",
+      "displayName": "J - ls: 9Moons | Shine vs BBC | Maelrawn",
+      "start": "04:51:26",
+      "end": "05:02:34"
     },
     {
       "id": "58543145",

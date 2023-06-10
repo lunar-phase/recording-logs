@@ -5,11 +5,17 @@
   "bracketService": "smashgg",
   "phaseId": "1323516",
   "eventId": "781576",
-  "start": "06:39:43.765",
-  "end": "08:13:11.448",
+  "title": "[MBAACC | Melty Blood: Actress Again: Current Code] Crossover Arc 2023, Top 8",
+  "event": {
+    "tournament": {
+      "endAt": 1679889599
+    }
+  },
+  "start": "06:35:09",
+  "end": "08:13:06",
   "sets": [
     {
-      "id": "preview_2019495_2_0",
+      "id": "58556993",
       "displayName": "A - ws: Zapoke vs Deus",
       "start": "06:39:43.765",
       "end": "06:46:33.882",
@@ -175,6 +181,104 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "58556994",
+      "displayName": "ws: Skeleton vs Jbel (Jbelanger)",
+      "start": "06:47:35.282",
+      "end": "06:55:14.349",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inputreader"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352130002",
+              "handle": "Jbelanger",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1363743",
+                "twitter": "JacobBelanger3"
+              },
+              "alias": "Jbel"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "melty",
+          "name": "Melty Blood Actress Again Current Code",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBAACC",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Actress Again: Current Code"
+            },
+            "smashgg": {
+              "id": "22407"
+            },
+            "challonge": {
+              "id": "306"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350590000",
+              "handle": "j.g.",
+              "prefix": "IA",
+              "serviceIds": {
+                "twitter": "jdotgdot1",
+                "smashgg": "353501"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2023",
+        "event": "",
+        "messages": []
       }
     },
     {
