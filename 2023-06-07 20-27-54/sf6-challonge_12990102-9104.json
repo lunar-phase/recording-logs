@@ -5,6 +5,13 @@
   "bracketService": "challonge",
   "phaseId": "12990102",
   "eventId": "12990102",
+  "event": {
+    "tournament": {
+      "shortName": "NLBC 281",
+      "hashtag": "NLBC",
+      "additionalTags": ["Next Level Battle Circuit"]
+    }
+  },
   "start": "00:06:57.316",
   "end": "01:28:57.283",
   "sets": [
@@ -12,7 +19,7 @@
       "id": "322817422",
       "displayName": "22 - w2: Awhile vs Rolfi047",
       "start": "00:06:57.316",
-      "end": "00:13:08.316",
+      "end": "00:12:45",
       "state": {
         "players": [
           {
@@ -28,7 +35,8 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Dee Jay"}]
           },
           {
             "person": {
@@ -41,7 +49,8 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Marisa"}]
           }
         ],
         "match": {
@@ -170,7 +179,7 @@
       "id": "322817428",
       "displayName": "41 - w3: IGotDemBombs vs Wet Kunai",
       "start": "00:19:52.049",
-      "end": "00:25:42.266",
+      "end": "00:25:02",
       "state": {
         "players": [
           {
@@ -184,7 +193,8 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Ken"}]
           },
           {
             "person": {
@@ -197,7 +207,8 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Cammy"}]
           }
         ],
         "match": {
@@ -326,7 +337,7 @@
       "id": "322817439",
       "displayName": "64 - wq: Greentea321 (GreenTea321) vs DaFeetLee",
       "start": "00:37:04.883",
-      "end": "00:43:34.383",
+      "end": "00:43:37",
       "state": {
         "players": [
           {
@@ -341,7 +352,8 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Juri"}]
           },
           {
             "person": {
@@ -356,7 +368,8 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Jamie"}]
           }
         ],
         "match": {
@@ -490,7 +503,7 @@
       "id": "322817467",
       "displayName": "58 - l4: KenInBlack vs Chris Burgers",
       "start": "00:45:30.000",
-      "end": "00:52:28.683",
+      "end": "00:51:38",
       "state": {
         "players": [
           {
@@ -505,7 +518,8 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Luke"}]
           },
           {
             "person": {
@@ -518,7 +532,8 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Juri"}]
           }
         ],
         "match": {
@@ -653,7 +668,7 @@
       "id": "322817472",
       "displayName": "68 - l5: Wet Kunai vs Greentea321 (GreenTea321)",
       "start": "00:53:41.916",
-      "end": "00:57:53.933",
+      "end": "00:57:42",
       "state": {
         "players": [
           {
@@ -667,7 +682,8 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Cammy"}]
           },
           {
             "person": {
@@ -681,7 +697,8 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Juri"}]
           }
         ],
         "match": {
@@ -830,7 +847,8 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "JP"}]
           },
           {
             "person": {
@@ -843,7 +861,8 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Kimberly"}]
           }
         ],
         "match": {
@@ -978,7 +997,7 @@
       "id": "322817476",
       "displayName": "69 - Losers top 8: iDrop vs Sage",
       "start": "01:10:42.699",
-      "end": "01:17:39.399",
+      "end": "01:17:30",
       "state": {
         "players": [
           {
@@ -992,7 +1011,8 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Kimberly"}]
           },
           {
             "person": {
@@ -1005,12 +1025,13 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Juri"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Losers top 8",
+          "name": "Losers Eighths",
           "smashggId": null
         },
         "game": {
@@ -1138,8 +1159,8 @@
     {
       "id": "322817475",
       "displayName": "70 - Losers top 8: Red (Jace) vs Greentea321 (GreenTea321)",
-      "start": "01:18:43.000",
-      "end": "01:28:57.283",
+      "start": "01:18:44.000",
+      "end": "01:28:00",
       "state": {
         "players": [
           {
@@ -1156,7 +1177,8 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Guile"}]
           },
           {
             "person": {
@@ -1170,12 +1192,13 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Juri"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Losers top 8",
+          "name": "Losers Eighths",
           "smashggId": null
         },
         "game": {
