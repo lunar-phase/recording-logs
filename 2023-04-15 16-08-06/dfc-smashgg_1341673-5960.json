@@ -5,8 +5,11 @@
   "bracketService": "smashgg",
   "phaseId": "1341673",
   "eventId": "889403",
-  "start": "00:01:22.283",
-  "end": "01:46:31.983",
+  "userData": {
+    "notes": "Note: This broadcast is from our secondary stream."
+  },
+  "start": "00:00:35",
+  "end": "01:51:57",
   "sets": [
     {
       "id": "59351911",
@@ -1293,26 +1296,12 @@
       }
     },
     {
-      "id": "59351917",
-      "displayName": "K - gf: LP | StraylightP vs IA | j.g.",
+      "id": "59351948",
+      "displayName": "lf: IA | j.g. vs YAYA <3 | Hyde",
       "start": "01:18:54.833",
       "end": "01:33:41.183",
       "state": {
         "players": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
           {
             "person": {
               "id": "d202008220402350590000",
@@ -1323,15 +1312,31 @@
                 "smashgg": "353501"
               }
             },
-            "score": 0,
-            "inLosers": true,
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202110162258542300000",
+              "handle": "Hyde",
+              "prefix": "YAYA <3",
+              "serviceIds": {
+                "twitter": "hydechiko",
+                "smashgg": "1670118",
+                "challonge": "154836488"
+              },
+              "pronouns": "any pronouns"
+            },
+            "score": 2,
+            "inLosers": false,
             "comment": ""
           }
         ],
         "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
         },
         "game": {
           "id": "dfc",
@@ -1356,11 +1361,12 @@
         "commentators": [
           {
             "person": {
-              "id": "d202008220402351400000",
-              "handle": "yung willy",
-              "prefix": "(ToT)",
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP",
               "serviceIds": {
-                "smashgg": "883113"
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
               }
             }
           },
@@ -1377,75 +1383,7 @@
         "event": "Lunatic Perilune #22",
         "messages": [
           "Guilty Gear Xrd Up Next"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "59351917",
-            "phaseId": "1341673",
-            "phaseGroupId": "2045492"
-          },
-          "match": {
-            "id": "gf",
-            "name": "Grand Finals",
-            "smashggId": "Grand Final"
-          },
-          "videogame": {
-            "id": "dfc",
-            "name": "Dengeki Bunko Fighting Climax: Ignition",
-            "shortNames": [
-              "Dengeki Bunko Fighting Climax",
-              "Dengeki Bunko",
-              "DFCI"
-            ],
-            "hashtags": [
-              "DFCI"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Dengeki Bunko: Fighting Climax Ignition"
-              },
-              "smashgg": {
-                "id": "4267"
-              }
-            }
-          },
-          "shortIdentifier": "K",
-          "displayName": "K - gf: LP | StraylightP vs IA | j.g.",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "LP | StraylightP",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "413756",
-                  "handle": "StraylightP",
-                  "prefix": "LP",
-                  "serviceIds": {
-                    "twitter": "LoFi_Yokai"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "IA | j.g.",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "353501",
-                  "handle": "j.g.",
-                  "prefix": "IA",
-                  "serviceIds": {
-                    "twitter": "jdotgdot1"
-                  }
-                }
-              ],
-              "inLosers": true
-            }
-          ]
-        }
+        ]
       }
     },
     {

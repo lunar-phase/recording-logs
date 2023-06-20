@@ -5,13 +5,21 @@
   "bracketService": "smashgg",
   "phaseId": "1341674",
   "eventId": "889404",
-  "start": "02:24:27.282",
-  "end": "04:23:35.866",
+  "event": {
+    "tournament": {
+      "hashtag": "AONI"
+    }
+  },
+  "userData": {
+    "notes": "Note: This broadcast is from our secondary stream."
+  },
+  "start": "02:15:10",
+  "end": "04:27:00",
   "sets": [
     {
       "id": "59363035",
       "displayName": "B - w1: wii u | Fault vs Lanzer (Mage)",
-      "start": "02:24:27.282",
+      "start": "02:16:58",
       "end": "02:24:27.882",
       "state": {
         "players": [
@@ -177,7 +185,7 @@
     {
       "id": "59363046",
       "displayName": "H - w2: AONI | lil ugly may (moku) vs Lanzer (Mage)",
-      "start": "02:29:19.466",
+      "start": "02:29:00",
       "end": "02:37:13.766",
       "state": {
         "players": [
@@ -677,7 +685,7 @@
     {
       "id": "59363054",
       "displayName": "P - ws: AONI | Crocs N' Socks vs Give",
-      "start": "02:59:10.782",
+      "start": "02:54:14",
       "end": "02:59:11.999",
       "state": {
         "players": [
@@ -1003,172 +1011,6 @@
                   "serviceIds": {
                     "twitter": "NoLifeRei"
                   }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "59363115",
-      "displayName": "AF - l4: ChexGuy vs Royalmann00",
-      "start": "03:09:30.149",
-      "end": "03:09:43.666",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350090000",
-              "handle": "ChexGuy",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "ChexGuy",
-                "smashgg": "328359"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202304152254435330000",
-              "handle": "Royalmann00",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "63302"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "l4",
-          "name": "Losers Round 4",
-          "smashggId": "Losers Round 4"
-        },
-        "game": {
-          "id": "ggxrd",
-          "name": "Guilty Gear Xrd",
-          "shortNames": [
-            "Xrd"
-          ],
-          "hashtags": [
-            "GGXRD"
-          ],
-          "additionalTags": [
-            "Guilty Gear"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Guilty Gear Xrd: Rev 2"
-            },
-            "smashgg": {
-              "id": "36"
-            },
-            "challonge": {
-              "id": "121822"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202109112145348590000",
-              "handle": "Bane?",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "2316469",
-                "twitter": "sweatlord227"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202009122313009280000",
-              "handle": "moku",
-              "prefix": "AONI",
-              "serviceIds": {
-                "smashgg": "63607",
-                "twitter": "moku_gya"
-              },
-              "alias": "lil ugly may"
-            }
-          }
-        ],
-        "tournament": "Guilty Gear Xrd Rev 2",
-        "event": "Lunatic Perilune #22",
-        "messages": [
-          "Guilty Gear Xrd Up Next"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "59363115",
-            "phaseId": "1341674",
-            "phaseGroupId": "2045493"
-          },
-          "match": {
-            "id": "l4",
-            "name": "Losers Round 4",
-            "smashggId": "Losers Round 4"
-          },
-          "videogame": {
-            "id": "ggxrd",
-            "name": "Guilty Gear Xrd",
-            "shortNames": [
-              "Xrd"
-            ],
-            "hashtags": [
-              "GGXRD"
-            ],
-            "additionalTags": [
-              "Guilty Gear"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Guilty Gear Xrd: Rev 2"
-              },
-              "smashgg": {
-                "id": "36"
-              },
-              "challonge": {
-                "id": "121822"
-              }
-            }
-          },
-          "shortIdentifier": "AF",
-          "displayName": "AF - l4: ChexGuy vs Royalmann00",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "ChexGuy",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "328359",
-                  "handle": "ChexGuy",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "ChexGuy"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Royalmann00",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "63302",
-                  "handle": "Royalmann00",
-                  "prefix": null,
-                  "serviceIds": {}
                 }
               ],
               "inLosers": false
@@ -1845,7 +1687,7 @@
     {
       "id": "59363118",
       "displayName": "AI - lq: AONI | lil ugly may (moku) vs Give",
-      "start": "03:38:04.866",
+      "start": "03:39:02",
       "end": "03:47:06.299",
       "state": {
         "players": [
