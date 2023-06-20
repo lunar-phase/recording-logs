@@ -1,0 +1,196 @@
+{
+  "format": "1",
+  "version": "0.8.0",
+  "file": "..\\2023-06-17 16-08-33.mkv",
+  "phaseId": "unknown",
+  "start": "00:05:02.916",
+  "end": "02:29:16.599",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: AONI | Deadward vs (ToT) | yung willy",
+      "start": "00:05:02.916",
+      "end": "00:08:31.633",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202210160005315270000",
+              "handle": "Deadward",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DeadwardFGC"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351400000",
+              "handle": "yung willy",
+              "prefix": "(ToT)",
+              "serviceIds": {
+                "smashgg": "883113"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "bbcf",
+          "name": "Blazblue Central Fiction",
+          "shortNames": [
+            "Blazblue",
+            "BBCF"
+          ],
+          "hashtags": [
+            "BBCF"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "BlazBlue: Central Fiction"
+            },
+            "smashgg": {
+              "id": "37"
+            },
+            "challonge": {
+              "id": "55777"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202303182311236260000",
+              "handle": "Douke",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "579306"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202212180134223010000",
+              "handle": "Yuri Ark",
+              "prefix": "Banki",
+              "serviceIds": {
+                "smashgg": "2389275"
+              }
+            }
+          }
+        ],
+        "tournament": "Blazblue Central Fiction",
+        "event": "Lunatic Perilune #24",
+        "messages": [
+          "BBCF Coming Up Next"
+        ]
+      }
+    },
+    {
+      "id": null,
+      "displayName": "wq: AONI | Bane? vs Yun-Wei",
+      "start": "02:23:14.416",
+      "end": "02:29:16.599",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202211192340287200000",
+              "handle": "Yun-Wei",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChangYunwei",
+                "smashgg": "1386693"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              },
+              "alias": "lil ugly may"
+            }
+          }
+        ],
+        "tournament": "Guilty Gear Xrd Rev 2",
+        "event": "Lunatic Perilune #24",
+        "messages": [
+          "Guilty Gear XRD Coming Up Next"
+        ]
+      }
+    }
+  ]
+}
