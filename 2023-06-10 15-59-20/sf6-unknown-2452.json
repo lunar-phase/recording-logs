@@ -3,7 +3,23 @@
   "version": "0.8.0",
   "file": "..\\2023-06-10 15-59-20.mkv",
   "phaseId": "unknown",
-  "start": "05:58:04.199",
+  "phaseName": "Randomized 6v6",
+  "event": {
+    "tournament": {
+      "name": "Lunar Phase Battle Grounds #1",
+      "id": "545732",
+      "venueName": null,
+      "venueAddress": "874 4th Ave, Brooklyn, NY 11232, USA",
+      "city": "Brooklyn",
+      "hashtag": null,
+      "url": "https://www.start.gg/tournament/lunar-phase-battle-grounds-1",
+      "startAt": 1686423600,
+      "endAt": 1686452400,
+      "timezone": "America/New_York",
+      "additionalTags": []
+    }
+  },
+  "start": "05:56:55",
   "end": "06:49:03.265",
   "sets": [
     {
@@ -26,7 +42,8 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Cammy"}]
           },
           {
             "person": {
@@ -41,12 +58,13 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "JP"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Randomized 6v6",
+          "name": "",
           "smashggId": null
         },
         "game": {
@@ -106,42 +124,36 @@
     },
     {
       "id": null,
-      "displayName": "Randomized 6v6: ChrisBurgers vs Sada Simp | GamonDorothea",
+      "displayName": "Randomized 6v6: IFM | Shinebox vs A5",
       "start": "06:02:48.565",
       "end": "06:09:35.415",
       "state": {
         "players": [
           {
             "person": {
-              "id": "d202306102348077990000",
-              "handle": "ChrisBurgers",
-              "prefix": null,
+              "id": "d202306110150247350000",
+              "handle": "Shinebox",
+              "prefix": "IFM",
               "serviceIds": {
-                "smashgg": "2157693"
+                "twitter": "JoeyFaggotoni",
+                "smashgg": "905692"
               }
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Zangief"}]
           },
           {
             "person": {
-              "id": "d202008220402351440001",
-              "handle": "GamonDorothea",
-              "prefix": "Sada Simp",
-              "serviceIds": {
-                "twitter": "GamonDorothea",
-                "smashgg": "664590"
-              }
+              "handle": "A5"
             },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
+            "characters": [{"name": "Zangief"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Randomized 6v6",
+          "name": "",
           "smashggId": null
         },
         "game": {
@@ -217,7 +229,8 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Juri"}]
           },
           {
             "person": {
@@ -231,12 +244,99 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Jamie"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Randomized 6v6",
+          "name": "",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Phase Battle Grounds #1",
+        "event": "SF6 Randomized 6v6",
+        "messages": [
+          "SF6 6v6 Up Next"
+        ]
+      }
+    },
+    {
+      "id": null,
+      "displayName": "Randomized 6v6: IFM | Shinebox vs A5",
+      "start": "06:15:25",
+      "end": "06:18:30",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306102315294940000",
+              "handle": "Young_matt_teen",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1929417"
+              }
+            },
+            "characters": [{"name": "Ryu"}]
+          },
+          {
+            "person": {
+              "handle": "Rolfi047",
+              "prefix": "DailyRecycler"
+            },
+            "characters": [{"name": "Manon"}]
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "",
           "smashggId": null
         },
         "game": {
@@ -312,7 +412,8 @@
             },
             "score": 3,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Manon"}]
           },
           {
             "person": {
@@ -326,12 +427,13 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "JP"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Randomized 6v6",
+          "name": "",
           "smashggId": null
         },
         "game": {
@@ -408,7 +510,8 @@
             },
             "score": 4,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Cammy"}]
           },
           {
             "person": {
@@ -422,12 +525,13 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Lily"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Randomized 6v6",
+          "name": "",
           "smashggId": null
         },
         "game": {
@@ -503,7 +607,8 @@
             },
             "score": 5,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Ryu"}]
           },
           {
             "person": {
@@ -518,12 +623,13 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "JP"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Randomized 6v6",
+          "name": "",
           "smashggId": null
         },
         "game": {
@@ -583,24 +689,21 @@
     },
     {
       "id": null,
-      "displayName": "Randomized 6v6: IFM | Shinebox vs NecroUndine",
+      "displayName": "Randomized 6v6: Young_matt_teen vs NecroUndine",
       "start": "06:33:58.000",
       "end": "06:36:09.015",
       "state": {
         "players": [
           {
             "person": {
-              "id": "d202306110150247350000",
-              "handle": "Shinebox",
-              "prefix": "IFM",
+              "id": "d202306102315294940000",
+              "handle": "Young_matt_teen",
+              "prefix": null,
               "serviceIds": {
-                "twitter": "JoeyFaggotoni",
-                "smashgg": "905692"
+                "smashgg": "1929417"
               }
             },
-            "score": 5,
-            "inLosers": false,
-            "comment": ""
+            "characters": [{"name": "Ryu"}]
           },
           {
             "person": {
@@ -612,14 +715,12 @@
                 "smashgg": "397281"
               }
             },
-            "score": 3,
-            "inLosers": false,
-            "comment": ""
+            "characters": [{"name": "JP"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Randomized 6v6",
+          "name": "",
           "smashggId": null
         },
         "game": {
@@ -696,7 +797,8 @@
             },
             "score": 5,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Dee Jay"}]
           },
           {
             "person": {
@@ -710,12 +812,13 @@
             },
             "score": 4,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "JP"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Randomized 6v6",
+          "name": "",
           "smashggId": null
         },
         "game": {
@@ -792,7 +895,8 @@
             },
             "score": 5,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Cammy"}]
           },
           {
             "person": {
@@ -806,12 +910,13 @@
             },
             "score": 5,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "JP"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Randomized 6v6",
+          "name": "",
           "smashggId": null
         },
         "game": {
@@ -887,7 +992,8 @@
             },
             "score": 5,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "Juri"}]
           },
           {
             "person": {
@@ -901,12 +1007,13 @@
             },
             "score": 6,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "characters": [{"name": "JP"}]
           }
         ],
         "match": {
           "id": "",
-          "name": "Randomized 6v6",
+          "name": "",
           "smashggId": null
         },
         "game": {
