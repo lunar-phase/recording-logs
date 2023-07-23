@@ -5,9 +5,113 @@
   "bracketService": "smashgg",
   "phaseId": "1360504",
   "eventId": "904382",
-  "start": "02:32:40.482",
-  "end": "03:43:00.449",
+  "event": {
+    "tournament": {
+      "hashtag": "AONI"
+    }
+  },
+  "userData": {
+    "notes": "Note: This broadcast is from our secondary stream."
+  },
+  "start": "02:22:40",
+  "end": "03:49:48",
   "sets": [
+    {
+      "id": "61671303",
+      "displayName": "wq: AONI | Bane? vs Yun-Wei",
+      "start": "02:23:14.416",
+      "end": "02:29:16.599",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202211192340287200000",
+              "handle": "Yun-Wei",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChangYunwei",
+                "smashgg": "1386693"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              },
+              "alias": "lil ugly may"
+            }
+          }
+        ],
+        "tournament": "Guilty Gear Xrd Rev 2",
+        "event": "Lunatic Perilune #24",
+        "messages": [
+          "Guilty Gear XRD Coming Up Next"
+        ]
+      }
+    },
     {
       "id": "61671304",
       "displayName": "D - wq: wii u | Fault vs AONI | lil ugly may (moku)",
@@ -680,7 +784,7 @@
     {
       "id": "61671308",
       "displayName": "H - wf: ChexGuy vs AONI | lil ugly may (moku)",
-      "start": "03:11:18.182",
+      "start": "03:10:42",
       "end": "03:17:45.299",
       "state": {
         "players": [
@@ -1224,9 +1328,9 @@
           }
         ],
         "match": {
-          "id": "",
-          "name": "True Grand Finals",
-          "smashggId": null
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
         },
         "game": {
           "id": "ggxrd",
