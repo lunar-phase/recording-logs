@@ -1,0 +1,315 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2023-07-12 20-01-47.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1407983",
+  "eventId": "941163",
+  "start": "03:44:26.549",
+  "end": "03:52:07.816",
+  "sets": [
+    {
+      "id": "62569272",
+      "displayName": "AA - lf: BBC | Maelrawn",
+      "start": "03:44:26.549",
+      "end": "03:44:28.216",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303252251341680000",
+              "handle": "Maelrawn",
+              "prefix": "BBC",
+              "serviceIds": {
+                "twitter": "Maelrawn_",
+                "smashgg": "2762110"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62569272",
+            "phaseId": "1407983",
+            "phaseGroupId": "2134626"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "AA",
+          "displayName": "AA - lf: BBC | Maelrawn vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BBC | Maelrawn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2762110",
+                  "handle": "Maelrawn",
+                  "prefix": "BBC",
+                  "serviceIds": {
+                    "twitter": "Maelrawn_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62569241",
+      "displayName": "N - gf: Bean vs BBC | Maelrawn",
+      "start": "03:44:45.000",
+      "end": "03:52:07.816",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303252228349040000",
+              "handle": "Bean",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "EC_Bean",
+                "smashgg": "2334193"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303252251341680000",
+              "handle": "Maelrawn",
+              "prefix": "BBC",
+              "serviceIds": {
+                "twitter": "Maelrawn_",
+                "smashgg": "2762110"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62569241",
+            "phaseId": "1407983",
+            "phaseGroupId": "2134626"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "Strive",
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - gf: Bean vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Bean",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2334193",
+                  "handle": "Bean",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "EC_Bean"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,104 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2023-07-12 20-01-47.mkv",
+  "phaseId": "unknown",
+  "start": "00:26:57.000",
+  "end": "00:31:52.366",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w2: RVNT | Snixy vs Wrath",
+      "start": "00:26:57.000",
+      "end": "00:31:52.366",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130028219020000",
+              "handle": "Snixy",
+              "prefix": "RVNT",
+              "serviceIds": {
+                "twitter": "SnixyVII",
+                "smashgg": "601623"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307130028219050000",
+              "handle": "Wrath",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "175018"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #286",
+        "event": "",
+        "messages": [
+          "SF6 Starting Soon"
+        ]
+      }
+    }
+  ]
+}
