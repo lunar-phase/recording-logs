@@ -1,0 +1,1808 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2023-07-14 15-46-53.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1336746",
+  "eventId": "885638",
+  "start": "02:55:26.299",
+  "end": "04:40:34.332",
+  "sets": [
+    {
+      "id": "62628095",
+      "displayName": "A - w1: DZM | Dole vs Fuzzy",
+      "start": "02:55:26.299",
+      "end": "02:59:37.016",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307142213482510000",
+              "handle": "Dole",
+              "prefix": "DZM",
+              "serviceIds": {
+                "smashgg": "15962"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307142213482530000",
+              "handle": "Fuzzy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "fuzzy_142",
+                "smashgg": "703462"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628095",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - w1: DZM | Dole vs Fuzzy",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "DZM | Dole",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "15962",
+                  "handle": "Dole",
+                  "prefix": "DZM",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Fuzzy",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "703462",
+                  "handle": "Fuzzy",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "fuzzy_142"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62628105",
+      "displayName": "H - wq: S+Hiro vs Yun-Wei",
+      "start": "03:03:16.132",
+      "end": "03:08:03.382",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307142247574110000",
+              "handle": "S+Hiro",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "arealshiro",
+                "smashgg": "56918"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202211192340287200000",
+              "handle": "Yun-Wei",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChangYunwei",
+                "smashgg": "1386693"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628105",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - wq: S+Hiro vs Yun-Wei",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "S+Hiro",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "56918",
+                  "handle": "S+Hiro",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "arealshiro"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Yun-Wei",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1386693",
+                  "handle": "Yun-Wei",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "ChangYunwei"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62628107",
+      "displayName": "J - ws: Lord Byron vs Yun-Wei",
+      "start": "03:12:01.366",
+      "end": "03:15:48.832",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202305140018211700000",
+              "handle": "Lord Byron",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Lord_Byron17",
+                "smashgg": "376169"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202211192340287200000",
+              "handle": "Yun-Wei",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChangYunwei",
+                "smashgg": "1386693"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628107",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ws: Lord Byron vs Yun-Wei",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Lord Byron",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "376169",
+                  "handle": "Lord Byron",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Lord_Byron17"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Yun-Wei",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1386693",
+                  "handle": "Yun-Wei",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "ChangYunwei"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62628106",
+      "displayName": "I - ws: Fuzzy vs BusinessToaster",
+      "start": "03:17:42.599",
+      "end": "03:25:52.899",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307142213482530000",
+              "handle": "Fuzzy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "fuzzy_142",
+                "smashgg": "703462"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307142303005150000",
+              "handle": "BusinessToaster",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "305769"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628106",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - ws: Fuzzy vs BusinessToaster",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Fuzzy",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "703462",
+                  "handle": "Fuzzy",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "fuzzy_142"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "BusinessToaster",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "305769",
+                  "handle": "BusinessToaster",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62628135",
+      "displayName": "R - Losers Eighths: S+Hiro vs Malek",
+      "start": "03:30:41.732",
+      "end": "03:37:06.482",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307142247574110000",
+              "handle": "S+Hiro",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "arealshiro",
+                "smashgg": "56918"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307142314372010000",
+              "handle": "Malek",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MalekFGC",
+                "smashgg": "1643466"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628135",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "l2",
+            "name": "Losers Round 2",
+            "smashggId": "Losers Round 2"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - l2: S+Hiro vs Malek",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "S+Hiro",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "56918",
+                  "handle": "S+Hiro",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "arealshiro"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Malek",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1643466",
+                  "handle": "Malek",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "MalekFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62628138",
+      "displayName": "U - lq: Yun-Wei vs Shotgundam009",
+      "start": "03:38:27.000",
+      "end": "03:46:18.116",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202211192340287200000",
+              "handle": "Yun-Wei",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChangYunwei",
+                "smashgg": "1386693"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202307142324425110000",
+              "handle": "Shotgundam009",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "423109"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628138",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "U",
+          "displayName": "U - lq: Yun-Wei vs Shotgundam009",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Yun-Wei",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1386693",
+                  "handle": "Yun-Wei",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "ChangYunwei"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Shotgundam009",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "423109",
+                  "handle": "Shotgundam009",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62628137",
+      "displayName": "T - lq: Fuzzy vs Malek",
+      "start": "03:47:48.000",
+      "end": "03:54:06.232",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307142213482530000",
+              "handle": "Fuzzy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "fuzzy_142",
+                "smashgg": "703462"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307142314372010000",
+              "handle": "Malek",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MalekFGC",
+                "smashgg": "1643466"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628137",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "T",
+          "displayName": "T - lq: Fuzzy vs Malek",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Fuzzy",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "703462",
+                  "handle": "Fuzzy",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "fuzzy_142"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Malek",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1643466",
+                  "handle": "Malek",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "MalekFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62628108",
+      "displayName": "K - wf: BusinessToaster vs Lord Byron",
+      "start": "04:00:30.000",
+      "end": "04:06:54.749",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307142303005150000",
+              "handle": "BusinessToaster",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "305769"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202305140018211700000",
+              "handle": "Lord Byron",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Lord_Byron17",
+                "smashgg": "376169"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628108",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - wf: BusinessToaster vs Lord Byron",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BusinessToaster",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "305769",
+                  "handle": "BusinessToaster",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Lord Byron",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "376169",
+                  "handle": "Lord Byron",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Lord_Byron17"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62628139",
+      "displayName": "V - ls: Malek vs Yun-Wei",
+      "start": "04:08:27.000",
+      "end": "04:16:39.532",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307142314372010000",
+              "handle": "Malek",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MalekFGC",
+                "smashgg": "1643466"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202211192340287200000",
+              "handle": "Yun-Wei",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChangYunwei",
+                "smashgg": "1386693"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628139",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "V",
+          "displayName": "V - ls: Malek vs Yun-Wei",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Malek",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1643466",
+                  "handle": "Malek",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "MalekFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Yun-Wei",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1386693",
+                  "handle": "Yun-Wei",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "ChangYunwei"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62628140",
+      "displayName": "W - lf: Malek vs BusinessToaster",
+      "start": "04:18:06.000",
+      "end": "04:31:25.366",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307150003531840000",
+              "handle": "Malek",
+              "prefix": null,
+              "serviceIds": {}
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307142303005150000",
+              "handle": "BusinessToaster",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "305769"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628140",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "W",
+          "displayName": "W - lf: BusinessToaster vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BusinessToaster",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "305769",
+                  "handle": "BusinessToaster",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62628109",
+      "displayName": "L - gf: Malek vs Lord Byron",
+      "start": "04:34:31.000",
+      "end": "04:40:34.332",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307142314372010000",
+              "handle": "Malek",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MalekFGC",
+                "smashgg": "1643466"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202305140018211700000",
+              "handle": "Lord Byron",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Lord_Byron17",
+                "smashgg": "376169"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142233355860000",
+              "handle": "SurgingStorm",
+              "prefix": "TSE|TUE",
+              "serviceIds": {
+                "twitter": "SurgingStormGG"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62628109",
+            "phaseId": "1336746",
+            "phaseGroupId": "2038480"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - gf: Lord Byron vs Malek",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Lord Byron",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "376169",
+                  "handle": "Lord Byron",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Lord_Byron17"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Malek",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1643466",
+                  "handle": "Malek",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "MalekFGC"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

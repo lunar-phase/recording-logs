@@ -1,0 +1,1670 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2023-07-14 15-46-53.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1296165",
+  "eventId": "853958",
+  "start": "00:18:53.999",
+  "end": "02:10:46.116",
+  "sets": [
+    {
+      "id": "62574395",
+      "displayName": "B - w1: ChunkeMunke vs GamePsycho",
+      "start": "00:18:53.999",
+      "end": "00:28:16.449",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306172214073130000",
+              "handle": "ChunkeMunke",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2419344"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202211192142159990000",
+              "handle": "GamePsycho",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "psycho_lunar",
+                "smashgg": "3055840"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62574395",
+            "phaseId": "1296165",
+            "phaseGroupId": "1982442"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - w1: ChunkeMunke vs GamePsycho",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ChunkeMunke",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2419344",
+                  "handle": "ChunkeMunke",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GamePsycho",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3055840",
+                  "handle": "GamePsycho",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "psycho_lunar"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62574401",
+      "displayName": "F - wq: TenseiXOomfie | Safe vs LunarConquest | Grey",
+      "start": "00:29:49.733",
+      "end": "00:33:48.733",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351100001",
+              "handle": "Safe",
+              "prefix": "TenseiXOomfie",
+              "serviceIds": {
+                "smashgg": "232367",
+                "twitter": "SafeAndOne"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307142016469810000",
+              "handle": "Grey",
+              "prefix": "LunarConquest",
+              "serviceIds": {
+                "smashgg": "3067468"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62574401",
+            "phaseId": "1296165",
+            "phaseGroupId": "1982442"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - wq: TenseiXOomfie | Safe vs LunarConquest | Grey",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TenseiXOomfie | Safe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "232367",
+                  "handle": "Safe",
+                  "prefix": "TenseiXOomfie",
+                  "serviceIds": {
+                    "twitter": "SafeAndOne"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LunarConquest | Grey",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3067468",
+                  "handle": "Grey",
+                  "prefix": "LunarConquest",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62574405",
+      "displayName": "J - ws: TenseiXOomfie | Safe vs ChunkeMunke",
+      "start": "00:45:56.599",
+      "end": "00:52:30.516",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351100001",
+              "handle": "Safe",
+              "prefix": "TenseiXOomfie",
+              "serviceIds": {
+                "smashgg": "232367",
+                "twitter": "SafeAndOne"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202306172214073130000",
+              "handle": "ChunkeMunke",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2419344"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62574405",
+            "phaseId": "1296165",
+            "phaseGroupId": "1982442"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ws: TenseiXOomfie | Safe vs ChunkeMunke",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TenseiXOomfie | Safe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "232367",
+                  "handle": "Safe",
+                  "prefix": "TenseiXOomfie",
+                  "serviceIds": {
+                    "twitter": "SafeAndOne"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "ChunkeMunke",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2419344",
+                  "handle": "ChunkeMunke",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62574406",
+      "displayName": "K - ws: Ralerina (Ral) vs TreeSentinel",
+      "start": "00:58:32.016",
+      "end": "01:03:26.749",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203200117548130000",
+              "handle": "Ral",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2509470",
+                "twitter": "RalerinaFGC"
+              },
+              "alias": "Ralerina"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "yellow"
+          },
+          {
+            "person": {
+              "id": "d202211192149383420000",
+              "handle": "TreeSentinel",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3313221"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "white"
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307142044355270000",
+              "handle": "DR.B",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DRB3000"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142044355260000",
+              "handle": "Hangman",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HangmanXII"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62574406",
+            "phaseId": "1296165",
+            "phaseGroupId": "1982442"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - ws: Ralerina vs TreeSentinel",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Ralerina",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2509470",
+                  "handle": "Ralerina",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "RalerinaFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TreeSentinel",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3313221",
+                  "handle": "TreeSentinel",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62574436",
+      "displayName": "V - lq: ChunkeMunke vs GamePsycho",
+      "start": "01:08:12",
+      "end": "01:13:51.799",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306172214073130000",
+              "handle": "ChunkeMunke",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2419344"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202211192142159990000",
+              "handle": "GamePsycho",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "psycho_lunar",
+                "smashgg": "3055840"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307142044355270000",
+              "handle": "DR.B",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DRB3000"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142044355260000",
+              "handle": "Hangman",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HangmanXII"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62574436",
+            "phaseId": "1296165",
+            "phaseGroupId": "1982442"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "V",
+          "displayName": "V - lq: ChunkeMunke vs GamePsycho",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ChunkeMunke",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2419344",
+                  "handle": "ChunkeMunke",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GamePsycho",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3055840",
+                  "handle": "GamePsycho",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "psycho_lunar"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62574437",
+      "displayName": "W - lq: TreeSentinel vs sinner_blue",
+      "start": "01:16:34.549",
+      "end": "01:20:38.633",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202211192149383420000",
+              "handle": "TreeSentinel",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3313221"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307142102474010000",
+              "handle": "sinner_blue",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2484470"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307142044355270000",
+              "handle": "DR.B",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DRB3000"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142044355260000",
+              "handle": "Hangman",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HangmanXII"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62574437",
+            "phaseId": "1296165",
+            "phaseGroupId": "1982442"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "W",
+          "displayName": "W - lq: TreeSentinel vs sinner_blue",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TreeSentinel",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3313221",
+                  "handle": "TreeSentinel",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "sinner_blue",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2484470",
+                  "handle": "sinner_blue",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62574407",
+      "displayName": "L - wf: TenseiXOomfie | Safe vs Ralerina (Ral)",
+      "start": "01:23:38.716",
+      "end": "01:30:07.866",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351100001",
+              "handle": "Safe",
+              "prefix": "TenseiXOomfie",
+              "serviceIds": {
+                "smashgg": "232367",
+                "twitter": "SafeAndOne"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203200117548130000",
+              "handle": "Ral",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2509470",
+                "twitter": "RalerinaFGC"
+              },
+              "alias": "Ralerina"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307142044355270000",
+              "handle": "DR.B",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DRB3000"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142044355260000",
+              "handle": "Hangman",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HangmanXII"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62574407",
+            "phaseId": "1296165",
+            "phaseGroupId": "1982442"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - wf: TenseiXOomfie | Safe vs Ralerina",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TenseiXOomfie | Safe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "232367",
+                  "handle": "Safe",
+                  "prefix": "TenseiXOomfie",
+                  "serviceIds": {
+                    "twitter": "SafeAndOne"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Ralerina",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2509470",
+                  "handle": "Ralerina",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "RalerinaFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62574438",
+      "displayName": "X - ls: ChunkeMunke vs sinner_blue",
+      "start": "01:32:37.499",
+      "end": "01:40:50.216",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306172214073130000",
+              "handle": "ChunkeMunke",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2419344"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307142102474010000",
+              "handle": "sinner_blue",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2484470"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307142044355270000",
+              "handle": "DR.B",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DRB3000"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142044355260000",
+              "handle": "Hangman",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HangmanXII"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62574438",
+            "phaseId": "1296165",
+            "phaseGroupId": "1982442"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "X",
+          "displayName": "X - ls: ChunkeMunke vs sinner_blue",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ChunkeMunke",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2419344",
+                  "handle": "ChunkeMunke",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "sinner_blue",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2484470",
+                  "handle": "sinner_blue",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62574439",
+      "displayName": "Y - lf: Ralerina (Ral) vs sinner_blue",
+      "start": "01:45:11.866",
+      "end": "01:53:28.816",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203200117548130000",
+              "handle": "Ral",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2509470",
+                "twitter": "RalerinaFGC"
+              },
+              "alias": "Ralerina"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307142102474010000",
+              "handle": "sinner_blue",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2484470"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307142130516920000",
+              "handle": "Huey Yoshikage",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142044355260000",
+              "handle": "Hangman",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HangmanXII"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62574439",
+            "phaseId": "1296165",
+            "phaseGroupId": "1982442"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "Y",
+          "displayName": "Y - lf: Ralerina vs sinner_blue",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Ralerina",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2509470",
+                  "handle": "Ralerina",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "RalerinaFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "sinner_blue",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2484470",
+                  "handle": "sinner_blue",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "62574408",
+      "displayName": "M - gf: Ralerina (Ral) vs TenseiXOomfie | Safe",
+      "start": "01:58:43.716",
+      "end": "02:10:46.116",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203200117548130000",
+              "handle": "Ral",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2509470",
+                "twitter": "RalerinaFGC"
+              },
+              "alias": "Ralerina"
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351100001",
+              "handle": "Safe",
+              "prefix": "TenseiXOomfie",
+              "serviceIds": {
+                "smashgg": "232367",
+                "twitter": "SafeAndOne"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307142130516920000",
+              "handle": "Huey Yoshikage",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202307142044355260000",
+              "handle": "Hangman",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HangmanXII"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "62574408",
+            "phaseId": "1296165",
+            "phaseGroupId": "1982442"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - gf: TenseiXOomfie | Safe vs Ralerina",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TenseiXOomfie | Safe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "232367",
+                  "handle": "Safe",
+                  "prefix": "TenseiXOomfie",
+                  "serviceIds": {
+                    "twitter": "SafeAndOne"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Ralerina",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2509470",
+                  "handle": "Ralerina",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "RalerinaFGC"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
