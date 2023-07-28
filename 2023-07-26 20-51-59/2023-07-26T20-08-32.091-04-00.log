@@ -1,0 +1,1901 @@
+[2023-07-26T20:08:32.107] [INFO] default - Loaded config: {
+  "clipDirectory": "C:\\Users\\19292\\AppData\\Local\\Temp\\detocs\\clips",
+  "databaseDirectory": "C:\\Users\\19292\\Desktop\\Next Level Battle Circuit",
+  "ffmpeg": {
+    "transcodeVideoInputArgs": [
+      "-vsync",
+      "0",
+      "-hwaccel",
+      "cuda"
+    ],
+    "transcodeVideoOutputArgs": [
+      "-codec:v",
+      "h264_nvenc",
+      "-profile:v",
+      "high",
+      "-preset",
+      "slow",
+      "-tune",
+      "hq",
+      "-rc",
+      "constqp",
+      "-qp",
+      "23",
+      "-bf",
+      "2",
+      "-b_ref_mode",
+      "middle",
+      "-g",
+      "60",
+      "-temporal-aq",
+      "1",
+      "-rc-lookahead",
+      "20"
+    ]
+  },
+  "gameDatabaseFile": "C:\\Users\\19292\\Desktop\\Next Level Battle Circuit\\game-database\\detocs.json",
+  "logDirectory": "C:\\Users\\19292\\Desktop\\Next Level Battle Circuit\\detocs-logs",
+  "obs": {
+    "address": "localhost:4455",
+    "password": "Iq2bZICwp2iXe0Za",
+    "webSocketVersion": 5
+  },
+  "outputs": [
+    {
+      "path": "C:\\Users\\19292\\Desktop\\Next Level Battle Circuit\\sc",
+      "templates": [
+        "C:\\Users\\19292\\Desktop\\Next Level Battle Circuit\\detocs-templates\\output\\nlbc\\streamcontrol.json.hbs"
+      ],
+      "type": "file"
+    }
+  ],
+  "peopleDatabaseFile": "C:\\Users\\19292\\Desktop\\Next Level Battle Circuit\\people.json",
+  "ports": {
+    "web": 8080
+  },
+  "tempFileExpirationDays": 5,
+  "vodPerSetTemplate": "C:\\Users\\19292\\Desktop\\Next Level Battle Circuit\\detocs-templates\\vod\\nlbc\\per-set.hbs",
+  "vodSingleVideoTemplate": "C:\\Users\\19292\\Desktop\\Next Level Battle Circuit\\detocs-templates\\vod\\nlbc\\single-video.hbs"
+}
+[2023-07-26T20:08:32.110] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\00-54-54.149_135.png
+[2023-07-26T20:08:32.110] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\00-51-48.566_135.png
+[2023-07-26T20:08:32.111] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\01-10-19.483_135.png
+[2023-07-26T20:08:32.111] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\01-00-45.066_135.png
+[2023-07-26T20:08:32.111] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\01-19-37.016_135.png
+[2023-07-26T20:08:32.111] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\01-17-53.949_135.png
+[2023-07-26T20:08:32.111] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\01-24-22.249_135.png
+[2023-07-26T20:08:32.111] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\01-36-48.399_135.png
+[2023-07-26T20:08:32.112] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\01-22-03.933_135.png
+[2023-07-26T20:08:32.112] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\01-55-34.333_135.png
+[2023-07-26T20:08:32.112] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\01-36-48.566_135.png
+[2023-07-26T20:08:32.112] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\01-59-08.749_135.png
+[2023-07-26T20:08:32.112] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\02-09-16.833_135.png
+[2023-07-26T20:08:32.112] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\02-13-03.116_135.png
+[2023-07-26T20:08:32.112] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\02-09-18.316_135.png
+[2023-07-26T20:08:32.112] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\02-31-09.666_135.png
+[2023-07-26T20:08:32.112] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\02-46-19.332_135.png
+[2023-07-26T20:08:32.112] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\02-56-06.099_135.png
+[2023-07-26T20:08:32.113] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\02-56-07.699_135.png
+[2023-07-26T20:08:32.113] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\02-36-20.832_135.png
+[2023-07-26T20:08:32.113] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\02-09-20.099_135.png
+[2023-07-26T20:08:32.113] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\03-01-57.749_135.png
+[2023-07-26T20:08:32.113] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\03-05-22.032_135.png
+[2023-07-26T20:08:32.113] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\03-22-32.466_135.png
+[2023-07-26T20:08:32.113] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\03-15-34.999_135.png
+[2023-07-26T20:08:32.113] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\03-27-13.366_135.png
+[2023-07-26T20:08:32.114] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\03-34-33.116_135.png
+[2023-07-26T20:08:32.114] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\03-43-21.782_135.png
+[2023-07-26T20:08:32.114] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\03-50-34.316_135.png
+[2023-07-26T20:08:32.114] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\03-59-37.466_135.png
+[2023-07-26T20:08:32.114] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\03-37-33.432_135.png
+[2023-07-26T20:08:32.114] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-32-18.mp4
+[2023-07-26T20:08:32.114] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-32-18_waveform.png
+[2023-07-26T20:08:32.114] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-32-18_thumbnail_135.png
+[2023-07-26T20:08:32.115] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-35-23.mp4
+[2023-07-26T20:08:32.115] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-35-23_thumbnail_135.png
+[2023-07-26T20:08:32.115] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-35-23_waveform.png
+[2023-07-26T20:08:32.115] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-41-14_thumbnail_135.png
+[2023-07-26T20:08:32.115] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-41-14.mp4
+[2023-07-26T20:08:32.115] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-41-14_waveform.png
+[2023-07-26T20:08:32.115] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-50-49_thumbnail_135.png
+[2023-07-26T20:08:32.115] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-58-23.mp4
+[2023-07-26T20:08:32.116] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-50-49.mp4
+[2023-07-26T20:08:32.116] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-58-23_thumbnail_135.png
+[2023-07-26T20:08:32.116] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-50-49_waveform.png
+[2023-07-26T20:08:32.116] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-00-06.mp4
+[2023-07-26T20:08:32.116] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 20-58-23_waveform.png
+[2023-07-26T20:08:32.116] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-00-06_waveform.png
+[2023-07-26T20:08:32.116] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-00-06_thumbnail_135.png
+[2023-07-26T20:08:32.116] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-02-33_thumbnail_135.png
+[2023-07-26T20:08:32.117] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-02-33.mp4
+[2023-07-26T20:08:32.117] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-04-52.mp4
+[2023-07-26T20:08:32.117] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-02-33_waveform.png
+[2023-07-26T20:08:32.117] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-04-52_thumbnail_135.png
+[2023-07-26T20:08:32.117] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-04-52_waveform.png
+[2023-07-26T20:08:32.117] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-17-18.mp4
+[2023-07-26T20:08:32.117] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-17-18_thumbnail_135.png
+[2023-07-26T20:08:32.118] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-17-18_waveform.png
+[2023-07-26T20:08:32.118] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-36-04.mp4
+[2023-07-26T20:08:32.118] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-36-04_thumbnail_135.png
+[2023-07-26T20:08:32.118] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-39-38_thumbnail_135.png
+[2023-07-26T20:08:32.118] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-36-04_waveform.png
+[2023-07-26T20:08:32.118] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-39-38.mp4
+[2023-07-26T20:08:32.118] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-39-38_waveform.png
+[2023-07-26T20:08:32.118] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-49-46.mp4
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-49-46_thumbnail_135.png
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-49-46_waveform.png
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-49-48.mp4
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-49-48_thumbnail_135.png
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-49-48_waveform.png
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-49-49_thumbnail_135.png
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-53-33.mp4
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-49-49.mp4
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-53-33_thumbnail_135.png
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-53-33_waveform.png
+[2023-07-26T20:08:32.119] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 21-49-49_waveform.png
+[2023-07-26T20:08:32.120] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-11-39_thumbnail_135.png
+[2023-07-26T20:08:32.120] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-16-50.mp4
+[2023-07-26T20:08:32.120] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-11-39.mp4
+[2023-07-26T20:08:32.120] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-16-50_thumbnail_135.png
+[2023-07-26T20:08:32.120] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-11-39_waveform.png
+[2023-07-26T20:08:32.120] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-16-50_waveform.png
+[2023-07-26T20:08:32.120] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-26-49.mp4
+[2023-07-26T20:08:32.120] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-26-49_thumbnail_135.png
+[2023-07-26T20:08:32.120] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-26-49_waveform.png
+[2023-07-26T20:08:32.120] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-36-36_thumbnail_135.png
+[2023-07-26T20:08:32.121] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-36-36.mp4
+[2023-07-26T20:08:32.121] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-36-36_waveform.png
+[2023-07-26T20:08:32.121] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-36-37_thumbnail_135.png
+[2023-07-26T20:08:32.121] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-36-37.mp4
+[2023-07-26T20:08:32.121] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-36-37_waveform.png
+[2023-07-26T20:08:32.121] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-42-27.mp4
+[2023-07-26T20:08:32.121] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-42-27_thumbnail_135.png
+[2023-07-26T20:08:32.121] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-42-27_waveform.png
+[2023-07-26T20:08:32.121] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-45-51.mp4
+[2023-07-26T20:08:32.121] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-45-51_thumbnail_135.png
+[2023-07-26T20:08:32.122] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-45-51_waveform.png
+[2023-07-26T20:08:32.122] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-56-04_thumbnail_135.png
+[2023-07-26T20:08:32.122] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-56-04.mp4
+[2023-07-26T20:08:32.122] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-03-02_thumbnail_135.png
+[2023-07-26T20:08:32.122] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-03-02.mp4
+[2023-07-26T20:08:32.122] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 22-56-04_waveform.png
+[2023-07-26T20:08:32.122] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-03-02_waveform.png
+[2023-07-26T20:08:32.122] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-07-43.mp4
+[2023-07-26T20:08:32.122] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-07-43_thumbnail_135.png
+[2023-07-26T20:08:32.123] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-07-43_waveform.png
+[2023-07-26T20:08:32.123] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-15-03.mp4
+[2023-07-26T20:08:32.123] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-15-03_thumbnail_135.png
+[2023-07-26T20:08:32.123] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-15-03_waveform.png
+[2023-07-26T20:08:32.123] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-18-03_waveform.png
+[2023-07-26T20:08:32.123] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-18-03.mp4
+[2023-07-26T20:08:32.123] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-18-03_thumbnail_135.png
+[2023-07-26T20:08:32.123] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-23-51_thumbnail_135.png
+[2023-07-26T20:08:32.123] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-23-51.mp4
+[2023-07-26T20:08:32.123] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-31-04.mp4
+[2023-07-26T20:08:32.124] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-31-04_thumbnail_135.png
+[2023-07-26T20:08:32.124] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-31-04_waveform.png
+[2023-07-26T20:08:32.124] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-40-07.mp4
+[2023-07-26T20:08:32.124] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-23-51_waveform.png
+[2023-07-26T20:08:32.124] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-40-07_thumbnail_135.png
+[2023-07-26T20:08:32.124] [DEBUG] server/media - Deleting expired temp file C:\Users\19292\AppData\Local\Temp\detocs\media\Replay 2023-07-19 23-40-07_waveform.png
+[2023-07-26T20:08:32.125] [INFO] people - Loading person database from C:\Users\19292\Desktop\Next Level Battle Circuit\people.json.
+  format: 2
+  version: 0.8.0
+  person count: 61
+[2023-07-26T20:08:32.125] [INFO] server - DETOCS server initializing...
+[2023-07-26T20:08:32.125] [INFO] server/control - Initializing overlay control server
+[2023-07-26T20:08:32.127] [INFO] server/recording - Initializing match recording server
+[2023-07-26T20:08:32.128] [INFO] server/twitter - Initializing Twitter server
+[2023-07-26T20:08:32.129] [INFO] server/bracket - Initializing bracket server
+[2023-07-26T20:08:32.130] [INFO] server/clip - Initializing media dashboard server
+[2023-07-26T20:08:32.130] [INFO] server/errors - Initializing error reporter server
+[2023-07-26T20:08:32.132] [INFO] server/recording - Listening on port 58587
+[2023-07-26T20:08:32.132] [INFO] server/twitter - Listening on port 58588
+[2023-07-26T20:08:32.132] [INFO] server/bracket - Listening on port 58589
+[2023-07-26T20:08:32.132] [INFO] server/clip - Listening on port 58590
+[2023-07-26T20:08:32.132] [INFO] server/errors - Listening on port 58591
+[2023-07-26T20:08:32.132] [INFO] web - Listening on port 8080
+[2023-07-26T20:08:32.133] [DEBUG] services/obs/connection - Connection attempt 1/1
+[2023-07-26T20:08:32.142] [INFO] games - Loading game database from C:\Users\19292\Desktop\Next Level Battle Circuit\game-database\detocs.json.
+game count: 25
+[2023-07-26T20:08:32.144] [INFO] output/templates - Loading output template from C:\Users\19292\Desktop\Next Level Battle Circuit\detocs-templates\output\nlbc\streamcontrol.json.hbs
+[2023-07-26T20:08:32.144] [INFO] server/info - Initializing overlay info server
+[2023-07-26T20:08:32.153] [INFO] server/info - Listening on port 58586
+[2023-07-26T20:08:32.170] [INFO] output/file - Initializing file output adapter for C:\Users\19292\Desktop\Next Level Battle Circuit\sc
+[2023-07-26T20:08:32.171] [DEBUG] output/file - Watching file C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json in order to merge with outside changes
+[2023-07-26T20:08:32.172] [INFO] services/obs/connection - Connected to OBS at ws://localhost:4455
+[2023-07-26T20:08:32.173] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "",
+  "pName2": "",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "",
+  "pTeam2": "",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690416512",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:08:32.176] [INFO] services/obs - Recording folder: C:\Users\19292\Videos
+[2023-07-26T20:08:32.178] [INFO] services/obs - Recording file: C:\Users\19292\Videos\2023-07-26 20-05-45.mkv
+[2023-07-26T20:08:32.379] [INFO] server/info - Websocket connection received
+[2023-07-26T20:08:32.380] [INFO] server/recording - Websocket connection received
+[2023-07-26T20:08:32.381] [INFO] server/twitter - Websocket connection received
+[2023-07-26T20:08:32.381] [INFO] server/bracket - Websocket connection received
+[2023-07-26T20:08:32.381] [INFO] server/clip - Websocket connection received
+[2023-07-26T20:22:44.305] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': '',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Sniks',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': '',
+  'players[1][prefix]': '',
+  'players[1][handle]': 'RLBS',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': '',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': '',
+  'match[name]': '',
+  'game[id]': '',
+  'game[name]': '',
+  'set[serviceName]': '',
+  'set[id]': '',
+  'set[phaseId]': '',
+  'set[phaseGroupId]': ''
+}
+[2023-07-26T20:22:44.313] [INFO] people - New person: {
+  id: '',
+  handle: 'Sniks',
+  alias: undefined,
+  prefix: null,
+  pronouns: undefined,
+  serviceIds: { twitter: undefined }
+}
+[2023-07-26T20:22:44.313] [DEBUG] people - People: [
+  {
+    id: 'd202307230026498690000',
+    handle: 'Optimus',
+    prefix: null,
+    serviceIds: { twitter: 'OptimusFGC', smashgg: '2306498' }
+  },
+  {
+    id: 'd202307230037513960000',
+    handle: 'DrunkCarltonBanks',
+    prefix: 'MSHFST',
+    serviceIds: { twitter: 'TheJonnyClash', smashgg: '497680' }
+  },
+  {
+    id: 'd202307230107469210000',
+    handle: 'Idrop',
+    prefix: null,
+    serviceIds: { twitter: 'idrop_' }
+  },
+  {
+    id: 'd202307270022443130000',
+    handle: 'Sniks',
+    prefix: null,
+    serviceIds: { twitter: undefined },
+    alias: undefined,
+    pronouns: undefined
+  }
+]
+[2023-07-26T20:22:44.314] [INFO] people - New person: {
+  id: '',
+  handle: 'RLBS',
+  alias: undefined,
+  prefix: null,
+  pronouns: undefined,
+  serviceIds: { twitter: undefined }
+}
+[2023-07-26T20:22:44.314] [DEBUG] people - People: [
+  {
+    id: 'd202307230037513960000',
+    handle: 'DrunkCarltonBanks',
+    prefix: 'MSHFST',
+    serviceIds: { twitter: 'TheJonnyClash', smashgg: '497680' }
+  },
+  {
+    id: 'd202307230107469210000',
+    handle: 'Idrop',
+    prefix: null,
+    serviceIds: { twitter: 'idrop_' }
+  },
+  {
+    id: 'd202307270022443130000',
+    handle: 'Sniks',
+    prefix: null,
+    serviceIds: { twitter: undefined },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307270022443140000',
+    handle: 'RLBS',
+    prefix: null,
+    serviceIds: { twitter: undefined },
+    alias: undefined,
+    pronouns: undefined
+  }
+]
+[2023-07-26T20:22:44.315] [INFO] people - Backing-up previous person database to C:\Users\19292\Desktop\Next Level Battle Circuit\people.json.bak
+[2023-07-26T20:22:44.316] [DEBUG] people - Saving 63 person records
+[2023-07-26T20:22:44.317] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Sniks",
+  "pName2": "RLBS",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "",
+  "pTeam2": "",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690417364",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:24:43.892] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:24:44.847] [DEBUG] services/smashgg/pagination - Paginated query, 63 total items
+Default: 5 @ 14/page, complexity: 239 + 26
+Optimized: 2 @ 50/page, predicted complexity: 950
+[2023-07-26T20:24:45.590] [DEBUG] services/smashgg/pagination - Actual complexity: 547
+[2023-07-26T20:24:45.590] [DEBUG] services/smashgg/pagination - Actual complexity: 105
+[2023-07-26T20:25:00.244] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116448',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404',
+  '': ''
+}
+[2023-07-26T20:25:00.250] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Sniks",
+  "pName2": "RLBS",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "",
+  "pTeam2": "",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690417500",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:26:45.592] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:26:46.493] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 211 + 32
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:26:47.065] [DEBUG] services/smashgg/pagination - Actual complexity: 571
+[2023-07-26T20:26:47.065] [DEBUG] services/smashgg/pagination - Actual complexity: 121
+[2023-07-26T20:27:42.470] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116448',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404',
+  '': ''
+}
+[2023-07-26T20:27:42.474] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Sniks",
+  "pName2": "RLBS",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "",
+  "pTeam2": "",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690417662",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:27:49.724] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116641',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404',
+  '': ''
+}
+[2023-07-26T20:27:49.727] [INFO] people - New person: {
+  handle: 'GimR',
+  prefix: 'VGBC',
+  serviceIds: { twitter: 'VGBC_GimR', smashgg: '5403' }
+}
+[2023-07-26T20:27:49.728] [DEBUG] people - People: [
+  {
+    id: 'd202307230107469210000',
+    handle: 'Idrop',
+    prefix: null,
+    serviceIds: { twitter: 'idrop_' }
+  },
+  {
+    id: 'd202307270022443130000',
+    handle: 'Sniks',
+    prefix: null,
+    serviceIds: { twitter: 'Sn1ks_', smashgg: '1206258' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307270022443140000',
+    handle: 'RLBS',
+    prefix: null,
+    serviceIds: { twitter: 'eddyRLBS', smashgg: '254469' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307270027497280000',
+    handle: 'GimR',
+    prefix: 'VGBC',
+    serviceIds: { twitter: 'VGBC_GimR', smashgg: '5403' }
+  }
+]
+[2023-07-26T20:27:49.728] [INFO] people - New person: {
+  handle: 'Dragongod',
+  prefix: 'HOC/MF/Emp',
+  serviceIds: { twitter: 'DragonGod7777', smashgg: '225831' }
+}
+[2023-07-26T20:27:49.728] [DEBUG] people - People: [
+  {
+    id: 'd202307270022443130000',
+    handle: 'Sniks',
+    prefix: null,
+    serviceIds: { twitter: 'Sn1ks_', smashgg: '1206258' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307270022443140000',
+    handle: 'RLBS',
+    prefix: null,
+    serviceIds: { twitter: 'eddyRLBS', smashgg: '254469' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307270027497280000',
+    handle: 'GimR',
+    prefix: 'VGBC',
+    serviceIds: { twitter: 'VGBC_GimR', smashgg: '5403' }
+  },
+  {
+    id: 'd202307270027497280001',
+    handle: 'Dragongod',
+    prefix: 'HOC/MF/Emp',
+    serviceIds: { twitter: 'DragonGod7777', smashgg: '225831' }
+  }
+]
+[2023-07-26T20:27:49.728] [DEBUG] people - Saving 65 person records
+[2023-07-26T20:27:49.730] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "GimR",
+  "pName2": "Dragongod",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "VGBC",
+  "pTeam2": "HOC/MF/Emp",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690417669",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:28:45.603] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:28:46.209] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 211 + 32
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:28:47.028] [DEBUG] services/smashgg/pagination - Actual complexity: 571
+[2023-07-26T20:28:47.028] [DEBUG] services/smashgg/pagination - Actual complexity: 121
+[2023-07-26T20:30:45.610] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:30:46.433] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 211 + 32
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:30:47.177] [DEBUG] services/smashgg/pagination - Actual complexity: 571
+[2023-07-26T20:30:47.177] [DEBUG] services/smashgg/pagination - Actual complexity: 121
+[2023-07-26T20:32:44.332] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202307270027497280001',
+  'players[0][prefix]': 'HOC/MF/Emp',
+  'players[0][handle]': 'Dragongod',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'DragonGod7777',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202307270027497280000',
+  'players[1][prefix]': 'VGBC',
+  'players[1][handle]': 'GimR',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'VGBC_GimR',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'w1',
+  'match[name]': 'Winners Round 1',
+  'game[id]': 'sf6',
+  'game[name]': 'Street Fighter 6',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116641',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404'
+}
+[2023-07-26T20:32:44.336] [INFO] people - update person: {
+  id: 'd202307270027497280001',
+  handle: 'Dragongod',
+  prefix: 'HOC/MF/Emp',
+  serviceIds: { twitter: 'DragonGod7777', smashgg: '225831' }
+} {
+  id: 'd202307270027497280001',
+  handle: 'Dragongod',
+  prefix: 'HOC/MF/Emp',
+  serviceIds: { twitter: 'DragonGod7777', smashgg: '225831' },
+  alias: undefined,
+  pronouns: undefined
+}
+[2023-07-26T20:32:44.337] [DEBUG] people - People: [
+  {
+    id: 'd202307270022443140000',
+    handle: 'RLBS',
+    prefix: null,
+    serviceIds: { twitter: 'eddyRLBS', smashgg: '254469' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307270027497280000',
+    handle: 'GimR',
+    prefix: 'VGBC',
+    serviceIds: { twitter: 'VGBC_GimR', smashgg: '5403' }
+  },
+  {
+    id: 'd202307270027497280001',
+    handle: 'Dragongod',
+    prefix: 'HOC/MF/Emp',
+    serviceIds: { twitter: 'DragonGod7777', smashgg: '225831' },
+    alias: undefined,
+    pronouns: undefined
+  }
+]
+[2023-07-26T20:32:44.337] [INFO] people - update person: {
+  id: 'd202307270027497280000',
+  handle: 'GimR',
+  prefix: 'VGBC',
+  serviceIds: { twitter: 'VGBC_GimR', smashgg: '5403' }
+} {
+  id: 'd202307270027497280000',
+  handle: 'GimR',
+  prefix: 'VGBC',
+  serviceIds: { twitter: 'VGBC_GimR', smashgg: '5403' },
+  alias: undefined,
+  pronouns: undefined
+}
+[2023-07-26T20:32:44.337] [DEBUG] people - People: [
+  {
+    id: 'd202307270022443130000',
+    handle: 'Sniks',
+    prefix: null,
+    serviceIds: { twitter: 'Sn1ks_', smashgg: '1206258' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307270022443140000',
+    handle: 'RLBS',
+    prefix: null,
+    serviceIds: { twitter: 'eddyRLBS', smashgg: '254469' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307270027497280000',
+    handle: 'GimR',
+    prefix: 'VGBC',
+    serviceIds: { twitter: 'VGBC_GimR', smashgg: '5403' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307270027497280001',
+    handle: 'Dragongod',
+    prefix: 'HOC/MF/Emp',
+    serviceIds: { twitter: 'DragonGod7777', smashgg: '225831' },
+    alias: undefined,
+    pronouns: undefined
+  }
+]
+[2023-07-26T20:32:44.338] [DEBUG] people - Saving 65 person records
+[2023-07-26T20:32:44.340] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Dragongod",
+  "pName2": "GimR",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "HOC/MF/Emp",
+  "pTeam2": "VGBC",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690417964",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:32:45.612] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:32:46.500] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 211 + 32
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:32:47.164] [DEBUG] services/smashgg/pagination - Actual complexity: 571
+[2023-07-26T20:32:47.164] [DEBUG] services/smashgg/pagination - Actual complexity: 121
+[2023-07-26T20:34:45.625] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:34:46.506] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 211 + 32
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:34:47.031] [DEBUG] services/smashgg/pagination - Actual complexity: 578
+[2023-07-26T20:34:47.032] [DEBUG] services/smashgg/pagination - Actual complexity: 121
+[2023-07-26T20:36:45.625] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:36:46.330] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 214 + 28
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:36:47.594] [DEBUG] services/smashgg/pagination - Actual complexity: 589
+[2023-07-26T20:36:47.594] [DEBUG] services/smashgg/pagination - Actual complexity: 146
+[2023-07-26T20:37:16.592] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202307270027497280001',
+  'players[0][prefix]': 'HOC/MF/Emp',
+  'players[0][handle]': 'Dragongod',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'DragonGod7777',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '1',
+  'players[1][id]': 'd202307270027497280000',
+  'players[1][prefix]': 'VGBC',
+  'players[1][handle]': 'GimR',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'VGBC_GimR',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '1',
+  'match[id]': 'w1',
+  'match[name]': 'Winners Round 1',
+  'game[id]': 'sf6',
+  'game[name]': 'Street Fighter 6',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116641',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404'
+}
+[2023-07-26T20:37:16.598] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Dragongod",
+  "pName2": "GimR",
+  "pScore1": "1",
+  "pScore2": "1",
+  "pTeam1": "HOC/MF/Emp",
+  "pTeam2": "VGBC",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690418236",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:38:45.630] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:38:46.674] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 223 + 24
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:38:47.597] [DEBUG] services/smashgg/pagination - Actual complexity: 579
+[2023-07-26T20:38:47.597] [DEBUG] services/smashgg/pagination - Actual complexity: 173
+[2023-07-26T20:40:45.644] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:40:46.704] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 215 + 26
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:40:47.522] [DEBUG] services/smashgg/pagination - Actual complexity: 579
+[2023-07-26T20:40:47.522] [DEBUG] services/smashgg/pagination - Actual complexity: 181
+[2023-07-26T20:42:45.658] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:42:46.389] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 215 + 26
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:42:47.068] [DEBUG] services/smashgg/pagination - Actual complexity: 579
+[2023-07-26T20:42:47.068] [DEBUG] services/smashgg/pagination - Actual complexity: 199
+[2023-07-26T20:43:10.389] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202307270027497280001',
+  'players[0][prefix]': 'HOC/MF/Emp',
+  'players[0][handle]': 'Dragongod',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'DragonGod7777',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '1',
+  'players[1][id]': 'd202307270027497280000',
+  'players[1][prefix]': 'VGBC',
+  'players[1][handle]': 'GimR',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'VGBC_GimR',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '1',
+  'match[id]': 'w1',
+  'match[name]': 'Winners Round 1',
+  'game[id]': 'sf6',
+  'game[name]': 'Street Fighter 6',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116684',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404'
+}
+[2023-07-26T20:43:10.395] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Dragongod",
+  "pName2": "GimR",
+  "pScore1": "1",
+  "pScore2": "1",
+  "pTeam1": "HOC/MF/Emp",
+  "pTeam2": "VGBC",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690418590",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:43:10.885] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202307270027497280001',
+  'players[0][prefix]': 'HOC/MF/Emp',
+  'players[0][handle]': 'Dragongod',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'DragonGod7777',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '1',
+  'players[1][id]': 'd202307270027497280000',
+  'players[1][prefix]': 'VGBC',
+  'players[1][handle]': 'GimR',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'VGBC_GimR',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '1',
+  'match[id]': 'w1',
+  'match[name]': 'Winners Round 1',
+  'game[id]': 'sf6',
+  'game[name]': 'Street Fighter 6',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116684',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404'
+}
+[2023-07-26T20:43:10.890] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Dragongod",
+  "pName2": "GimR",
+  "pScore1": "1",
+  "pScore2": "1",
+  "pTeam1": "HOC/MF/Emp",
+  "pTeam2": "VGBC",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690418590",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:43:11.773] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202307270027497280001',
+  'players[0][prefix]': 'HOC/MF/Emp',
+  'players[0][handle]': 'Dragongod',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'DragonGod7777',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '1',
+  'players[1][id]': 'd202307270027497280000',
+  'players[1][prefix]': 'VGBC',
+  'players[1][handle]': 'GimR',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'VGBC_GimR',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '1',
+  'match[id]': 'w1',
+  'match[name]': 'Winners Round 1',
+  'game[id]': 'sf6',
+  'game[name]': 'Street Fighter 6',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116684',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404'
+}
+[2023-07-26T20:43:11.778] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Dragongod",
+  "pName2": "GimR",
+  "pScore1": "1",
+  "pScore2": "1",
+  "pTeam1": "HOC/MF/Emp",
+  "pTeam2": "VGBC",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690418591",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:43:17.414] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202307270027497280001',
+  'players[0][prefix]': 'HOC/MF/Emp',
+  'players[0][handle]': 'Dragongod',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'DragonGod7777',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202307270027497280000',
+  'players[1][prefix]': 'VGBC',
+  'players[1][handle]': 'GimR',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'VGBC_GimR',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'w1',
+  'match[name]': 'Winners Round 1',
+  'game[id]': 'sf6',
+  'game[name]': 'Street Fighter 6',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116684',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404'
+}
+[2023-07-26T20:43:17.418] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Dragongod",
+  "pName2": "GimR",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "HOC/MF/Emp",
+  "pTeam2": "VGBC",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690418597",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:43:28.989] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202307270027497280001',
+  'players[0][prefix]': 'HOC/MF/Emp',
+  'players[0][handle]': 'Dragongod',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'DragonGod7777',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202307270027497280000',
+  'players[1][prefix]': 'VGBC',
+  'players[1][handle]': 'GimR',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'VGBC_GimR',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'w1',
+  'match[name]': 'Winners Round 1',
+  'game[id]': 'sf6',
+  'game[name]': 'Street Fighter 6',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116684',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404'
+}
+[2023-07-26T20:43:28.997] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Dragongod",
+  "pName2": "GimR",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "HOC/MF/Emp",
+  "pTeam2": "VGBC",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690418608",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:43:29.829] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202307270027497280001',
+  'players[0][prefix]': 'HOC/MF/Emp',
+  'players[0][handle]': 'Dragongod',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'DragonGod7777',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202307270027497280000',
+  'players[1][prefix]': 'VGBC',
+  'players[1][handle]': 'GimR',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'VGBC_GimR',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'w1',
+  'match[name]': 'Winners Round 1',
+  'game[id]': 'sf6',
+  'game[name]': 'Street Fighter 6',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116684',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404'
+}
+[2023-07-26T20:43:29.834] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 1",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Dragongod",
+  "pName2": "GimR",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "HOC/MF/Emp",
+  "pTeam2": "VGBC",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690418609",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:43:32.972] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116684',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404',
+  '': ''
+}
+[2023-07-26T20:43:32.977] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 2",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Awhile",
+  "pName2": "DrunkCarltonBanks",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "",
+  "pTeam2": "MSHFST",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690418612",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:43:33.503] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202307130017074330000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Awhile',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'AwhileNY',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202307230037513960000',
+  'players[1][prefix]': 'MSHFST',
+  'players[1][handle]': 'DrunkCarltonBanks',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'TheJonnyClash',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'w2',
+  'match[name]': 'Winners Round 2',
+  'game[id]': 'sf6',
+  'game[name]': 'Street Fighter 6',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116684',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404'
+}
+[2023-07-26T20:43:33.506] [INFO] people - update person: {
+  id: 'd202307130017074330000',
+  handle: 'Awhile',
+  prefix: null,
+  serviceIds: { twitter: 'AwhileNY', smashgg: '155290' }
+} {
+  id: 'd202307130017074330000',
+  handle: 'Awhile',
+  prefix: null,
+  serviceIds: { twitter: 'AwhileNY', smashgg: '155290' },
+  alias: undefined,
+  pronouns: undefined
+}
+[2023-07-26T20:43:33.506] [DEBUG] people - People: [
+  {
+    id: 'd202307130010312750000',
+    handle: 'Bean',
+    prefix: null,
+    serviceIds: {}
+  },
+  {
+    id: 'd202307130010312760000',
+    handle: 'Enigmatt',
+    prefix: null,
+    serviceIds: { smashgg: '474049' },
+    alias: 'enigmatt'
+  },
+  {
+    id: 'd202307130017074330000',
+    handle: 'Awhile',
+    prefix: null,
+    serviceIds: { twitter: 'AwhileNY', smashgg: '155290' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307130017074330001',
+    handle: 'Rezlam',
+    prefix: null,
+    serviceIds: {}
+  }
+]
+[2023-07-26T20:43:33.506] [INFO] people - update person: {
+  id: 'd202307230037513960000',
+  handle: 'DrunkCarltonBanks',
+  prefix: 'MSHFST',
+  serviceIds: { twitter: 'TheJonnyClash', smashgg: '497680' }
+} {
+  id: 'd202307230037513960000',
+  handle: 'DrunkCarltonBanks',
+  prefix: 'MSHFST',
+  serviceIds: { twitter: 'TheJonnyClash', smashgg: '497680' },
+  alias: undefined,
+  pronouns: undefined
+}
+[2023-07-26T20:43:33.507] [DEBUG] people - People: [
+  {
+    id: 'd202307230019587270000',
+    handle: 'TenzingNYC',
+    prefix: null,
+    serviceIds: { twitter: 'TenzingNYC', smashgg: '2237814' }
+  },
+  {
+    id: 'd202307230026498690000',
+    handle: 'Optimus',
+    prefix: null,
+    serviceIds: { twitter: 'OptimusFGC', smashgg: '2306498' }
+  },
+  {
+    id: 'd202307230037513960000',
+    handle: 'DrunkCarltonBanks',
+    prefix: 'MSHFST',
+    serviceIds: { twitter: 'TheJonnyClash', smashgg: '497680' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202307230107469210000',
+    handle: 'Idrop',
+    prefix: null,
+    serviceIds: { twitter: 'idrop_' }
+  }
+]
+[2023-07-26T20:43:33.507] [DEBUG] people - Saving 65 person records
+[2023-07-26T20:43:33.508] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 2",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Awhile",
+  "pName2": "DrunkCarltonBanks",
+  "pScore1": "0",
+  "pScore2": "0",
+  "pTeam1": "",
+  "pTeam2": "MSHFST",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690418613",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:44:45.671] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:44:46.497] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 218 + 28
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:44:47.182] [DEBUG] services/smashgg/pagination - Actual complexity: 584
+[2023-07-26T20:44:47.182] [DEBUG] services/smashgg/pagination - Actual complexity: 217
+[2023-07-26T20:46:45.686] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:46:46.510] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 220 + 26
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:46:47.155] [DEBUG] services/smashgg/pagination - Actual complexity: 568
+[2023-07-26T20:46:47.155] [DEBUG] services/smashgg/pagination - Actual complexity: 233
+[2023-07-26T20:48:32.149] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202307130017074330000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Awhile',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'AwhileNY',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '1',
+  'players[1][id]': 'd202307230037513960000',
+  'players[1][prefix]': 'MSHFST',
+  'players[1][handle]': 'DrunkCarltonBanks',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'TheJonnyClash',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'w2',
+  'match[name]': 'Winners Round 2',
+  'game[id]': 'sf6',
+  'game[name]': 'Street Fighter 6',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '63116684',
+  'set[phaseId]': '1421430',
+  'set[phaseGroupId]': '2154404'
+}
+[2023-07-26T20:48:32.154] [DEBUG] output/file - Writing update to C:\Users\19292\Desktop\Next Level Battle Circuit\sc\streamcontrol.json:
+{
+  "T8_GF_1A": "",
+  "T8_GF_1B": "",
+  "T8_LF_1A": "",
+  "T8_LF_1B": "",
+  "T8_LQ_1A": "",
+  "T8_LQ_1B": "",
+  "T8_LQ_2A": "",
+  "T8_LQ_2B": "",
+  "T8_LS_1A": "",
+  "T8_LS_1B": "",
+  "T8_Los_1A": "",
+  "T8_Los_1B": "",
+  "T8_Los_2A": "",
+  "T8_Los_2B": "",
+  "T8_WF_1A": "",
+  "T8_WF_1B": "",
+  "T8_Win_1A": "",
+  "T8_Win_1B": "",
+  "T8_Win_2A": "",
+  "T8_Win_2B": "",
+  "bType": "0",
+  "bracketLink": "",
+  "cFlags": "0",
+  "com1": "",
+  "com2": "",
+  "downtime": "",
+  "game": "Winners Round 2",
+  "l3rd1": "",
+  "l3rd2": "",
+  "logoCnt": "",
+  "logoVisible": "0",
+  "pCountry1": "",
+  "pCountry2": "",
+  "pName1": "Awhile",
+  "pName2": "DrunkCarltonBanks",
+  "pScore1": "1",
+  "pScore2": "0",
+  "pTeam1": "",
+  "pTeam2": "MSHFST",
+  "show": "0",
+  "tFile": "0",
+  "tFlags": "1",
+  "tHead": "",
+  "tText": "",
+  "ticker": "0",
+  "tickerStop": "0",
+  "timerEnable": "0",
+  "timerLength": "03:00",
+  "timerStart": "0",
+  "timestamp": "1690418912",
+  "title": "GGXRDREV2",
+  "twit1": "",
+  "twit2": ""
+}
+[2023-07-26T20:48:45.693] [DEBUG] server/bracket - Fetching sets for phase 1421430
+[2023-07-26T20:48:46.501] [DEBUG] services/smashgg/pagination - Paginated query, 67 total items
+Default: 5 @ 14/page, complexity: 219 + 28
+Optimized: 2 @ 52/page, predicted complexity: 936
+[2023-07-26T20:48:47.177] [DEBUG] services/smashgg/pagination - Actual complexity: 568
+[2023-07-26T20:48:47.177] [DEBUG] services/smashgg/pagination - Actual complexity: 243
+[2023-07-26T20:50:30.511] [DEBUG] services/obs - status after event {
+  outputActive: true,
+  outputBytes: 2069052332,
+  outputDuration: 2685166,
+  outputPaused: false,
+  outputTimecode: '00:44:45.166'
+}
+[2023-07-26T20:50:30.511] [DEBUG] services/obs - status after event {
+  outputActive: true,
+  outputBytes: 2069052332,
+  outputDuration: 2685166,
+  outputPaused: false,
+  outputTimecode: '00:44:45.166'
+}
+[2023-07-26T20:50:30.512] [DEBUG] services/obs - status after event {
+  outputActive: true,
+  outputBytes: 2069052332,
+  outputDuration: 2685166,
+  outputPaused: false,
+  outputTimecode: '00:44:45.166'
+}
+[2023-07-26T20:50:30.754] [DEBUG] services/obs - status after event {
+  outputActive: true,
+  outputBytes: 2069237911,
+  outputDuration: 2685399,
+  outputPaused: false,
+  outputTimecode: '00:44:45.399'
+}
+[2023-07-26T20:50:30.754] [DEBUG] services/obs - status after event {
+  outputActive: true,
+  outputBytes: 2069237911,
+  outputDuration: 2685399,
+  outputPaused: false,
+  outputTimecode: '00:44:45.399'
+}
+[2023-07-26T20:50:30.755] [DEBUG] services/obs - status after event {
+  outputActive: true,
+  outputBytes: 2069237911,
+  outputDuration: 2685399,
+  outputPaused: false,
+  outputTimecode: '00:44:45.399'
+}
+[2023-07-26T20:50:32.805] [WARN] services/obs/connection - Lost connection to OBS
+[2023-07-26T20:50:32.805] [DEBUG] services/obs/connection - Connection attempt 1/3
+[2023-07-26T20:50:32.807] [DEBUG] services/obs/connection - Unable to connect to ws://localhost:4455: Error: connect ECONNREFUSED 127.0.0.1:4455
+[2023-07-26T20:50:37.818] [DEBUG] services/obs/connection - Connection attempt 2/3
+[2023-07-26T20:50:37.819] [DEBUG] services/obs/connection - Unable to connect to ws://localhost:4455: Error: connect ECONNREFUSED 127.0.0.1:4455

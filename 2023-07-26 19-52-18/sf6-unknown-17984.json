@@ -1,0 +1,102 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2023-07-26 19-52-18.mkv",
+  "phaseId": "unknown",
+  "start": "00:37:06.000",
+  "end": "00:43:39.000",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w2: RLBS vs Sniks",
+      "start": "00:37:06.000",
+      "end": "00:43:39.000",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307270027542870000",
+              "handle": "RLBS",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "eddyRLBS",
+                "smashgg": "254469"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307130010195530000",
+              "handle": "Sniks",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sn1ks_",
+                "smashgg": "1206258"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata",
+                "smashgg": "171392"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #288",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
