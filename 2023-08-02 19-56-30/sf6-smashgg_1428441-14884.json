@@ -1,0 +1,2292 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2023-08-02 19-56-30.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1428441",
+  "eventId": "956317",
+  "start": "00:24:06.116",
+  "end": "02:08:21.000",
+  "sets": [
+    {
+      "id": "63397829",
+      "displayName": "B - w1: Chris Battle vs MTS | Macho316 (Macho King73)",
+      "start": "00:24:06.116",
+      "end": "00:29:47.616",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202308030019130340000",
+              "handle": "Chris Battle",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2280112"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202111282257334630000",
+              "handle": "Macho King73",
+              "prefix": "MTS",
+              "serviceIds": {
+                "twitter": "MachoKing73",
+                "smashgg": "1878812"
+              },
+              "alias": "Macho316"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350470000",
+              "handle": "GoldenCen",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "goldencen",
+                "smashgg": "174828"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397829",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - w1: MTS | Macho316 vs Chris Battle",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MTS | Macho316",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1878812",
+                  "handle": "Macho316",
+                  "prefix": "MTS",
+                  "serviceIds": {
+                    "twitter": "MachoKing73"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Chris Battle",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2280112",
+                  "handle": "Chris Battle",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397833",
+      "displayName": "F - w1: GoldenCen vs Ninjoy",
+      "start": "00:32:21.849",
+      "end": "00:36:51.699",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350470000",
+              "handle": "GoldenCen",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "goldencen",
+                "smashgg": "174828"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202308030027179960000",
+              "handle": "Ninjoy",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3554441"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350470000",
+              "handle": "GoldenCen",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "goldencen",
+                "smashgg": "174828"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397833",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - w1: Ninjoy vs GoldenCen",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Ninjoy",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3554441",
+                  "handle": "Ninjoy",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GoldenCen",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "174828",
+                  "handle": "GoldenCen",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397837",
+      "displayName": "J - wq: XenoZero | Wetkunai vs LAGr | Young_matt_teen",
+      "start": "00:38:19.083",
+      "end": "00:44:48.666",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202306102315294940000",
+              "handle": "Young_matt_teen",
+              "prefix": "LAGr",
+              "serviceIds": {
+                "smashgg": "1929417"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350470000",
+              "handle": "GoldenCen",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "goldencen",
+                "smashgg": "174828"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397837",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - wq: XenoZero | Wetkunai vs LAGr | Young_matt_teen",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "XenoZero | Wetkunai",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "666020",
+                  "handle": "Wetkunai",
+                  "prefix": "XenoZero",
+                  "serviceIds": {
+                    "twitter": "WetKunai"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LAGr | Young_matt_teen",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1929417",
+                  "handle": "Young_matt_teen",
+                  "prefix": "LAGr",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397839",
+      "displayName": "L - ws: AuLord vs Chris Battle",
+      "start": "00:47:22.949",
+      "end": "00:53:22.933",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307270125319130000",
+              "handle": "AuLord",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3538808"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202308030019130340000",
+              "handle": "Chris Battle",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2280112"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190200198970000",
+              "handle": "CreakyAxe",
+              "prefix": "Island",
+              "serviceIds": {
+                "twitter": "FightCreakyAxe",
+                "smashgg": "257820"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397839",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - ws: AuLord vs Chris Battle",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AuLord",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3538808",
+                  "handle": "AuLord",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Chris Battle",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2280112",
+                  "handle": "Chris Battle",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397838",
+      "displayName": "K - wq: GoldenCen vs MSHFST | DrunkCarltonBanks",
+      "start": "00:54:19.866",
+      "end": "00:58:23.000",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350470000",
+              "handle": "GoldenCen",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "goldencen",
+                "smashgg": "174828"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202308030050069350000",
+              "handle": "DrunkCarltonBanks",
+              "prefix": "MSHFST",
+              "serviceIds": {
+                "twitter": "TheJonnyClash",
+                "smashgg": "497680"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190200198970000",
+              "handle": "CreakyAxe",
+              "prefix": "Island",
+              "serviceIds": {
+                "twitter": "FightCreakyAxe",
+                "smashgg": "257820"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397838",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - wq: GoldenCen vs MSHFST | DrunkCarltonBanks",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GoldenCen",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "174828",
+                  "handle": "GoldenCen",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "MSHFST | DrunkCarltonBanks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "497680",
+                  "handle": "DrunkCarltonBanks",
+                  "prefix": "MSHFST",
+                  "serviceIds": {
+                    "twitter": "TheJonnyClash"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397840",
+      "displayName": "M - ws: GoldenCen vs XenoZero | Wetkunai",
+      "start": "01:00:02.149",
+      "end": "01:04:57.199",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350470000",
+              "handle": "GoldenCen",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "goldencen",
+                "smashgg": "174828"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190200198970000",
+              "handle": "CreakyAxe",
+              "prefix": "Island",
+              "serviceIds": {
+                "twitter": "FightCreakyAxe",
+                "smashgg": "257820"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397840",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - ws: XenoZero | Wetkunai vs GoldenCen",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "XenoZero | Wetkunai",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "666020",
+                  "handle": "Wetkunai",
+                  "prefix": "XenoZero",
+                  "serviceIds": {
+                    "twitter": "WetKunai"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GoldenCen",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "174828",
+                  "handle": "GoldenCen",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397869",
+      "displayName": "Y - Losers Eighths: Island | CreakyAxe vs Furious_malic",
+      "start": "01:06:45.000",
+      "end": "01:11:50.266",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190200198970000",
+              "handle": "CreakyAxe",
+              "prefix": "Island",
+              "serviceIds": {
+                "twitter": "FightCreakyAxe",
+                "smashgg": "257820"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202302192324193490000",
+              "handle": "Furious_malic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3074436"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397869",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "l3",
+            "name": "Losers Round 3",
+            "smashggId": "Losers Round 3"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "Y",
+          "displayName": "Y - l3: Island | CreakyAxe vs Furious_malic",
+          "completedAt": 1691024830,
+          "entrants": [
+            {
+              "name": "Island | CreakyAxe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "257820",
+                  "handle": "CreakyAxe",
+                  "prefix": "Island",
+                  "serviceIds": {
+                    "twitter": "FightCreakyAxe"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Furious_malic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3074436",
+                  "handle": "Furious_malic",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397868",
+      "displayName": "X - Losers Eighths: LAGr | Young_matt_teen vs MSHFST | DrunkCarltonBanks",
+      "start": "01:11:52.933",
+      "end": "01:15:58.366",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306102315294940000",
+              "handle": "Young_matt_teen",
+              "prefix": "LAGr",
+              "serviceIds": {
+                "smashgg": "1929417"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202308030050069350000",
+              "handle": "DrunkCarltonBanks",
+              "prefix": "MSHFST",
+              "serviceIds": {
+                "twitter": "TheJonnyClash",
+                "smashgg": "497680"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397868",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "l3",
+            "name": "Losers Round 3",
+            "smashggId": "Losers Round 3"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "X",
+          "displayName": "X - l3: MSHFST | DrunkCarltonBanks vs LAGr | Young_matt_teen",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MSHFST | DrunkCarltonBanks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "497680",
+                  "handle": "DrunkCarltonBanks",
+                  "prefix": "MSHFST",
+                  "serviceIds": {
+                    "twitter": "TheJonnyClash"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LAGr | Young_matt_teen",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1929417",
+                  "handle": "Young_matt_teen",
+                  "prefix": "LAGr",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397871",
+      "displayName": "AA - lq: GoldenCen vs Island | CreakyAxe",
+      "start": "01:18:25.716",
+      "end": "01:25:53.566",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350470000",
+              "handle": "GoldenCen",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "goldencen",
+                "smashgg": "174828"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303190200198970000",
+              "handle": "CreakyAxe",
+              "prefix": "Island",
+              "serviceIds": {
+                "twitter": "FightCreakyAxe",
+                "smashgg": "257820"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397871",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "AA",
+          "displayName": "AA - lq: GoldenCen vs Island | CreakyAxe",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GoldenCen",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "174828",
+                  "handle": "GoldenCen",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Island | CreakyAxe",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "257820",
+                  "handle": "CreakyAxe",
+                  "prefix": "Island",
+                  "serviceIds": {
+                    "twitter": "FightCreakyAxe"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397870",
+      "displayName": "Z - lq: Chris Battle vs LAGr | Young_matt_teen",
+      "start": "01:27:20.000",
+      "end": "01:34:10.333",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202308030019130340000",
+              "handle": "Chris Battle",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2280112"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202306102315294940000",
+              "handle": "Young_matt_teen",
+              "prefix": "LAGr",
+              "serviceIds": {
+                "smashgg": "1929417"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190200198970000",
+              "handle": "CreakyAxe",
+              "prefix": "Island",
+              "serviceIds": {
+                "twitter": "FightCreakyAxe",
+                "smashgg": "257820"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397870",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "Z",
+          "displayName": "Z - lq: Chris Battle vs LAGr | Young_matt_teen",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Chris Battle",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2280112",
+                  "handle": "Chris Battle",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LAGr | Young_matt_teen",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1929417",
+                  "handle": "Young_matt_teen",
+                  "prefix": "LAGr",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397841",
+      "displayName": "N - wf: AuLord vs XenoZero | Wetkunai",
+      "start": "01:35:12.416",
+      "end": "01:40:45.766",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307270125319130000",
+              "handle": "AuLord",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3538808"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "classic"
+          },
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "new age"
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190200198970000",
+              "handle": "CreakyAxe",
+              "prefix": "Island",
+              "serviceIds": {
+                "twitter": "FightCreakyAxe",
+                "smashgg": "257820"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397841",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - wf: AuLord vs XenoZero | Wetkunai",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AuLord",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3538808",
+                  "handle": "AuLord",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "XenoZero | Wetkunai",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "666020",
+                  "handle": "Wetkunai",
+                  "prefix": "XenoZero",
+                  "serviceIds": {
+                    "twitter": "WetKunai"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397872",
+      "displayName": "AB - ls: LAGr | Young_matt_teen vs GoldenCen",
+      "start": "01:41:53.383",
+      "end": "01:45:41.383",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306102315294940000",
+              "handle": "Young_matt_teen",
+              "prefix": "LAGr",
+              "serviceIds": {
+                "smashgg": "1929417"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350470000",
+              "handle": "GoldenCen",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "goldencen",
+                "smashgg": "174828"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190200198970000",
+              "handle": "CreakyAxe",
+              "prefix": "Island",
+              "serviceIds": {
+                "twitter": "FightCreakyAxe",
+                "smashgg": "257820"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397872",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "AB",
+          "displayName": "AB - ls: LAGr | Young_matt_teen vs GoldenCen",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LAGr | Young_matt_teen",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1929417",
+                  "handle": "Young_matt_teen",
+                  "prefix": "LAGr",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GoldenCen",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "174828",
+                  "handle": "GoldenCen",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397873",
+      "displayName": "AC - lf: LAGr | Young_matt_teen vs AuLord",
+      "start": "01:46:09.333",
+      "end": "01:55:54.499",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306102315294940000",
+              "handle": "Young_matt_teen",
+              "prefix": "LAGr",
+              "serviceIds": {
+                "smashgg": "1929417"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307270125319130000",
+              "handle": "AuLord",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3538808"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190200198970000",
+              "handle": "CreakyAxe",
+              "prefix": "Island",
+              "serviceIds": {
+                "twitter": "FightCreakyAxe",
+                "smashgg": "257820"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397873",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "AC",
+          "displayName": "AC - lf: AuLord vs LAGr | Young_matt_teen",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AuLord",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3538808",
+                  "handle": "AuLord",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LAGr | Young_matt_teen",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1929417",
+                  "handle": "Young_matt_teen",
+                  "prefix": "LAGr",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63397842",
+      "displayName": "O - gf: XenoZero | Wetkunai vs AuLord",
+      "start": "01:58:06.899",
+      "end": "02:08:21.000",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307200204254200000",
+              "handle": "Wetkunai",
+              "prefix": "XenoZero",
+              "serviceIds": {
+                "twitter": "WetKunai",
+                "smashgg": "666020"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "yoga pants"
+          },
+          {
+            "person": {
+              "id": "d202307270125319130000",
+              "handle": "AuLord",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3538808"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": "leotard"
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190200198970000",
+              "handle": "CreakyAxe",
+              "prefix": "Island",
+              "serviceIds": {
+                "twitter": "FightCreakyAxe",
+                "smashgg": "257820"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #289",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63397842",
+            "phaseId": "1428441",
+            "phaseGroupId": "2166205"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - gf: XenoZero | Wetkunai vs AuLord",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "XenoZero | Wetkunai",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "666020",
+                  "handle": "Wetkunai",
+                  "prefix": "XenoZero",
+                  "serviceIds": {
+                    "twitter": "WetKunai"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AuLord",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3538808",
+                  "handle": "AuLord",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

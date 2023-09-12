@@ -1,0 +1,103 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2023-09-06 20-13-42.mkv",
+  "phaseId": "unknown",
+  "start": "00:05:48.000",
+  "end": "00:09:49.966",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w2: Cozyphill vs Ne_Scene",
+      "start": "00:05:48.000",
+      "end": "00:09:49.966",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202308310056494620000",
+              "handle": "Cozyphill",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "CozyPhillip_S",
+                "smashgg": "1093274"
+              },
+              "pronouns": "He/him"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202308030012017940000",
+              "handle": "Ne_Scene",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ne_SceneNY",
+                "smashgg": "1722059"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #294",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ]
+      }
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2023-08-30 19-56-15.mkv",
+  "phaseId": "unknown",
+  "start": "00:07:53.966",
+  "end": "00:12:31.599",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: PKjamoo vs GroovyTony",
+      "start": "00:07:53.966",
+      "end": "00:12:31.599",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202308310002529920000",
+              "handle": "PKjamoo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2109433"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202308310002529900000",
+              "handle": "GroovyTony",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "134474"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata",
+                "smashgg": "171392"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #293",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ]
+      }
+    }
+  ]
+}

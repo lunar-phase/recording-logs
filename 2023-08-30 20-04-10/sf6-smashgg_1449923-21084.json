@@ -1,0 +1,173 @@
+{
+  "format": "1",
+  "version": "0.8.0",
+  "file": "..\\2023-08-30 20-04-10.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1449923",
+  "eventId": "972973",
+  "start": "00:27:03.716",
+  "end": "00:49:18.566",
+  "sets": [
+    {
+      "id": "64517599",
+      "displayName": "S - wq: NYCMastermike (NYCMashermike) vs Ne_Scene",
+      "start": "00:27:03.716",
+      "end": "00:49:18.566",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307082211328920000",
+              "handle": "NYCMashermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "alias": "NYCMastermike"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202308310044168260000",
+              "handle": "Ne_Scene",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ne_SceneNY",
+                "smashgg": "1722059"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "64517599",
+            "phaseId": "1449923",
+            "phaseGroupId": "2196543"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - wq: NYCMastermike vs Ne_Scene",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Ne_Scene",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1722059",
+                  "handle": "Ne_Scene",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Ne_SceneNY"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
