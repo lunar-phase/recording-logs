@@ -1,0 +1,502 @@
+{
+  "format": "1",
+  "version": "0.8.0",
+  "file": "..\\2023-07-26 20-51-59.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1421430",
+  "eventId": "951465",
+  "phaseName": "Top 4",
+  "event": {
+    "tournament": {
+      "hashtag": "NLBC"
+    }
+  },
+  "userData": {
+    "notes": "Originally broadcast on https://www.twitch.tv/idom_ny. Uploaded with permission."
+  },
+  "start": "01:12:30",
+  "end": "02:19:39",
+  "sets": [
+    {
+      "id": "63116702",
+      "displayName": "AG - wf: XSET | iDom (Idom) vs Maigo",
+      "start": "01:12:47",
+      "end": "01:22:22.716",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130037101750000",
+              "handle": "Idom",
+              "prefix": "XSET",
+              "serviceIds": {
+                "smashgg": "415385"
+              },
+              "alias": "iDom"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307200218377080000",
+              "handle": "Maigo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MaigoxKagami",
+                "smashgg": "1491389"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63116702",
+            "phaseId": "1421430",
+            "phaseGroupId": "2154404"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "AG",
+          "displayName": "AG - wf: XSET | iDom vs Maigo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "XSET | iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": "XSET",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Maigo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1491389",
+                  "handle": "Maigo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MaigoxKagami"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63116829",
+      "displayName": "BN - ls: Awhile vs Proton | Coach Steve",
+      "start": "01:24:18",
+      "end": "01:33:59.899"
+    },
+    {
+      "id": "63116830",
+      "displayName": "BO - lf: Maigo vs Proton | Coach Steve",
+      "start": "01:35:37",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307200218377080000",
+              "handle": "Maigo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MaigoxKagami",
+                "smashgg": "1491389"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307200112174480000",
+              "handle": "Coach Steve",
+              "prefix": "Proton",
+              "serviceIds": {
+                "twitter": "FightCoachFight",
+                "smashgg": "139852"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63116830",
+            "phaseId": "1421430",
+            "phaseGroupId": "2154404"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "BO",
+          "displayName": "BO - lf: Maigo vs Proton | Coach Steve",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Maigo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1491389",
+                  "handle": "Maigo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MaigoxKagami"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Proton | Coach Steve",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "139852",
+                  "handle": "Coach Steve",
+                  "prefix": "Proton",
+                  "serviceIds": {
+                    "twitter": "FightCoachFight"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "63116703",
+      "displayName": "AH - gf: XSET | iDom (Idom) vs Proton | Coach Steve",
+      "start": "01:51:29",
+      "end": "02:19:39",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130037101750000",
+              "handle": "Idom",
+              "prefix": "XSET",
+              "serviceIds": {
+                "smashgg": "415385"
+              },
+              "alias": "iDom"
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307200112174480000",
+              "handle": "Coach Steve",
+              "prefix": "Proton",
+              "serviceIds": {
+                "twitter": "FightCoachFight",
+                "smashgg": "139852"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "63116703",
+            "phaseId": "1421430",
+            "phaseGroupId": "2154404"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "AH",
+          "displayName": "AH - gf: XSET | iDom vs Proton | Coach Steve",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "XSET | iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": "XSET",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Proton | Coach Steve",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "139852",
+                  "handle": "Coach Steve",
+                  "prefix": "Proton",
+                  "serviceIds": {
+                    "twitter": "FightCoachFight"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
