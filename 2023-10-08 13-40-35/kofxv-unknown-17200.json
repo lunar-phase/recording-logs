@@ -1,0 +1,114 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2023-10-08 13-40-35.mkv",
+  "phaseId": "unknown",
+  "start": "00:34:49.000",
+  "end": "00:49:25.066",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "l1: Kanme | Tao vs Crazy Salvi",
+      "start": "00:34:49.000",
+      "end": "00:49:25.066",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202310041357420600000",
+              "handle": "Tao",
+              "prefix": "Kanme",
+              "serviceIds": {
+                "twitter": "SpiritTaoism",
+                "smashgg": "1263921"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202310041357422140000",
+              "handle": "Crazy Salvi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "CraziSalvi516",
+                "smashgg": "289523"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l1",
+          "name": "Losers Round 1",
+          "smashggId": "Losers Round 1"
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402352760000",
+              "handle": "Cookie",
+              "prefix": "#AlliedStrong",
+              "serviceIds": {
+                "twitter": "cookieFGC",
+                "smashgg": "12120"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2023: Day 2",
+        "event": "KOF XV top 12",
+        "messages": [
+          "KOF XV Top 12 Starts Soon!",
+          null,
+          "_"
+        ]
+      }
+    }
+  ]
+}
