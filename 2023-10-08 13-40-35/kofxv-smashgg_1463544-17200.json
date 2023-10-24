@@ -4,10 +4,115 @@
   "file": "..\\2023-10-08 13-40-35.mkv",
   "bracketService": "smashgg",
   "phaseId": "1463544",
+  "phaseName": "Top 12 to Top 4",
   "eventId": "779565",
-  "start": "00:52:00.000",
-  "end": "05:11:17.665",
+  "start": "00:31:15",
+  "end": "03:03:57.832",
   "sets": [
+    {
+      "id": "66156573",
+      "displayName": "F - l1: Kanme | Tao vs Crazy Salvi",
+      "start": "00:34:49.000",
+      "end": "00:49:25.066",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202310041357420600000",
+              "handle": "Tao",
+              "prefix": "Kanme",
+              "serviceIds": {
+                "twitter": "SpiritTaoism",
+                "smashgg": "1263921"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202310041357422140000",
+              "handle": "Crazy Salvi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "CraziSalvi516",
+                "smashgg": "289523"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l1",
+          "name": "Losers Round 1",
+          "smashggId": "Losers Round 1"
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402352760000",
+              "handle": "Cookie",
+              "prefix": "#AlliedStrong",
+              "serviceIds": {
+                "twitter": "cookieFGC",
+                "smashgg": "12120"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2023: Day 2",
+        "event": "KOF XV top 12",
+        "messages": [
+          "KOF XV Top 12 Starts Soon!",
+          null,
+          "_"
+        ]
+      }
+    },
     {
       "id": "66156574",
       "displayName": "G - l1: KPB | Animonk vs TxC | Kiyardo",
@@ -1615,721 +1720,6 @@
                 }
               ],
               "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "66156550",
-      "displayName": "C - wf: GoH TN | Yurikov vs CoreValues",
-      "start": "03:25:52.032",
-      "end": "03:51:40.999",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202310041357421520000",
-              "handle": "Yurikov",
-              "prefix": "GoH TN",
-              "serviceIds": {
-                "twitter": "EcYurikov",
-                "smashgg": "246112"
-              },
-              "pronouns": "He/Him"
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202310041357420910000",
-              "handle": "CoreValues",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "Sol3Chris",
-                "smashgg": "934852"
-              }
-            },
-            "score": 3,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "wf",
-          "name": "Winners Finals",
-          "smashggId": "Winners Final"
-        },
-        "game": {
-          "id": "kofxv",
-          "name": "The King of Fighters XV",
-          "shortNames": [
-            "King of Fighters XV",
-            "KOF XV"
-          ],
-          "hashtags": [
-            "KOFXV",
-            "KOF"
-          ],
-          "additionalTags": [
-            "King of Fighters XV",
-            "King of Fighters 15",
-            "King of Fighters",
-            "KOF15"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "The King of Fighters XV"
-            },
-            "smashgg": {
-              "id": "36963"
-            },
-            "challonge": {
-              "id": "252493"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202310041354211620000",
-              "handle": "Frelissimo!",
-              "prefix": "KPBxBLITZ",
-              "serviceIds": {
-                "twitter": "frelissimo"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402349920001",
-              "handle": "Aroo",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "aroolee",
-                "smashgg": "372499"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunar Bout 2023: Day 2",
-        "event": "KOF XV top 4",
-        "messages": [
-          "KOF XV Top 4 starting soon!",
-          null,
-          "Shill Matcherino then ECT after this set"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "66156550",
-            "phaseId": "1463544",
-            "phaseGroupId": "2214522"
-          },
-          "match": {
-            "id": "wf",
-            "name": "Winners Finals",
-            "smashggId": "Winners Final"
-          },
-          "videogame": {
-            "id": "kofxv",
-            "name": "The King of Fighters XV",
-            "shortNames": [
-              "King of Fighters XV",
-              "KOF XV"
-            ],
-            "hashtags": [
-              "KOFXV",
-              "KOF"
-            ],
-            "additionalTags": [
-              "King of Fighters XV",
-              "King of Fighters 15",
-              "King of Fighters",
-              "KOF15"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "The King of Fighters XV"
-              },
-              "smashgg": {
-                "id": "36963"
-              },
-              "challonge": {
-                "id": "252493"
-              }
-            }
-          },
-          "shortIdentifier": "C",
-          "displayName": "C - wf: CoreValues vs GoH TN | Yurikov",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "CoreValues",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "934852",
-                  "handle": "CoreValues",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "Sol3Chris"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "GoH TN | Yurikov",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "246112",
-                  "handle": "Yurikov",
-                  "prefix": "GoH TN",
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "EcYurikov"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "66156581",
-      "displayName": "N - ls: TxC | Kiyardo vs dinotail",
-      "start": "03:56:03.216",
-      "end": "04:09:39.066",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202310041357420320000",
-              "handle": "Kiyardo",
-              "prefix": "TxC",
-              "serviceIds": {
-                "smashgg": "216477"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202310041357419820000",
-              "handle": "dinotail",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "DIEnoTALE",
-                "smashgg": "211856"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "ls",
-          "name": "Losers Semis",
-          "smashggId": "Losers Semi-Final"
-        },
-        "game": {
-          "id": "kofxv",
-          "name": "The King of Fighters XV",
-          "shortNames": [
-            "King of Fighters XV",
-            "KOF XV"
-          ],
-          "hashtags": [
-            "KOFXV",
-            "KOF"
-          ],
-          "additionalTags": [
-            "King of Fighters XV",
-            "King of Fighters 15",
-            "King of Fighters",
-            "KOF15"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "The King of Fighters XV"
-            },
-            "smashgg": {
-              "id": "36963"
-            },
-            "challonge": {
-              "id": "252493"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202310041354211620000",
-              "handle": "Frelissimo!",
-              "prefix": "KPBxBLITZ",
-              "serviceIds": {
-                "twitter": "frelissimo"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402349920001",
-              "handle": "Aroo",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "aroolee",
-                "smashgg": "372499"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunar Bout 2023: Day 2",
-        "event": "KOF XV top 4",
-        "messages": [
-          "KOF XV Top 4 starting soon!",
-          null,
-          "After this set, shill Matcherino again"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "66156581",
-            "phaseId": "1463544",
-            "phaseGroupId": "2214522"
-          },
-          "match": {
-            "id": "ls",
-            "name": "Losers Semis",
-            "smashggId": "Losers Semi-Final"
-          },
-          "videogame": {
-            "id": "kofxv",
-            "name": "The King of Fighters XV",
-            "shortNames": [
-              "King of Fighters XV",
-              "KOF XV"
-            ],
-            "hashtags": [
-              "KOFXV",
-              "KOF"
-            ],
-            "additionalTags": [
-              "King of Fighters XV",
-              "King of Fighters 15",
-              "King of Fighters",
-              "KOF15"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "The King of Fighters XV"
-              },
-              "smashgg": {
-                "id": "36963"
-              },
-              "challonge": {
-                "id": "252493"
-              }
-            }
-          },
-          "shortIdentifier": "N",
-          "displayName": "N - ls: TxC | Kiyardo vs dinotail",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "TxC | Kiyardo",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "216477",
-                  "handle": "Kiyardo",
-                  "prefix": "TxC",
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "dinotail",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "211856",
-                  "handle": "dinotail",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "DIEnoTALE"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "66156582",
-      "displayName": "O - lf: TxC | Kiyardo vs GoH TN | Yurikov",
-      "start": "04:12:11.682",
-      "end": "04:34:48.249",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202310041357420320000",
-              "handle": "Kiyardo",
-              "prefix": "TxC",
-              "serviceIds": {
-                "smashgg": "216477"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202310041357421520000",
-              "handle": "Yurikov",
-              "prefix": "GoH TN",
-              "serviceIds": {
-                "twitter": "EcYurikov",
-                "smashgg": "246112"
-              },
-              "pronouns": "He/Him"
-            },
-            "score": 3,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "lf",
-          "name": "Losers Finals",
-          "smashggId": "Losers Final"
-        },
-        "game": {
-          "id": "kofxv",
-          "name": "The King of Fighters XV",
-          "shortNames": [
-            "King of Fighters XV",
-            "KOF XV"
-          ],
-          "hashtags": [
-            "KOFXV",
-            "KOF"
-          ],
-          "additionalTags": [
-            "King of Fighters XV",
-            "King of Fighters 15",
-            "King of Fighters",
-            "KOF15"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "The King of Fighters XV"
-            },
-            "smashgg": {
-              "id": "36963"
-            },
-            "challonge": {
-              "id": "252493"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202310041354211620000",
-              "handle": "Frelissimo!",
-              "prefix": "KPBxBLITZ",
-              "serviceIds": {
-                "twitter": "frelissimo"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402349920001",
-              "handle": "Aroo",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "aroolee",
-                "smashgg": "372499"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunar Bout 2023: Day 2",
-        "event": "KOF XV top 4",
-        "messages": [
-          "KOF XV Top 4 starting soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "66156582",
-            "phaseId": "1463544",
-            "phaseGroupId": "2214522"
-          },
-          "match": {
-            "id": "lf",
-            "name": "Losers Finals",
-            "smashggId": "Losers Final"
-          },
-          "videogame": {
-            "id": "kofxv",
-            "name": "The King of Fighters XV",
-            "shortNames": [
-              "King of Fighters XV",
-              "KOF XV"
-            ],
-            "hashtags": [
-              "KOFXV",
-              "KOF"
-            ],
-            "additionalTags": [
-              "King of Fighters XV",
-              "King of Fighters 15",
-              "King of Fighters",
-              "KOF15"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "The King of Fighters XV"
-              },
-              "smashgg": {
-                "id": "36963"
-              },
-              "challonge": {
-                "id": "252493"
-              }
-            }
-          },
-          "shortIdentifier": "O",
-          "displayName": "O - lf: GoH TN | Yurikov vs TxC | Kiyardo",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "GoH TN | Yurikov",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "246112",
-                  "handle": "Yurikov",
-                  "prefix": "GoH TN",
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "EcYurikov"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "TxC | Kiyardo",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "216477",
-                  "handle": "Kiyardo",
-                  "prefix": "TxC",
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "66156551",
-      "displayName": "D - gf: GoH TN | Yurikov vs CoreValues",
-      "start": "04:39:43.132",
-      "end": "05:11:17.665",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202310041357421520000",
-              "handle": "Yurikov",
-              "prefix": "GoH TN",
-              "serviceIds": {
-                "twitter": "EcYurikov",
-                "smashgg": "246112"
-              },
-              "pronouns": "He/Him"
-            },
-            "score": 0,
-            "inLosers": true,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202310041357420910000",
-              "handle": "CoreValues",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "Sol3Chris",
-                "smashgg": "934852"
-              }
-            },
-            "score": 3,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
-        },
-        "game": {
-          "id": "kofxv",
-          "name": "The King of Fighters XV",
-          "shortNames": [
-            "King of Fighters XV",
-            "KOF XV"
-          ],
-          "hashtags": [
-            "KOFXV",
-            "KOF"
-          ],
-          "additionalTags": [
-            "King of Fighters XV",
-            "King of Fighters 15",
-            "King of Fighters",
-            "KOF15"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "The King of Fighters XV"
-            },
-            "smashgg": {
-              "id": "36963"
-            },
-            "challonge": {
-              "id": "252493"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402352760000",
-              "handle": "Cookie",
-              "prefix": "#AlliedStrong",
-              "serviceIds": {
-                "twitter": "cookieFGC",
-                "smashgg": "12120"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402349920001",
-              "handle": "Aroo",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "aroolee",
-                "smashgg": "372499"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunar Bout 2023: Day 2",
-        "event": "Core Values Wins KOFXV!",
-        "messages": [
-          null,
-          null,
-          "That's it for the night!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "66156551",
-            "phaseId": "1463544",
-            "phaseGroupId": "2214522"
-          },
-          "match": {
-            "id": "gf",
-            "name": "Grand Finals",
-            "smashggId": "Grand Final"
-          },
-          "videogame": {
-            "id": "kofxv",
-            "name": "The King of Fighters XV",
-            "shortNames": [
-              "King of Fighters XV",
-              "KOF XV"
-            ],
-            "hashtags": [
-              "KOFXV",
-              "KOF"
-            ],
-            "additionalTags": [
-              "King of Fighters XV",
-              "King of Fighters 15",
-              "King of Fighters",
-              "KOF15"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "The King of Fighters XV"
-              },
-              "smashgg": {
-                "id": "36963"
-              },
-              "challonge": {
-                "id": "252493"
-              }
-            }
-          },
-          "shortIdentifier": "D",
-          "displayName": "D - gf: CoreValues vs GoH TN | Yurikov",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "CoreValues",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "934852",
-                  "handle": "CoreValues",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "Sol3Chris"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "GoH TN | Yurikov",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "246112",
-                  "handle": "Yurikov",
-                  "prefix": "GoH TN",
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "EcYurikov"
-                  }
-                }
-              ],
-              "inLosers": true
             }
           ]
         }

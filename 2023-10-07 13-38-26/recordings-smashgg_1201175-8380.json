@@ -5,9 +5,105 @@
   "bracketService": "smashgg",
   "phaseId": "1201175",
   "eventId": "779570",
-  "start": "07:07:19.000",
-  "end": "09:14:31.882",
+  "title": "Lunar Bout 2023: Mystery Game Tournament",
+  "additionalTags": [
+    "Ragnagard ",
+    "Money Puzzle Exchanger",
+    "League Bowling",
+    "Samurai Showdown Warrior's Rage",
+    "Matrimelee",
+    "Kizuna Encounter",
+    "Aggressors of Dark Kombat",
+    "Super Dodgeball",
+    "Fatal Fury Wild Ambition",
+    "Street Hoop"
+  ],
+  "excludedTags": [
+    "me rinorekyxiaokofsnksmssvc",
+    "rinorekyxiaokofsnksmssvc",
+    "Lunar Bout 2023 Mystery Game"
+  ],
+  "start": "06:47:26",
+  "end": "09:14:33",
   "sets": [
+    {
+      "id": "66133095",
+      "displayName": "B - w1: KPB | Deezee Kujaku vs A5",
+      "start": "06:56:04.882",
+      "end": "07:04:41.615",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202310041357420560000",
+              "handle": "Deezee Kujaku",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "Deezee_Kujaku",
+                "smashgg": "159971"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202310041357420800000",
+              "handle": "A5",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "A5PLUR",
+                "smashgg": "1024331"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Winners Round 1 - Ragnagard",
+          "smashggId": null
+        },
+        "game": {
+          "id": "",
+          "name": "Mystery Game",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202310041354211620000",
+              "handle": "Frelissimo!",
+              "prefix": "KPBxBLITZ",
+              "serviceIds": {
+                "twitter": "frelissimo"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "TNS",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunar Bout 2023: Day 1",
+        "event": "Ragnagard",
+        "messages": [
+          "Mystery Game Tournament starting soon"
+        ]
+      }
+    },
     {
       "id": "66133094",
       "displayName": "A - w1: McMoney vs DCB | LATEENX",
@@ -43,9 +139,9 @@
           }
         ],
         "match": {
-          "id": "w1",
-          "name": "Winners Round 1",
-          "smashggId": "Winners Round 1"
+          "id": "",
+          "name": "Winners Round 1 - Ragnagard",
+          "smashggId": null
         },
         "game": {
           "id": "",
@@ -69,7 +165,7 @@
             "person": {
               "id": "d202008220402351080001",
               "handle": "Rome_Himself",
-              "prefix": null,
+              "prefix": "TNS",
               "serviceIds": {
                 "twitter": "Romulus_Himself",
                 "smashgg": "147893"
@@ -178,9 +274,9 @@
           }
         ],
         "match": {
-          "id": "wq",
-          "name": "Winners Quarters",
-          "smashggId": "Winners Quarter-Final"
+          "id": "",
+          "name": "Winners Quarter-Final - Money Puzzle Exchanger",
+          "smashggId": null
         },
         "game": {
           "id": "",
@@ -204,7 +300,7 @@
             "person": {
               "id": "d202008220402351080001",
               "handle": "Rome_Himself",
-              "prefix": null,
+              "prefix": "TNS",
               "serviceIds": {
                 "twitter": "Romulus_Himself",
                 "smashgg": "147893"
@@ -316,9 +412,9 @@
           }
         ],
         "match": {
-          "id": "ws",
-          "name": "Winners Semis",
-          "smashggId": "Winners Semi-Final"
+          "id": "",
+          "name": "Winners Semi-Final - Samurai Showdown: Warrior's Rage",
+          "smashggId": null
         },
         "game": {
           "id": "",
@@ -342,7 +438,7 @@
             "person": {
               "id": "d202008220402351080001",
               "handle": "Rome_Himself",
-              "prefix": null,
+              "prefix": "TNS",
               "serviceIds": {
                 "twitter": "Romulus_Himself",
                 "smashgg": "147893"
@@ -451,9 +547,9 @@
           }
         ],
         "match": {
-          "id": "ws",
-          "name": "Winners Semis",
-          "smashggId": "Winners Semi-Final"
+          "id": "",
+          "name": "Winners Semi-Final - Samurai Showdown: Warrior's Rage",
+          "smashggId": null
         },
         "game": {
           "id": "",
@@ -589,9 +685,9 @@
           }
         ],
         "match": {
-          "id": "l2",
-          "name": "Losers Round 2",
-          "smashggId": "Losers Round 2"
+          "id": "",
+          "name": "Losers Round 2 - League Bowling",
+          "smashggId": null
         },
         "game": {
           "id": "",
@@ -725,9 +821,9 @@
           }
         ],
         "match": {
-          "id": "l3",
-          "name": "Losers Round 3",
-          "smashggId": "Losers Round 3"
+          "id": "",
+          "name": "Losers Round 3 - Matrimelee",
+          "smashggId": null
         },
         "game": {
           "id": "",
@@ -832,7 +928,7 @@
             "person": {
               "id": "d202310041357419940000",
               "handle": "Regular Sized Majin",
-              "prefix": "PAG",
+              "prefix": "NYC | PAG",
               "serviceIds": {
                 "twitter": "Hi_Im_Majin",
                 "smashgg": "897929"
@@ -858,9 +954,9 @@
           }
         ],
         "match": {
-          "id": "lq",
-          "name": "Losers Quarters",
-          "smashggId": "Losers Quarter-Final"
+          "id": "",
+          "name": "Losers Quarter-Final - Aggressors of Dark Kombat",
+          "smashggId": null
         },
         "game": {
           "id": "",
@@ -994,9 +1090,9 @@
           }
         ],
         "match": {
-          "id": "wf",
-          "name": "Winners Finals",
-          "smashggId": "Winners Final"
+          "id": "",
+          "name": "Winners Final - Kizuna Encounter",
+          "smashggId": null
         },
         "game": {
           "id": "",
@@ -1103,7 +1199,7 @@
             "person": {
               "id": "d202310041357419940000",
               "handle": "Regular Sized Majin",
-              "prefix": "PAG",
+              "prefix": "NYC | PAG",
               "serviceIds": {
                 "twitter": "Hi_Im_Majin",
                 "smashgg": "897929"
@@ -1129,9 +1225,9 @@
           }
         ],
         "match": {
-          "id": "ls",
-          "name": "Losers Semis",
-          "smashggId": "Losers Semi-Final"
+          "id": "",
+          "name": "Losers Semi-Final - Super Dodgeball",
+          "smashggId": null
         },
         "game": {
           "id": "",
@@ -1238,7 +1334,7 @@
             "person": {
               "id": "d202310041357419940000",
               "handle": "Regular Sized Majin",
-              "prefix": "PAG",
+              "prefix": "NYC | PAG",
               "serviceIds": {
                 "twitter": "Hi_Im_Majin",
                 "smashgg": "897929"
@@ -1263,9 +1359,9 @@
           }
         ],
         "match": {
-          "id": "lf",
-          "name": "Losers Finals",
-          "smashggId": "Losers Final"
+          "id": "",
+          "name": "Losers Final - Fatal Fury: Wild Ambition",
+          "smashggId": null
         },
         "game": {
           "id": "",
@@ -1400,9 +1496,9 @@
           }
         ],
         "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
+          "id": "",
+          "name": "Grand Final - Street Hoop",
+          "smashggId": null
         },
         "game": {
           "id": "",
