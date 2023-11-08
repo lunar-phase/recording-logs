@@ -5,9 +5,107 @@
   "bracketService": "smashgg",
   "phaseId": "1452905",
   "eventId": "975348",
-  "start": "00:11:29.849",
+  "event": {
+    "tournament": {
+      "hashtag": "NLBC"
+    }
+  },
+  "start": "00:05:22",
   "end": "02:38:21.732",
   "sets": [
+    {
+      "id": "64792146",
+      "displayName": "w2: Cozyphill vs Ne_Scene",
+      "start": "00:05:48.000",
+      "end": "00:09:49.966",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202308310056494620000",
+              "handle": "Cozyphill",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "CozyPhillip_S",
+                "smashgg": "1093274"
+              },
+              "pronouns": "He/him"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202308030012017940000",
+              "handle": "Ne_Scene",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Ne_SceneNY",
+                "smashgg": "1722059"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit #294",
+        "event": "",
+        "messages": [
+          "NLBC Starting Soon"
+        ]
+      }
+    },
     {
       "id": "64792142",
       "displayName": "E - w1: enigmatt (Engimatt) vs Dex",
@@ -170,7 +268,7 @@
     {
       "id": "64792145",
       "displayName": "G - w2: XSET | iDom vs PKjamoo",
-      "start": "00:18:59.000",
+      "start": "00:19:00",
       "end": "00:23:00.816",
       "state": {
         "players": [
