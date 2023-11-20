@@ -5,11 +5,16 @@
   "bracketService": "smashgg",
   "phaseId": "1463766",
   "eventId": "984219",
-  "start": "00:40:07.466",
+  "event": {
+    "tournament": {
+      "hashtag": "NLBC"
+    }
+  },
+  "start": "00:38:22",
   "end": "03:35:46.482",
   "sets": [
     {
-      "id": "preview_2214846_1_1",
+      "id": "65073757",
       "displayName": "A - w1: AL Pigone (ScumYouf) vs GrowlingRook",
       "start": "00:40:07.466",
       "end": "00:43:39.599",
@@ -328,165 +333,10 @@
       }
     },
     {
-      "id": "65073774",
-      "displayName": "L - w2: PKjamoo vs Optimus",
+      "id": "65073776",
+      "displayName": "N - w2: LeonTrotsky vs Lexx",
       "start": "00:50:24.000",
-      "end": "00:54:38.783",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202308310002529920000",
-              "handle": "PKjamoo",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "2109433"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202306150035240290000",
-              "handle": "Optimus",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "2306498",
-                "twitter": "OptimusFGC"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "w2",
-          "name": "Winners Round 2",
-          "smashggId": "Winners Round 2"
-        },
-        "game": {
-          "id": "sf6",
-          "name": "Street Fighter 6",
-          "shortNames": [
-            "SF6"
-          ],
-          "hashtags": [
-            "SF6"
-          ],
-          "additionalTags": [
-            "Street Fighter"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Street Fighter 6"
-            },
-            "smashgg": {
-              "id": "43868"
-            },
-            "challonge": {
-              "id": "293490"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350750002",
-              "handle": "Liston",
-              "prefix": "TSB",
-              "serviceIds": {
-                "twitter": "ListonthePrince"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202307200205047240000",
-              "handle": "Bunch",
-              "prefix": "Casa",
-              "serviceIds": {
-                "twitter": "BunchCasa"
-              }
-            }
-          }
-        ],
-        "tournament": "",
-        "event": "",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "65073774",
-            "phaseId": "1463766",
-            "phaseGroupId": "2214846"
-          },
-          "match": {
-            "id": "w2",
-            "name": "Winners Round 2",
-            "smashggId": "Winners Round 2"
-          },
-          "videogame": {
-            "id": "sf6",
-            "name": "Street Fighter 6",
-            "shortNames": [
-              "SF6"
-            ],
-            "hashtags": [
-              "SF6"
-            ],
-            "additionalTags": [
-              "Street Fighter"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Street Fighter 6"
-              },
-              "smashgg": {
-                "id": "43868"
-              },
-              "challonge": {
-                "id": "293490"
-              }
-            }
-          },
-          "shortIdentifier": "L",
-          "displayName": "L - w2: PKjamoo vs Optimus",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "PKjamoo",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "2109433",
-                  "handle": "PKjamoo",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Optimus",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "2306498",
-                  "handle": "Optimus",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "OptimusFGC"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "end": "00:54:38.783"
     },
     {
       "id": "65073774",
@@ -823,8 +673,7 @@
               "serviceIds": {
                 "twitter": "NYCMastermike",
                 "smashgg": "147466"
-              },
-              "alias": "MuscleMommyMike"
+              }
             },
             "score": 1,
             "inLosers": false,
@@ -1630,8 +1479,7 @@
               "serviceIds": {
                 "twitter": "NYCMastermike",
                 "smashgg": "147466"
-              },
-              "alias": "MuscleMommyMike"
+              }
             },
             "score": 2,
             "inLosers": false,
@@ -2114,8 +1962,7 @@
               "serviceIds": {
                 "twitter": "NYCMastermike",
                 "smashgg": "147466"
-              },
-              "alias": "MuscleMommyMike"
+              }
             },
             "score": 2,
             "inLosers": false,
@@ -2929,8 +2776,7 @@
               "serviceIds": {
                 "twitter": "NYCMastermike",
                 "smashgg": "147466"
-              },
-              "alias": "MuscleMommyMike"
+              }
             },
             "score": 0,
             "inLosers": false,
@@ -3265,8 +3111,7 @@
               "serviceIds": {
                 "twitter": "NYCMastermike",
                 "smashgg": "147466"
-              },
-              "alias": "MuscleMommyMike"
+              }
             },
             "score": 3,
             "inLosers": false,
@@ -3427,8 +3272,7 @@
               "serviceIds": {
                 "twitter": "NYCMastermike",
                 "smashgg": "147466"
-              },
-              "alias": "MuscleMommyMike"
+              }
             },
             "score": 0,
             "inLosers": true,
