@@ -1,0 +1,104 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2023-11-15 20-00-16.mkv",
+  "phaseId": "unknown",
+  "start": "00:22:09.866",
+  "end": "00:28:59.799",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w2: MSHFST | DrunkCarltonBanks vs NYCMastermike",
+      "start": "00:22:09.866",
+      "end": "00:28:59.799",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202308030050069350000",
+              "handle": "DrunkCarltonBanks",
+              "prefix": "MSHFST",
+              "serviceIds": {
+                "twitter": "TheJonnyClash",
+                "smashgg": "497680"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata",
+                "smashgg": "171392"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 304",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
