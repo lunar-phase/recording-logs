@@ -1,0 +1,68 @@
+[2023-12-16T20:57:10.697] [INFO] default - Loaded config: {
+  "clipDirectory": "C:\\Users\\Stream\\nycfb\\Recording\\Clips",
+  "credentialsFile": "C:\\Users\\Stream\\nycfb\\detocs-credentials.json",
+  "databaseDirectory": "C:\\Users\\Stream\\nycfb",
+  "ffmpeg": {
+    "transcodeVideoInputArgs": [
+      "-vsync",
+      "0",
+      "-hwaccel",
+      "cuda"
+    ],
+    "transcodeVideoOutputArgs": [
+      "-codec:v",
+      "h264_nvenc",
+      "-profile:v",
+      "high",
+      "-preset",
+      "slow",
+      "-tune",
+      "hq",
+      "-rc",
+      "constqp",
+      "-qp",
+      "23",
+      "-bf",
+      "2",
+      "-b_ref_mode",
+      "middle",
+      "-g",
+      "60",
+      "-temporal-aq",
+      "1",
+      "-rc-lookahead",
+      "20"
+    ]
+  },
+  "gameDatabaseFile": "C:\\Users\\Stream\\nycfb\\game-database\\detocs.json",
+  "logDirectory": "C:\\Users\\Stream\\nycfb\\Detocs-Logs",
+  "obs": {
+    "address": "localhost:4444",
+    "binPath": "C:\\Users\\Stream\\nycfb\\OBS-Studio\\bin\\64bit",
+    "webSocketVersion": 4
+  },
+  "outputs": [
+    {
+      "port": 58341,
+      "templates": [
+        "C:\\Users\\Stream\\nycfb\\detocs-templates\\output\\lp-scoreboard-assistant\\scoreboard.json.hbs",
+        "C:\\Users\\Stream\\nycfb\\detocs-templates\\output\\lp-scoreboard-assistant\\commentary.json.hbs",
+        "C:\\Users\\Stream\\nycfb\\detocs-templates\\output\\lp-scoreboard-assistant\\break.json.hbs"
+      ],
+      "type": "websocket"
+    }
+  ],
+  "peopleDatabaseFile": "C:\\Users\\Stream\\nycfb\\Detocs-Database\\people.json",
+  "ports": {
+    "web": 8080
+  },
+  "tempFileExpirationDays": 5,
+  "vodPerSetTemplate": "C:\\Users\\Stream\\nycfb\\detocs-templates\\vod\\per-set.hbs",
+  "vodSingleVideoTemplate": "C:\\Users\\Stream\\nycfb\\detocs-templates\\vod\\single-video.hbs"
+}
+[2023-12-16T20:57:10.704] [INFO] people - Loading person database from C:\Users\Stream\nycfb\Detocs-Database\people.json.
+  format: 2
+  version: 0.9.0
+  person count: 1111
+[2023-12-16T20:57:10.707] [INFO] services/twitter - Already logged in
+[2023-12-16T20:57:10.850] [INFO] server - DETOCS server initializing...

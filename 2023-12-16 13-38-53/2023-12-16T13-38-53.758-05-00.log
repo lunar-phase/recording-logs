@@ -1,0 +1,414 @@
+[2023-12-16T13:38:53.764] [INFO] default - Loaded config: {
+  "clipDirectory": "C:\\Users\\Stream\\nycfb\\Recording\\Clips",
+  "credentialsFile": "C:\\Users\\Stream\\nycfb\\detocs-credentials.json",
+  "databaseDirectory": "C:\\Users\\Stream\\nycfb",
+  "ffmpeg": {
+    "transcodeVideoInputArgs": [
+      "-vsync",
+      "0",
+      "-hwaccel",
+      "cuda"
+    ],
+    "transcodeVideoOutputArgs": [
+      "-codec:v",
+      "h264_nvenc",
+      "-profile:v",
+      "high",
+      "-preset",
+      "slow",
+      "-tune",
+      "hq",
+      "-rc",
+      "constqp",
+      "-qp",
+      "23",
+      "-bf",
+      "2",
+      "-b_ref_mode",
+      "middle",
+      "-g",
+      "60",
+      "-temporal-aq",
+      "1",
+      "-rc-lookahead",
+      "20"
+    ]
+  },
+  "gameDatabaseFile": "C:\\Users\\Stream\\nycfb\\game-database\\detocs.json",
+  "logDirectory": "C:\\Users\\Stream\\nycfb\\Detocs-Logs",
+  "obs": {
+    "address": "localhost:4444",
+    "binPath": "C:\\Users\\Stream\\nycfb\\OBS-Studio\\bin\\64bit",
+    "webSocketVersion": 4
+  },
+  "outputs": [
+    {
+      "port": 58341,
+      "templates": [
+        "C:\\Users\\Stream\\nycfb\\detocs-templates\\output\\lp-scoreboard-assistant\\scoreboard.json.hbs",
+        "C:\\Users\\Stream\\nycfb\\detocs-templates\\output\\lp-scoreboard-assistant\\commentary.json.hbs",
+        "C:\\Users\\Stream\\nycfb\\detocs-templates\\output\\lp-scoreboard-assistant\\break.json.hbs"
+      ],
+      "type": "websocket"
+    }
+  ],
+  "peopleDatabaseFile": "C:\\Users\\Stream\\nycfb\\Detocs-Database\\people.json",
+  "ports": {
+    "web": 8080
+  },
+  "tempFileExpirationDays": 5,
+  "vodPerSetTemplate": "C:\\Users\\Stream\\nycfb\\detocs-templates\\vod\\per-set.hbs",
+  "vodSingleVideoTemplate": "C:\\Users\\Stream\\nycfb\\detocs-templates\\vod\\single-video.hbs"
+}
+[2023-12-16T13:38:53.772] [INFO] people - Loading person database from C:\Users\Stream\nycfb\Detocs-Database\people.json.
+  format: 2
+  version: 0.9.0
+  person count: 1102
+[2023-12-16T13:38:53.774] [INFO] services/twitter - Already logged in
+[2023-12-16T13:38:53.809] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-00-48.233_135.png
+[2023-12-16T13:38:53.809] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-09-17.399_135.png
+[2023-12-16T13:38:53.810] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-10-29.883_135.png
+[2023-12-16T13:38:53.810] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-16-31.466_135.png
+[2023-12-16T13:38:53.811] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-19-25.933_135.png
+[2023-12-16T13:38:53.811] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-25-51.366_135.png
+[2023-12-16T13:38:53.812] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-29-07.883_135.png
+[2023-12-16T13:38:53.812] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-34-51.799_135.png
+[2023-12-16T13:38:53.812] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-38-41.049_135.png
+[2023-12-16T13:38:53.813] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-49-30.849_135.png
+[2023-12-16T13:38:53.813] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-42-49.233_135.png
+[2023-12-16T13:38:53.814] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-44-39.033_135.png
+[2023-12-16T13:38:53.814] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-58-56.099_135.png
+[2023-12-16T13:38:53.814] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-51-39.599_135.png
+[2023-12-16T13:38:53.815] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\00-57-50.499_135.png
+[2023-12-16T13:38:53.815] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-07-08.449_135.png
+[2023-12-16T13:38:53.815] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-05-12.716_135.png
+[2023-12-16T13:38:53.816] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-15-27.833_135.png
+[2023-12-16T13:38:53.816] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-22-47.116_135.png
+[2023-12-16T13:38:53.817] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-29-05.533_135.png
+[2023-12-16T13:38:53.817] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-27-26.616_135.png
+[2023-12-16T13:38:53.817] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-33-37.583_135.png
+[2023-12-16T13:38:53.818] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-39-35.599_135.png
+[2023-12-16T13:38:53.818] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-34-48.433_135.png
+[2023-12-16T13:38:53.818] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-42-04.516_135.png
+[2023-12-16T13:38:53.819] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-50-44.366_135.png
+[2023-12-16T13:38:53.819] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-48-59.249_135.png
+[2023-12-16T13:38:53.820] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\01-54-45.316_135.png
+[2023-12-16T13:38:53.820] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\02-36-19.449_135.png
+[2023-12-16T13:38:53.821] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\02-39-25.666_135.png
+[2023-12-16T13:38:53.821] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\02-48-01.532_135.png
+[2023-12-16T13:38:53.821] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\02-40-54.516_135.png
+[2023-12-16T13:38:53.822] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\02-45-40.316_135.png
+[2023-12-16T13:38:53.822] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\02-51-37.516_135.png
+[2023-12-16T13:38:53.822] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-01-12.832_135.png
+[2023-12-16T13:38:53.823] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\02-56-11.049_135.png
+[2023-12-16T13:38:53.823] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-07-53.882_135.png
+[2023-12-16T13:38:53.824] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-02-47.466_135.png
+[2023-12-16T13:38:53.824] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-09-22.399_135.png
+[2023-12-16T13:38:53.824] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-13-40.899_135.png
+[2023-12-16T13:38:53.825] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-16-54.082_135.png
+[2023-12-16T13:38:53.825] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-20-08.999_135.png
+[2023-12-16T13:38:53.825] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-21-51.782_135.png
+[2023-12-16T13:38:53.826] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-27-15.266_135.png
+[2023-12-16T13:38:53.826] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-31-12.582_135.png
+[2023-12-16T13:38:53.826] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-35-37.182_135.png
+[2023-12-16T13:38:53.827] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-42-54.449_135.png
+[2023-12-16T13:38:53.827] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-50-17.466_135.png
+[2023-12-16T13:38:53.828] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-59-44.682_135.png
+[2023-12-16T13:38:53.829] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-01-49.282_135.png
+[2023-12-16T13:38:53.829] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\03-54-02.066_135.png
+[2023-12-16T13:38:53.830] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-21-24.499_135.png
+[2023-12-16T13:38:53.830] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-17-06.366_135.png
+[2023-12-16T13:38:53.830] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-10-18.199_135.png
+[2023-12-16T13:38:53.831] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-25-01.166_135.png
+[2023-12-16T13:38:53.831] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-25-01.599_135.png
+[2023-12-16T13:38:53.831] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-31-47.849_135.png
+[2023-12-16T13:38:53.832] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-33-41.132_135.png
+[2023-12-16T13:38:53.832] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-42-40.432_135.png
+[2023-12-16T13:38:53.833] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-40-26.865_135.png
+[2023-12-16T13:38:53.833] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-53-40.865_135.png
+[2023-12-16T13:38:53.833] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\04-52-39.815_135.png
+[2023-12-16T13:38:53.834] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\05-17-37.399_135.png
+[2023-12-16T13:38:53.834] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-16-39.mp4
+[2023-12-16T13:38:53.834] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-16-39_waveform.png
+[2023-12-16T13:38:53.835] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-16-39_thumbnail_135.png
+[2023-12-16T13:38:53.835] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-25-08.mp4
+[2023-12-16T13:38:53.835] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-25-08_waveform.png
+[2023-12-16T13:38:53.836] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-25-08_thumbnail_135.png
+[2023-12-16T13:38:53.836] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-26-20.mp4
+[2023-12-16T13:38:53.836] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-26-20_thumbnail_135.png
+[2023-12-16T13:38:53.837] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-26-20_waveform.png
+[2023-12-16T13:38:53.837] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-32-22_thumbnail_135.png
+[2023-12-16T13:38:53.837] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-32-22_waveform.png
+[2023-12-16T13:38:53.838] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-32-22.mp4
+[2023-12-16T13:38:53.838] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-35-16_thumbnail_135.png
+[2023-12-16T13:38:53.838] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-35-16_waveform.png
+[2023-12-16T13:38:53.839] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-35-16.mp4
+[2023-12-16T13:38:53.839] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-41-42.mp4
+[2023-12-16T13:38:53.839] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-41-42_thumbnail_135.png
+[2023-12-16T13:38:53.840] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-41-42_waveform.png
+[2023-12-16T13:38:53.840] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-44-58.mp4
+[2023-12-16T13:38:53.840] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-44-58_thumbnail_135.png
+[2023-12-16T13:38:53.841] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-44-58_waveform.png
+[2023-12-16T13:38:53.841] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-50-42.mp4
+[2023-12-16T13:38:53.841] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-50-42_thumbnail_135.png
+[2023-12-16T13:38:53.842] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-50-42_waveform.png
+[2023-12-16T13:38:53.842] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-54-32_thumbnail_135.png
+[2023-12-16T13:38:53.842] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-54-32.mp4
+[2023-12-16T13:38:53.843] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-54-32_waveform.png
+[2023-12-16T13:38:53.843] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-58-40_thumbnail_135.png
+[2023-12-16T13:38:53.843] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-58-40_waveform.png
+[2023-12-16T13:38:53.844] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 17-58-40.mp4
+[2023-12-16T13:38:53.844] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-00-29_thumbnail_135.png
+[2023-12-16T13:38:53.845] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-00-29.mp4
+[2023-12-16T13:38:53.845] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-00-29_waveform.png
+[2023-12-16T13:38:53.846] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-05-21_thumbnail_135.png
+[2023-12-16T13:38:53.846] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-05-21_waveform.png
+[2023-12-16T13:38:53.846] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-05-21.mp4
+[2023-12-16T13:38:53.847] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-07-30_thumbnail_135.png
+[2023-12-16T13:38:53.847] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-07-30_waveform.png
+[2023-12-16T13:38:53.847] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-07-30.mp4
+[2023-12-16T13:38:53.848] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-13-41.mp4
+[2023-12-16T13:38:53.848] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-13-41_thumbnail_135.png
+[2023-12-16T13:38:53.848] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-13-41_waveform.png
+[2023-12-16T13:38:53.849] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-14-47.mp4
+[2023-12-16T13:38:53.849] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-14-47_thumbnail_135.png
+[2023-12-16T13:38:53.849] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-14-47_waveform.png
+[2023-12-16T13:38:53.850] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-21-03_thumbnail_135.png
+[2023-12-16T13:38:53.850] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-21-03.mp4
+[2023-12-16T13:38:53.850] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-21-03_waveform.png
+[2023-12-16T13:38:53.851] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-22-59.mp4
+[2023-12-16T13:38:53.851] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-22-59_thumbnail_135.png
+[2023-12-16T13:38:53.851] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-31-18.mp4
+[2023-12-16T13:38:53.852] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-22-59_waveform.png
+[2023-12-16T13:38:53.852] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-31-18_thumbnail_135.png
+[2023-12-16T13:38:53.852] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-31-18_waveform.png
+[2023-12-16T13:38:53.853] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-38-38.mp4
+[2023-12-16T13:38:53.853] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-38-38_thumbnail_135.png
+[2023-12-16T13:38:53.854] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-38-38_waveform.png
+[2023-12-16T13:38:53.854] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-43-17.mp4
+[2023-12-16T13:38:53.855] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-43-17_thumbnail_135.png
+[2023-12-16T13:38:53.855] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-44-56_thumbnail_135.png
+[2023-12-16T13:38:53.856] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-43-17_waveform.png
+[2023-12-16T13:38:53.856] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-44-56.mp4
+[2023-12-16T13:38:53.856] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-49-28.mp4
+[2023-12-16T13:38:53.857] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-49-28_thumbnail_135.png
+[2023-12-16T13:38:53.857] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-44-56_waveform.png
+[2023-12-16T13:38:53.857] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-50-39.mp4
+[2023-12-16T13:38:53.858] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-49-28_waveform.png
+[2023-12-16T13:38:53.858] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-50-39_thumbnail_135.png
+[2023-12-16T13:38:53.858] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-55-26.mp4
+[2023-12-16T13:38:53.859] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-50-39_waveform.png
+[2023-12-16T13:38:53.859] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-55-26_thumbnail_135.png
+[2023-12-16T13:38:53.859] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-57-55_thumbnail_135.png
+[2023-12-16T13:38:53.860] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-57-55.mp4
+[2023-12-16T13:38:53.860] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-55-26_waveform.png
+[2023-12-16T13:38:53.860] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-04-50.mp4
+[2023-12-16T13:38:53.861] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 18-57-55_waveform.png
+[2023-12-16T13:38:53.862] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-04-50_thumbnail_135.png
+[2023-12-16T13:38:53.862] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-04-50_waveform.png
+[2023-12-16T13:38:53.863] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-06-35.mp4
+[2023-12-16T13:38:53.863] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-06-35_thumbnail_135.png
+[2023-12-16T13:38:53.864] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-06-35_waveform.png
+[2023-12-16T13:38:53.864] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-10-36.mp4
+[2023-12-16T13:38:53.864] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-10-36_thumbnail_135.png
+[2023-12-16T13:38:53.865] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-52-10_thumbnail_135.png
+[2023-12-16T13:38:53.865] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-10-36_waveform.png
+[2023-12-16T13:38:53.865] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-52-10.mp4
+[2023-12-16T13:38:53.866] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-55-16_thumbnail_135.png
+[2023-12-16T13:38:53.866] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-55-16.mp4
+[2023-12-16T13:38:53.866] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-52-10_waveform.png
+[2023-12-16T13:38:53.867] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-56-45.mp4
+[2023-12-16T13:38:53.867] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-56-45_thumbnail_135.png
+[2023-12-16T13:38:53.867] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-55-16_waveform.png
+[2023-12-16T13:38:53.868] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 19-56-45_waveform.png
+[2023-12-16T13:38:53.868] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-01-31.mp4
+[2023-12-16T13:38:53.868] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-01-31_thumbnail_135.png
+[2023-12-16T13:38:53.869] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-03-52.mp4
+[2023-12-16T13:38:53.869] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-01-31_waveform.png
+[2023-12-16T13:38:53.870] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-03-52_thumbnail_135.png
+[2023-12-16T13:38:53.870] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-03-52_waveform.png
+[2023-12-16T13:38:53.870] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-07-28_thumbnail_135.png
+[2023-12-16T13:38:53.871] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-07-28.mp4
+[2023-12-16T13:38:53.871] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-07-28_waveform.png
+[2023-12-16T13:38:53.871] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-12-02_thumbnail_135.png
+[2023-12-16T13:38:53.871] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-12-02.mp4
+[2023-12-16T13:38:53.872] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-12-02_waveform.png
+[2023-12-16T13:38:53.872] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-17-03_thumbnail_135.png
+[2023-12-16T13:38:53.873] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-17-03.mp4
+[2023-12-16T13:38:53.873] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-17-03_waveform.png
+[2023-12-16T13:38:53.873] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-18-38_thumbnail_135.png
+[2023-12-16T13:38:53.874] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-18-38.mp4
+[2023-12-16T13:38:53.874] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-18-38_waveform.png
+[2023-12-16T13:38:53.874] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-23-44_thumbnail_135.png
+[2023-12-16T13:38:53.875] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-23-44.mp4
+[2023-12-16T13:38:53.875] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-23-44_waveform.png
+[2023-12-16T13:38:53.875] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-25-13.mp4
+[2023-12-16T13:38:53.875] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-25-13_thumbnail_135.png
+[2023-12-16T13:38:53.876] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-25-13_waveform.png
+[2023-12-16T13:38:53.876] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-29-31.mp4
+[2023-12-16T13:38:53.876] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-29-31_thumbnail_135.png
+[2023-12-16T13:38:53.877] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-32-45.mp4
+[2023-12-16T13:38:53.878] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-32-45_thumbnail_135.png
+[2023-12-16T13:38:53.878] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-29-31_waveform.png
+[2023-12-16T13:38:53.880] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-32-45_waveform.png
+[2023-12-16T13:38:53.880] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-35-59.mp4
+[2023-12-16T13:38:53.880] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-35-59_thumbnail_135.png
+[2023-12-16T13:38:53.881] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-35-59_waveform.png
+[2023-12-16T13:38:53.881] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-37-42_thumbnail_135.png
+[2023-12-16T13:38:53.882] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-37-42_waveform.png
+[2023-12-16T13:38:53.882] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-37-42.mp4
+[2023-12-16T13:38:53.882] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-43-06_thumbnail_135.png
+[2023-12-16T13:38:53.883] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-43-06.mp4
+[2023-12-16T13:38:53.883] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-43-06_waveform.png
+[2023-12-16T13:38:53.884] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-47-03.mp4
+[2023-12-16T13:38:53.884] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-47-03_thumbnail_135.png
+[2023-12-16T13:38:53.884] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-47-03_waveform.png
+[2023-12-16T13:38:53.884] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-51-28.mp4
+[2023-12-16T13:38:53.885] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-51-28_thumbnail_135.png
+[2023-12-16T13:38:53.885] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-51-28_waveform.png
+[2023-12-16T13:38:53.885] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-58-45.mp4
+[2023-12-16T13:38:53.886] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-58-45_thumbnail_135.png
+[2023-12-16T13:38:53.886] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 20-58-45_waveform.png
+[2023-12-16T13:38:53.886] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-06-08.mp4
+[2023-12-16T13:38:53.887] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-06-08_thumbnail_135.png
+[2023-12-16T13:38:53.887] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-06-08_waveform.png
+[2023-12-16T13:38:53.887] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-09-53_thumbnail_135.png
+[2023-12-16T13:38:53.888] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-09-53.mp4
+[2023-12-16T13:38:53.888] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-09-53_waveform.png
+[2023-12-16T13:38:53.888] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-15-35_waveform.png
+[2023-12-16T13:38:53.889] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-15-35_thumbnail_135.png
+[2023-12-16T13:38:53.889] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-15-35.mp4
+[2023-12-16T13:38:53.889] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-17-40.mp4
+[2023-12-16T13:38:53.890] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-17-40_thumbnail_135.png
+[2023-12-16T13:38:53.890] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-17-40_waveform.png
+[2023-12-16T13:38:53.890] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-26-09_thumbnail_135.png
+[2023-12-16T13:38:53.891] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-26-09_waveform.png
+[2023-12-16T13:38:53.891] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-26-09.mp4
+[2023-12-16T13:38:53.891] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-32-57.mp4
+[2023-12-16T13:38:53.892] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-32-57_waveform.png
+[2023-12-16T13:38:53.892] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-32-57_thumbnail_135.png
+[2023-12-16T13:38:53.892] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-37-15_waveform.png
+[2023-12-16T13:38:53.893] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-37-15.mp4
+[2023-12-16T13:38:53.893] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-37-15_thumbnail_135.png
+[2023-12-16T13:38:53.893] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-40-52_thumbnail_135.png
+[2023-12-16T13:38:53.894] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-40-52.mp4
+[2023-12-16T13:38:53.894] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-40-52_waveform.png
+[2023-12-16T13:38:53.895] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-47-38.mp4
+[2023-12-16T13:38:53.895] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-47-38_waveform.png
+[2023-12-16T13:38:53.896] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-47-38_thumbnail_135.png
+[2023-12-16T13:38:53.896] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-49-32.mp4
+[2023-12-16T13:38:53.896] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-49-32_thumbnail_135.png
+[2023-12-16T13:38:53.897] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-49-32_waveform.png
+[2023-12-16T13:38:53.897] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-56-17_waveform.png
+[2023-12-16T13:38:53.897] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-56-17_thumbnail_135.png
+[2023-12-16T13:38:53.897] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-56-17.mp4
+[2023-12-16T13:38:53.898] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-58-31.mp4
+[2023-12-16T13:38:53.898] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-58-31_waveform.png
+[2023-12-16T13:38:53.898] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 21-58-31_thumbnail_135.png
+[2023-12-16T13:38:53.899] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 22-08-30_thumbnail_135.png
+[2023-12-16T13:38:53.899] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 22-08-30_waveform.png
+[2023-12-16T13:38:53.899] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 22-08-30.mp4
+[2023-12-16T13:38:53.900] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 22-09-31.mp4
+[2023-12-16T13:38:53.900] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 22-09-31_thumbnail_135.png
+[2023-12-16T13:38:53.900] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 22-33-28.mp4
+[2023-12-16T13:38:53.901] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 22-09-31_waveform.png
+[2023-12-16T13:38:53.901] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 22-33-28_waveform.png
+[2023-12-16T13:38:53.901] [DEBUG] server/media - Deleting expired temp file C:\Users\Stream\AppData\Local\Temp\detocs\media\Replay 2023-11-11 22-33-28_thumbnail_135.png
+[2023-12-16T13:38:54.125] [INFO] server - DETOCS server initializing...
+[2023-12-16T13:38:54.125] [INFO] server/control - Initializing overlay control server
+[2023-12-16T13:38:54.176] [INFO] server/recording - Initializing match recording server
+[2023-12-16T13:38:54.180] [INFO] server/twitter - Initializing Twitter server
+[2023-12-16T13:38:54.181] [INFO] server/bracket - Initializing bracket server
+[2023-12-16T13:38:54.183] [INFO] server/clip - Initializing media dashboard server
+[2023-12-16T13:38:54.184] [INFO] server/errors - Initializing error reporter server
+[2023-12-16T13:38:54.186] [INFO] server/recording - Listening on port 58587
+[2023-12-16T13:38:54.186] [INFO] server/twitter - Listening on port 58588
+[2023-12-16T13:38:54.186] [INFO] server/bracket - Listening on port 58589
+[2023-12-16T13:38:54.186] [INFO] server/clip - Listening on port 58590
+[2023-12-16T13:38:54.187] [INFO] server/errors - Listening on port 58591
+[2023-12-16T13:38:54.187] [INFO] web - Listening on port 8080
+[2023-12-16T13:38:54.188] [DEBUG] services/obs-legacy/connection - Connection attempt 1/1
+[2023-12-16T13:38:54.191] [INFO] games - Loading game database from C:\Users\Stream\nycfb\game-database\detocs.json.
+game count: 32
+[2023-12-16T13:38:54.193] [INFO] output/templates - Loading output template from C:\Users\Stream\nycfb\detocs-templates\output\lp-scoreboard-assistant\scoreboard.json.hbs
+[2023-12-16T13:38:54.194] [INFO] output/templates - Loading output template from C:\Users\Stream\nycfb\detocs-templates\output\lp-scoreboard-assistant\commentary.json.hbs
+[2023-12-16T13:38:54.194] [INFO] output/templates - Loading output template from C:\Users\Stream\nycfb\detocs-templates\output\lp-scoreboard-assistant\break.json.hbs
+[2023-12-16T13:38:54.195] [INFO] server/info - Initializing overlay info server
+[2023-12-16T13:38:54.197] [INFO] server/info - Listening on port 58586
+[2023-12-16T13:38:54.231] [INFO] output/websocket - Initializing websocket output adapter on port 58341
+[2023-12-16T13:38:55.224] [DEBUG] services/obs-legacy/connection - Connection attempt 1/1
+[2023-12-16T13:38:55.224] [DEBUG] services/obs-legacy/connection - Unable to connect to localhost:4444: Connection error.
+[2023-12-16T13:38:55.225] [WARN] services/obs-legacy/connection - Hit maximum number of OBS connection attempts
+[2023-12-16T13:38:55.225] [ERROR] server/clip - Error: Unable to connect to OBS
+    at ObsConnectionImpl.connectInternal (C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:89:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2023-12-16T13:38:56.003] [INFO] server/twitter - Websocket connection received
+[2023-12-16T13:38:56.007] [INFO] server/bracket - Websocket connection received
+[2023-12-16T13:38:56.010] [INFO] server/clip - Websocket connection received
+[2023-12-16T13:38:56.322] [DEBUG] services/obs-legacy/connection - Unable to connect to localhost:4444: Connection error.
+[2023-12-16T13:38:56.322] [WARN] services/obs-legacy/connection - Hit maximum number of OBS connection attempts
+[2023-12-16T13:38:56.323] [ERROR] server/clip - Error: Unable to connect to OBS
+    at ObsConnectionImpl.connectInternal (C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:89:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2023-12-16T13:38:58.189] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:58.240] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:58.373] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:58.713] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:58.789] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:58.921] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:58.964] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.014] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.026] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.039] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.057] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.073] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.147] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.204] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.258] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.280] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.452] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.560] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.694] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.795] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.812] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:38:59.886] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:39:00.067] [INFO] server/info - Websocket connection received
+[2023-12-16T13:39:00.175] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:39:00.595] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:39:00.786] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:39:00.841] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T13:39:01.266] [INFO] server/recording - Websocket connection received
+[2023-12-16T13:40:16.997] [INFO] server/info - Websocket connection received
+[2023-12-16T13:40:18.997] [INFO] server/recording - Websocket connection received
+[2023-12-16T13:46:27.623] [DEBUG] server/bracket - Fetching sets for phase 1518717
+[2023-12-16T13:48:28.450] [DEBUG] server/bracket - Fetching sets for phase 1518717
+[2023-12-16T13:50:28.450] [DEBUG] server/bracket - Fetching sets for phase 1518717
+[2023-12-16T13:52:28.451] [DEBUG] server/bracket - Fetching sets for phase 1518717
+[2023-12-16T13:54:28.453] [DEBUG] server/bracket - Fetching sets for phase 1518717
+[2023-12-16T13:56:28.464] [DEBUG] server/bracket - Fetching sets for phase 1518717

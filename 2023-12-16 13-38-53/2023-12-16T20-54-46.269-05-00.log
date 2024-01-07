@@ -1,0 +1,3821 @@
+[2023-12-16T20:54:46.276] [INFO] default - Loaded config: {
+  "clipDirectory": "C:\\Users\\Stream\\nycfb\\Recording\\Clips",
+  "credentialsFile": "C:\\Users\\Stream\\nycfb\\detocs-credentials.json",
+  "databaseDirectory": "C:\\Users\\Stream\\nycfb",
+  "ffmpeg": {
+    "transcodeVideoInputArgs": [
+      "-vsync",
+      "0",
+      "-hwaccel",
+      "cuda"
+    ],
+    "transcodeVideoOutputArgs": [
+      "-codec:v",
+      "h264_nvenc",
+      "-profile:v",
+      "high",
+      "-preset",
+      "slow",
+      "-tune",
+      "hq",
+      "-rc",
+      "constqp",
+      "-qp",
+      "23",
+      "-bf",
+      "2",
+      "-b_ref_mode",
+      "middle",
+      "-g",
+      "60",
+      "-temporal-aq",
+      "1",
+      "-rc-lookahead",
+      "20"
+    ]
+  },
+  "gameDatabaseFile": "C:\\Users\\Stream\\nycfb\\game-database\\detocs.json",
+  "logDirectory": "C:\\Users\\Stream\\nycfb\\Detocs-Logs",
+  "obs": {
+    "address": "localhost:4444",
+    "binPath": "C:\\Users\\Stream\\nycfb\\OBS-Studio\\bin\\64bit",
+    "webSocketVersion": 4
+  },
+  "outputs": [
+    {
+      "port": 58341,
+      "templates": [
+        "C:\\Users\\Stream\\nycfb\\detocs-templates\\output\\lp-scoreboard-assistant\\scoreboard.json.hbs",
+        "C:\\Users\\Stream\\nycfb\\detocs-templates\\output\\lp-scoreboard-assistant\\commentary.json.hbs",
+        "C:\\Users\\Stream\\nycfb\\detocs-templates\\output\\lp-scoreboard-assistant\\break.json.hbs"
+      ],
+      "type": "websocket"
+    }
+  ],
+  "peopleDatabaseFile": "C:\\Users\\Stream\\nycfb\\Detocs-Database\\people.json",
+  "ports": {
+    "web": 8080
+  },
+  "tempFileExpirationDays": 5,
+  "vodPerSetTemplate": "C:\\Users\\Stream\\nycfb\\detocs-templates\\vod\\per-set.hbs",
+  "vodSingleVideoTemplate": "C:\\Users\\Stream\\nycfb\\detocs-templates\\vod\\single-video.hbs"
+}
+[2023-12-16T20:54:46.283] [INFO] people - Loading person database from C:\Users\Stream\nycfb\Detocs-Database\people.json.
+  format: 2
+  version: 0.9.0
+  person count: 1111
+[2023-12-16T20:54:46.288] [INFO] services/twitter - Already logged in
+[2023-12-16T20:54:46.495] [INFO] server - DETOCS server initializing...
+[2023-12-16T20:54:46.495] [INFO] server/control - Initializing overlay control server
+[2023-12-16T20:54:46.498] [INFO] server/recording - Initializing match recording server
+[2023-12-16T20:54:46.501] [INFO] server/twitter - Initializing Twitter server
+[2023-12-16T20:54:46.504] [INFO] server/bracket - Initializing bracket server
+[2023-12-16T20:54:46.505] [INFO] server/clip - Initializing media dashboard server
+[2023-12-16T20:54:46.507] [INFO] server/errors - Initializing error reporter server
+[2023-12-16T20:54:46.510] [INFO] server/recording - Listening on port 58587
+[2023-12-16T20:54:46.510] [INFO] server/twitter - Listening on port 58588
+[2023-12-16T20:54:46.511] [INFO] server/bracket - Listening on port 58589
+[2023-12-16T20:54:46.511] [INFO] server/clip - Listening on port 58590
+[2023-12-16T20:54:46.511] [INFO] server/errors - Listening on port 58591
+[2023-12-16T20:54:46.512] [INFO] web - Listening on port 8080
+[2023-12-16T20:54:46.513] [DEBUG] services/obs-legacy/connection - Connection attempt 1/1
+[2023-12-16T20:54:46.517] [INFO] games - Loading game database from C:\Users\Stream\nycfb\game-database\detocs.json.
+game count: 32
+[2023-12-16T20:54:46.520] [INFO] output/templates - Loading output template from C:\Users\Stream\nycfb\detocs-templates\output\lp-scoreboard-assistant\scoreboard.json.hbs
+[2023-12-16T20:54:46.521] [INFO] output/templates - Loading output template from C:\Users\Stream\nycfb\detocs-templates\output\lp-scoreboard-assistant\commentary.json.hbs
+[2023-12-16T20:54:46.522] [INFO] output/templates - Loading output template from C:\Users\Stream\nycfb\detocs-templates\output\lp-scoreboard-assistant\break.json.hbs
+[2023-12-16T20:54:46.522] [INFO] server/info - Initializing overlay info server
+[2023-12-16T20:54:46.525] [INFO] server/info - Listening on port 58586
+[2023-12-16T20:54:46.561] [INFO] output/websocket - Initializing websocket output adapter on port 58341
+[2023-12-16T20:54:47.567] [DEBUG] services/obs-legacy/connection - Connection attempt 1/1
+[2023-12-16T20:54:47.568] [DEBUG] services/obs-legacy/connection - Unable to connect to localhost:4444: Connection error.
+[2023-12-16T20:54:47.568] [WARN] services/obs-legacy/connection - Hit maximum number of OBS connection attempts
+[2023-12-16T20:54:47.568] [ERROR] server/clip - Error: Unable to connect to OBS
+    at ObsConnectionImpl.connectInternal (C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:89:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2023-12-16T20:54:48.576] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:48.644] [DEBUG] services/obs-legacy/connection - Unable to connect to localhost:4444: Connection error.
+[2023-12-16T20:54:48.645] [WARN] services/obs-legacy/connection - Hit maximum number of OBS connection attempts
+[2023-12-16T20:54:48.645] [ERROR] server/clip - Error: Unable to connect to OBS
+    at ObsConnectionImpl.connectInternal (C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:89:15)
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+[2023-12-16T20:54:48.760] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:48.858] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:48.982] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:49.140] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:49.289] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:49.300] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:49.362] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:49.401] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:49.470] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:49.641] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:49.824] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:50.785] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.012] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.103] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.114] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.170] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.249] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.268] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.381] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.617] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.630] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.925] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.951] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.963] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:51.974] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:54:52.097] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:55:00.792] [DEBUG] services/obs-legacy/connection - Connection attempt 1/1
+[2023-12-16T20:55:00.813] [INFO] services/obs-legacy/connection - Connected to OBS at localhost:4444
+[2023-12-16T20:55:00.815] [DEBUG] services/obs-legacy - Non-absolute path found: ./root/Recording
+Attempting to find OBS binary path.
+[2023-12-16T20:55:00.815] [INFO] services/obs-legacy - Recording folder: C:\Users\Stream\nycfb\OBS-Studio\bin\64bit\root\Recording
+[2023-12-16T20:55:00.816] [ERROR] server/clip - Error: SaveReplayBuffer failed: replay buffer not active
+    at C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:26:28
+    at C:\Users\Stream\nycfb\Tools\detocs\node_modules\neverthrow\dist\index.cjs.js:238:102
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ClipServer.getClip (C:\Users\Stream\nycfb\Tools\detocs\build\src\server\clip\server.js:101:34)
+[2023-12-16T20:55:00.820] [INFO] services/obs-legacy - Recording file: null
+[2023-12-16T20:55:01.187] [ERROR] server/clip - Error: SaveReplayBuffer failed: replay buffer not active
+    at C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:26:28
+    at C:\Users\Stream\nycfb\Tools\detocs\node_modules\neverthrow\dist\index.cjs.js:238:102
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ClipServer.getClip (C:\Users\Stream\nycfb\Tools\detocs\build\src\server\clip\server.js:101:34)
+[2023-12-16T20:55:01.662] [ERROR] server/clip - Error: SaveReplayBuffer failed: replay buffer not active
+    at C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:26:28
+    at C:\Users\Stream\nycfb\Tools\detocs\node_modules\neverthrow\dist\index.cjs.js:238:102
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ClipServer.getClip (C:\Users\Stream\nycfb\Tools\detocs\build\src\server\clip\server.js:101:34)
+[2023-12-16T20:55:01.845] [ERROR] server/clip - Error: SaveReplayBuffer failed: replay buffer not active
+    at C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:26:28
+    at C:\Users\Stream\nycfb\Tools\detocs\node_modules\neverthrow\dist\index.cjs.js:238:102
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ClipServer.getClip (C:\Users\Stream\nycfb\Tools\detocs\build\src\server\clip\server.js:101:34)
+[2023-12-16T20:55:02.251] [ERROR] server/clip - Error: SaveReplayBuffer failed: replay buffer not active
+    at C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:26:28
+    at C:\Users\Stream\nycfb\Tools\detocs\node_modules\neverthrow\dist\index.cjs.js:238:102
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ClipServer.getClip (C:\Users\Stream\nycfb\Tools\detocs\build\src\server\clip\server.js:101:34)
+[2023-12-16T20:55:02.603] [ERROR] server/clip - Error: SaveReplayBuffer failed: replay buffer not active
+    at C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:26:28
+    at C:\Users\Stream\nycfb\Tools\detocs\node_modules\neverthrow\dist\index.cjs.js:238:102
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ClipServer.getClip (C:\Users\Stream\nycfb\Tools\detocs\build\src\server\clip\server.js:101:34)
+[2023-12-16T20:55:02.808] [ERROR] server/clip - Error: SaveReplayBuffer failed: replay buffer not active
+    at C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:26:28
+    at C:\Users\Stream\nycfb\Tools\detocs\node_modules\neverthrow\dist\index.cjs.js:238:102
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ClipServer.getClip (C:\Users\Stream\nycfb\Tools\detocs\build\src\server\clip\server.js:101:34)
+[2023-12-16T20:55:03.161] [ERROR] server/clip - Error: SaveReplayBuffer failed: replay buffer not active
+    at C:\Users\Stream\nycfb\Tools\detocs\build\src\services\obs-legacy\connection.js:26:28
+    at C:\Users\Stream\nycfb\Tools\detocs\node_modules\neverthrow\dist\index.cjs.js:238:102
+    at processTicksAndRejections (internal/process/task_queues.js:97:5)
+    at async ClipServer.getClip (C:\Users\Stream\nycfb\Tools\detocs\build\src\server\clip\server.js:101:34)
+[2023-12-16T20:55:36.805] [WARN] services/obs-legacy/connection - Lost connection to OBS
+[2023-12-16T20:55:36.805] [DEBUG] services/obs-legacy/connection - Connection attempt 1/3
+[2023-12-16T20:57:09.206] [INFO] server/info - Websocket connection received
+[2023-12-16T20:57:09.243] [INFO] server/recording - Websocket connection received
+[2023-12-16T20:57:09.247] [INFO] server/twitter - Websocket connection received
+[2023-12-16T20:57:09.251] [INFO] server/bracket - Websocket connection received
+[2023-12-16T20:57:09.270] [INFO] server/clip - Websocket connection received
+[2023-12-16T20:57:13.113] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:13.133] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:13.193] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:13.207] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:13.217] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:13.229] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:13.277] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:13.992] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:14.082] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:14.254] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:14.277] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:14.304] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:14.329] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:14.357] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:14.817] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:15.100] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:15.253] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:15.265] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:15.310] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:15.373] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:15.385] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:15.683] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:15.811] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:15.986] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:16.754] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:17.087] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T20:57:17.216] [INFO] output/websocket - New client; Address: ::1
+User Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.134 OBS/28.1.2 Safari/537.36
+[2023-12-16T21:02:31.490] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:02:32.193] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 207 + 36
+Optimized: 1 @ 52/page, predicted complexity: 936
+[2023-12-16T21:02:32.857] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:04:32.860] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:04:33.386] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 211 + 36
+Optimized: 1 @ 52/page, predicted complexity: 936
+[2023-12-16T21:04:33.850] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:05:06.176] [DEBUG] server/info - Lower third update received:
+ {
+  'players[0][id]': 'd202306110150247350000',
+  'players[0][prefix]': 'IFM',
+  'players[0][serviceIds][twitter]': 'JoeyFaggotoni',
+  'players[0][handle]': 'Shinebox',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[1][id]': '',
+  'players[1][prefix]': '',
+  'players[1][serviceIds][twitter]': '',
+  'players[1][handle]': '',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  tournament: '',
+  event: ''
+}
+[2023-12-16T21:05:06.181] [INFO] people - update person: {
+  id: 'd202306110150247350000',
+  handle: 'Shinebox',
+  prefix: 'IFM',
+  serviceIds: { twitter: 'JoeyFaggotoni', smashgg: '905692' }
+} {
+  id: 'd202306110150247350000',
+  handle: 'Shinebox',
+  prefix: 'IFM',
+  serviceIds: { twitter: 'JoeyFaggotoni', smashgg: '905692' },
+  alias: undefined,
+  pronouns: undefined
+}
+[2023-12-16T21:05:06.182] [DEBUG] people - People: [
+  {
+    id: 'd202306102348077990000',
+    handle: 'ChrisBurgers',
+    prefix: null,
+    serviceIds: { smashgg: '2157693', twitter: 'Chris_Burgers01' },
+    alias: 'Chris-Burgers'
+  },
+  {
+    id: 'd202306110150166740000',
+    handle: 'Azure Dynamo',
+    prefix: 'D30',
+    serviceIds: { twitter: 'AzureDynamo', smashgg: '1595624' },
+    pronouns: 'He/Him'
+  },
+  {
+    id: 'd202306110150247350000',
+    handle: 'Shinebox',
+    prefix: 'IFM',
+    serviceIds: { twitter: 'JoeyFaggotoni', smashgg: '905692' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202306110150341920000',
+    handle: 'Hario',
+    prefix: null,
+    serviceIds: { smashgg: '2358860' }
+  }
+]
+[2023-12-16T21:05:06.185] [INFO] people - Backing-up previous person database to C:\Users\Stream\nycfb\Detocs-Database\people.json.bak
+[2023-12-16T21:05:06.188] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "",
+  "player1": "",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": ""
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:06.194] [DEBUG] people - Saving 1111 person records
+[2023-12-16T21:05:06.315] [DEBUG] server/info - Lower third update received:
+ {
+  'players[0][id]': 'd202306110150247350000',
+  'players[0][prefix]': 'IFM',
+  'players[0][serviceIds][twitter]': 'JoeyFaggotoni',
+  'players[0][handle]': 'Shinebox',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[1][id]': '',
+  'players[1][prefix]': '',
+  'players[1][serviceIds][twitter]': '',
+  'players[1][handle]': '',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  tournament: '',
+  event: ''
+}
+[2023-12-16T21:05:06.319] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "",
+  "player1": "",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": ""
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:12.914] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:05:12.926] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": "Guilty Gear XX Accent Core +R"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:13.359] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:05:13.369] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": "Guilty Gear XX Accent Core +R"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:17.267] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202103141900097160000',
+  'players[0][prefix]': 'TSB',
+  'players[0][handle]': 'Pandabetic',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'pandabetic__',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202008220402350930000',
+  'players[1][prefix]': '',
+  'players[1][handle]': 'Native',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'nativeMegaTen',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'wf',
+  'match[name]': 'Winners Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:05:17.273] [INFO] people - update person: {
+  id: 'd202103141900097160000',
+  handle: 'Pandabetic',
+  prefix: 'TSB',
+  serviceIds: { smashgg: '617072', twitter: 'pandabetic__' }
+} {
+  id: 'd202103141900097160000',
+  handle: 'Pandabetic',
+  prefix: 'TSB',
+  serviceIds: { smashgg: '617072', twitter: 'pandabetic__' },
+  alias: undefined,
+  pronouns: undefined
+}
+[2023-12-16T21:05:17.273] [DEBUG] people - People: [
+  {
+    id: 'd202103130149399120000',
+    handle: 'Mr. B',
+    prefix: 'BU',
+    serviceIds: { twitter: 'MrB_SSB', smashgg: '890663' }
+  },
+  {
+    id: 'd202103141855499260000',
+    handle: 'ProbablyLurking',
+    prefix: null,
+    serviceIds: { smashgg: '683900', twitter: 'ProbablyLurkin' }
+  },
+  {
+    id: 'd202103141900097160000',
+    handle: 'Pandabetic',
+    prefix: 'TSB',
+    serviceIds: { smashgg: '617072', twitter: 'pandabetic__' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202103141900097170000',
+    handle: 'HellSap',
+    prefix: null,
+    serviceIds: { smashgg: '173235' }
+  }
+]
+[2023-12-16T21:05:17.275] [INFO] people - update person: {
+  id: 'd202008220402350930000',
+  handle: 'Native',
+  prefix: null,
+  serviceIds: { twitter: 'nativeMegaTen', smashgg: '1090326' }
+} {
+  id: 'd202008220402350930000',
+  handle: 'Native',
+  prefix: null,
+  serviceIds: { twitter: 'nativeMegaTen', smashgg: '1090326' },
+  alias: undefined,
+  pronouns: undefined
+}
+[2023-12-16T21:05:17.276] [DEBUG] people - People: [
+  {
+    id: 'd202008220402350920001',
+    handle: 'nabari',
+    prefix: null,
+    serviceIds: {}
+  },
+  {
+    id: 'd202008220402350920002',
+    handle: 'NaotosTwerkTeam',
+    prefix: null,
+    serviceIds: {}
+  },
+  {
+    id: 'd202008220402350930000',
+    handle: 'Native',
+    prefix: null,
+    serviceIds: { twitter: 'nativeMegaTen', smashgg: '1090326' },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202008220402350930001',
+    handle: 'NecroUndine',
+    prefix: null,
+    serviceIds: { twitter: 'NecroUndine', smashgg: '397281' }
+  }
+]
+[2023-12-16T21:05:17.278] [DEBUG] people - Saving 1111 person records
+[2023-12-16T21:05:17.283] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Native",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": "Guilty Gear XX Accent Core +R"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:18.630] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:05:18.641] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": "Guilty Gear XX Accent Core +R"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:23.681] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202008220402350930000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Native',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'nativeMegaTen',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'wf',
+  'match[name]': 'Winners Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:05:23.689] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": "Guilty Gear XX Accent Core +R"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:24.551] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:05:24.557] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": "Guilty Gear XX Accent Core +R"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:25.747] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202008220402350930000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Native',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'nativeMegaTen',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'wf',
+  'match[name]': 'Winners Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:05:25.758] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": "Guilty Gear XX Accent Core +R"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:26.785] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:05:26.792] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": "Guilty Gear XX Accent Core +R"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:29.396] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202103141900097160000',
+  'players[0][prefix]': 'TSB',
+  'players[0][handle]': 'Pandabetic',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'pandabetic__',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202008220402350930000',
+  'players[1][prefix]': '',
+  'players[1][handle]': 'Native',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'nativeMegaTen',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'wf',
+  'match[name]': 'Winners Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:05:29.407] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Native",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": "Guilty Gear XX Accent Core +R"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:05:50.190] [DEBUG] server/info - Lower third update received:
+ {
+  'players[0][id]': 'd202306110150247350000',
+  'players[0][prefix]': 'IFM',
+  'players[0][serviceIds][twitter]': 'JoeyFaggotoni',
+  'players[0][handle]': 'Shinebox',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[1][id]': 'd202008220402350750000',
+  'players[1][prefix]': 'LP/WASD',
+  'players[1][serviceIds][twitter]': 'Lem___________',
+  'players[1][handle]': 'Lem',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  tournament: '',
+  event: ''
+}
+[2023-12-16T21:05:50.191] [INFO] people - update person: {
+  id: 'd202008220402350750000',
+  handle: 'Lem',
+  prefix: 'LP/WASD',
+  serviceIds: {
+    twitter: 'Lem___________',
+    smashgg: '791209',
+    challonge: '157809460'
+  }
+} {
+  id: 'd202008220402350750000',
+  handle: 'Lem',
+  prefix: 'LP/WASD',
+  serviceIds: {
+    twitter: 'Lem___________',
+    smashgg: '791209',
+    challonge: '157809460'
+  },
+  alias: undefined,
+  pronouns: undefined
+}
+[2023-12-16T21:05:50.193] [DEBUG] people - People: [
+  {
+    id: 'd202008220402350740001',
+    handle: 'LazieFreddy',
+    prefix: 'DC',
+    serviceIds: {}
+  },
+  {
+    id: 'd202008220402350740002',
+    handle: 'LazyDiablos',
+    prefix: null,
+    serviceIds: { twitter: 'LazyDiablos' }
+  },
+  {
+    id: 'd202008220402350750000',
+    handle: 'Lem',
+    prefix: 'LP/WASD',
+    serviceIds: {
+      twitter: 'Lem___________',
+      smashgg: '791209',
+      challonge: '157809460'
+    },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202008220402350750001',
+    handle: 'Lethalmind',
+    prefix: null,
+    serviceIds: { twitter: 'Lethalmind16', smashgg: '316446' }
+  }
+]
+[2023-12-16T21:05:50.196] [DEBUG] people - Saving 1111 person records
+[2023-12-16T21:05:50.202] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Native",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "",
+  "game": "Guilty Gear XX Accent Core +R"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:06:32.859] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:06:33.564] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 211 + 36
+Optimized: 1 @ 52/page, predicted complexity: 936
+[2023-12-16T21:06:33.919] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:07:05.458] [DEBUG] server/info - Lower third update received:
+ {
+  'players[0][id]': 'd202306110150247350000',
+  'players[0][prefix]': 'IFM',
+  'players[0][serviceIds][twitter]': 'JoeyFaggotoni',
+  'players[0][handle]': 'Shinebox',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[1][id]': 'd202008220402350750000',
+  'players[1][prefix]': 'LP/WASD',
+  'players[1][serviceIds][twitter]': 'Lem___________',
+  'players[1][handle]': 'Lem',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  tournament: 'Guilty Gear XX ACPR',
+  event: 'Lunatic Perilune #30'
+}
+[2023-12-16T21:07:05.467] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Native",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:07:05.687] [DEBUG] server/info - Lower third update received:
+ {
+  'players[0][id]': 'd202306110150247350000',
+  'players[0][prefix]': 'IFM',
+  'players[0][serviceIds][twitter]': 'JoeyFaggotoni',
+  'players[0][handle]': 'Shinebox',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[1][id]': 'd202008220402350750000',
+  'players[1][prefix]': 'LP/WASD',
+  'players[1][serviceIds][twitter]': 'Lem___________',
+  'players[1][handle]': 'Lem',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  tournament: 'Guilty Gear XX ACPR',
+  event: 'Lunatic Perilune #30'
+}
+[2023-12-16T21:07:05.691] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Native",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:07:06.055] [DEBUG] server/info - Lower third update received:
+ {
+  'players[0][id]': 'd202306110150247350000',
+  'players[0][prefix]': 'IFM',
+  'players[0][serviceIds][twitter]': 'JoeyFaggotoni',
+  'players[0][handle]': 'Shinebox',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[1][id]': 'd202008220402350750000',
+  'players[1][prefix]': 'LP/WASD',
+  'players[1][serviceIds][twitter]': 'Lem___________',
+  'players[1][handle]': 'Lem',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  tournament: 'Guilty Gear XX ACPR',
+  event: 'Lunatic Perilune #30'
+}
+[2023-12-16T21:07:06.058] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Native",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:08:32.861] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:08:33.541] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 211 + 36
+Optimized: 1 @ 52/page, predicted complexity: 936
+[2023-12-16T21:08:33.910] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:09:18.640] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202103141900097160000',
+  'players[0][prefix]': 'TSB',
+  'players[0][handle]': 'Pandabetic',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'pandabetic__',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202008220402350930000',
+  'players[1][prefix]': '',
+  'players[1][handle]': 'Native',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'nativeMegaTen',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '1',
+  'match[id]': 'wf',
+  'match[name]': 'Winners Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:09:18.649] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Native",
+  "score1": "0",
+  "score2": "1",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:10:32.861] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:10:33.504] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 211 + 36
+Optimized: 1 @ 52/page, predicted complexity: 936
+[2023-12-16T21:10:34.002] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:10:52.982] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202103141900097160000',
+  'players[0][prefix]': 'TSB',
+  'players[0][handle]': 'Pandabetic',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'pandabetic__',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202008220402350930000',
+  'players[1][prefix]': '',
+  'players[1][handle]': 'Native',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'nativeMegaTen',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '2',
+  'match[id]': 'wf',
+  'match[name]': 'Winners Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787972',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:10:52.990] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Native",
+  "score1": "0",
+  "score2": "2",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Winners Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:12:32.861] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:12:33.527] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 211 + 36
+Optimized: 1 @ 52/page, predicted complexity: 936
+[2023-12-16T21:12:34.020] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:14:17.772] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': '',
+  'players[0][prefix]': '',
+  'players[0][handle]': '',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': '',
+  'players[1][prefix]': '',
+  'players[1][handle]': '',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': '',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': '',
+  'match[name]': '',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788003',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:14:17.780] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:14:18.165] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788003',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:14:18.175] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Bucky Freaky",
+  "player2": "Garbage",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Semis",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:14:21.349] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141930250220000',
+  'players[1][prefix]': '',
+  'players[1][handle]': 'underseamagic',
+  'players[1][alias]': 'Bucky Freaky',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': '',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'ls',
+  'match[name]': 'Losers Semis',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788003',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:14:21.354] [INFO] people - update person: {
+  id: 'd202311120110301010000',
+  handle: 'Garbage',
+  prefix: null,
+  serviceIds: { smashgg: '415942', twitter: undefined }
+} {
+  id: 'd202311120110301010000',
+  handle: 'Garbage',
+  prefix: null,
+  serviceIds: { smashgg: '415942', twitter: undefined },
+  alias: undefined,
+  pronouns: undefined
+}
+[2023-12-16T21:14:21.355] [DEBUG] people - People: [
+  {
+    id: 'd202311120050044340000',
+    handle: 'Shaokrump',
+    prefix: null,
+    serviceIds: { twitter: 'Jabronikrumpma1', smashgg: '2762484' }
+  },
+  {
+    id: 'd202311120056098240000',
+    handle: 'goon',
+    prefix: null,
+    serviceIds: { twitter: 'goonbata', smashgg: '2360802' }
+  },
+  {
+    id: 'd202311120110301010000',
+    handle: 'Garbage',
+    prefix: null,
+    serviceIds: { smashgg: '415942', twitter: undefined },
+    alias: undefined,
+    pronouns: undefined
+  },
+  {
+    id: 'd202311120124291160000',
+    handle: '+dream3R',
+    prefix: null,
+    serviceIds: { twitter: 'plusdream3R', smashgg: '2750806' },
+    pronouns: 'she/it'
+  }
+]
+[2023-12-16T21:14:21.356] [INFO] people - update person: {
+  id: 'd202103141930250220000',
+  handle: 'underseamagic',
+  prefix: null,
+  serviceIds: { smashgg: '583483', twitter: undefined },
+  alias: 'Bucky Freaky'
+} {
+  id: 'd202103141930250220000',
+  handle: 'underseamagic',
+  prefix: null,
+  serviceIds: { smashgg: '583483', twitter: undefined },
+  alias: 'Bucky Freaky',
+  pronouns: undefined
+}
+[2023-12-16T21:14:21.357] [DEBUG] people - People: [
+  {
+    id: 'd202103141924053200000',
+    handle: 'Fridge',
+    prefix: null,
+    serviceIds: { smashgg: '16255' }
+  },
+  {
+    id: 'd202103141924053210000',
+    handle: 'TIPME',
+    prefix: null,
+    serviceIds: { smashgg: '699575' }
+  },
+  {
+    id: 'd202103141930250220000',
+    handle: 'underseamagic',
+    prefix: null,
+    serviceIds: { smashgg: '583483', twitter: undefined },
+    alias: 'Bucky Freaky',
+    pronouns: undefined
+  },
+  {
+    id: 'd202103141930250230000',
+    handle: 'Shadowfury333',
+    prefix: 'PNW',
+    serviceIds: { smashgg: '1904674' }
+  }
+]
+[2023-12-16T21:14:21.358] [DEBUG] people - Saving 1111 person records
+[2023-12-16T21:14:21.359] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Bucky Freaky",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Semis",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:14:21.657] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141930250220000',
+  'players[1][prefix]': '',
+  'players[1][handle]': 'underseamagic',
+  'players[1][alias]': 'Bucky Freaky',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': '',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'ls',
+  'match[name]': 'Losers Semis',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788003',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:14:21.666] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Bucky Freaky",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Semis",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:14:32.874] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:14:33.684] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 220 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:14:34.026] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:16:19.224] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '1',
+  'players[1][id]': 'd202103141930250220000',
+  'players[1][prefix]': '',
+  'players[1][handle]': 'underseamagic',
+  'players[1][alias]': 'Bucky Freaky',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': '',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'ls',
+  'match[name]': 'Losers Semis',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788003',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:16:19.232] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Bucky Freaky",
+  "score1": "1",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Semis",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:16:32.874] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:16:33.581] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 220 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:16:34.100] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:18:32.875] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:18:33.582] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 220 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:18:34.145] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:20:07.643] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': '',
+  'players[0][prefix]': '',
+  'players[0][handle]': '',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': '',
+  'players[1][prefix]': '',
+  'players[1][handle]': '',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': '',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': '',
+  'match[name]': '',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:20:07.653] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:20:08.119] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:20:08.128] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:20:08.308] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:20:08.316] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:20:32.875] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:20:32.927] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202103141900097160000',
+  'players[0][prefix]': 'TSB',
+  'players[0][handle]': 'Pandabetic',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'pandabetic__',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202311120110301010000',
+  'players[1][prefix]': '',
+  'players[1][handle]': 'Garbage',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': '',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'lf',
+  'match[name]': 'Losers Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:20:32.935] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Garbage",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:20:33.522] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 224 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:20:33.530] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:20:33.539] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:20:33.910] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:20:34.091] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:20:34.096] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Garbage",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:20:37.399] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'lf',
+  'match[name]': 'Losers Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:20:37.408] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:20:37.654] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'lf',
+  'match[name]': 'Losers Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:20:37.662] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:20:37.842] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'lf',
+  'match[name]': 'Losers Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:20:37.849] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:22:32.877] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:22:33.441] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 224 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:22:33.865] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:22:48.140] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '1',
+  'match[id]': 'lf',
+  'match[name]': 'Losers Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:22:48.150] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "1",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:22:49.549] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '1',
+  'match[id]': 'lf',
+  'match[name]': 'Losers Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:22:49.557] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Pandabetic || TSB",
+  "score1": "0",
+  "score2": "1",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:24:32.877] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:24:33.573] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 224 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:24:34.090] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:24:46.520] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '1',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '1',
+  'match[id]': 'lf',
+  'match[name]': 'Losers Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:24:46.532] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Pandabetic || TSB",
+  "score1": "1",
+  "score2": "1",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:26:32.878] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:26:33.476] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 224 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:26:34.023] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:28:15.517] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '2',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '1',
+  'match[id]': 'lf',
+  'match[name]': 'Losers Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:28:15.525] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Pandabetic || TSB",
+  "score1": "2",
+  "score2": "1",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:28:32.879] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:28:33.531] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 224 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:28:34.044] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:30:18.533] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202311120110301010000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Garbage',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': '',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '2',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '2',
+  'match[id]': 'lf',
+  'match[name]': 'Losers Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:30:18.541] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Garbage",
+  "player2": "Pandabetic || TSB",
+  "score1": "2",
+  "score2": "2",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:30:32.880] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:30:33.597] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 224 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:30:33.984] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:32:32.882] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:32:33.623] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 224 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:32:33.999] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:33:38.292] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68788004',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:33:38.300] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Garbage",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:33:45.189] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202103141900097160000',
+  'players[0][prefix]': 'TSB',
+  'players[0][handle]': 'Pandabetic',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'pandabetic__',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202311120110301010000',
+  'players[1][prefix]': '',
+  'players[1][handle]': 'Garbage',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': '',
+  'players[1][inLosers]': '',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'lf',
+  'match[name]': 'Losers Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:33:45.199] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Pandabetic || TSB",
+  "player2": "Garbage",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Losers Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:33:45.851] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:33:45.856] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": " [L]",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:33:46.016] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:33:46.019] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": " [L]",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:33:46.194] [DEBUG] server/info - Bracket set fill update received:
+ {
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979',
+  '': ''
+}
+[2023-12-16T21:33:46.200] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": " [L]",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:33:50.165] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202008220402350930000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Native',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'nativeMegaTen',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': 'on',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'gf',
+  'match[name]': 'Grand Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:33:50.172] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic [L] || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:33:50.344] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202008220402350930000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Native',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'nativeMegaTen',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': 'on',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'gf',
+  'match[name]': 'Grand Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:33:50.351] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic [L] || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:33:50.585] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202008220402350930000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Native',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'nativeMegaTen',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': 'on',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'gf',
+  'match[name]': 'Grand Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:33:50.594] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic [L] || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:33:50.984] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202008220402350930000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Native',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'nativeMegaTen',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '0',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': 'on',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'gf',
+  'match[name]': 'Grand Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:33:50.993] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic [L] || TSB",
+  "score1": "0",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:34:32.883] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:34:33.628] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 224 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:34:34.128] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:36:31.471] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202008220402350930000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Native',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'nativeMegaTen',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '1',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': 'on',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'gf',
+  'match[name]': 'Grand Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:36:31.481] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic [L] || TSB",
+  "score1": "1",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:36:32.884] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:36:33.535] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 224 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:36:34.025] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:38:06.439] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202008220402350930000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Native',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'nativeMegaTen',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '3',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': 'on',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'gf',
+  'match[name]': 'Grand Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:38:06.445] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic [L] || TSB",
+  "score1": "3",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:38:09.378] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202008220402350930000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Native',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'nativeMegaTen',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '2',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': 'on',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'gf',
+  'match[name]': 'Grand Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:38:09.388] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic [L] || TSB",
+  "score1": "2",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:38:09.811] [DEBUG] server/info - Scoreboard update received:
+ {
+  'players[0][id]': 'd202008220402350930000',
+  'players[0][prefix]': '',
+  'players[0][handle]': 'Native',
+  'players[0][alias]': '',
+  'players[0][pronouns]': '',
+  'players[0][serviceIds][twitter]': 'nativeMegaTen',
+  'players[0][inLosers]': '',
+  'players[0][comment]': '',
+  'players[0][score]': '2',
+  'players[1][id]': 'd202103141900097160000',
+  'players[1][prefix]': 'TSB',
+  'players[1][handle]': 'Pandabetic',
+  'players[1][alias]': '',
+  'players[1][pronouns]': '',
+  'players[1][serviceIds][twitter]': 'pandabetic__',
+  'players[1][inLosers]': 'on',
+  'players[1][comment]': '',
+  'players[1][score]': '0',
+  'match[id]': 'gf',
+  'match[name]': 'Grand Finals',
+  'game[id]': 'ggxx',
+  'game[name]': 'Guilty Gear XX Accent Core +R',
+  'set[serviceName]': 'smashgg',
+  'set[id]': '68787973',
+  'set[phaseId]': '1518713',
+  'set[phaseGroupId]': '2286979'
+}
+[2023-12-16T21:38:09.817] [DEBUG] output/websocket - Sending update:
+ {
+  "tabID": "ggxx",
+  "player1": "Native",
+  "player2": "Pandabetic [L] || TSB",
+  "score1": "2",
+  "score2": "0",
+  "pronouns1": "",
+  "pronouns2": "",
+  "match": "Grand Finals",
+  "game": "Guilty Gear XX ACPR",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+{
+  "tabID": "commentators",
+  "player1": "Shinebox || IFM @JoeyFaggotoni",
+  "player2": "Lem || LP/WASD @Lem___________",
+  "score1": "0",
+  "score2": "0",
+  "match": "Guilty Gear XX ACPR",
+  "game": "Lunatic Perilune #30"
+}
+
+{
+  "tabID": "break",
+  "text1": "",
+  "text2": "",
+  "text3": "",
+  "text4": ""
+}
+
+[2023-12-16T21:38:32.885] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:38:33.497] [DEBUG] services/smashgg/pagination - Paginated query, 25 total items
+Default: 2 @ 14/page, complexity: 224 + 34
+Optimized: 1 @ 50/page, predicted complexity: 950
+[2023-12-16T21:38:33.982] [DEBUG] services/smashgg/pagination - Actual complexity: 193
+[2023-12-16T21:40:32.884] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:40:33.678] [DEBUG] services/smashgg/pagination - Paginated query, 24 total items
+Default: 2 @ 14/page, complexity: 238 + 30
+Optimized: 1 @ 47/page, predicted complexity: 940
+[2023-12-16T21:40:34.031] [DEBUG] services/smashgg/pagination - Actual complexity: 176
+[2023-12-16T21:42:32.884] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:42:33.974] [DEBUG] services/smashgg/pagination - Paginated query, 24 total items
+Default: 2 @ 14/page, complexity: 238 + 30
+Optimized: 1 @ 47/page, predicted complexity: 940
+[2023-12-16T21:42:34.329] [DEBUG] services/smashgg/pagination - Actual complexity: 176
+[2023-12-16T21:44:32.885] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:44:33.870] [DEBUG] services/smashgg/pagination - Paginated query, 24 total items
+Default: 2 @ 14/page, complexity: 238 + 30
+Optimized: 1 @ 47/page, predicted complexity: 940
+[2023-12-16T21:44:34.351] [DEBUG] services/smashgg/pagination - Actual complexity: 176
+[2023-12-16T21:46:32.885] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:46:36.782] [DEBUG] services/smashgg/pagination - Paginated query, 24 total items
+Default: 2 @ 14/page, complexity: 238 + 30
+Optimized: 1 @ 47/page, predicted complexity: 940
+[2023-12-16T21:46:37.254] [DEBUG] services/smashgg/pagination - Actual complexity: 176
+[2023-12-16T21:48:32.885] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:48:33.760] [DEBUG] services/smashgg/pagination - Paginated query, 24 total items
+Default: 2 @ 14/page, complexity: 238 + 30
+Optimized: 1 @ 47/page, predicted complexity: 940
+[2023-12-16T21:48:34.118] [DEBUG] services/smashgg/pagination - Actual complexity: 176
+[2023-12-16T21:50:32.885] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:50:32.890] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T21:52:32.885] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:52:32.888] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T21:54:32.886] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:54:32.896] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T21:56:32.886] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:56:32.890] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T21:58:32.886] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T21:58:32.898] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:00:32.888] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:00:32.890] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:02:32.887] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:02:32.890] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:04:32.887] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:04:32.891] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:06:32.887] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:06:32.890] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:08:32.888] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:08:32.892] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:10:32.888] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:10:32.900] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:12:32.888] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:12:32.900] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:14:32.889] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:14:32.901] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:16:32.889] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:16:32.891] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:18:32.889] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:18:32.893] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:20:32.889] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:20:32.899] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:22:32.890] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:22:32.896] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:24:32.890] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:24:32.891] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:26:32.890] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:26:32.894] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:28:32.890] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:28:32.892] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:30:32.893] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:30:32.896] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:32:32.893] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:32:32.897] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:34:32.893] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:34:32.899] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:36:32.893] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:36:32.895] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:38:32.893] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:38:32.895] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:40:32.893] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:40:32.896] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:42:32.894] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:42:32.896] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:44:32.895] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:44:32.903] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:46:32.895] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:46:32.905] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:48:32.896] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:48:32.897] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
+[2023-12-16T22:50:32.895] [DEBUG] server/bracket - Fetching sets for phase 1518713
+[2023-12-16T22:50:32.899] [ERROR] server/bracket - FetchError: request to https://api.start.gg/gql/alpha failed, reason: getaddrinfo ENOTFOUND api.start.gg
+    at ClientRequest.<anonymous> (C:\Users\Stream\nycfb\Tools\detocs\node_modules\node-fetch\lib\index.js:1491:11)
+    at ClientRequest.emit (events.js:315:20)
+    at TLSSocket.socketErrorListener (_http_client.js:426:9)
+    at TLSSocket.emit (events.js:315:20)
+    at emitErrorNT (internal/streams/destroy.js:92:8)
+    at emitErrorAndCloseNT (internal/streams/destroy.js:60:3)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21) {
+  type: 'system',
+  errno: 'ENOTFOUND',
+  code: 'ENOTFOUND'
+}
