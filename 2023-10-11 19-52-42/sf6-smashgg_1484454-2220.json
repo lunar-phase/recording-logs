@@ -5,7 +5,12 @@
   "bracketService": "smashgg",
   "phaseId": "1484454",
   "eventId": "1000568",
-  "start": "00:22:22.566",
+  "event": {
+    "tournament": {
+      "hashtag": "NLBC"
+    }
+  },
+  "start": "00:21:00",
   "end": "02:57:26.532",
   "sets": [
     {
@@ -1705,9 +1710,9 @@
           }
         ],
         "match": {
-          "id": "l4",
-          "name": "Losers Round 4",
-          "smashggId": "Losers Round 4"
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
         },
         "game": {
           "id": "sf6",
@@ -1834,6 +1839,12 @@
           ]
         }
       }
+    },
+    {
+      "id": "66251942",
+      "displayName": "lq: iDrop vs Chris Battle",
+      "start": "01:49:59",
+      "end": "01:55:55"
     },
     {
       "id": "66251943",
@@ -2340,6 +2351,12 @@
           ]
         }
       }
+    },
+    {
+      "id": "66251945",
+      "displayName": "lf: iDom vs DaFeetLee",
+      "start": "02:27:07",
+      "end": "02:34:44"
     },
     {
       "id": "66251882",

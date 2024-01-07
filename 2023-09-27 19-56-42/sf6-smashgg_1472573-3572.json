@@ -5,9 +5,103 @@
   "bracketService": "smashgg",
   "phaseId": "1472573",
   "eventId": "991223",
-  "start": "00:25:06.133",
+  "event": {
+    "tournament": {
+      "hashtag": "NLBC"
+    }
+  },
+  "start": "00:16:50",
   "end": "03:05:09.166",
   "sets": [
+    {
+      "id": "65683439",
+      "displayName": "w2: CU | SDD | JCho vs enigmatt",
+      "start": "00:17:00.000",
+      "end": "00:22:15.649",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307060119165270000",
+              "handle": "JCho",
+              "prefix": "CU | SDD",
+              "serviceIds": {
+                "smashgg": "2149121"
+              },
+              "pronouns": "He/Him/His"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307060025556150000",
+              "handle": "enigmatt",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "474049"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 297",
+        "event": "",
+        "messages": []
+      }
+    },
     {
       "id": "65683435",
       "displayName": "E - w2: Furious_malik vs GoldenCen",
@@ -2413,7 +2507,7 @@
     {
       "id": "65683448",
       "displayName": "R - gf: XSET | iDom vs NYCMastermike",
-      "start": "02:47:33.000",
+      "start": "02:46:43",
       "end": "03:05:09.166",
       "state": {
         "players": [
