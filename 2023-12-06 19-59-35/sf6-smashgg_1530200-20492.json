@@ -5,9 +5,100 @@
   "bracketService": "smashgg",
   "phaseId": "1530200",
   "eventId": "1036284",
-  "start": "00:19:37.883",
+  "start": "00:12:27",
   "end": "02:47:06.832",
   "sets": [
+    {
+      "id": "68450398",
+      "displayName": "w1: LASTREWARDS vs WhyNotSebastian",
+      "start": "00:12:54.533",
+      "end": "00:17:34.216",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202312070111577410000",
+              "handle": "LASTREWARDS",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "lastrewards",
+                "smashgg": "769016"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202309210026485150000",
+              "handle": "WhyNotSebastian",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WhyNotSebastian",
+                "smashgg": "2525465"
+              },
+              "pronouns": "He/Him/HIs"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 307",
+        "event": "",
+        "messages": []
+      }
+    },
     {
       "id": "68450400",
       "displayName": "C - w1: DZM | trifmoney vs GS Plague",
@@ -2416,7 +2507,7 @@
     {
       "id": "68450412",
       "displayName": "O - gf: Dingus Khan XI vs XSET | iDom",
-      "start": "02:32:35.782",
+      "start": "02:32:22",
       "end": "02:47:06.832",
       "state": {
         "players": [

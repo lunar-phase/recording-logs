@@ -5,11 +5,11 @@
   "bracketService": "smashgg",
   "phaseId": "1534752",
   "eventId": "1039914",
-  "start": "00:08:38.000",
+  "start": "00:07:55",
   "end": "02:27:46.299",
   "sets": [
     {
-      "id": "preview_2307744_2_1",
+      "id": "68675098",
       "displayName": "E - w2: Ready vs Dingus Khan XI",
       "start": "00:08:38.000",
       "end": "00:12:58.783",
@@ -162,6 +162,95 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "68675100",
+      "displayName": "w2: Casa. | Bunch vs GS Plague",
+      "start": "00:14:53.000",
+      "end": "00:19:42.816",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202312140114405960000",
+              "handle": "Bunch",
+              "prefix": "Casa.",
+              "serviceIds": {
+                "twitter": "BunchCasa",
+                "smashgg": "62443"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307130020566620000",
+              "handle": "GS Plague",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3482018"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 308",
+        "event": "",
+        "messages": []
       }
     },
     {

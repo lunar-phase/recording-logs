@@ -5,11 +5,11 @@
   "bracketService": "smashgg",
   "phaseId": "1520720",
   "eventId": "1028960",
-  "start": "00:09:23.949",
+  "start": "00:09:20",
   "end": "02:21:43.249",
   "sets": [
     {
-      "id": "preview_2289698_1_5",
+      "id": "67976693",
       "displayName": "C - w1: MSHFST | DrunkCarltonBanks vs ONi | COMPLEX90",
       "start": "00:09:23.949",
       "end": "00:14:21.016",
@@ -172,6 +172,100 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "67976695",
+      "displayName": "w1: Igotdembombs vs Erevan",
+      "start": "00:15:38.999",
+      "end": "00:22:17.199",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307060018108830000",
+              "handle": "Erevan",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2461740"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351440000",
+              "handle": "ChrisHuNyc",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChrisHuRocks"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 305",
+        "event": "",
+        "messages": [
+          "NLBC 305 Starting Soon"
+        ]
       }
     },
     {
@@ -2628,7 +2722,7 @@
     {
       "id": "67976703",
       "displayName": "L - gf: ONi | COMPLEX90 vs NYCMastermike",
-      "start": "02:09:43.000",
+      "start": "02:09:46",
       "end": "02:21:43.249",
       "state": {
         "players": [

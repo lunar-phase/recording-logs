@@ -5,9 +5,98 @@
   "bracketService": "smashgg",
   "phaseId": "1542768",
   "eventId": "1046192",
-  "start": "00:39:43.549",
+  "start": "00:30:31",
   "end": "02:38:21.916",
   "sets": [
+    {
+      "id": "69024750",
+      "displayName": "w1: Dang vs Dingus Khan XI",
+      "start": "00:31:59",
+      "end": "00:38:15.733",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202309070038570350000",
+              "handle": "Dingus Khan XI",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1080718"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 310",
+        "event": "",
+        "messages": []
+      }
+    },
     {
       "id": "69024755",
       "displayName": "E - w1: Superdbo vs Cozyphill",
@@ -1319,7 +1408,7 @@
     {
       "id": "69024791",
       "displayName": "V - lq: iDrop vs GS Plague",
-      "start": "01:40:30",
+      "start": "01:40:32",
       "end": "01:44:57.583",
       "state": {
         "players": [
