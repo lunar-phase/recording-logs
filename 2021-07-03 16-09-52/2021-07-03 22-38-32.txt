@@ -1,0 +1,791 @@
+22:38:32.258: Command Line Arguments: --remote-debugging-port=9222
+22:38:32.258: CPU Name: Intel(R) Core(TM) i7-9700K CPU @ 3.60GHz
+22:38:32.258: CPU Speed: 3600MHz
+22:38:32.258: Physical Cores: 8, Logical Cores: 8
+22:38:32.258: Physical Memory: 16255MB Total, 12990MB Free
+22:38:32.258: Windows Version: 10.0 Build 19041 (revision: 1052; 64-bit)
+22:38:32.258: Running as administrator: false
+22:38:32.258: Aero is Enabled (Aero is always on for windows 8 and above)
+22:38:32.258: Windows 10 Gaming Features:
+22:38:32.258: 	Game Bar: Off
+22:38:32.258: 	Game DVR: Off
+22:38:32.258: 	Game DVR Background Recording: Off
+22:38:32.260: Sec. Software Status:
+22:38:32.261: 	Microsoft Defender Antivirus: enabled (AV)
+22:38:32.262: 	Windows Firewall: enabled (FW)
+22:38:32.262: Current Date/Time: 2021-07-03, 22:38:32
+22:38:32.262: Browser Hardware Acceleration: true
+22:38:32.262: Portable mode: true
+22:38:32.406: OBS 23.1.0 (64-bit, windows)
+22:38:32.406: ---------------------------------
+22:38:32.407: ---------------------------------
+22:38:32.407: audio settings reset:
+22:38:32.407: 	samples per sec: 48000
+22:38:32.407: 	speakers:        2
+22:38:32.408: ---------------------------------
+22:38:32.408: Initializing D3D11...
+22:38:32.408: Available Video Adapters: 
+22:38:32.409: 	Adapter 1: NVIDIA GeForce GT 1030
+22:38:32.409: 	  Dedicated VRAM: 2078662656
+22:38:32.409: 	  Shared VRAM:    4227809280
+22:38:32.409: 	  output 1: pos={0, 0}, size={1920, 1080}, attached=true
+22:38:32.409: 	Adapter 2: Intel(R) UHD Graphics 630
+22:38:32.409: 	  Dedicated VRAM: 134217728
+22:38:32.409: 	  Shared VRAM:    4227809280
+22:38:32.409: 	  output 1: pos={3840, 0}, size={1920, 1080}, attached=true
+22:38:32.409: 	  output 2: pos={1920, 0}, size={1920, 1080}, attached=true
+22:38:32.411: Loading up D3D11 on adapter NVIDIA GeForce GT 1030 (0)
+22:38:32.470: D3D11 loaded successfully, feature level used: 45056
+22:38:32.989: ---------------------------------
+22:38:32.989: video settings reset:
+22:38:32.989: 	base resolution:   1920x1080
+22:38:32.989: 	output resolution: 1920x1080
+22:38:32.989: 	downscale filter:  Bicubic
+22:38:32.989: 	fps:               60/1
+22:38:32.989: 	format:            NV12
+22:38:32.989: 	YUV mode:          601/Partial
+22:38:32.989: NV12 texture support enabled
+22:38:32.991: Audio monitoring device:
+22:38:32.991: 	name: Default
+22:38:32.991: 	id: default
+22:38:32.991: ---------------------------------
+22:38:32.993: [CoreAudio encoder]: CoreAudio AAC encoder not installed on the system or couldn't be loaded
+22:38:32.994: Failed to load 'en-US' text for module: 'decklink-ouput-ui.dll'
+22:38:33.019: [AMF] AMF Test failed due to one or more errors.
+22:38:33.019: Failed to initialize module 'enc-amf.dll'
+22:38:33.031: Module '../../obs-plugins/64bit/libEGL.dll' not loaded
+22:38:33.033: [obs-browser]: Version 2.3.1
+22:38:33.095: [obs-websocket] you can haz websockets (version 4.6.1)
+22:38:33.095: [obs-websocket] qt version (compile-time): 5.10.1 ; qt version (run-time): 5.10.1
+22:38:33.096: [obs-websocket] server started successfully on port 4444
+22:38:33.096: [obs-websocket] io thread started
+22:38:33.097: [obs-websocket] module loaded!
+22:38:33.101: Failed to load 'en-US' text for module: 'StreamDeckPlugin.dll'
+22:38:33.105: VLC found, VLC video source enabled
+22:38:33.109: No blackmagic support
+22:38:33.113: ---------------------------------
+22:38:33.113:   Loaded Modules:
+22:38:33.113:     win-wasapi.dll
+22:38:33.113:     win-mf.dll
+22:38:33.113:     win-dshow.dll
+22:38:33.113:     win-decklink.dll
+22:38:33.113:     win-capture.dll
+22:38:33.113:     vlc-video.dll
+22:38:33.113:     text-freetype2.dll
+22:38:33.113:     StreamDeckPlugin.dll
+22:38:33.113:     rtmp-services.dll
+22:38:33.113:     obs-x264.dll
+22:38:33.113:     obs-websocket.dll
+22:38:33.113:     obs-vst.dll
+22:38:33.113:     obs-transitions.dll
+22:38:33.113:     obs-text.dll
+22:38:33.113:     obs-qsv11.dll
+22:38:33.113:     obs-outputs.dll
+22:38:33.114:     obs-filters.dll
+22:38:33.114:     obs-ffmpeg.dll
+22:38:33.114:     obs-browser.dll
+22:38:33.114:     image-source.dll
+22:38:33.114:     frontend-tools.dll
+22:38:33.114:     enc-amf.dll
+22:38:33.114:     decklink-ouput-ui.dll
+22:38:33.114:     coreaudio-encoder.dll
+22:38:33.114: ---------------------------------
+22:38:33.114: ==== Startup complete ===============================================
+22:38:33.129: All scene data cleared
+22:38:33.129: ------------------------------------------------
+22:38:33.373: [Media Source 'Aquapazza Warmup BGM']: settings:
+22:38:33.373: 	input:                   ./root/Resources/Music/nezamezuki.m4a
+22:38:33.373: 	input_format:            (null)
+22:38:33.373: 	speed:                   100
+22:38:33.373: 	is_looping:              yes
+22:38:33.373: 	is_hw_decoding:          yes
+22:38:33.373: 	is_clear_on_media_end:   no
+22:38:33.373: 	restart_on_activate:     yes
+22:38:33.373: 	close_when_inactive:     no
+22:38:33.528: [Media Source 'Arcana Warmup BGM']: settings:
+22:38:33.528: 	input:                   ./root/Resources/Music/fantasyland.m4a
+22:38:33.528: 	input_format:            (null)
+22:38:33.528: 	speed:                   100
+22:38:33.528: 	is_looping:              yes
+22:38:33.528: 	is_hw_decoding:          yes
+22:38:33.528: 	is_clear_on_media_end:   no
+22:38:33.528: 	restart_on_activate:     yes
+22:38:33.528: 	close_when_inactive:     no
+22:38:33.533: [Media Source 'BRB BGM']: settings:
+22:38:33.533: 	input:                   ./root/Resources/Music/sakura-koi-uta.m4a
+22:38:33.533: 	input_format:            (null)
+22:38:33.533: 	speed:                   100
+22:38:33.533: 	is_looping:              yes
+22:38:33.533: 	is_hw_decoding:          yes
+22:38:33.533: 	is_clear_on_media_end:   yes
+22:38:33.533: 	restart_on_activate:     yes
+22:38:33.533: 	close_when_inactive:     no
+22:38:33.687: [Media Source 'DFC Warmup BGM']: settings:
+22:38:33.687: 	input:                   ./root/Resources/Music/fighting_blossom.m4a
+22:38:33.687: 	input_format:            (null)
+22:38:33.687: 	speed:                   100
+22:38:33.687: 	is_looping:              yes
+22:38:33.687: 	is_hw_decoding:          yes
+22:38:33.687: 	is_clear_on_media_end:   no
+22:38:33.687: 	restart_on_activate:     yes
+22:38:33.687: 	close_when_inactive:     no
+22:38:33.740: WASAPI: Device 'Line In 1-2 (BEHRINGER X18)' initialized
+22:38:33.766: warning: deprecated pixel format used, make sure you did set range correctly
+22:38:33.777: [Media Source 'FEXL Warmup BGM']: settings:
+22:38:33.777: 	input:                   ./root/Resources/Music/ex3_character_edit.m4a
+22:38:33.777: 	input_format:            (null)
+22:38:33.777: 	speed:                   100
+22:38:33.777: 	is_looping:              yes
+22:38:33.777: 	is_hw_decoding:          yes
+22:38:33.777: 	is_clear_on_media_end:   no
+22:38:33.777: 	restart_on_activate:     yes
+22:38:33.777: 	close_when_inactive:     no
+22:38:33.889: [Media Source 'GGXX Warmup BGM']: settings:
+22:38:33.889: 	input:                   ./root/Resources/Music/havent_you_got_eyes in_your_head.m4a
+22:38:33.889: 	input_format:            (null)
+22:38:33.889: 	speed:                   100
+22:38:33.889: 	is_looping:              yes
+22:38:33.889: 	is_hw_decoding:          yes
+22:38:33.889: 	is_clear_on_media_end:   no
+22:38:33.889: 	restart_on_activate:     yes
+22:38:33.889: 	close_when_inactive:     no
+22:38:33.945: warning: deprecated pixel format used, make sure you did set range correctly
+22:38:33.951: [Media Source 'KOF Warmup BGM']: settings:
+22:38:33.951: 	input:                   ./root/Resources/Music/saxophone_under_the_moon.m4a
+22:38:33.951: 	input_format:            (null)
+22:38:33.951: 	speed:                   100
+22:38:33.951: 	is_looping:              no
+22:38:33.951: 	is_hw_decoding:          yes
+22:38:33.951: 	is_clear_on_media_end:   no
+22:38:33.951: 	restart_on_activate:     yes
+22:38:33.951: 	close_when_inactive:     no
+22:38:33.971: ---------------------------------
+22:38:33.971: [DShow Device: 'Commentator Cam'] settings updated: 
+22:38:33.971: 	video device: Video 1 (Eco Capture)
+22:38:33.971: 	video path: \\?\pci#ven_1cd7&dev_0054&subsys_00000001&rev_01#4&37732cf4&0&0008#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\video1
+22:38:33.971: 	resolution: 1920x1080
+22:38:33.971: 	fps: 30.00 (interval: 333333)
+22:38:33.971: 	format: NV12
+22:38:34.081: warning: deprecated pixel format used, make sure you did set range correctly
+22:38:34.093: [Media Source 'Koihime Warmup BGM']: settings:
+22:38:34.093: 	input:                   ./root/Resources/Music/break_through_love_and_war.ogg
+22:38:34.093: 	input_format:            (null)
+22:38:34.093: 	speed:                   100
+22:38:34.093: 	is_looping:              yes
+22:38:34.093: 	is_hw_decoding:          yes
+22:38:34.093: 	is_clear_on_media_end:   yes
+22:38:34.093: 	restart_on_activate:     yes
+22:38:34.093: 	close_when_inactive:     no
+22:38:34.146: [Media Source 'MAAB Warmup BGM']: settings:
+22:38:34.146: 	input:                   ./root/Resources/Music/combat_exercise.m4a
+22:38:34.146: 	input_format:            (null)
+22:38:34.146: 	speed:                   100
+22:38:34.146: 	is_looping:              yes
+22:38:34.146: 	is_hw_decoding:          yes
+22:38:34.146: 	is_clear_on_media_end:   no
+22:38:34.146: 	restart_on_activate:     yes
+22:38:34.146: 	close_when_inactive:     no
+22:38:34.235: [Media Source 'Melty Warmup BGM']: settings:
+22:38:34.235: 	input:                   ./root/Resources/Music/uncommon_sense.m4a
+22:38:34.235: 	input_format:            (null)
+22:38:34.235: 	speed:                   100
+22:38:34.235: 	is_looping:              yes
+22:38:34.235: 	is_hw_decoding:          yes
+22:38:34.235: 	is_clear_on_media_end:   yes
+22:38:34.235: 	restart_on_activate:     yes
+22:38:34.235: 	close_when_inactive:     no
+22:38:34.279: warning: deprecated pixel format used, make sure you did set range correctly
+22:38:34.284: [Media Source 'Nitro Warmup BGM']: settings:
+22:38:34.284: 	input:                   ./root/Resources/Music/ein_theme.m4a
+22:38:34.284: 	input_format:            (null)
+22:38:34.284: 	speed:                   100
+22:38:34.284: 	is_looping:              yes
+22:38:34.284: 	is_hw_decoding:          yes
+22:38:34.284: 	is_clear_on_media_end:   no
+22:38:34.284: 	restart_on_activate:     yes
+22:38:34.284: 	close_when_inactive:     no
+22:38:34.399: warning: deprecated pixel format used, make sure you did set range correctly
+22:38:34.406: [Media Source 'Persona Warmup BGM']: settings:
+22:38:34.406: 	input:                   ./root/Resources/Music/face_myself_special.m4a
+22:38:34.406: 	input_format:            (null)
+22:38:34.406: 	speed:                   100
+22:38:34.406: 	is_looping:              yes
+22:38:34.406: 	is_hw_decoding:          yes
+22:38:34.406: 	is_clear_on_media_end:   no
+22:38:34.406: 	restart_on_activate:     yes
+22:38:34.406: 	close_when_inactive:     no
+22:38:34.483: [Media Source 'Promo Video']: settings:
+22:38:34.483: 	input:                   ./root/Temp/TMC/Midnight Carnival Final (H264).mp4
+22:38:34.483: 	input_format:            (null)
+22:38:34.483: 	speed:                   100
+22:38:34.483: 	is_looping:              no
+22:38:34.483: 	is_hw_decoding:          yes
+22:38:34.483: 	is_clear_on_media_end:   no
+22:38:34.483: 	restart_on_activate:     yes
+22:38:34.483: 	close_when_inactive:     no
+22:38:34.484: MP: Failed to open media: './root/Temp/TMC/Midnight Carnival Final (H264).mp4'
+22:38:34.497: warning: deprecated pixel format used, make sure you did set range correctly
+22:38:34.503: [Media Source 'SG Warmup BGM']: settings:
+22:38:34.503: 	input:                   ./root/Resources/Music/where_money_flows_like_water_wip.mp3
+22:38:34.503: 	input_format:            (null)
+22:38:34.503: 	speed:                   100
+22:38:34.503: 	is_looping:              yes
+22:38:34.503: 	is_hw_decoding:          yes
+22:38:34.503: 	is_clear_on_media_end:   no
+22:38:34.503: 	restart_on_activate:     yes
+22:38:34.503: 	close_when_inactive:     no
+22:38:34.504: warning: Could not update timestamps for skipped samples.
+22:38:34.825: ---------------------------------
+22:38:34.825: [DShow Device: 'Player Cam'] settings updated: 
+22:38:34.825: 	video device: Video 2 (Eco Capture)
+22:38:34.825: 	video path: \\?\pci#ven_1cd7&dev_0054&subsys_00000001&rev_01#4&37732cf4&0&0008#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\video2
+22:38:34.825: 	resolution: 1280x720
+22:38:34.825: 	fps: 30.00 (interval: 333333)
+22:38:34.825: 	format: NV12
+22:38:34.827: [Media Source 'UNI Warmup BGM']: settings:
+22:38:34.827: 	input:                   ./root/Resources/Music/linne_remix.m4a
+22:38:34.827: 	input_format:            (null)
+22:38:34.827: 	speed:                   100
+22:38:34.827: 	is_looping:              yes
+22:38:34.827: 	is_hw_decoding:          yes
+22:38:34.827: 	is_clear_on_media_end:   yes
+22:38:34.827: 	restart_on_activate:     yes
+22:38:34.827: 	close_when_inactive:     no
+22:38:34.880: [window-capture: 'Window Capture'] update settings:
+22:38:34.880: 	executable: MBAA.exe
+22:38:34.973: warning: deprecated pixel format used, make sure you did set range correctly
+22:38:35.196: Switched to scene 'generic break'
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.199: signal_handler_connect: signal 'item_visible' not found
+22:38:35.201: Last log entry repeated for 134 more lines
+22:38:35.201: ------------------------------------------------
+22:38:35.201: Loaded scenes:
+22:38:35.201: - scene 'generic break':
+22:38:35.201:     - source: 'UNI Warmup BGM' (ffmpeg_source)
+22:38:35.201:     - source: 'Generic Break' (browser_source)
+22:38:35.201: - scene 'pre-uni':
+22:38:35.201:     - source: 'UNI Warmup BGM' (ffmpeg_source)
+22:38:35.201:     - source: 'UNI City BG' (image_source)
+22:38:35.201:     - source: 'UNIST Logo' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'UNIclr Logo' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'UNI Starting Soon' (text_gdiplus)
+22:38:35.201: - scene 'pre-melty':
+22:38:35.201:     - source: 'Melty Warmup BGM' (ffmpeg_source)
+22:38:35.201:     - source: 'Melty Pyramid BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'Melty Logo' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'Melty Starting Soon' (text_gdiplus)
+22:38:35.201: - scene 'pre-maab':
+22:38:35.201:     - source: 'MAAB Warmup BGM' (ffmpeg_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'MAAB Elle BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'Bottom Vignette' (image_source)
+22:38:35.201:     - source: 'MAAB Logo' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'MAAB Starting Soon' (text_gdiplus)
+22:38:35.201: - scene 'pre-samsho5':
+22:38:35.201:     - source: 'SamSho5 Break BGM' (vlc_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'SamSho5 Break' (browser_source)
+22:38:35.201: - scene 'pre-kof':
+22:38:35.201:     - source: 'KOF Warmup BGM' (ffmpeg_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'KOF Mexico BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'KOFXIV Logo' (image_source)
+22:38:35.201:     - source: 'KOF Starting Soon' (text_gdiplus)
+22:38:35.201: - scene 'pre-sg':
+22:38:35.201:     - source: 'SG Warmup BGM' (ffmpeg_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'SG Casino BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'SG2E Logo' (image_source)
+22:38:35.201:     - source: 'SG Starting Soon' (text_gdiplus)
+22:38:35.201: - scene 'pre-ggxx':
+22:38:35.201:     - source: 'GGXX Warmup BGM' (ffmpeg_source)
+22:38:35.201:     - source: 'GGXX Babylon BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'GGXXAC+R Logo' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'GGXX Starting Soon' (text_gdiplus)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201: - scene 'pre-dfc':
+22:38:35.201:     - source: 'DFC Warmup BGM' (ffmpeg_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'DFC Green Hill BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'DFCI Logo' (image_source)
+22:38:35.201:     - source: 'DFC Starting Soon' (text_gdiplus)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201: - scene 'pre-fexl':
+22:38:35.201:     - source: 'FEXL Warmup BGM' (ffmpeg_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'FEXL Skullo BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'FEXL Logo' (image_source)
+22:38:35.201:     - source: 'FEXL Starting Soon' (text_gdiplus)
+22:38:35.201: - scene 'pre-arcana':
+22:38:35.201:     - source: 'Arcana Warmup BGM' (ffmpeg_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'Arcana Cheer' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'Arcana Starting Soon' (text_gdiplus)
+22:38:35.201: - scene 'pre-aquapazza':
+22:38:35.201:     - source: 'Aquapazza Warmup BGM' (ffmpeg_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'Aquapazza Water BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'Aquapazza Starting Soon' (text_gdiplus)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201: - scene 'pre-nitro':
+22:38:35.201:     - source: 'Nitro Warmup BGM' (ffmpeg_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'Nitro Saya BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'Nitro Logo' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'Nitro Starting Soon' (text_gdiplus)
+22:38:35.201: - scene 'pre-koihime':
+22:38:35.201:     - source: 'Koihime Warmup BGM' (ffmpeg_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'Koihime Sparrow BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'Koihime Logo' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'Koihime Starting Soon' (text_gdiplus)
+22:38:35.201: - scene 'pre-persona':
+22:38:35.201:     - source: 'Persona Warmup BGM' (ffmpeg_source)
+22:38:35.201:         - monitoring: monitor and output
+22:38:35.201:     - source: 'Persona Gym BG' (image_source)
+22:38:35.201:         - filter: 'Color Correction' (color_filter)
+22:38:35.201:     - source: 'P4U2 Logo' (image_source)
+22:38:35.201:     - source: 'Persona Starting Soon' (text_gdiplus)
+22:38:35.201: - scene 'under night overlay':
+22:38:35.201:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.201:         - filter: 'Limiter' (limiter_filter)
+22:38:35.201:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.201:     - source: 'UNI Scoreboard' (browser_source)
+22:38:35.201: - scene 'melty overlay':
+22:38:35.201:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.201:         - filter: 'Limiter' (limiter_filter)
+22:38:35.201:     - source: 'Melty Cam' (group)
+22:38:35.201:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.201:     - source: 'Melty Scoreboard' (browser_source)
+22:38:35.201: - scene 'kof98 online overlay':
+22:38:35.201:     - source: 'FBNeo Capture' (game_capture)
+22:38:35.201:     - source: 'KOF98 Scoreboard' (browser_source)
+22:38:35.201:     - source: 'KOF Matcherino' (browser_source)
+22:38:35.201: - scene 'samsho7 overlay':
+22:38:35.201:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.201:         - filter: 'Limiter' (limiter_filter)
+22:38:35.201:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.201:     - source: 'SamSho7 Scoreboard' (browser_source)
+22:38:35.201: - scene 'gbvs overlay':
+22:38:35.201:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.201:         - filter: 'Limiter' (limiter_filter)
+22:38:35.201:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.201:     - source: 'GBVS Scoreboard' (browser_source)
+22:38:35.201: - scene 'samsho5 overlay':
+22:38:35.201:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.201:         - filter: 'Limiter' (limiter_filter)
+22:38:35.201:     - source: 'Player Cam' (dshow_input)
+22:38:35.201:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.201:     - source: 'SamSho5 Scoreboard' (browser_source)
+22:38:35.201: - scene 'garou overlay':
+22:38:35.201:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.201:         - filter: 'Limiter' (limiter_filter)
+22:38:35.201:     - source: 'Player Cam' (dshow_input)
+22:38:35.201:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.201:     - source: 'Garou Scoreboard' (browser_source)
+22:38:35.201: - scene 'bbcf overlay':
+22:38:35.201:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.201:         - filter: 'Limiter' (limiter_filter)
+22:38:35.201:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.201:     - source: 'BBCF Scoreboard' (browser_source)
+22:38:35.201: - scene 'kof xiv overlay':
+22:38:35.201:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.201:         - filter: 'Limiter' (limiter_filter)
+22:38:35.201:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.201:     - source: 'KOF Scoreboard' (browser_source)
+22:38:35.201: - scene 'gg overlay':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.202:     - source: 'GG Scoreboard' (browser_source)
+22:38:35.202: - scene 'dfc overlay':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.202:     - source: 'DFC Scoreboard' (browser_source)
+22:38:35.202: - scene 'kof02 overlay':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Player Cam' (dshow_input)
+22:38:35.202:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.202:     - source: 'KOF02 Scoreboard' (browser_source)
+22:38:35.202: - scene 'tekken overlay':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.202:     - source: 'Tekken Scoreboard' (browser_source)
+22:38:35.202: - scene 'generic overlay':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.202:     - source: 'Generic Scoreboard' (browser_source)
+22:38:35.202: - scene '16:9 + head-to-head':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Player Cam 2' (dshow_input)
+22:38:35.202:     - source: 'Player Cam' (dshow_input)
+22:38:35.202:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.202:     - source: '16:9 Head-to-Head Idle' (browser_source)
+22:38:35.202: - scene '16:9 + players':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Player Cam' (dshow_input)
+22:38:35.202:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.202:     - source: '16:9 16:9 Idle' (browser_source)
+22:38:35.202: - scene '16:9 + players 2':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Player Cam 2' (dshow_input)
+22:38:35.202:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.202:     - source: '16:9 16:9 Idle' (browser_source)
+22:38:35.202: - scene '4:3 + players':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Player Cam' (dshow_input)
+22:38:35.202:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.202:     - source: '4:3 16:9 Idle' (browser_source)
+22:38:35.202: - scene 'commentators':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Commentator Cam' (dshow_input)
+22:38:35.202:         - filter: 'GoPro Flat Enhancement' (color_filter)
+22:38:35.202:         - filter: 'Gain' (color_filter)
+22:38:35.202:     - source: 'Commentator Names' (browser_source)
+22:38:35.202:     - source: 'Matcherino Trackers' (browser_source)
+22:38:35.202: - scene 'online 16-9':
+22:38:35.202:     - source: 'Game Capture' (game_capture)
+22:38:35.202:     - source: 'Online Commentary 16-9' (browser_source)
+22:38:35.202:     - source: 'Discord Voice' (browser_source)
+22:38:35.202:     - source: 'Matcherino Trackers' (browser_source)
+22:38:35.202:     - source: 'Matcherino Tracker' (browser_source)
+22:38:35.202: - scene 'online 4-3':
+22:38:35.202:     - source: 'Placeholder BG' (image_source)
+22:38:35.202:         - filter: 'Color Correction' (color_filter)
+22:38:35.202:     - source: 'Window Capture' (window_capture)
+22:38:35.202:     - source: 'FBNeo Capture' (game_capture)
+22:38:35.202:     - source: 'Online Commentary 4-3' (browser_source)
+22:38:35.202:     - source: 'Discord Voice' (browser_source)
+22:38:35.202:     - source: 'Matcherino Trackers' (browser_source)
+22:38:35.202:     - source: 'Matcherino Tracker' (browser_source)
+22:38:35.202: - scene 'venue':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Venue Cam' (dshow_input)
+22:38:35.202:         - filter: 'Color Correction' (color_filter)
+22:38:35.202:     - source: 'Venue Overlay' (browser_source)
+22:38:35.202: - scene 'players':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Player Cam' (dshow_input)
+22:38:35.202:     - source: 'LP Logo Transparent' (image_source)
+22:38:35.202:         - filter: 'Color Correction' (color_filter)
+22:38:35.202: - scene 'info':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Bracket' (group)
+22:38:35.202:     - source: '16:9 Overlay' (group)
+22:38:35.202:         - filter: 'Image Mask/Blend' (mask_filter)
+22:38:35.202:     - source: 'TMC Bracket' (image_source)
+22:38:35.202: - scene 'promo':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Promotions' (slideshow)
+22:38:35.202:     - source: '16:9 Overlay' (group)
+22:38:35.202:         - filter: 'Image Mask/Blend' (mask_filter)
+22:38:35.202: - scene 'shill':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Matcherino 4' (browser_source)
+22:38:35.202:     - source: 'Matcherino 3' (browser_source)
+22:38:35.202:     - source: 'Matcherino 2' (browser_source)
+22:38:35.202:     - source: 'Matcherino 1' (browser_source)
+22:38:35.202:     - source: '16:9 Overlay' (group)
+22:38:35.202:         - filter: 'Image Mask/Blend' (mask_filter)
+22:38:35.202: - scene 'merch':
+22:38:35.202:     - source: 'Digital Mixer' (wasapi_input_capture)
+22:38:35.202:         - filter: 'Limiter' (limiter_filter)
+22:38:35.202:     - source: 'Merch Time 2' (browser_source)
+22:38:35.202:     - source: 'Merch Time 1' (browser_source)
+22:38:35.202:     - source: '16:9 Overlay' (group)
+22:38:35.202:         - filter: 'Image Mask/Blend' (mask_filter)
+22:38:35.202: - scene 'video':
+22:38:35.202:     - source: 'Promo Video' (ffmpeg_source)
+22:38:35.202:         - monitoring: monitor and output
+22:38:35.202: - scene 'goodbye':
+22:38:35.202:     - source: 'BRB BGM' (ffmpeg_source)
+22:38:35.202:     - source: 'UNI City BG' (image_source)
+22:38:35.202:     - source: 'Team Logo Light Large' (image_source)
+22:38:35.202:         - filter: 'Color Correction' (color_filter)
+22:38:35.202:     - source: 'Thanks' (text_gdiplus)
+22:38:35.202:     - source: 'Twitter Logo' (image_source)
+22:38:35.202:         - filter: 'Color Correction' (color_filter)
+22:38:35.202:     - source: 'Team Twitter Handle' (text_gdiplus)
+22:38:35.202: - scene 'dashboard':
+22:38:35.202:     - source: 'Video Capture Device' (dshow_input)
+22:38:35.202:     - source: 'Venue Cam' (dshow_input)
+22:38:35.202:         - filter: 'Color Correction' (color_filter)
+22:38:35.202:     - source: 'Player Cam 2' (dshow_input)
+22:38:35.202:     - source: 'Player Cam' (dshow_input)
+22:38:35.202:     - source: 'Commentator Cam' (dshow_input)
+22:38:35.202:         - filter: 'GoPro Flat Enhancement' (color_filter)
+22:38:35.202:         - filter: 'Gain' (color_filter)
+22:38:35.202:     - source: 'Commentator Dashboard' (browser_source)
+22:38:35.202: ------------------------------------------------
+22:38:36.103: ---------------------------------
+22:38:36.103: [DShow Device: 'Video Capture Device'] settings updated: 
+22:38:36.103: 	video device: Video 4 (Eco Capture)
+22:38:36.103: 	video path: \\?\pci#ven_1cd7&dev_0054&subsys_00000001&rev_01#4&37732cf4&0&0008#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\video4
+22:38:36.103: 	resolution: 1920x1080
+22:38:36.103: 	fps: 60.00 (interval: 166666)
+22:38:36.103: 	format: NV12
+22:38:36.107: ---------------------------------
+22:38:36.107: [DShow Device: 'Venue Cam'] settings updated: 
+22:38:36.107: 	video device: Video 3 (Eco Capture)
+22:38:36.107: 	video path: \\?\pci#ven_1cd7&dev_0054&subsys_00000001&rev_01#4&37732cf4&0&0008#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\video3
+22:38:36.107: 	resolution: 1920x1080
+22:38:36.107: 	fps: 30.00 (interval: 333333)
+22:38:36.107: 	format: NV12
+22:38:36.187: ---------------------------------
+22:38:36.187: [DShow Device: 'Player Cam 2'] settings updated: 
+22:38:36.187: 	video device: QP0203 PCI, Analog 01 Capture
+22:38:36.187: 	video path: \\?\pci#ven_1af2&dev_a001&subsys_a0011af2&rev_00#6&3662e543&0&00080009#{65e8773d-8f56-11d0-a3b9-00a0c9223196}\{6f814be9-9af6-43cf-9249-c03401000221}
+22:38:36.187: 	resolution: 1280x720
+22:38:36.187: 	fps: 60.00 (interval: 166666)
+22:38:36.187: 	format: YUY2
+22:38:36.504: 	using video device audio: no
+22:38:36.504: 	audio device: Audio 4 (00 Eco Capture Quad SDI M.2)
+22:38:36.504: 	sample rate: 44100
+22:38:36.504: 	channels: 2
+22:38:36.504: 	audio type: Capture
+22:38:36.559: adding 21 milliseconds of audio buffering, total audio buffering is now 21 milliseconds (source: Video Capture Device)
+22:38:36.559: 
+22:38:36.755: obs-browser: Failed to load https://api.betterttv.net/2/emotes: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://absolute' is therefore not allowed access. The response had HTTP status code 403. (source: http://absolute/root/Dynamic%20Overlays/Commentator%20Dashboard/kapchat.html?theme=dark&channel=lunarphaselive&fade=false&bot_activity=false&prevent_clipping=false:0)
+22:38:36.757: obs-browser: Failed to load https://api.betterttv.net/2/channels/lunarphaselive: No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'http://absolute' is therefore not allowed access. The response had HTTP status code 403. (source: http://absolute/root/Dynamic%20Overlays/Commentator%20Dashboard/kapchat.html?theme=dark&channel=lunarphaselive&fade=false&bot_activity=false&prevent_clipping=false:0)
+22:38:38.253: adding 21 milliseconds of audio buffering, total audio buffering is now 42 milliseconds (source: Video Capture Device)
+22:38:38.253: 
+22:38:38.809: obs-browser: WebSocket connection to 'ws://127.0.0.1:6463/?v=1&client_id=207646673902501888' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED (source: https://streamkit.discord.com/overlay/3ca453aad1ff12db27e3.js:24)
+22:38:38.811: obs-browser: WS Closed:  (source: https://streamkit.discord.com/overlay/1673efc96b37223f6867.js:38)
+22:38:38.925: obs-browser: WebSocket connection to 'ws://localhost:58585/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED (source: http://absolute/root/Dynamic%20Overlays/SamSho7%20Scoreboard/js/scoreboard.js:553)
+22:38:38.925: obs-browser: WebSocket connection to 'ws://localhost:58341/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED (source: http://absolute/root/Dynamic%20Overlays/UNI%20Scoreboard/js/scoreboard.js:1444)
+22:38:38.926: obs-browser: [object Event] (source: http://absolute/root/Dynamic%20Overlays/SamSho7%20Scoreboard/js/scoreboard.js:216)
+22:38:38.926: obs-browser: [object Event] (source: http://absolute/root/Dynamic%20Overlays/UNI%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.502: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/SamSho5%20Break/js/scoreboard.js:216)
+22:38:39.502: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/SamSho5%20Break/js/scoreboard.js:1107)
+22:38:39.505: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/SamSho7%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.517: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/SamSho5%20Scoreboard/js/scoreboard.js:216)
+22:38:39.518: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/SamSho5%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.529: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Venue%20Overlay/js/scoreboard.js:216)
+22:38:39.529: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Venue%20Overlay/js/scoreboard.js:1107)
+22:38:39.544: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/UNI%20Scoreboard/js/scoreboard.js:216)
+22:38:39.609: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Online%20Commentator%20Overlay/js/scoreboard.js:216)
+22:38:39.610: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Online%20Commentator%20Overlay/js/scoreboard.js:1107)
+22:38:39.622: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Online%20Commentator%20Overlay%204-3/js/scoreboard.js:216)
+22:38:39.624: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Online%20Commentator%20Overlay%204-3/js/scoreboard.js:1107)
+22:38:39.683: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF98%20Online%20Scoreboard/js/scoreboard.js:216)
+22:38:39.683: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF98%20Online%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.849: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF%20Scoreboard/js/scoreboard.js:216)
+22:38:39.850: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.854: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Commentator%20Dashboard/js/scoreboard.js:216)
+22:38:39.855: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Commentator%20Dashboard/js/scoreboard.js:1107)
+22:38:39.861: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/GBVS%20Scoreboard/js/scoreboard.js:216)
+22:38:39.862: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/GBVS%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.867: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Melty%20Scoreboard/js/scoreboard.js:216)
+22:38:39.868: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Melty%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.874: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF02%20Scoreboard/js/scoreboard.js:216)
+22:38:39.875: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF02%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.879: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Garou%20Scoreboard/js/scoreboard.js:216)
+22:38:39.880: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Garou%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.908: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/BBCF%20Scoreboard/js/scoreboard.js:216)
+22:38:39.909: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/BBCF%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.909: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Generic%20Scoreboard/js/scoreboard.js:216)
+22:38:39.910: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Generic%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.912: obs-browser: [object Object] (source: http://absolute/C:/Users/Stream/OBS/NYCFB/OBS-Studio/bin/64bit/root/Dynamic%20Overlays/Commentator%20Overlay/js/scoreboard.js:216)
+22:38:39.913: obs-browser: [object Object] (source: http://absolute/C:/Users/Stream/OBS/NYCFB/OBS-Studio/bin/64bit/root/Dynamic%20Overlays/Commentator%20Overlay/js/scoreboard.js:1107)
+22:38:39.930: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Head-to-Head/js/scoreboard.js:216)
+22:38:39.930: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Head-to-Head/js/scoreboard.js:1107)
+22:38:39.958: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Generic%20Break/js/scoreboard.js:216)
+22:38:39.959: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Generic%20Break/js/scoreboard.js:1107)
+22:38:39.963: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Idle/js/scoreboard.js:216)
+22:38:39.964: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Idle/js/scoreboard.js:1107)
+22:38:39.964: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/DFC%20Scoreboard/js/scoreboard.js:216)
+22:38:39.965: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/DFC%20Scoreboard/js/scoreboard.js:1107)
+22:38:39.966: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Idle%204-3/js/scoreboard.js:216)
+22:38:39.967: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Idle%204-3/js/scoreboard.js:1107)
+22:38:39.990: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/GG%20Scoreboard/js/scoreboard.js:216)
+22:38:39.990: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/GG%20Scoreboard/js/scoreboard.js:1107)
+22:38:40.662: User switched to scene 'dashboard'
+22:38:40.677: A sprite cannot be drawn without a width/height
+22:38:40.678: A sprite cannot be drawn without a width/height
+22:38:40.820: obs-browser: WebSocket connection to 'ws://127.0.0.1:6464/?v=1&client_id=207646673902501888' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED (source: https://streamkit.discord.com/overlay/3ca453aad1ff12db27e3.js:24)
+22:38:40.820: obs-browser: WS Closed:  (source: https://streamkit.discord.com/overlay/1673efc96b37223f6867.js:38)
+22:38:42.824: obs-browser: WebSocket connection to 'ws://127.0.0.1:6465/?v=1&client_id=207646673902501888' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED (source: https://streamkit.discord.com/overlay/3ca453aad1ff12db27e3.js:24)
+22:38:42.825: obs-browser: WS Closed:  (source: https://streamkit.discord.com/overlay/1673efc96b37223f6867.js:38)
+22:38:42.940: User switched to scene 'goodbye'
+22:38:43.212: obs-browser: WebSocket connection to 'ws://localhost:58585/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED (source: http://absolute/root/Dynamic%20Overlays/SamSho5%20Break/js/scoreboard.js:553)
+22:38:43.212: obs-browser: [object Event] (source: http://absolute/root/Dynamic%20Overlays/SamSho5%20Break/js/scoreboard.js:216)
+22:38:43.322: obs-browser: WebSocket connection to 'ws://localhost:58341/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED (source: http://absolute/C:/Users/Stream/OBS/NYCFB/OBS-Studio/bin/64bit/root/Dynamic%20Overlays/Commentator%20Overlay/js/scoreboard.js:1444)
+22:38:43.322: obs-browser: [object Event] (source: http://absolute/C:/Users/Stream/OBS/NYCFB/OBS-Studio/bin/64bit/root/Dynamic%20Overlays/Commentator%20Overlay/js/scoreboard.js:1107)
+22:38:43.485: User switched to scene 'dashboard'
+22:38:44.831: obs-browser: WebSocket connection to 'ws://127.0.0.1:6466/?v=1&client_id=207646673902501888' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED (source: https://streamkit.discord.com/overlay/3ca453aad1ff12db27e3.js:24)
+22:38:44.831: obs-browser: WS Closed:  (source: https://streamkit.discord.com/overlay/1673efc96b37223f6867.js:38)
+22:38:45.005: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Online%20Commentator%20Overlay%204-3/js/scoreboard.js:216)
+22:38:45.347: obs-browser: WebSocket connection to 'ws://localhost:58341/' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED (source: http://absolute/root/Dynamic%20Overlays/Idle%204-3/js/scoreboard.js:1444)
+22:38:45.348: obs-browser: [object Event] (source: http://absolute/root/Dynamic%20Overlays/Idle%204-3/js/scoreboard.js:1107)
+22:38:45.602: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Garou%20Scoreboard/js/scoreboard.js:216)
+22:38:45.669: User switched to scene 'generic break'
+22:38:45.912: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Online%20Commentator%20Overlay/js/scoreboard.js:1107)
+22:38:46.035: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF02%20Scoreboard/js/scoreboard.js:216)
+22:38:46.117: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Garou%20Scoreboard/js/scoreboard.js:1107)
+22:38:46.198: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/SamSho5%20Break/js/scoreboard.js:1107)
+22:38:46.231: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Melty%20Scoreboard/js/scoreboard.js:216)
+22:38:46.244: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/DFC%20Scoreboard/js/scoreboard.js:216)
+22:38:46.265: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF%20Scoreboard/js/scoreboard.js:216)
+22:38:46.290: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Venue%20Overlay/js/scoreboard.js:1107)
+22:38:46.505: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/GBVS%20Scoreboard/js/scoreboard.js:1107)
+22:38:46.543: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF%20Scoreboard/js/scoreboard.js:1107)
+22:38:46.771: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF02%20Scoreboard/js/scoreboard.js:1107)
+22:38:46.837: obs-browser: WebSocket connection to 'ws://127.0.0.1:6467/?v=1&client_id=207646673902501888' failed: Error in connection establishment: net::ERR_CONNECTION_REFUSED (source: https://streamkit.discord.com/overlay/3ca453aad1ff12db27e3.js:24)
+22:38:46.838: obs-browser: WS Closed:  (source: https://streamkit.discord.com/overlay/1673efc96b37223f6867.js:38)
+22:38:46.878: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Commentator%20Dashboard/js/scoreboard.js:1107)
+22:38:46.918: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/BBCF%20Scoreboard/js/scoreboard.js:216)
+22:38:46.960: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/SamSho7%20Scoreboard/js/scoreboard.js:216)
+22:38:47.159: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Idle/js/scoreboard.js:216)
+22:38:47.170: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Head-to-Head/js/scoreboard.js:1107)
+22:38:47.349: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/UNI%20Scoreboard/js/scoreboard.js:216)
+22:38:47.350: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Idle%204-3/js/scoreboard.js:216)
+22:38:47.386: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Venue%20Overlay/js/scoreboard.js:216)
+22:38:47.405: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/UNI%20Scoreboard/js/scoreboard.js:1107)
+22:38:47.441: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF98%20Online%20Scoreboard/js/scoreboard.js:216)
+22:38:47.446: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/GBVS%20Scoreboard/js/scoreboard.js:216)
+22:38:47.596: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Melty%20Scoreboard/js/scoreboard.js:1107)
+22:38:47.680: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/BBCF%20Scoreboard/js/scoreboard.js:1107)
+22:38:47.683: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/GG%20Scoreboard/js/scoreboard.js:216)
+22:38:47.801: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/GG%20Scoreboard/js/scoreboard.js:1107)
+22:38:47.806: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Online%20Commentator%20Overlay%204-3/js/scoreboard.js:1107)
+22:38:47.808: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/KOF98%20Online%20Scoreboard/js/scoreboard.js:1107)
+22:38:47.825: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/SamSho5%20Scoreboard/js/scoreboard.js:216)
+22:38:47.876: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Commentator%20Dashboard/js/scoreboard.js:216)
+22:38:47.878: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Generic%20Break/js/scoreboard.js:216)
+22:38:47.936: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Online%20Commentator%20Overlay/js/scoreboard.js:216)
+22:38:48.026: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/DFC%20Scoreboard/js/scoreboard.js:1107)
+22:38:48.060: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/SamSho5%20Scoreboard/js/scoreboard.js:1107)
+22:38:48.189: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Generic%20Scoreboard/js/scoreboard.js:1107)
+22:38:48.307: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/SamSho7%20Scoreboard/js/scoreboard.js:1107)
+22:38:48.483: ==== Shutting down ==================================================
+22:38:48.510: Switched to scene '(null)'
+22:38:48.673: WASAPI: Device 'Line In 1-2 (BEHRINGER X18)' Terminated
+22:38:48.878: obs-browser: [object Object] (source: http://absolute/root/Dynamic%20Overlays/Generic%20Break/js/scoreboard.js:1107)
+22:38:50.278: All scene data cleared
+22:38:50.278: ------------------------------------------------
+22:38:50.342: Freeing OBS context data
+22:38:50.360: [obs-websocket] io thread exited
+22:38:50.361: [obs-websocket] server stopped successfully
+22:38:50.361: [obs-websocket] goodbye!
+22:38:50.405: [Scripting] Total detached callbacks: 3
+22:38:50.411: == Profiler Results =============================
+22:38:50.411: run_program_init: 3366.32 ms
+22:38:50.411:  ┣OBSApp::AppInit: 24.298 ms
+22:38:50.411:  ┃ ┗OBSApp::InitLocale: 0.81 ms
+22:38:50.411:  ┗OBSApp::OBSInit: 3279.04 ms
+22:38:50.411:    ┣obs_startup: 4.115 ms
+22:38:50.411:    ┗OBSBasic::OBSInit: 3130.22 ms
+22:38:50.411:      ┣OBSBasic::InitBasicConfig: 0.287 ms
+22:38:50.411:      ┣OBSBasic::ResetAudio: 0.117 ms
+22:38:50.411:      ┣OBSBasic::ResetVideo: 583.604 ms
+22:38:50.411:      ┣OBSBasic::InitOBSCallbacks: 0.004 ms
+22:38:50.411:      ┣OBSBasic::InitHotkeys: 0.046 ms
+22:38:50.411:      ┣obs_load_all_modules: 122.697 ms
+22:38:50.411:      ┃ ┣obs_init_module(coreaudio-encoder.dll): 0.455 ms
+22:38:50.411:      ┃ ┣obs_init_module(decklink-ouput-ui.dll): 0.28 ms
+22:38:50.411:      ┃ ┣obs_init_module(enc-amf.dll): 23.517 ms
+22:38:50.411:      ┃ ┣obs_init_module(frontend-tools.dll): 2.91 ms
+22:38:50.411:      ┃ ┣obs_init_module(image-source.dll): 0.003 ms
+22:38:50.411:      ┃ ┣obs_init_module(obs-browser.dll): 0.216 ms
+22:38:50.411:      ┃ ┣obs_init_module(obs-ffmpeg.dll): 0.218 ms
+22:38:50.411:      ┃ ┃ ┗nvenc_check: 0.205 ms
+22:38:50.411:      ┃ ┣obs_init_module(obs-filters.dll): 0.008 ms
+22:38:50.411:      ┃ ┣obs_init_module(obs-outputs.dll): 0.004 ms
+22:38:50.411:      ┃ ┣obs_init_module(obs-qsv11.dll): 55.201 ms
+22:38:50.411:      ┃ ┣obs_init_module(obs-text.dll): 0.143 ms
+22:38:50.411:      ┃ ┣obs_init_module(obs-transitions.dll): 0.005 ms
+22:38:50.411:      ┃ ┣obs_init_module(obs-vst.dll): 0.001 ms
+22:38:50.411:      ┃ ┣obs_init_module(obs-websocket.dll): 1.344 ms
+22:38:50.411:      ┃ ┣obs_init_module(obs-x264.dll): 0.001 ms
+22:38:50.411:      ┃ ┣obs_init_module(rtmp-services.dll): 1.156 ms
+22:38:50.411:      ┃ ┣obs_init_module(StreamDeckPlugin.dll): 1.545 ms
+22:38:50.411:      ┃ ┣obs_init_module(text-freetype2.dll): 0.176 ms
+22:38:50.411:      ┃ ┣obs_init_module(vlc-video.dll): 1.337 ms
+22:38:50.411:      ┃ ┣obs_init_module(win-capture.dll): 0.186 ms
+22:38:50.411:      ┃ ┣obs_init_module(win-decklink.dll): 2.757 ms
+22:38:50.411:      ┃ ┣obs_init_module(win-dshow.dll): 1.44 ms
+22:38:50.411:      ┃ ┣obs_init_module(win-mf.dll): 0 ms
+22:38:50.411:      ┃ ┣obs_init_module(win-wasapi.dll): 0.003 ms
+22:38:50.411:      ┃ ┗reset_win32_symbol_paths: 0.16 ms
+22:38:50.411:      ┣OBSBasic::ResetOutputs: 0.617 ms
+22:38:50.411:      ┣OBSBasic::CreateHotkeys: 0.016 ms
+22:38:50.411:      ┣OBSBasic::InitService: 4.293 ms
+22:38:50.411:      ┣OBSBasic::InitPrimitives: 0.065 ms
+22:38:50.411:      ┗OBSBasic::Load: 2090.45 ms
+22:38:50.411: obs_hotkey_thread(25 ms): min=0.002 ms, median=0.005 ms, max=0.464 ms, 99th percentile=0.232 ms, 100% below 25 ms
+22:38:50.411: audio_thread(Audio): min=0 ms, median=0.066 ms, max=7.235 ms, 99th percentile=0.519 ms
+22:38:50.411: obs_graphics_thread(16.6667 ms): min=0.101 ms, median=0.466 ms, max=2004.71 ms, 99th percentile=4.574 ms, 99.8914% below 16.667 ms
+22:38:50.411:  ┣tick_sources: min=0.002 ms, median=0.078 ms, max=2004.57 ms, 99th percentile=1.788 ms
+22:38:50.411:  ┣output_frame: min=0.049 ms, median=0.226 ms, max=8.315 ms, 99th percentile=3.118 ms
+22:38:50.411:  ┃ ┗gs_context(video->graphics): min=0.048 ms, median=0.226 ms, max=8.315 ms, 99th percentile=3.117 ms
+22:38:50.411:  ┃   ┣render_video: min=0.005 ms, median=0.058 ms, max=8.238 ms, 99th percentile=2.379 ms
+22:38:50.411:  ┃   ┃ ┗render_main_texture: min=0.004 ms, median=0.053 ms, max=8.232 ms, 99th percentile=2.374 ms
+22:38:50.411:  ┃   ┗gs_flush: min=0.034 ms, median=0.132 ms, max=4.349 ms, 99th percentile=0.35 ms
+22:38:50.411:  ┗render_displays: min=0 ms, median=0.099 ms, max=3.623 ms, 99th percentile=0.484 ms
+22:38:50.411: =================================================
+22:38:50.411: == Profiler Time Between Calls ==================
+22:38:50.411: obs_hotkey_thread(25 ms): min=24.926 ms, median=25.928 ms, max=31.605 ms, 17.8827% within ±2% of 25 ms (0% lower, 82.1173% higher)
+22:38:50.411: obs_graphics_thread(16.6667 ms): min=0.34 ms, median=16.667 ms, max=2004.71 ms, 81.8478% within ±2% of 16.667 ms (9.02174% lower, 9.13043% higher)
+22:38:50.411: =================================================
+22:38:50.424: Number of memory leaks: 0
