@@ -1,0 +1,95 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-02-14 19-56-50.mkv",
+  "start": "00:18:06.000",
+  "end": "00:26:31.599",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: sadtitled vs Jsaav",
+      "start": "00:21:07.933",
+      "end": "00:26:31.599",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202402010047285010000",
+              "handle": "sadtitled",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3019694"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202402150112469350000",
+              "handle": "Jsaav",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jsaavaage",
+                "smashgg": "2869486"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 317",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-01-31 19-49-42.mkv",
+  "phaseId": "unknown",
+  "start": "00:25:30.149",
+  "end": "00:30:16.666",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: Sharkaholic vs Bomzai",
+      "start": "00:25:30.149",
+      "end": "00:30:16.666",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202402010109434140000",
+              "handle": "Sharkaholic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "570812"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202402010109434150000",
+              "handle": "Bomzai",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2921668"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Bloodhawk_",
+                "smashgg": "425574"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}

@@ -1,0 +1,100 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-02-21 19-53-49.mkv",
+  "start": "00:14:08.899",
+  "end": "00:19:30.033",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: Azure Dynamo vs GS Plague",
+      "start": "00:14:36.449",
+      "end": "00:19:30.033",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202402220105452160000",
+              "handle": "Azure Dynamo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1408098"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307130020566620000",
+              "handle": "GS Plague",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3482018"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 318",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}

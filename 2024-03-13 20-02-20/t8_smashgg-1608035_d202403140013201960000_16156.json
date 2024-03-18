@@ -1,0 +1,1573 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-03-13 20-02-20.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1608035",
+  "eventId": "1097014",
+  "start": "00:10:53.000",
+  "end": "02:21:15.132",
+  "thumbnailTimestamp": "00:41:52.699",
+  "sets": [
+    {
+      "id": "72001735",
+      "displayName": "H - w2: Mikoto_x_yata vs Aroo",
+      "start": "00:12:05.983",
+      "end": "00:21:37.199",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202107252246361950000",
+              "handle": "Mikoto_x_yata",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MIKOTO_x_YATA",
+                "smashgg": "1164100"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 321",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "72001735",
+            "phaseId": "1608035",
+            "phaseGroupId": "2404509"
+          },
+          "match": {
+            "id": "w2",
+            "name": "Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - w2: Mikoto_x_yata vs Aroo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Mikoto_x_yata",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1164100",
+                  "handle": "Mikoto_x_yata",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MIKOTO_x_YATA"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Aroo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "372499",
+                  "handle": "Aroo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "aroolee"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "72001731",
+      "displayName": "D - w2: A Snazzy Ninja vs NYC TKN | L&C | Helst",
+      "start": "00:23:34.433",
+      "end": "00:28:30.349",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140026008800000",
+              "handle": "A Snazzy Ninja",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1726258"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403140026008750000",
+              "handle": "Helst",
+              "prefix": "NYC TKN | L&C",
+              "serviceIds": {
+                "twitter": "HelstNYC",
+                "smashgg": "903574"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 321",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "72001731",
+            "phaseId": "1608035",
+            "phaseGroupId": "2404509"
+          },
+          "match": {
+            "id": "w2",
+            "name": "Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - w2: NYC TKN | L&C | Helst vs A Snazzy Ninja",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC TKN | L&C | Helst",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "903574",
+                  "handle": "Helst",
+                  "prefix": "NYC TKN | L&C",
+                  "serviceIds": {
+                    "twitter": "HelstNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "A Snazzy Ninja",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1726258",
+                  "handle": "A Snazzy Ninja",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "72001739",
+      "displayName": "L - wq: bogura vs binaryBrandon",
+      "start": "00:30:28.599",
+      "end": "00:35:13.233",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403140032157160000",
+              "handle": "binaryBrandon",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3023075"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 321",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "72001739",
+            "phaseId": "1608035",
+            "phaseGroupId": "2404509"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - wq: bogura vs binaryBrandon",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "binaryBrandon",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3023075",
+                  "handle": "binaryBrandon",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "72001737",
+      "displayName": "J - wq: Lilsybil vs WinnieCommittee",
+      "start": "00:38:07.283",
+      "end": "00:44:27.149",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140039225020000",
+              "handle": "Lilsybil",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3942820"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351560000",
+              "handle": "WinnieCommittee",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WinnieCommittee",
+                "smashgg": "1165433"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 321",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "72001737",
+            "phaseId": "1608035",
+            "phaseGroupId": "2404509"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - wq: WinnieCommittee vs Lilsybil",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WinnieCommittee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1165433",
+                  "handle": "WinnieCommittee",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "WinnieCommittee"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Lilsybil",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3942820",
+                  "handle": "Lilsybil",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "72001742",
+      "displayName": "O - ws: bogura vs Casual",
+      "start": "00:47:02.066",
+      "end": "00:54:28.166",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403140049145140000",
+              "handle": "Casual",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3942871"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 321",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "72001742",
+            "phaseId": "1608035",
+            "phaseGroupId": "2404509"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - ws: bogura vs Casual",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Casual",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3942871",
+                  "handle": "Casual",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "72001741",
+      "displayName": "N - ws: A Snazzy Ninja vs WinnieCommittee",
+      "start": "00:57:05.616",
+      "end": "01:08:13.016",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140026008800000",
+              "handle": "A Snazzy Ninja",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1726258"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351560000",
+              "handle": "WinnieCommittee",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WinnieCommittee",
+                "smashgg": "1165433"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 321",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "72001741",
+            "phaseId": "1608035",
+            "phaseGroupId": "2404509"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - ws: WinnieCommittee vs A Snazzy Ninja",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WinnieCommittee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1165433",
+                  "handle": "WinnieCommittee",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "WinnieCommittee"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "A Snazzy Ninja",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1726258",
+                  "handle": "A Snazzy Ninja",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "72001804",
+      "displayName": "AD - lq: KPB | KC14 | Flow Beat (Designer CLK) vs Casual",
+      "start": "01:09:39.216",
+      "end": "01:14:22.949",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272202135460000",
+              "handle": "Designer CLK",
+              "prefix": "KPB | KC14",
+              "serviceIds": {
+                "twitter": "FlowBeatCURUS",
+                "smashgg": "413544"
+              },
+              "pronouns": "She/They",
+              "alias": "Flow Beat"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403140049145140000",
+              "handle": "Casual",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3942871"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 321",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "72001804",
+            "phaseId": "1608035",
+            "phaseGroupId": "2404509"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "AD",
+          "displayName": "AD - lq: Casual vs byetekken1",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Casual",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3942871",
+                  "handle": "Casual",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "byetekken1",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3859671",
+                  "handle": "byetekken1",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "72001743",
+      "displayName": "P - wf: bogura vs WinnieCommittee",
+      "start": "01:16:03.533",
+      "end": "01:32:10.216",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351560000",
+              "handle": "WinnieCommittee",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WinnieCommittee",
+                "smashgg": "1165433"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 321",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "72001743",
+            "phaseId": "1608035",
+            "phaseGroupId": "2404509"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "P",
+          "displayName": "P - wf: WinnieCommittee vs bogura",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WinnieCommittee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1165433",
+                  "handle": "WinnieCommittee",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "WinnieCommittee"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "72001806",
+      "displayName": "AF - ls: Mikoto_x_yata vs Casual",
+      "start": "01:33:21.249",
+      "end": "01:43:12.699",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202107252246361950000",
+              "handle": "Mikoto_x_yata",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MIKOTO_x_YATA",
+                "smashgg": "1164100"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403140049145140000",
+              "handle": "Casual",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3942871"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 321",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "72001806",
+            "phaseId": "1608035",
+            "phaseGroupId": "2404509"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "AF",
+          "displayName": "AF - ls: Casual vs Mikoto_x_yata",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Casual",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3942871",
+                  "handle": "Casual",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Mikoto_x_yata",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1164100",
+                  "handle": "Mikoto_x_yata",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MIKOTO_x_YATA"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "72001807",
+      "displayName": "AG - lf: Mikoto_x_yata vs WinnieCommittee",
+      "start": "01:44:35.783",
+      "end": "01:56:09.633",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202107252246361950000",
+              "handle": "Mikoto_x_yata",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MIKOTO_x_YATA",
+                "smashgg": "1164100"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351560000",
+              "handle": "WinnieCommittee",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WinnieCommittee",
+                "smashgg": "1165433"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351800001",
+              "handle": "Helst",
+              "prefix": "NYC Tekken",
+              "serviceIds": {
+                "twitter": "HelstNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 321",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "72001807",
+            "phaseId": "1608035",
+            "phaseGroupId": "2404509"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "AG",
+          "displayName": "AG - lf: WinnieCommittee vs Mikoto_x_yata",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WinnieCommittee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1165433",
+                  "handle": "WinnieCommittee",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "WinnieCommittee"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Mikoto_x_yata",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1164100",
+                  "handle": "Mikoto_x_yata",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MIKOTO_x_YATA"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": null,
+      "displayName": "Current Set",
+      "start": "01:57:39.249",
+      "end": "02:21:15.132",
+      "state": null
+    }
+  ]
+}

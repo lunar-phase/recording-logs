@@ -1,0 +1,843 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-01-13 18-40-53.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1544459",
+  "eventId": "1047475",
+  "start": "02:18:59.732",
+  "end": "03:02:08.399",
+  "sets": [
+    {
+      "id": "69525796",
+      "displayName": "I - wf: WPC | Mahouko vs Garbage",
+      "start": "02:18:59.732",
+      "end": "02:21:56.349",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350780002",
+              "handle": "Mahouko",
+              "prefix": "WPC",
+              "serviceIds": {
+                "twitter": "Mahouko",
+                "smashgg": "399361",
+                "challonge": "133791081"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202311120110301010000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202401140150407630000",
+              "handle": "Benfish",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Guilty Gear Accent Core +r",
+        "event": "Lunatic Perilune #31",
+        "messages": [
+          "+R soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "69525796",
+            "phaseId": "1544459",
+            "phaseGroupId": "2320675"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - wf: WPC | Mahouko vs Garbage",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WPC | Mahouko",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "399361",
+                  "handle": "Mahouko",
+                  "prefix": "WPC",
+                  "serviceIds": {
+                    "twitter": "Mahouko"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Garbage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "69525825",
+      "displayName": "P - lq: LP/WASD | Lem vs ChexGuy",
+      "start": "02:25:45.232",
+      "end": "02:29:25.932",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350090000",
+              "handle": "ChexGuy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChexGuy",
+                "smashgg": "328359"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202311120110301010000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350780002",
+              "handle": "Mahouko",
+              "prefix": "WPC",
+              "serviceIds": {
+                "twitter": "Mahouko",
+                "smashgg": "399361",
+                "challonge": "133791081"
+              }
+            }
+          }
+        ],
+        "tournament": "Guilty Gear Accent Core +r",
+        "event": "Lunatic Perilune #31",
+        "messages": [
+          "+R soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "69525825",
+            "phaseId": "1544459",
+            "phaseGroupId": "2320675"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "P",
+          "displayName": "P - lq: LP/WASD | Lem vs ChexGuy",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP/WASD | Lem",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem",
+                  "prefix": "LP/WASD",
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "ChexGuy",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "328359",
+                  "handle": "ChexGuy",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "ChexGuy"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "69525827",
+      "displayName": "R - ls: LP/WASD | Lem vs Circuit Sturgeon",
+      "start": "02:31:23.732",
+      "end": "02:36:42.449",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202311120206512860000",
+              "handle": "Circuit Sturgeon",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3570534"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202311120110301010000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350780002",
+              "handle": "Mahouko",
+              "prefix": "WPC",
+              "serviceIds": {
+                "twitter": "Mahouko",
+                "smashgg": "399361",
+                "challonge": "133791081"
+              }
+            }
+          }
+        ],
+        "tournament": "Guilty Gear Accent Core +r",
+        "event": "Lunatic Perilune #31",
+        "messages": [
+          "+R soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "69525827",
+            "phaseId": "1544459",
+            "phaseGroupId": "2320675"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - ls: LP/WASD | Lem vs Circuit Sturgeon",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP/WASD | Lem",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem",
+                  "prefix": "LP/WASD",
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Circuit Sturgeon",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3570534",
+                  "handle": "Circuit Sturgeon",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "69525828",
+      "displayName": "S - lf: Garbage vs Circuit Sturgeon",
+      "start": "02:38:15.032",
+      "end": "02:50:01.499",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202311120110301010000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202311120206512860000",
+              "handle": "Circuit Sturgeon",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3570534"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202311120110301010000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350780002",
+              "handle": "Mahouko",
+              "prefix": "WPC",
+              "serviceIds": {
+                "twitter": "Mahouko",
+                "smashgg": "399361",
+                "challonge": "133791081"
+              }
+            }
+          }
+        ],
+        "tournament": "Guilty Gear Accent Core +r",
+        "event": "Lunatic Perilune #31",
+        "messages": [
+          "+R soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "69525828",
+            "phaseId": "1544459",
+            "phaseGroupId": "2320675"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - lf: Garbage vs Circuit Sturgeon",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Garbage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Circuit Sturgeon",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3570534",
+                  "handle": "Circuit Sturgeon",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "69525797",
+      "displayName": "J - gf: Garbage vs WPC | Mahouko",
+      "start": "02:51:37.249",
+      "end": "03:02:08.399",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202311120110301010000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350780002",
+              "handle": "Mahouko",
+              "prefix": "WPC",
+              "serviceIds": {
+                "twitter": "Mahouko",
+                "smashgg": "399361",
+                "challonge": "133791081"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202401140150407630000",
+              "handle": "Benfish",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350780002",
+              "handle": "Mahouko",
+              "prefix": "WPC",
+              "serviceIds": {
+                "twitter": "Mahouko",
+                "smashgg": "399361",
+                "challonge": "133791081"
+              }
+            }
+          }
+        ],
+        "tournament": "Guilty Gear Accent Core +r",
+        "event": "Lunatic Perilune #31",
+        "messages": [
+          "+R soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "69525797",
+            "phaseId": "1544459",
+            "phaseGroupId": "2320675"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - gf: WPC | Mahouko vs Garbage",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WPC | Mahouko",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "399361",
+                  "handle": "Mahouko",
+                  "prefix": "WPC",
+                  "serviceIds": {
+                    "twitter": "Mahouko"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Garbage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
