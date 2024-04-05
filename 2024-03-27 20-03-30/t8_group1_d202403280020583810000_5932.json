@@ -1,0 +1,99 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-03-27 20-03-30.mkv",
+  "start": "00:17:27.733",
+  "end": "00:24:24.566",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: Jazzo vs WinnieCommittee",
+      "start": "00:19:20.566",
+      "end": "00:24:24.566",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403280018388670000",
+              "handle": "Jazzo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "464263"
+              },
+              "pronouns": "That/Guy"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351560000",
+              "handle": "WinnieCommittee",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WinnieCommittee",
+                "smashgg": "1165433"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 323",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}

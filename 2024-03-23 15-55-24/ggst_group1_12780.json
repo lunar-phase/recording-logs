@@ -1,0 +1,102 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-03-23 15-55-24.mkv",
+  "start": "00:00:00.000",
+  "end": "00:32:56.899",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "ws: Rox vs Courage (xCouragexxx)",
+      "start": "00:20:11.533",
+      "end": "00:32:56.899",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403231956552250000",
+              "handle": "Rox",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2165068"
+              },
+              "pronouns": "She/Her"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307152257242540000",
+              "handle": "xCouragexxx",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3074434"
+              },
+              "alias": "Courage"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350920000",
+              "handle": "Mynus",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "mynus_jp"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202403231956354440000",
+              "handle": "AustyLaVista",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "AustyLaVista"
+              }
+            }
+          }
+        ],
+        "tournament": "Crossover Arc 2024",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
