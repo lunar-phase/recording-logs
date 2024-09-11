@@ -1,0 +1,1342 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-08-31 15-49-08.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1729056",
+  "eventId": "1190029",
+  "start": "02:07:37.483",
+  "end": "03:24:45.732",
+  "sets": [
+    {
+      "id": "79092847",
+      "displayName": "I - ws: AONI | moku vs AONI | pzooo",
+      "start": "02:16:05.449",
+      "end": "02:21:27.932",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202308262343349750000",
+              "handle": "the grungler",
+              "prefix": "FzP",
+              "serviceIds": {
+                "twitter": "barlesdcharkley",
+                "smashgg": "1255368"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79092847",
+            "phaseId": "1729056",
+            "phaseGroupId": "2568273"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - ws: AONI | moku vs AONI | pzooo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | moku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "63607",
+                  "handle": "moku",
+                  "prefix": "AONI",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | pzooo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "286842",
+                  "handle": "pzooo",
+                  "prefix": "AONI",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "pzooo_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "79092878",
+      "displayName": "S - lq: AONI | moku vs AONI | Shana",
+      "start": "02:24:18.000",
+      "end": "02:33:27.032",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202308262343349750000",
+              "handle": "the grungler",
+              "prefix": "FzP",
+              "serviceIds": {
+                "twitter": "barlesdcharkley",
+                "smashgg": "1255368"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79092878",
+            "phaseId": "1729056",
+            "phaseGroupId": "2568273"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - lq: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "79092846",
+      "displayName": "H - ws: AONI | Crocs N' Socks vs AONI | Bane?",
+      "start": "02:35:14.316",
+      "end": "02:39:50.366",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79092846",
+            "phaseId": "1729056",
+            "phaseGroupId": "2568273"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - ws: AONI | Crocs N' Socks vs AONI | Bane?",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Bane?",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2316469",
+                  "handle": "Bane?",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "sweatlord227"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "79092877",
+      "displayName": "R - lq: AONI | Bane? vs ChexGuy",
+      "start": "02:40:38.182",
+      "end": "02:45:32.499",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350090000",
+              "handle": "ChexGuy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChexGuy",
+                "smashgg": "328359"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79092877",
+            "phaseId": "1729056",
+            "phaseGroupId": "2568273"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - lq: ??? vs ChexGuy",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "ChexGuy",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "328359",
+                  "handle": "ChexGuy",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "ChexGuy"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "79092879",
+      "displayName": "T - ls: AONI | Shana vs AONI | Bane?",
+      "start": "02:46:43.232",
+      "end": "02:51:56.966",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351450002",
+              "handle": "Shana",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "ShanaFGC",
+                "smashgg": "566103"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79092879",
+            "phaseId": "1729056",
+            "phaseGroupId": "2568273"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "T",
+          "displayName": "T - ls: AONI | Bane? vs AONI | Shana",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | Bane?",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2316469",
+                  "handle": "Bane?",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "sweatlord227"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Shana",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566103",
+                  "handle": "Shana",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "ShanaFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "79092848",
+      "displayName": "J - wf: AONI | pzooo vs AONI | Crocs N' Socks",
+      "start": "02:53:39.716",
+      "end": "02:59:18.232",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79092848",
+            "phaseId": "1729056",
+            "phaseGroupId": "2568273"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - wf: AONI | Crocs N' Socks vs AONI | pzooo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | pzooo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "286842",
+                  "handle": "pzooo",
+                  "prefix": "AONI",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "pzooo_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "79092880",
+      "displayName": "U - lf: AONI | pzooo vs AONI | Bane?",
+      "start": "02:59:50.349",
+      "end": "03:11:19.682",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79092880",
+            "phaseId": "1729056",
+            "phaseGroupId": "2568273"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "U",
+          "displayName": "U - lf: AONI | pzooo vs AONI | Bane?",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | pzooo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "286842",
+                  "handle": "pzooo",
+                  "prefix": "AONI",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "pzooo_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Bane?",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2316469",
+                  "handle": "Bane?",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "sweatlord227"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "79092849",
+      "displayName": "K - gf: AONI | pzooo vs AONI | Crocs N' Socks",
+      "start": "03:17:57.599",
+      "end": "03:23:21.382",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [
+          "Guilty Gear Xrd up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79092849",
+            "phaseId": "1729056",
+            "phaseGroupId": "2568273"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - gf: AONI | Crocs N' Socks vs AONI | pzooo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | pzooo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "286842",
+                  "handle": "pzooo",
+                  "prefix": "AONI",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "pzooo_"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

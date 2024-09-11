@@ -1,0 +1,691 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-08-31 15-49-08.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1729052",
+  "eventId": "1190025",
+  "start": "01:05:56.999",
+  "end": "01:44:00.249",
+  "sets": [
+    {
+      "id": "79084007",
+      "displayName": "G - wf: Nighto vs SeaBurn",
+      "start": "01:12:09.000",
+      "end": "01:19:43.933",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350930002",
+              "handle": "Nighto",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2921652",
+                "twitter": "Nighto911"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202210151951480020000",
+              "handle": "SeaBurn",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "354723"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350290001",
+              "handle": "EJay",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "EJayCV",
+                "smashgg": "472237"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350620000",
+              "handle": "Kamina",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Kamikouma",
+                "smashgg": "681614"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79084007",
+            "phaseId": "1729052",
+            "phaseGroupId": "2568269"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - wf: SeaBurn vs Nighto",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SeaBurn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "354723",
+                  "handle": "SeaBurn",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Nighto",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2921652",
+                  "handle": "Nighto",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Nighto911"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "79084022",
+      "displayName": "N - ls: GaryButternubs vs LP | EJay",
+      "start": "01:20:32.699",
+      "end": "01:25:09.599",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350290001",
+              "handle": "EJay",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "EJayCV",
+                "smashgg": "472237"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350930002",
+              "handle": "Nighto",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2921652",
+                "twitter": "Nighto911"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350620000",
+              "handle": "Kamina",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Kamikouma",
+                "smashgg": "681614"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79084022",
+            "phaseId": "1729052",
+            "phaseGroupId": "2568269"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - ls: LP | EJay vs GaryButternubs",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP | EJay",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "472237",
+                  "handle": "EJay",
+                  "prefix": "LP",
+                  "serviceIds": {
+                    "twitter": "EJayCV"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "79084023",
+      "displayName": "O - lf: GaryButternubs vs SeaBurn",
+      "start": "01:27:23.683",
+      "end": "01:35:35.483",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202210151951480020000",
+              "handle": "SeaBurn",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "354723"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350290001",
+              "handle": "EJay",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "EJayCV",
+                "smashgg": "472237"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350620000",
+              "handle": "Kamina",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Kamikouma",
+                "smashgg": "681614"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79084023",
+            "phaseId": "1729052",
+            "phaseGroupId": "2568269"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - lf: SeaBurn vs GaryButternubs",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SeaBurn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "354723",
+                  "handle": "SeaBurn",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "79084008",
+      "displayName": "H - gf: Nighto vs SeaBurn",
+      "start": "01:36:38.599",
+      "end": "01:42:32.333",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350930002",
+              "handle": "Nighto",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2921652",
+                "twitter": "Nighto911"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202210151951480020000",
+              "handle": "SeaBurn",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "354723"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "mbtl",
+          "name": "Melty Blood Type Lumina",
+          "shortNames": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "hashtags": [
+            "MBTL",
+            "メルブラ"
+          ],
+          "additionalTags": [
+            "Melty Blood",
+            "Melty"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Melty Blood: Type Lumina"
+            },
+            "smashgg": {
+              "id": "36865"
+            },
+            "challonge": {
+              "id": "251352"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350620000",
+              "handle": "Kamina",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Kamikouma",
+                "smashgg": "681614"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #37",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "79084008",
+            "phaseId": "1729052",
+            "phaseGroupId": "2568269"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "mbtl",
+            "name": "Melty Blood Type Lumina",
+            "shortNames": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "hashtags": [
+              "MBTL",
+              "メルブラ"
+            ],
+            "additionalTags": [
+              "Melty Blood",
+              "Melty"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Melty Blood: Type Lumina"
+              },
+              "smashgg": {
+                "id": "36865"
+              },
+              "challonge": {
+                "id": "251352"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - gf: Nighto vs SeaBurn",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Nighto",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2921652",
+                  "handle": "Nighto",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Nighto911"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SeaBurn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "354723",
+                  "handle": "SeaBurn",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

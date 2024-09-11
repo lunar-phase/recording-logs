@@ -1,0 +1,102 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-07-13 16-20-29.mkv",
+  "phaseId": "unknown",
+  "start": "00:01:15.199",
+  "end": "00:39:04.533",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "ft10: (ToT) | yung willy vs Kyt | Kidd",
+      "start": "00:01:15.199",
+      "end": "00:39:04.533",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351400000",
+              "handle": "yung willy",
+              "prefix": "(ToT)",
+              "serviceIds": {
+                "smashgg": "883113",
+                "twitter": "lulufan69"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "Kyt",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              }
+            },
+            "score": 9,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ft10",
+          "name": "First to 10",
+          "smashggId": null
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202407132019597870000",
+              "handle": "NecroGuffaw",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Persona 4 Arena Ultimax",
+        "event": "Lunatic Perilune #36",
+        "messages": [
+          "Persona 4 Arena Ultimax Coming Up Next!"
+        ]
+      }
+    }
+  ]
+}
