@@ -1,0 +1,1674 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-07-06 15-01-14.mkv",
+  "bracketService": "smashgg",
+  "start": "00:08:55.000",
+  "end": "02:12:21.133",
+  "sets": [
+    {
+      "id": "76762371",
+      "displayName": "G - wf: Goldeneye161 vs SSWS | LuFL",
+      "start": "00:09:06.249",
+      "end": "00:20:23.049",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202407061906415470000",
+              "handle": "Goldeneye161",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGoldeneye161",
+                "smashgg": "262833"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202407061906371890000",
+              "handle": "UberCheesecake",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LadivaHugEnjoyr",
+                "smashgg": "355046"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202407061908175410000",
+              "handle": "Jet",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762371",
+            "phaseId": "1698333",
+            "phaseGroupId": "2525530"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - wf: Goldeneye161 vs SSWS | LuFL",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Goldeneye161",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "262833",
+                  "handle": "Goldeneye161",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TheGoldeneye161"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SSWS | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "SSWS",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762386",
+      "displayName": "N - ls: GaryButternubs vs NH | UberCheesecake",
+      "start": "00:21:34.816",
+      "end": "00:33:29.783",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407061906371890000",
+              "handle": "UberCheesecake",
+              "prefix": "NH",
+              "serviceIds": {
+                "twitter": "LadivaHugEnjoyr",
+                "smashgg": "355046"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202407061906415470000",
+              "handle": "Goldeneye161",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGoldeneye161",
+                "smashgg": "262833"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202407061908175410000",
+              "handle": "Jet",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762386",
+            "phaseId": "1698333",
+            "phaseGroupId": "2525530"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - ls: NH | UberCheesecake vs GaryButternubs",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NH | UberCheesecake",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "355046",
+                  "handle": "UberCheesecake",
+                  "prefix": "NH",
+                  "serviceIds": {
+                    "twitter": "LadivaHugEnjoyr"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762387",
+      "displayName": "O - lf: SSWS | LuFL vs NH | UberCheesecake",
+      "start": "00:36:00.583",
+      "end": "00:45:17.899",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407061906371890000",
+              "handle": "UberCheesecake",
+              "prefix": "NH",
+              "serviceIds": {
+                "twitter": "LadivaHugEnjoyr",
+                "smashgg": "355046"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202407061906415470000",
+              "handle": "Goldeneye161",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGoldeneye161",
+                "smashgg": "262833"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202407061908175410000",
+              "handle": "Jet",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762387",
+            "phaseId": "1698333",
+            "phaseGroupId": "2525530"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - lf: SSWS | LuFL vs NH | UberCheesecake",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SSWS | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "SSWS",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NH | UberCheesecake",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "355046",
+                  "handle": "UberCheesecake",
+                  "prefix": "NH",
+                  "serviceIds": {
+                    "twitter": "LadivaHugEnjoyr"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762372",
+      "displayName": "H - gf: SSWS | LuFL vs Goldeneye161",
+      "start": "00:48:42.000",
+      "end": "00:58:52.633",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407061906415470000",
+              "handle": "Goldeneye161",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGoldeneye161",
+                "smashgg": "262833"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202407061906371890000",
+              "handle": "UberCheesecake",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LadivaHugEnjoyr",
+                "smashgg": "355046"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202407061908175410000",
+              "handle": "Jet",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762372",
+            "phaseId": "1698333",
+            "phaseGroupId": "2525530"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - gf: Goldeneye161 vs SSWS | LuFL",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Goldeneye161",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "262833",
+                  "handle": "Goldeneye161",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TheGoldeneye161"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SSWS | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "SSWS",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762479",
+      "displayName": "AA - lq: SSWS | Vile vs Maigo",
+      "start": "01:07:37.766",
+      "end": "01:13:38.716",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130053029760000",
+              "handle": "Vile",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "Vile_ssb",
+                "smashgg": "1350655"
+              },
+              "pronouns": "Merkava/Gaming"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202302112144198650000",
+              "handle": "Maigo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MaigoxKagami",
+                "smashgg": "1491389"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "uni2",
+          "name": "Under Night In-Birth II Sys:Celes",
+          "shortNames": [
+            "Under Night In-Birth 2",
+            "UNI 2"
+          ],
+          "hashtags": [
+            "UNI2",
+            "inbirth",
+            "UNISC"
+          ],
+          "additionalTags": [
+            "UNDERNIGHT"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+            },
+            "smashgg": {
+              "id": "50203"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306172213595400000",
+              "handle": "Snivy",
+              "prefix": "CAFÉ",
+              "serviceIds": {
+                "twitter": "SyndicateSnivy",
+                "smashgg": "1207937"
+              },
+              "pronouns": "Any/All"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762479",
+            "phaseId": "1698335",
+            "phaseGroupId": "2525532"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "uni2",
+            "name": "Under Night In-Birth II Sys:Celes",
+            "shortNames": [
+              "Under Night In-Birth 2",
+              "UNI 2"
+            ],
+            "hashtags": [
+              "UNI2",
+              "inbirth",
+              "UNISC"
+            ],
+            "additionalTags": [
+              "UNDERNIGHT"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+              },
+              "smashgg": {
+                "id": "50203"
+              }
+            }
+          },
+          "shortIdentifier": "AA",
+          "displayName": "AA - lq: SSWS | Vile vs Maigo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SSWS | Vile",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1350655",
+                  "handle": "Vile",
+                  "prefix": "SSWS",
+                  "pronouns": "Merkava/Gaming",
+                  "serviceIds": {
+                    "twitter": "Vile_ssb"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Maigo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1491389",
+                  "handle": "Maigo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MaigoxKagami"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762478",
+      "displayName": "Z - lq: F O X vs PPT | KaiAi",
+      "start": "01:14:43.666",
+      "end": "01:22:53.899",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350940000",
+              "handle": "KaiAi",
+              "prefix": "PPT",
+              "serviceIds": {
+                "twitter": "nyczbrandon",
+                "smashgg": "567810"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "uni2",
+          "name": "Under Night In-Birth II Sys:Celes",
+          "shortNames": [
+            "Under Night In-Birth 2",
+            "UNI 2"
+          ],
+          "hashtags": [
+            "UNI2",
+            "inbirth",
+            "UNISC"
+          ],
+          "additionalTags": [
+            "UNDERNIGHT"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+            },
+            "smashgg": {
+              "id": "50203"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306172213595400000",
+              "handle": "Snivy",
+              "prefix": "CAFÉ",
+              "serviceIds": {
+                "twitter": "SyndicateSnivy",
+                "smashgg": "1207937"
+              },
+              "pronouns": "Any/All"
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762478",
+            "phaseId": "1698335",
+            "phaseGroupId": "2525532"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "uni2",
+            "name": "Under Night In-Birth II Sys:Celes",
+            "shortNames": [
+              "Under Night In-Birth 2",
+              "UNI 2"
+            ],
+            "hashtags": [
+              "UNI2",
+              "inbirth",
+              "UNISC"
+            ],
+            "additionalTags": [
+              "UNDERNIGHT"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+              },
+              "smashgg": {
+                "id": "50203"
+              }
+            }
+          },
+          "shortIdentifier": "Z",
+          "displayName": "Z - lq: PPT | KaiAi vs F O X",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "PPT | KaiAi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "567810",
+                  "handle": "KaiAi",
+                  "prefix": "PPT",
+                  "serviceIds": {
+                    "twitter": "nyczbrandon"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "F O X",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "249913",
+                  "handle": "F O X",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "MakotoFOX_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762449",
+      "displayName": "N - wf: SSWS | LuFL vs GaryButternubs",
+      "start": "01:24:39.333",
+      "end": "01:34:32.716",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "uni2",
+          "name": "Under Night In-Birth II Sys:Celes",
+          "shortNames": [
+            "Under Night In-Birth 2",
+            "UNI 2"
+          ],
+          "hashtags": [
+            "UNI2",
+            "inbirth",
+            "UNISC"
+          ],
+          "additionalTags": [
+            "UNDERNIGHT"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+            },
+            "smashgg": {
+              "id": "50203"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306172213595400000",
+              "handle": "Snivy",
+              "prefix": "CAFÉ",
+              "serviceIds": {
+                "twitter": "SyndicateSnivy",
+                "smashgg": "1207937"
+              },
+              "pronouns": "Any/All"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762449",
+            "phaseId": "1698335",
+            "phaseGroupId": "2525532"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "uni2",
+            "name": "Under Night In-Birth II Sys:Celes",
+            "shortNames": [
+              "Under Night In-Birth 2",
+              "UNI 2"
+            ],
+            "hashtags": [
+              "UNI2",
+              "inbirth",
+              "UNISC"
+            ],
+            "additionalTags": [
+              "UNDERNIGHT"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+              },
+              "smashgg": {
+                "id": "50203"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - wf: GaryButternubs vs SSWS | LuFL",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SSWS | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "SSWS",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762480",
+      "displayName": "AB - ls: SSWS | Vile vs PPT | KaiAi",
+      "start": "01:38:14.299",
+      "end": "01:45:44.133",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130053029760000",
+              "handle": "Vile",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "Vile_ssb",
+                "smashgg": "1350655"
+              },
+              "pronouns": "Merkava/Gaming"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350940000",
+              "handle": "KaiAi",
+              "prefix": "PPT",
+              "serviceIds": {
+                "twitter": "nyczbrandon",
+                "smashgg": "567810"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "uni2",
+          "name": "Under Night In-Birth II Sys:Celes",
+          "shortNames": [
+            "Under Night In-Birth 2",
+            "UNI 2"
+          ],
+          "hashtags": [
+            "UNI2",
+            "inbirth",
+            "UNISC"
+          ],
+          "additionalTags": [
+            "UNDERNIGHT"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+            },
+            "smashgg": {
+              "id": "50203"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306172213595400000",
+              "handle": "Snivy",
+              "prefix": "CAFÉ",
+              "serviceIds": {
+                "twitter": "SyndicateSnivy",
+                "smashgg": "1207937"
+              },
+              "pronouns": "Any/All"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762480",
+            "phaseId": "1698335",
+            "phaseGroupId": "2525532"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "uni2",
+            "name": "Under Night In-Birth II Sys:Celes",
+            "shortNames": [
+              "Under Night In-Birth 2",
+              "UNI 2"
+            ],
+            "hashtags": [
+              "UNI2",
+              "inbirth",
+              "UNISC"
+            ],
+            "additionalTags": [
+              "UNDERNIGHT"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+              },
+              "smashgg": {
+                "id": "50203"
+              }
+            }
+          },
+          "shortIdentifier": "AB",
+          "displayName": "AB - ls: PPT | KaiAi vs SSWS | Vile",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "PPT | KaiAi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "567810",
+                  "handle": "KaiAi",
+                  "prefix": "PPT",
+                  "serviceIds": {
+                    "twitter": "nyczbrandon"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SSWS | Vile",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1350655",
+                  "handle": "Vile",
+                  "prefix": "SSWS",
+                  "pronouns": "Merkava/Gaming",
+                  "serviceIds": {
+                    "twitter": "Vile_ssb"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762481",
+      "displayName": "AC - lf: SSWS | Vile vs GaryButternubs",
+      "start": "01:47:20.416",
+      "end": "01:58:12.366",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130053029760000",
+              "handle": "Vile",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "Vile_ssb",
+                "smashgg": "1350655"
+              },
+              "pronouns": "Merkava/Gaming"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "uni2",
+          "name": "Under Night In-Birth II Sys:Celes",
+          "shortNames": [
+            "Under Night In-Birth 2",
+            "UNI 2"
+          ],
+          "hashtags": [
+            "UNI2",
+            "inbirth",
+            "UNISC"
+          ],
+          "additionalTags": [
+            "UNDERNIGHT"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+            },
+            "smashgg": {
+              "id": "50203"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306172213595400000",
+              "handle": "Snivy",
+              "prefix": "CAFÉ",
+              "serviceIds": {
+                "twitter": "SyndicateSnivy",
+                "smashgg": "1207937"
+              },
+              "pronouns": "Any/All"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762481",
+            "phaseId": "1698335",
+            "phaseGroupId": "2525532"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "uni2",
+            "name": "Under Night In-Birth II Sys:Celes",
+            "shortNames": [
+              "Under Night In-Birth 2",
+              "UNI 2"
+            ],
+            "hashtags": [
+              "UNI2",
+              "inbirth",
+              "UNISC"
+            ],
+            "additionalTags": [
+              "UNDERNIGHT"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+              },
+              "smashgg": {
+                "id": "50203"
+              }
+            }
+          },
+          "shortIdentifier": "AC",
+          "displayName": "AC - lf: GaryButternubs vs SSWS | Vile",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SSWS | Vile",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1350655",
+                  "handle": "Vile",
+                  "prefix": "SSWS",
+                  "pronouns": "Merkava/Gaming",
+                  "serviceIds": {
+                    "twitter": "Vile_ssb"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762450",
+      "displayName": "O - gf: SSWS | LuFL vs GaryButternubs",
+      "start": "02:00:28.066",
+      "end": "02:11:59.416",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "uni2",
+          "name": "Under Night In-Birth II Sys:Celes",
+          "shortNames": [
+            "Under Night In-Birth 2",
+            "UNI 2"
+          ],
+          "hashtags": [
+            "UNI2",
+            "inbirth",
+            "UNISC"
+          ],
+          "additionalTags": [
+            "UNDERNIGHT"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+            },
+            "smashgg": {
+              "id": "50203"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306172213595400000",
+              "handle": "Snivy",
+              "prefix": "CAFÉ",
+              "serviceIds": {
+                "twitter": "SyndicateSnivy",
+                "smashgg": "1207937"
+              },
+              "pronouns": "Any/All"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350320001",
+              "handle": "F O X",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MakotoFOX_",
+                "smashgg": "249913"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762450",
+            "phaseId": "1698335",
+            "phaseGroupId": "2525532"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "uni2",
+            "name": "Under Night In-Birth II Sys:Celes",
+            "shortNames": [
+              "Under Night In-Birth 2",
+              "UNI 2"
+            ],
+            "hashtags": [
+              "UNI2",
+              "inbirth",
+              "UNISC"
+            ],
+            "additionalTags": [
+              "UNDERNIGHT"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+              },
+              "smashgg": {
+                "id": "50203"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - gf: SSWS | LuFL vs GaryButternubs",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SSWS | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "SSWS",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

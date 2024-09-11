@@ -1,0 +1,664 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-07-06 15-01-14.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1698333",
+  "eventId": "1166449",
+  "start": "00:08:55.000",
+  "end": "00:59:42.416",
+  "sets": [
+    {
+      "id": "76762371",
+      "displayName": "G - wf: Goldeneye161 vs SSWS | LuFL",
+      "start": "00:09:06.249",
+      "end": "00:20:23.049",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202407061906415470000",
+              "handle": "Goldeneye161",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGoldeneye161",
+                "smashgg": "262833"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202407061906371890000",
+              "handle": "UberCheesecake",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LadivaHugEnjoyr",
+                "smashgg": "355046"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202407061908175410000",
+              "handle": "Jet",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762371",
+            "phaseId": "1698333",
+            "phaseGroupId": "2525530"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - wf: Goldeneye161 vs SSWS | LuFL",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Goldeneye161",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "262833",
+                  "handle": "Goldeneye161",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TheGoldeneye161"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SSWS | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "SSWS",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762386",
+      "displayName": "N - ls: GaryButternubs vs NH | UberCheesecake",
+      "start": "00:21:34.816",
+      "end": "00:33:29.783",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407061906371890000",
+              "handle": "UberCheesecake",
+              "prefix": "NH",
+              "serviceIds": {
+                "twitter": "LadivaHugEnjoyr",
+                "smashgg": "355046"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202407061906415470000",
+              "handle": "Goldeneye161",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGoldeneye161",
+                "smashgg": "262833"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202407061908175410000",
+              "handle": "Jet",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762386",
+            "phaseId": "1698333",
+            "phaseGroupId": "2525530"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - ls: NH | UberCheesecake vs GaryButternubs",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NH | UberCheesecake",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "355046",
+                  "handle": "UberCheesecake",
+                  "prefix": "NH",
+                  "serviceIds": {
+                    "twitter": "LadivaHugEnjoyr"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762387",
+      "displayName": "O - lf: SSWS | LuFL vs NH | UberCheesecake",
+      "start": "00:36:00.583",
+      "end": "00:45:17.899",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407061906371890000",
+              "handle": "UberCheesecake",
+              "prefix": "NH",
+              "serviceIds": {
+                "twitter": "LadivaHugEnjoyr",
+                "smashgg": "355046"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202407061906415470000",
+              "handle": "Goldeneye161",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGoldeneye161",
+                "smashgg": "262833"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202407061908175410000",
+              "handle": "Jet",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762387",
+            "phaseId": "1698333",
+            "phaseGroupId": "2525530"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - lf: SSWS | LuFL vs NH | UberCheesecake",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SSWS | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "SSWS",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NH | UberCheesecake",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "355046",
+                  "handle": "UberCheesecake",
+                  "prefix": "NH",
+                  "serviceIds": {
+                    "twitter": "LadivaHugEnjoyr"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76762372",
+      "displayName": "H - gf: SSWS | LuFL vs Goldeneye161",
+      "start": "00:48:42.000",
+      "end": "00:58:52.633",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351460000",
+              "handle": "LuFL",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "LuFL_FGC",
+                "smashgg": "951409"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407061906415470000",
+              "handle": "Goldeneye161",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGoldeneye161",
+                "smashgg": "262833"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "dnf",
+          "name": "DNF Duel",
+          "shortNames": [
+            "DNF"
+          ],
+          "hashtags": [
+            "DNFDuel"
+          ],
+          "additionalTags": [
+            "Dungeon Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "DNF Duel"
+            },
+            "smashgg": {
+              "id": "41040"
+            },
+            "challonge": {
+              "id": "264059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202407061906371890000",
+              "handle": "UberCheesecake",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LadivaHugEnjoyr",
+                "smashgg": "355046"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202407061908175410000",
+              "handle": "Jet",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76762372",
+            "phaseId": "1698333",
+            "phaseGroupId": "2525530"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "dnf",
+            "name": "DNF Duel",
+            "shortNames": [
+              "DNF"
+            ],
+            "hashtags": [
+              "DNFDuel"
+            ],
+            "additionalTags": [
+              "Dungeon Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "DNF Duel"
+              },
+              "smashgg": {
+                "id": "41040"
+              },
+              "challonge": {
+                "id": "264059"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - gf: Goldeneye161 vs SSWS | LuFL",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Goldeneye161",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "262833",
+                  "handle": "Goldeneye161",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TheGoldeneye161"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SSWS | LuFL",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "951409",
+                  "handle": "LuFL",
+                  "prefix": "SSWS",
+                  "serviceIds": {
+                    "twitter": "LuFL_FGC"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
