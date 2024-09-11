@@ -1,0 +1,1869 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-04-24 20-00-12.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1645455",
+  "eventId": "1126200",
+  "start": "00:04:46.499",
+  "end": "02:14:35.849",
+  "thumbnailTimestamp": "01:58:29.299",
+  "sets": [
+    {
+      "id": "73797408",
+      "displayName": "H - wq: bogura vs Geist",
+      "start": "00:13:14.000",
+      "end": "00:17:57.216",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202404250011217590000",
+              "handle": "Geist",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GeistSC",
+                "smashgg": "491629"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BloodHawk_",
+                "smashgg": "425574"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797408",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - wq: bogura vs Geist",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Geist",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "491629",
+                  "handle": "Geist",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GeistSC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797402",
+      "displayName": "C - w1: Sniks vs NYC TKN | Ukiyo",
+      "start": "00:20:16.000",
+      "end": "00:26:29.966",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202404250005226670000",
+              "handle": "Sniks",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3604157"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202404250005226660000",
+              "handle": "Ukiyo",
+              "prefix": "NYC TKN",
+              "serviceIds": {
+                "smashgg": "1911266"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BloodHawk_",
+                "smashgg": "425574"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797402",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - w1: NYC TKN | Ukiyo vs Sniks",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC TKN | Ukiyo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1911266",
+                  "handle": "Ukiyo",
+                  "prefix": "NYC TKN",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Sniks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3604157",
+                  "handle": "Sniks",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797409",
+      "displayName": "I - ws: Mikoto_x_yata vs Blood Hawk",
+      "start": "00:34:24.816",
+      "end": "00:44:25.233",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202107252246361950000",
+              "handle": "Mikoto_x_yata",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MIKOTO_x_YATA",
+                "smashgg": "1164100"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BloodHawk_",
+                "smashgg": "425574"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797409",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - ws: Blood Hawk vs Mikoto_x_yata",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Blood Hawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "425574",
+                  "handle": "Blood Hawk",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BloodHawk_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Mikoto_x_yata",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1164100",
+                  "handle": "Mikoto_x_yata",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MIKOTO_x_YATA"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797410",
+      "displayName": "J - ws: bogura vs NYC TKN | Ukiyo",
+      "start": "00:46:43.366",
+      "end": "00:54:06.949",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202404250005226660000",
+              "handle": "Ukiyo",
+              "prefix": "NYC TKN",
+              "serviceIds": {
+                "smashgg": "1911266"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797410",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ws: NYC TKN | Ukiyo vs bogura",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC TKN | Ukiyo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1911266",
+                  "handle": "Ukiyo",
+                  "prefix": "NYC TKN",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797411",
+      "displayName": "K - wf: NYC TKN | Ukiyo vs Blood Hawk",
+      "start": "00:54:48.966",
+      "end": "01:07:43.266",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202404250005226660000",
+              "handle": "Ukiyo",
+              "prefix": "NYC TKN",
+              "serviceIds": {
+                "smashgg": "1911266"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BloodHawk_",
+                "smashgg": "425574"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797411",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - wf: Blood Hawk vs NYC TKN | Ukiyo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Blood Hawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "425574",
+                  "handle": "Blood Hawk",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BloodHawk_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYC TKN | Ukiyo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1911266",
+                  "handle": "Ukiyo",
+                  "prefix": "NYC TKN",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797441",
+      "displayName": "U - lq: bogura vs Garyee",
+      "start": "01:09:24.666",
+      "end": "01:15:33.083",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202404250109317480000",
+              "handle": "Garyee",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "GaryFGC",
+                "smashgg": "2233302"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797441",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "U",
+          "displayName": "U - lq: bogura vs Garyee",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Garyee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2233302",
+                  "handle": "Garyee",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "GaryFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797435",
+      "displayName": "O - l1: Hey, I'm Reggie (Regular Sized Majin) vs ten%",
+      "start": "01:20:30.749",
+      "end": "01:26:11.083",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109192104236970000",
+              "handle": "Regular Sized Majin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Hi_Im_Majin",
+                "smashgg": "897929"
+              },
+              "alias": "Hey, I'm Reggie"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202404250120117720000",
+              "handle": "ten%",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "477766"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "l1",
+          "name": "Losers Round 1",
+          "smashggId": "Losers Round 1"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797435",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - l1: Hey, I'm Reggie vs ten%",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Hey, I'm Reggie",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "897929",
+                  "handle": "Hey, I'm Reggie",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Hi_Im_Majin"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "ten%",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "477766",
+                  "handle": "ten%",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797438",
+      "displayName": "R - Losers Eighths: Hey, I'm Reggie (Regular Sized Majin) vs ThisIsBattle",
+      "start": "01:26:41.633",
+      "end": "01:32:08.166",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109192104236970000",
+              "handle": "Regular Sized Majin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Hi_Im_Majin",
+                "smashgg": "897929"
+              },
+              "alias": "Hey, I'm Reggie"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202311300126432990000",
+              "handle": "ThisIsBattle",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "157896"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797438",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "l2",
+            "name": "Losers Round 2",
+            "smashggId": "Losers Round 2"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - l2: ThisIsBattle vs Hey, I'm Reggie",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ThisIsBattle",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "157896",
+                  "handle": "ThisIsBattle",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Hey, I'm Reggie",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "897929",
+                  "handle": "Hey, I'm Reggie",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Hi_Im_Majin"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797440",
+      "displayName": "T - lq: Mikoto_x_yata vs Hey, I'm Reggie (Regular Sized Majin)",
+      "start": "01:33:09.766",
+      "end": "01:39:51.833",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202107252246361950000",
+              "handle": "Mikoto_x_yata",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MIKOTO_x_YATA",
+                "smashgg": "1164100"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202109192104236970000",
+              "handle": "Regular Sized Majin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Hi_Im_Majin",
+                "smashgg": "897929"
+              },
+              "alias": "Hey, I'm Reggie"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797440",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "T",
+          "displayName": "T - lq: Mikoto_x_yata vs Hey, I'm Reggie",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Mikoto_x_yata",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1164100",
+                  "handle": "Mikoto_x_yata",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MIKOTO_x_YATA"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Hey, I'm Reggie",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "897929",
+                  "handle": "Hey, I'm Reggie",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Hi_Im_Majin"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797442",
+      "displayName": "V - ls: Hey, I'm Reggie (Regular Sized Majin) vs bogura",
+      "start": "01:41:51.816",
+      "end": "01:46:55.466",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109192104236970000",
+              "handle": "Regular Sized Majin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Hi_Im_Majin",
+                "smashgg": "897929"
+              },
+              "alias": "Hey, I'm Reggie"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797442",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "V",
+          "displayName": "V - ls: Hey, I'm Reggie vs bogura",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Hey, I'm Reggie",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "897929",
+                  "handle": "Hey, I'm Reggie",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Hi_Im_Majin"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797443",
+      "displayName": "W - lf: Hey, I'm Reggie (Regular Sized Majin) vs Blood Hawk",
+      "start": "01:48:41.783",
+      "end": "01:57:35.633",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109192104236970000",
+              "handle": "Regular Sized Majin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Hi_Im_Majin",
+                "smashgg": "897929"
+              },
+              "alias": "Hey, I'm Reggie"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BloodHawk_",
+                "smashgg": "425574"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797443",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "W",
+          "displayName": "W - lf: Blood Hawk vs Hey, I'm Reggie",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Blood Hawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "425574",
+                  "handle": "Blood Hawk",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BloodHawk_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Hey, I'm Reggie",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "897929",
+                  "handle": "Hey, I'm Reggie",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Hi_Im_Majin"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73797412",
+      "displayName": "L - gf: Hey, I'm Reggie (Regular Sized Majin) vs NYC TKN | Ukiyo",
+      "start": "01:58:22.799",
+      "end": "02:13:17.083",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109192104236970000",
+              "handle": "Regular Sized Majin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Hi_Im_Majin",
+                "smashgg": "897929"
+              },
+              "alias": "Hey, I'm Reggie"
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202404250005226660000",
+              "handle": "Ukiyo",
+              "prefix": "NYC TKN",
+              "serviceIds": {
+                "smashgg": "1911266"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BloodHawk_",
+                "smashgg": "425574"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 327",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73797412",
+            "phaseId": "1645455",
+            "phaseGroupId": "2454357"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - gf: NYC TKN | Ukiyo vs Hey, I'm Reggie",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC TKN | Ukiyo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1911266",
+                  "handle": "Ukiyo",
+                  "prefix": "NYC TKN",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Hey, I'm Reggie",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "897929",
+                  "handle": "Hey, I'm Reggie",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Hi_Im_Majin"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

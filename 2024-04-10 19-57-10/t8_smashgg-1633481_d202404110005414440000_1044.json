@@ -1,0 +1,1355 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-04-10 19-57-10.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1633481",
+  "eventId": "1116806",
+  "start": "00:08:30.566",
+  "end": "01:54:50.599",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "wq: sasuke (Sasuke) vs Shinkirou",
+      "start": "00:09:54.799",
+      "end": "00:15:36.999",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202210160110538800000",
+              "handle": "Sasuke",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3999439"
+              },
+              "alias": "sasuke"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202302192332497230000",
+              "handle": "Shinkirou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1388581"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349760000",
+              "handle": "Datagram",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "gramofdata",
+                "smashgg": "171392"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 325",
+        "event": "",
+        "messages": []
+      }
+    },
+    {
+      "id": "73199361",
+      "displayName": "C - wq: NYC TKN|L&C | Fear Of Silence (Fear) vs bogura",
+      "start": "00:18:59.483",
+      "end": "00:30:14.833",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC TKN|L&C",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              },
+              "alias": "Fear Of Silence"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 325",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73199361",
+            "phaseId": "1633481",
+            "phaseGroupId": "2438127"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wq: NYC TKN|L&C | Fear Of Silence vs bogura",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC TKN|L&C | Fear Of Silence",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "889042",
+                  "handle": "Fear Of Silence",
+                  "prefix": "NYC TKN|L&C",
+                  "serviceIds": {
+                    "twitter": "Fearofsilence3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73199363",
+      "displayName": "E - wq: TheLegendofKingsley vs Blood Hawk",
+      "start": "00:31:19.499",
+      "end": "00:38:24.733",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202402010129145430000",
+              "handle": "TheLegendofKingsley",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "721109"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BloodHawk_",
+                "smashgg": "425574"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 325",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73199363",
+            "phaseId": "1633481",
+            "phaseGroupId": "2438127"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - wq: Blood Hawk vs TheLegendofKingsley",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Blood Hawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "425574",
+                  "handle": "Blood Hawk",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BloodHawk_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TheLegendofKingsley",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "721109",
+                  "handle": "TheLegendofKingsley",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73199365",
+      "displayName": "G - ws: NYC TKN|L&C | Fear Of Silence (Fear) vs Mikoto_x_yata",
+      "start": "00:39:52.849",
+      "end": "00:44:37.749",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC TKN|L&C",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              },
+              "alias": "Fear Of Silence"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202107252246361950000",
+              "handle": "Mikoto_x_yata",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MIKOTO_x_YATA",
+                "smashgg": "1164100"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 325",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73199365",
+            "phaseId": "1633481",
+            "phaseGroupId": "2438127"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - ws: NYC TKN|L&C | Fear Of Silence vs Mikoto_x_yata",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC TKN|L&C | Fear Of Silence",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "889042",
+                  "handle": "Fear Of Silence",
+                  "prefix": "NYC TKN|L&C",
+                  "serviceIds": {
+                    "twitter": "Fearofsilence3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Mikoto_x_yata",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1164100",
+                  "handle": "Mikoto_x_yata",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MIKOTO_x_YATA"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73199366",
+      "displayName": "H - ws: Shinkirou vs Blood Hawk",
+      "start": "00:47:14.783",
+      "end": "00:55:06.416",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202302192332497230000",
+              "handle": "Shinkirou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1388581"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BloodHawk_",
+                "smashgg": "425574"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 325",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73199366",
+            "phaseId": "1633481",
+            "phaseGroupId": "2438127"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - ws: Blood Hawk vs Shinkirou",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Blood Hawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "425574",
+                  "handle": "Blood Hawk",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BloodHawk_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Shinkirou",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1388581",
+                  "handle": "Shinkirou",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73199367",
+      "displayName": "I - wf: NYC TKN|L&C | Fear Of Silence (Fear) vs Blood Hawk",
+      "start": "00:57:02.966",
+      "end": "01:13:40.483",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC TKN|L&C",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              },
+              "alias": "Fear Of Silence"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BloodHawk_",
+                "smashgg": "425574"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 325",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73199367",
+            "phaseId": "1633481",
+            "phaseGroupId": "2438127"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - wf: NYC TKN|L&C | Fear Of Silence vs Blood Hawk",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC TKN|L&C | Fear Of Silence",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "889042",
+                  "handle": "Fear Of Silence",
+                  "prefix": "NYC TKN|L&C",
+                  "serviceIds": {
+                    "twitter": "Fearofsilence3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Blood Hawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "425574",
+                  "handle": "Blood Hawk",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BloodHawk_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73199398",
+      "displayName": "R - ls: TheLegendofKingsley vs Shinkirou",
+      "start": "01:15:05.633",
+      "end": "01:22:09.233",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202402010129145430000",
+              "handle": "TheLegendofKingsley",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "721109"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202302192332497230000",
+              "handle": "Shinkirou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1388581"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 325",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73199398",
+            "phaseId": "1633481",
+            "phaseGroupId": "2438127"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - ls: TheLegendofKingsley vs Shinkirou",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TheLegendofKingsley",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "721109",
+                  "handle": "TheLegendofKingsley",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Shinkirou",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1388581",
+                  "handle": "Shinkirou",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73199399",
+      "displayName": "S - lf: Shinkirou vs NYC TKN|L&C | Fear Of Silence (Fear)",
+      "start": "01:23:25.416",
+      "end": "01:30:12.966",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202302192332497230000",
+              "handle": "Shinkirou",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1388581"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC TKN|L&C",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              },
+              "alias": "Fear Of Silence"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 325",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73199399",
+            "phaseId": "1633481",
+            "phaseGroupId": "2438127"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - lf: NYC TKN|L&C | Fear Of Silence vs Shinkirou",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYC TKN|L&C | Fear Of Silence",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "889042",
+                  "handle": "Fear Of Silence",
+                  "prefix": "NYC TKN|L&C",
+                  "serviceIds": {
+                    "twitter": "Fearofsilence3"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Shinkirou",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1388581",
+                  "handle": "Shinkirou",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "73199368",
+      "displayName": "J - tf: NYC TKN|L&C | Fear Of Silence (Fear) vs Blood Hawk",
+      "start": "01:30:35.183",
+      "end": "01:51:37.049",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106272238559930000",
+              "handle": "Fear",
+              "prefix": "NYC TKN|L&C",
+              "serviceIds": {
+                "twitter": "Fearofsilence3",
+                "smashgg": "889042"
+              },
+              "alias": "Fear Of Silence"
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351970000",
+              "handle": "Blood Hawk",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BloodHawk_",
+                "smashgg": "425574"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 325",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "73199368",
+            "phaseId": "1633481",
+            "phaseGroupId": "2438127"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - gf: Blood Hawk vs NYC TKN|L&C | Fear Of Silence",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Blood Hawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "425574",
+                  "handle": "Blood Hawk",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BloodHawk_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYC TKN|L&C | Fear Of Silence",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "889042",
+                  "handle": "Fear Of Silence",
+                  "prefix": "NYC TKN|L&C",
+                  "serviceIds": {
+                    "twitter": "Fearofsilence3"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

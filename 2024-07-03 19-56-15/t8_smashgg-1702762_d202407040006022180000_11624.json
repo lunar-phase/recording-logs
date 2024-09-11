@@ -1,0 +1,704 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-07-03 19-56-15.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1702762",
+  "eventId": "1169893",
+  "start": "00:09:46.133",
+  "end": "01:11:26.633",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "ws: 4dollavic vs Deadpoolx7794",
+      "start": "00:11:50.399",
+      "end": "00:16:50.399",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202407032349068720000",
+              "handle": "4dollavic",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3909805"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407040006184120000",
+              "handle": "Deadpoolx7794",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4014186"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 337",
+        "event": "",
+        "messages": []
+      }
+    },
+    {
+      "id": "76663683",
+      "displayName": "B - ws: bogura vs Vengeance",
+      "start": "00:22:59.916",
+      "end": "00:30:55.866",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407040018535640000",
+              "handle": "Vengeance",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "RyanMcCann21",
+                "smashgg": "3406864"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 337",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76663683",
+            "phaseId": "1702762",
+            "phaseGroupId": "2531420"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - ws: bogura vs Vengeance",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Vengeance",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3406864",
+                  "handle": "Vengeance",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "RyanMcCann21"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76663685",
+      "displayName": "D - wf: Deadpoolx7794 vs Vengeance",
+      "start": "00:33:14.749",
+      "end": "00:41:56.116",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202407040006184120000",
+              "handle": "Deadpoolx7794",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4014186"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407040018535640000",
+              "handle": "Vengeance",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "RyanMcCann21",
+                "smashgg": "3406864"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 337",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76663685",
+            "phaseId": "1702762",
+            "phaseGroupId": "2531420"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - wf: Vengeance vs Deadpoolx7794",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Vengeance",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3406864",
+                  "handle": "Vengeance",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "RyanMcCann21"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Deadpoolx7794",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4014186",
+                  "handle": "Deadpoolx7794",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76663701",
+      "displayName": "I - lf: bogura vs Deadpoolx7794",
+      "start": "00:43:18.799",
+      "end": "00:50:09.833",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "green"
+          },
+          {
+            "person": {
+              "id": "d202407040006184120000",
+              "handle": "Deadpoolx7794",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4014186"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "white"
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 337",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76663701",
+            "phaseId": "1702762",
+            "phaseGroupId": "2531420"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - lf: Deadpoolx7794 vs bogura",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Deadpoolx7794",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4014186",
+                  "handle": "Deadpoolx7794",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "76663686",
+      "displayName": "E - gf: bogura vs Vengeance",
+      "start": "00:51:48.816",
+      "end": "01:07:23.783",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140032157150000",
+              "handle": "bogura",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3204345"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407040018535640000",
+              "handle": "Vengeance",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "RyanMcCann21",
+                "smashgg": "3406864"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 337",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "76663686",
+            "phaseId": "1702762",
+            "phaseGroupId": "2531420"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "t8",
+            "name": "Tekken 8",
+            "shortNames": [
+              "T8"
+            ],
+            "hashtags": [
+              "TEKKEN8"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Tekken 8"
+              },
+              "smashgg": {
+                "id": "49783"
+              },
+              "challonge": {
+                "id": "236261"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - gf: Vengeance vs bogura",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Vengeance",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3406864",
+                  "handle": "Vengeance",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "RyanMcCann21"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "bogura",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3204345",
+                  "handle": "bogura",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-05-15 19-54-15.mkv",
+  "start": "00:00:00.000",
+  "end": "00:17:02.616",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w2: Dingus Khan XI vs Zekes",
+      "start": "00:12:35.199",
+      "end": "00:17:02.616",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202309070038570350000",
+              "handle": "Dingus Khan XI",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1080718"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202405160004255780000",
+              "handle": "Zekes",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "zekes2397",
+                "smashgg": "3020703"
+              },
+              "pronouns": "He/him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
