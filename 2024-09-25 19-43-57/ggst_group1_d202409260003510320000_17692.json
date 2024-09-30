@@ -1,0 +1,100 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-09-25 19-43-57.mkv",
+  "start": "00:19:43.000",
+  "end": "00:33:07.649",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: SDD | Jsaav vs Valentine",
+      "start": "00:25:56.783",
+      "end": "00:33:07.649",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202402150112469350000",
+              "handle": "Jsaav",
+              "prefix": "SDD",
+              "serviceIds": {
+                "twitter": "jsaavaage",
+                "smashgg": "2869486"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202409260008139410000",
+              "handle": "Valentine",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1047420"
+              },
+              "pronouns": "she/they"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "Strive",
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 349",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
