@@ -1,55 +1,59 @@
 {
   "format": "1",
   "version": "0.9.0",
-  "file": "..\\2024-08-07 20-16-03.mkv",
+  "file": "..\\2024-05-01 19-44-56.mkv",
+  "start": "00:14:34.000",
+  "end": "00:44:02.699",
+  "thumbnailTimestamp": "00:19:49.649",
+  "title": "Igotdembombs vs Dingus Khan XI - $150 Money Match",
   "event": {
-    "name": "Modern Legacy",
     "tournament": {
       "hashtag": "NLBC",
-      "startAt": 1723075200,
-      "endAt": 1723089540
+      "startAt": 1714608000,
+      "endAt": 1714622340
     }
   },
-  "phaseName": "Finals",
-  "start": "02:05:42.466",
-  "end": "02:50:31.732",
   "sets": [
     {
+      "title": "Igotdembombs vs Dingus Khan XI - $150 Money Match",
       "id": null,
-      "displayName": "Modern Legacy Finals: idom vs NYCMastermike",
-      "start": "02:30:02.632",
-      "end": "02:48:56.732",
+      "displayName": "Igotdembombs vs Dingus Khan XI",
+      "start": "00:19:58.000",
+      "end": "00:44:02.699",
       "state": {
         "players": [
           {
             "person": {
-              "id": "d202408080237333270000",
-              "handle": "idom",
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
               "prefix": null,
-              "serviceIds": {}
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              }
             },
-            "score": 2,
+            "score": 7,
             "inLosers": false,
             "comment": ""
           },
           {
             "person": {
-              "id": "d202203262242552580000",
-              "handle": "NYCMastermike",
+              "id": "d202309070038570350000",
+              "handle": "Dingus Khan XI",
               "prefix": null,
               "serviceIds": {
-                "twitter": "NYCMastermike",
-                "smashgg": "147466"
+                "smashgg": "1080718"
               }
             },
-            "score": 2,
+            "score": 1,
             "inLosers": false,
             "comment": ""
           }
         ],
         "match": {
           "id": "",
-          "name": "Modern Legacy Finals",
+          "name": "First to 7",
           "smashggId": null
         },
         "game": {
@@ -79,29 +83,30 @@
         "commentators": [
           {
             "person": {
-              "id": "d202306080126336000000",
-              "handle": "iDrop",
+              "id": "d202008220402351440000",
+              "handle": "ChrisHuNyc",
               "prefix": null,
               "serviceIds": {
-                "challonge": "203650020",
-                "twitter": "iDrop_",
-                "smashgg": "155969"
+                "twitter": "ChrisHuRocks",
+                "smashgg": "59380"
               }
             }
           },
           {
             "person": {
-              "id": "d202008220402350750002",
-              "handle": "Liston",
-              "prefix": "TSB",
+              "id": "d202309210026485150000",
+              "handle": "WhyNotSebastian",
+              "prefix": null,
               "serviceIds": {
-                "twitter": "ListonthePrince"
-              }
+                "twitter": "WhyNotSebastian",
+                "smashgg": "2525465"
+              },
+              "pronouns": "He/Him/HIs"
             }
           }
         ],
-        "tournament": "Next Level Battle Circuit 342",
-        "event": "Modern Legacy Tournament",
+        "tournament": "Next Level Battle Circuit 328",
+        "event": "$150 Money Match",
         "messages": []
       }
     }
