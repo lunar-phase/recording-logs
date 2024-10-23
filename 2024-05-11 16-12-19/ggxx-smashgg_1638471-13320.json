@@ -1,18 +1,186 @@
 {
   "format": "1",
   "version": "0.9.0",
-  "file": "..\\2024-05-11 15-38-58.mkv",
+  "file": "..\\2024-05-11 16-12-19.mkv",
   "bracketService": "smashgg",
-  "phaseId": "1638469",
-  "eventId": "1120700",
-  "start": "02:28:23.249",
-  "end": "03:02:26.916",
+  "phaseId": "1638471",
+  "eventId": "1120702",
+  "start": "04:56:02.299",
+  "end": "05:38:43.365",
   "sets": [
     {
-      "id": "74582024",
-      "displayName": "E - wf: LP/WASD | Lem vs Alps",
-      "start": "02:28:23.249",
-      "end": "02:39:12.832",
+      "id": "74597903",
+      "displayName": "F - wf: TSB | Pandabetic vs Native",
+      "start": "04:56:02.299",
+      "end": "05:02:21.899",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              }
+            }
+          }
+        ],
+        "tournament": "Guilty Gear XX ACPR",
+        "event": "Lunatic Perilune 34",
+        "messages": [
+          "Xrd Rev2 Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "74597903",
+            "phaseId": "1638471",
+            "phaseGroupId": "2445468"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - wf: Native vs TSB | Pandabetic",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Native",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1090326",
+                  "handle": "Native",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TSB | Pandabetic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "617072",
+                  "handle": "Pandabetic",
+                  "prefix": "TSB",
+                  "serviceIds": {
+                    "twitter": "pandabetic__"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "74597918",
+      "displayName": "L - ls: LP/WASD | Lem vs Garbage",
+      "start": "05:03:19.732",
+      "end": "05:07:25.332",
       "state": {
         "players": [
           {
@@ -26,189 +194,17 @@
                 "challonge": "157809460"
               }
             },
-            "score": 1,
-            "inLosers": false,
-            "comment": "F(Red)"
-          },
-          {
-            "person": {
-              "id": "d202008220402349880000",
-              "handle": "Alps",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "Fimbulvetr090",
-                "smashgg": "557587"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": "C(White)"
-          }
-        ],
-        "match": {
-          "id": "wf",
-          "name": "Winners Finals",
-          "smashggId": "Winners Final"
-        },
-        "game": {
-          "id": "melty",
-          "name": "Melty Blood Actress Again Current Code",
-          "shortNames": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "hashtags": [
-            "MBAACC",
-            "メルブラ"
-          ],
-          "additionalTags": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Melty Blood: Actress Again: Current Code"
-            },
-            "smashgg": {
-              "id": "22407"
-            },
-            "challonge": {
-              "id": "306"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202405112240364010000",
-              "handle": "TommyTadsworth",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "Kyt",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kiddncookies"
-            }
-          }
-        ],
-        "tournament": "P4U2",
-        "event": "Lunatic Perilune 34",
-        "messages": [
-          "MBAACC Up Next!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "74582024",
-            "phaseId": "1638469",
-            "phaseGroupId": "2445466"
-          },
-          "match": {
-            "id": "wf",
-            "name": "Winners Finals",
-            "smashggId": "Winners Final"
-          },
-          "videogame": {
-            "id": "melty",
-            "name": "Melty Blood Actress Again Current Code",
-            "shortNames": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "hashtags": [
-              "MBAACC",
-              "メルブラ"
-            ],
-            "additionalTags": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Melty Blood: Actress Again: Current Code"
-              },
-              "smashgg": {
-                "id": "22407"
-              },
-              "challonge": {
-                "id": "306"
-              }
-            }
-          },
-          "shortIdentifier": "E",
-          "displayName": "E - wf: Alps vs LP/WASD | Lem",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Alps",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "557587",
-                  "handle": "Alps",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "Fimbulvetr090"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "LP/WASD | Lem",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "791209",
-                  "handle": "Lem",
-                  "prefix": "LP/WASD",
-                  "serviceIds": {
-                    "twitter": "Lem___________"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "74582039",
-      "displayName": "J - ls: (ToT) | yung willy vs Tommytamsworth",
-      "start": "02:40:30.699",
-      "end": "02:45:05.366",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351400000",
-              "handle": "yung willy",
-              "prefix": "(ToT)",
-              "serviceIds": {
-                "smashgg": "883113",
-                "twitter": "lulufan69"
-              }
-            },
             "score": 0,
             "inLosers": false,
             "comment": ""
           },
           {
             "person": {
-              "id": "d202405112252376650000",
-              "handle": "Tommytamsworth",
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
               "prefix": null,
               "serviceIds": {
-                "smashgg": "1947521"
+                "smashgg": "415942"
               }
             },
             "score": 1,
@@ -222,68 +218,65 @@
           "smashggId": "Losers Semi-Final"
         },
         "game": {
-          "id": "melty",
-          "name": "Melty Blood Actress Again Current Code",
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
           "shortNames": [
-            "Melty Blood",
-            "Melty"
+            "GGXXAC+R",
+            "+R"
           ],
           "hashtags": [
-            "MBAACC",
-            "メルブラ"
+            "GGXXACPR"
           ],
           "additionalTags": [
-            "Melty Blood",
-            "Melty"
+            "Guilty Gear"
           ],
           "serviceInfo": {
             "twitch": {
-              "id": "Melty Blood: Actress Again: Current Code"
+              "id": "Guilty Gear XX Accent Core Plus R"
             },
             "smashgg": {
-              "id": "22407"
+              "id": "22406"
             },
             "challonge": {
-              "id": "306"
+              "id": "262"
             }
           }
         },
         "commentators": [
           {
             "person": {
-              "id": "d202008220402349880000",
-              "handle": "Alps",
-              "prefix": null,
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
               "serviceIds": {
-                "twitter": "Fimbulvetr090",
-                "smashgg": "557587"
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
               }
             }
           },
           {
             "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "Kyt",
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
               "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kiddncookies"
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              }
             }
           }
         ],
-        "tournament": "P4U2",
+        "tournament": "Guilty Gear XX ACPR",
         "event": "Lunatic Perilune 34",
         "messages": [
-          "MBAACC Up Next!"
+          "Xrd Rev2 Up Next!"
         ],
         "set": {
           "serviceInfo": {
             "serviceName": "smashgg",
-            "id": "74582039",
-            "phaseId": "1638469",
-            "phaseGroupId": "2445466"
+            "id": "74597918",
+            "phaseId": "1638471",
+            "phaseGroupId": "2445468"
           },
           "match": {
             "id": "ls",
@@ -291,205 +284,32 @@
             "smashggId": "Losers Semi-Final"
           },
           "videogame": {
-            "id": "melty",
-            "name": "Melty Blood Actress Again Current Code",
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
             "shortNames": [
-              "Melty Blood",
-              "Melty"
+              "GGXXAC+R",
+              "+R"
             ],
             "hashtags": [
-              "MBAACC",
-              "メルブラ"
+              "GGXXACPR"
             ],
             "additionalTags": [
-              "Melty Blood",
-              "Melty"
+              "Guilty Gear"
             ],
             "serviceInfo": {
               "twitch": {
-                "id": "Melty Blood: Actress Again: Current Code"
+                "id": "Guilty Gear XX Accent Core Plus R"
               },
               "smashgg": {
-                "id": "22407"
+                "id": "22406"
               },
               "challonge": {
-                "id": "306"
+                "id": "262"
               }
             }
           },
-          "shortIdentifier": "J",
-          "displayName": "J - ls: (ToT) | yung willy vs Tommytamsworth",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "(ToT) | yung willy",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "883113",
-                  "handle": "yung willy",
-                  "prefix": "(ToT)",
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Tommytamsworth",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1947521",
-                  "handle": "Tommytamsworth",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "74582040",
-      "displayName": "K - lf: LP/WASD | Lem vs Tommytamsworth",
-      "start": "02:45:31.916",
-      "end": "02:55:35.449",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350750000",
-              "handle": "Lem",
-              "prefix": "LP/WASD",
-              "serviceIds": {
-                "twitter": "Lem___________",
-                "smashgg": "791209",
-                "challonge": "157809460"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202405112252376650000",
-              "handle": "Tommytamsworth",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "1947521"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "lf",
-          "name": "Losers Finals",
-          "smashggId": "Losers Final"
-        },
-        "game": {
-          "id": "melty",
-          "name": "Melty Blood Actress Again Current Code",
-          "shortNames": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "hashtags": [
-            "MBAACC",
-            "メルブラ"
-          ],
-          "additionalTags": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Melty Blood: Actress Again: Current Code"
-            },
-            "smashgg": {
-              "id": "22407"
-            },
-            "challonge": {
-              "id": "306"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402349880000",
-              "handle": "Alps",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "Fimbulvetr090",
-                "smashgg": "557587"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "Kyt",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kiddncookies"
-            }
-          }
-        ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune 34",
-        "messages": [
-          "MBAACC Up Next!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "74582040",
-            "phaseId": "1638469",
-            "phaseGroupId": "2445466"
-          },
-          "match": {
-            "id": "lf",
-            "name": "Losers Finals",
-            "smashggId": "Losers Final"
-          },
-          "videogame": {
-            "id": "melty",
-            "name": "Melty Blood Actress Again Current Code",
-            "shortNames": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "hashtags": [
-              "MBAACC",
-              "メルブラ"
-            ],
-            "additionalTags": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Melty Blood: Actress Again: Current Code"
-              },
-              "smashgg": {
-                "id": "22407"
-              },
-              "challonge": {
-                "id": "306"
-              }
-            }
-          },
-          "shortIdentifier": "K",
-          "displayName": "K - lf: LP/WASD | Lem vs Tommytamsworth",
+          "shortIdentifier": "L",
+          "displayName": "L - ls: LP/WASD | Lem vs Garbage",
           "completedAt": null,
           "entrants": [
             {
@@ -508,12 +328,12 @@
               "inLosers": false
             },
             {
-              "name": "Tommytamsworth",
+              "name": "Garbage",
               "participants": [
                 {
                   "serviceName": "smashgg",
-                  "serviceId": "1947521",
-                  "handle": "Tommytamsworth",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
                   "prefix": null,
                   "serviceIds": {}
                 }
@@ -525,20 +345,20 @@
       }
     },
     {
-      "id": "74582025",
-      "displayName": "F - gf: Alps vs Tommytamsworth",
-      "start": "02:57:04.532",
-      "end": "03:02:26.916",
+      "id": "74597919",
+      "displayName": "M - lf: TSB | Pandabetic vs Garbage",
+      "start": "05:09:49.315",
+      "end": "05:21:19.865",
       "state": {
         "players": [
           {
             "person": {
-              "id": "d202008220402349880000",
-              "handle": "Alps",
-              "prefix": null,
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
               "serviceIds": {
-                "twitter": "Fimbulvetr090",
-                "smashgg": "557587"
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
               }
             },
             "score": 2,
@@ -547,14 +367,181 @@
           },
           {
             "person": {
-              "id": "d202405112252376650000",
-              "handle": "Tommytamsworth",
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
               "prefix": null,
               "serviceIds": {
-                "smashgg": "1947521"
+                "smashgg": "415942"
               }
             },
-            "score": 0,
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              }
+            }
+          }
+        ],
+        "tournament": "Guilty Gear XX ACPR",
+        "event": "Lunatic Perilune 34",
+        "messages": [
+          "Xrd Rev2 Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "74597919",
+            "phaseId": "1638471",
+            "phaseGroupId": "2445468"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - lf: TSB | Pandabetic vs Garbage",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TSB | Pandabetic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "617072",
+                  "handle": "Pandabetic",
+                  "prefix": "TSB",
+                  "serviceIds": {
+                    "twitter": "pandabetic__"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Garbage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "74597904",
+      "displayName": "G - gf: Native vs Garbage",
+      "start": "05:23:23.849",
+      "end": "05:38:43.365",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            },
+            "score": 2,
             "inLosers": true,
             "comment": ""
           }
@@ -565,68 +552,65 @@
           "smashggId": "Grand Final"
         },
         "game": {
-          "id": "melty",
-          "name": "Melty Blood Actress Again Current Code",
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
           "shortNames": [
-            "Melty Blood",
-            "Melty"
+            "GGXXAC+R",
+            "+R"
           ],
           "hashtags": [
-            "MBAACC",
-            "メルブラ"
+            "GGXXACPR"
           ],
           "additionalTags": [
-            "Melty Blood",
-            "Melty"
+            "Guilty Gear"
           ],
           "serviceInfo": {
             "twitch": {
-              "id": "Melty Blood: Actress Again: Current Code"
+              "id": "Guilty Gear XX Accent Core Plus R"
             },
             "smashgg": {
-              "id": "22407"
+              "id": "22406"
             },
             "challonge": {
-              "id": "306"
+              "id": "262"
             }
           }
         },
         "commentators": [
           {
             "person": {
-              "id": "d202008220402349880000",
-              "handle": "Alps",
-              "prefix": null,
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
               "serviceIds": {
-                "twitter": "Fimbulvetr090",
-                "smashgg": "557587"
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
               }
             }
           },
           {
             "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "Kyt",
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
               "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kiddncookies"
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              }
             }
           }
         ],
-        "tournament": "Melty Blood Actress Again Current Code",
+        "tournament": "Guilty Gear XX ACPR",
         "event": "Lunatic Perilune 34",
         "messages": [
-          "MBAACC Up Next!"
+          "Xrd Rev2 Up Next!"
         ],
         "set": {
           "serviceInfo": {
             "serviceName": "smashgg",
-            "id": "74582025",
-            "phaseId": "1638469",
-            "phaseGroupId": "2445466"
+            "id": "74597904",
+            "phaseId": "1638471",
+            "phaseGroupId": "2445468"
           },
           "match": {
             "id": "gf",
@@ -634,58 +618,54 @@
             "smashggId": "Grand Final"
           },
           "videogame": {
-            "id": "melty",
-            "name": "Melty Blood Actress Again Current Code",
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
             "shortNames": [
-              "Melty Blood",
-              "Melty"
+              "GGXXAC+R",
+              "+R"
             ],
             "hashtags": [
-              "MBAACC",
-              "メルブラ"
+              "GGXXACPR"
             ],
             "additionalTags": [
-              "Melty Blood",
-              "Melty"
+              "Guilty Gear"
             ],
             "serviceInfo": {
               "twitch": {
-                "id": "Melty Blood: Actress Again: Current Code"
+                "id": "Guilty Gear XX Accent Core Plus R"
               },
               "smashgg": {
-                "id": "22407"
+                "id": "22406"
               },
               "challonge": {
-                "id": "306"
+                "id": "262"
               }
             }
           },
-          "shortIdentifier": "F",
-          "displayName": "F - gf: Alps vs Tommytamsworth",
+          "shortIdentifier": "G",
+          "displayName": "G - gf: Native vs Garbage",
           "completedAt": null,
           "entrants": [
             {
-              "name": "Alps",
+              "name": "Native",
               "participants": [
                 {
                   "serviceName": "smashgg",
-                  "serviceId": "557587",
-                  "handle": "Alps",
+                  "serviceId": "1090326",
+                  "handle": "Native",
                   "prefix": null,
-                  "serviceIds": {
-                    "twitter": "Fimbulvetr090"
-                  }
+                  "serviceIds": {}
                 }
               ],
               "inLosers": false
             },
             {
-              "name": "Tommytamsworth",
+              "name": "Garbage",
               "participants": [
                 {
                   "serviceName": "smashgg",
-                  "serviceId": "1947521",
-                  "handle": "Tommytamsworth",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
                   "prefix": null,
                   "serviceIds": {}
                 }
