@@ -1,0 +1,906 @@
+{
+  "uploadId": "TCain9Shoac",
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-10-19 16-57-54.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1785661",
+  "eventId": "1233635",
+  "start": "01:12:22",
+  "end": "02:43:43.782",
+  "thumbnailTimestamp": "01:17:48.316",
+  "sets": [
+    {
+      "id": "81206737",
+      "displayName": "G - ws: NYCMastermike vs Aroo",
+      "start": "01:13:06.233",
+      "end": "01:20:16.249",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "TNS",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #39",
+        "event": "",
+        "messages": [
+          "KOF XV Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "81206737",
+            "phaseId": "1785661",
+            "phaseGroupId": "2642513"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - ws: NYCMastermike vs Aroo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Aroo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "372499",
+                  "handle": "Aroo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "aroolee"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "81206738",
+      "displayName": "H - wf: TNS | Yurikov vs NYCMastermike",
+      "start": "01:22:36.949",
+      "end": "01:34:09.483",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350790001",
+              "handle": "Yurikov",
+              "prefix": "TNS",
+              "serviceIds": {
+                "twitter": "EcYurikov",
+                "smashgg": "246112"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402349900001",
+              "handle": "Animonk",
+              "prefix": "KPB",
+              "serviceIds": {
+                "twitter": "ANIM0NK",
+                "smashgg": "357659"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #39",
+        "event": "",
+        "messages": [
+          "KOF XV Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "81206738",
+            "phaseId": "1785661",
+            "phaseGroupId": "2642513"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - wf: TNS | Yurikov vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TNS | Yurikov",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "246112",
+                  "handle": "Yurikov",
+                  "prefix": "TNS",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "EcYurikov"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "81206769",
+      "displayName": "P - ls: TNS | Rome_Himself vs Aroo",
+      "start": "01:52:01.166",
+      "end": "02:00:04.733",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "TNS",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350790001",
+              "handle": "Yurikov",
+              "prefix": "TNS",
+              "serviceIds": {
+                "twitter": "EcYurikov",
+                "smashgg": "246112"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #39",
+        "event": "",
+        "messages": [
+          "KOF XV Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "81206769",
+            "phaseId": "1785661",
+            "phaseGroupId": "2642513"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "P",
+          "displayName": "P - ls: Rome_Himself vs Aroo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Rome_Himself",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147893",
+                  "handle": "Rome_Himself",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Romulus_Himself"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Aroo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "372499",
+                  "handle": "Aroo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "aroolee"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "81206770",
+      "displayName": "Q - lf: TNS | Rome_Himself vs NYCMastermike",
+      "start": "02:01:44.499",
+      "end": "02:22:43.682",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "TNS",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350790001",
+              "handle": "Yurikov",
+              "prefix": "TNS",
+              "serviceIds": {
+                "twitter": "EcYurikov",
+                "smashgg": "246112"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #39",
+        "event": "",
+        "messages": [
+          "KOF XV Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "81206770",
+            "phaseId": "1785661",
+            "phaseGroupId": "2642513"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "Q",
+          "displayName": "Q - lf: NYCMastermike vs Rome_Himself",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Rome_Himself",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147893",
+                  "handle": "Rome_Himself",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Romulus_Himself"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "81206739",
+      "displayName": "I - gf: TNS | Rome_Himself vs TNS | Yurikov",
+      "start": "02:25:37.049",
+      "end": "02:38:24.432",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351080001",
+              "handle": "Rome_Himself",
+              "prefix": "TNS",
+              "serviceIds": {
+                "twitter": "Romulus_Himself",
+                "smashgg": "147893"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350790001",
+              "handle": "Yurikov",
+              "prefix": "TNS",
+              "serviceIds": {
+                "twitter": "EcYurikov",
+                "smashgg": "246112"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #39",
+        "event": "",
+        "messages": [
+          "KOF XV Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "81206739",
+            "phaseId": "1785661",
+            "phaseGroupId": "2642513"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - gf: TNS | Yurikov vs Rome_Himself",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TNS | Yurikov",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "246112",
+                  "handle": "Yurikov",
+                  "prefix": "TNS",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "EcYurikov"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Rome_Himself",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147893",
+                  "handle": "Rome_Himself",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Romulus_Himself"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
