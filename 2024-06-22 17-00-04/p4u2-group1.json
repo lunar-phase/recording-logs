@@ -1,0 +1,81 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-06-22 17-00-04.mkv",
+  "phaseName": "FT10 Exhibition",
+  "start": "00:02:54",
+  "end": "00:58:50",
+  "userData": {
+    "notes": "Apologies for the desynced audio"
+  },
+  "sets": [
+    {
+      "id": null,
+      "displayName": "Kyt | Kiddncookies vs BC | Wagner White",
+      "start": "00:02:54",
+      "end": "00:58:50",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "Kyt",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202409260019268370000",
+              "handle": "Wagner White",
+              "prefix": "BC",
+              "serviceIds": {
+                "smashgg": "3834307"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ft10",
+          "name": "First to 10",
+          "smashggId": null
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        }
+      }
+    }
+  ]
+}
