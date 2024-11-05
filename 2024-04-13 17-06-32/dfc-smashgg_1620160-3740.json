@@ -11,7 +11,7 @@
     {
       "id": "73345859",
       "displayName": "F - wf: IA | j.g. vs LP | StraylightP",
-      "start": "00:01:35.183",
+      "start": "00:02:05",
       "end": "00:17:18.616",
       "state": {
         "players": [
@@ -325,162 +325,10 @@
       }
     },
     {
-      "id": "73345860",
-      "displayName": "G - gf: IA | j.g. vs LP | StraylightP",
+      "id": "73345875",
+      "displayName": "M - lf: IA | j.g. vs Denpa",
       "start": "00:34:51.949",
-      "end": "00:44:57.833",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350590000",
-              "handle": "j.g.",
-              "prefix": "IA",
-              "serviceIds": {
-                "twitter": "jdotgdot1",
-                "smashgg": "353501"
-              }
-            },
-            "score": 0,
-            "inLosers": true,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "StraylightP",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402351280002",
-              "handle": "Tomuhawk",
-              "prefix": "S.O.N.G.",
-              "serviceIds": {
-                "twitter": "NYC_Tomuhawk",
-                "smashgg": "170633"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350940000",
-              "handle": "KaiAi",
-              "prefix": "PPT",
-              "serviceIds": {
-                "twitter": "nyczbrandon",
-                "smashgg": "567810"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune 33",
-        "event": "Dengeki Bunko Fighting Climax Ignition",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "73345860",
-            "phaseId": "1620160",
-            "phaseGroupId": "2420488"
-          },
-          "match": {
-            "id": "gf",
-            "name": "Grand Finals",
-            "smashggId": "Grand Final"
-          },
-          "videogame": {
-            "id": "dfc",
-            "name": "Dengeki Bunko Fighting Climax: Ignition",
-            "shortNames": [
-              "Dengeki Bunko Fighting Climax",
-              "Dengeki Bunko",
-              "DFCI"
-            ],
-            "hashtags": [
-              "DFCI"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Dengeki Bunko: Fighting Climax Ignition"
-              },
-              "smashgg": {
-                "id": "4267"
-              }
-            }
-          },
-          "shortIdentifier": "G",
-          "displayName": "G - gf: LP | StraylightP vs IA | j.g.",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "LP | StraylightP",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "413756",
-                  "handle": "StraylightP",
-                  "prefix": "LP",
-                  "serviceIds": {
-                    "twitter": "LoFi_Yokai"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "IA | j.g.",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "353501",
-                  "handle": "j.g.",
-                  "prefix": "IA",
-                  "serviceIds": {
-                    "twitter": "jdotgdot1"
-                  }
-                }
-              ],
-              "inLosers": true
-            }
-          ]
-        }
-      }
+      "end": "00:44:57.833"
     },
     {
       "id": "73345860",
