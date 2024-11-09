@@ -1,0 +1,95 @@
+{
+  "uploadId": "_8FD3or2kPA",
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-10-30 19-44-33.mkv",
+  "event": {
+    "tournament": {
+      "hashtag": "NLBC",
+      "startAt": 1730332800,
+      "endAt": 1730347140
+    }
+  },
+  "start": "03:00:20.500 ",
+  "end": "03:16:30.866",
+  "thumbnailTimestamp": "03:07:04",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "Finals: Awhile vs NYCMastermike",
+      "start": "03:01:55.032",
+      "end": "03:13:26.249",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202410310247229070000",
+              "handle": "Awhile",
+              "prefix": null,
+              "serviceIds": {}
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Finals",
+          "smashggId": null
+        },
+        "game": {
+          "id": "",
+          "name": "Don't Break the Ice",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202309210026485150000",
+              "handle": "WhyNotSebastian",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WhyNotSebastian",
+                "smashgg": "2525465"
+              },
+              "pronouns": "He/Him/HIs"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 354",
+        "event": "Mystery Game Tournament",
+        "messages": [
+          null,
+          "Tino, NY Mando"
+        ]
+      }
+    }
+  ]
+}
