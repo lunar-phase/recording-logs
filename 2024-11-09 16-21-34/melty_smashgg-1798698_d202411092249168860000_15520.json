@@ -1,4 +1,5 @@
 {
+  "uploadId": "YNAhRnSBgAs",
   "format": "1",
   "version": "0.9.0",
   "file": "..\\2024-11-09 16-21-34.mkv",
@@ -7,6 +8,7 @@
   "eventId": "1243822",
   "start": "01:27:42.333",
   "end": "03:09:24.799",
+  "thumbnailTimestamp": "01:39:13.477",
   "sets": [
     {
       "id": "82074670",
@@ -351,179 +353,10 @@
       }
     },
     {
-      "id": "82074674",
-      "displayName": "R - ws: LP/WASD | Lem vs AONI | Crocs N' Socks",
+      "id": "82074673",
+      "displayName": "Q - ws: Maigo vs BETRAYED | Skeleton",
       "start": "01:48:03.866",
-      "end": "01:52:37.466",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350750000",
-              "handle": "Lem",
-              "prefix": "LP/WASD",
-              "serviceIds": {
-                "twitter": "Lem___________",
-                "smashgg": "791209",
-                "challonge": "157809460"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351450001",
-              "handle": "Crocs N' Socks",
-              "prefix": "AONI",
-              "serviceIds": {
-                "twitter": "DDDS_Main",
-                "challonge": "134105609",
-                "smashgg": "566104"
-              },
-              "pronouns": "He/Him"
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "ws",
-          "name": "Winners Semis",
-          "smashggId": "Winners Semi-Final"
-        },
-        "game": {
-          "id": "melty",
-          "name": "Melty Blood Actress Again Current Code",
-          "shortNames": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "hashtags": [
-            "MBAACC",
-            "メルブラ"
-          ],
-          "additionalTags": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Melty Blood: Actress Again: Current Code"
-            },
-            "smashgg": {
-              "id": "22407"
-            },
-            "challonge": {
-              "id": "306"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202306172044046440000",
-              "handle": "Kidd",
-              "prefix": "Kyt",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402349790000",
-              "handle": "adct",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "adct_ssb"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #40",
-        "event": "Melty Blood Actress Again Current Code",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "82074674",
-            "phaseId": "1798698",
-            "phaseGroupId": "2660727"
-          },
-          "match": {
-            "id": "ws",
-            "name": "Winners Semis",
-            "smashggId": "Winners Semi-Final"
-          },
-          "videogame": {
-            "id": "melty",
-            "name": "Melty Blood Actress Again Current Code",
-            "shortNames": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "hashtags": [
-              "MBAACC",
-              "メルブラ"
-            ],
-            "additionalTags": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Melty Blood: Actress Again: Current Code"
-              },
-              "smashgg": {
-                "id": "22407"
-              },
-              "challonge": {
-                "id": "306"
-              }
-            }
-          },
-          "shortIdentifier": "R",
-          "displayName": "R - ws: AONI | Crocs N' Socks vs LP/WASD | Lem",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "AONI | Crocs N' Socks",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "566104",
-                  "handle": "Crocs N' Socks",
-                  "prefix": "AONI",
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "DDDS_Main"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "LP/WASD | Lem",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "791209",
-                  "handle": "Lem",
-                  "prefix": "LP/WASD",
-                  "serviceIds": {
-                    "twitter": "Lem___________"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "end": "01:52:37.466"
     },
     {
       "id": "82074674",
@@ -699,6 +532,12 @@
           ]
         }
       }
+    },
+    {
+      "id": "82074734",
+      "displayName": "AH - l4: Denpa vs yung willy",
+      "start": "02:01:23",
+      "end": "02:09:23"
     },
     {
       "id": "82074735",
@@ -1734,7 +1573,7 @@
     {
       "id": "82074676",
       "displayName": "T - gf: LP/WASD | Lem vs BETRAYED | Skeleton",
-      "start": "03:08:06.916",
+      "start": "03:01:14",
       "end": "03:08:11.749",
       "state": {
         "players": [
