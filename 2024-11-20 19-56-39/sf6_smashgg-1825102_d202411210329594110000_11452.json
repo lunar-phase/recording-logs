@@ -1,0 +1,1312 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-11-20 19-56-39.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1825102",
+  "eventId": "1264592",
+  "start": "02:33:19.432",
+  "end": "03:37:29.716",
+  "thumbnailTimestamp": "03:10:21.199",
+  "sets": [
+    {
+      "id": "82537864",
+      "displayName": "I - ws: NYCMastermike vs Kaos",
+      "start": "02:34:48.582",
+      "end": "02:41:47.666",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202411210331497830000",
+              "handle": "Kaos",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4433914"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 357",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "82537864",
+            "phaseId": "1825102",
+            "phaseGroupId": "2695202"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - ws: NYCMastermike vs Kaos",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Kaos",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4433914",
+                  "handle": "Kaos",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "82537863",
+      "displayName": "H - ws: XSET | iDom vs Dingus Khan XI",
+      "start": "02:42:28.599",
+      "end": "02:47:25.466",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": "XSET",
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202309070038570350000",
+              "handle": "Dingus Khan XI",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1080718"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 357",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "82537863",
+            "phaseId": "1825102",
+            "phaseGroupId": "2695202"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - ws: XSET | iDom vs Dingus Khan XI",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "XSET | iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": "XSET",
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dingus Khan XI",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1080718",
+                  "handle": "Dingus Khan XI",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "82537895",
+      "displayName": "S - lq: LAGr | NY Mando vs Kaos",
+      "start": "02:48:47.000",
+      "end": "02:51:58.032",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202410310124256030000",
+              "handle": "NY Mando",
+              "prefix": "LAGr",
+              "serviceIds": {
+                "twitter": "ny_mando",
+                "smashgg": "3721848"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202411210331497830000",
+              "handle": "Kaos",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4433914"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": "XSET",
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 357",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "82537895",
+            "phaseId": "1825102",
+            "phaseGroupId": "2695202"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - lq: Kaos vs LAGr | NY Mando",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Kaos",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4433914",
+                  "handle": "Kaos",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LAGr | NY Mando",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3721848",
+                  "handle": "NY Mando",
+                  "prefix": "LAGr",
+                  "serviceIds": {
+                    "twitter": "ny_mando"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "82537894",
+      "displayName": "R - lq: Buscar Luz vs Dingus Khan XI",
+      "start": "02:52:57.382",
+      "end": "03:01:10.616",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203192032560660001",
+              "handle": "Buscar Luz",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Buscarluz",
+                "smashgg": "1039293"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202309070038570350000",
+              "handle": "Dingus Khan XI",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1080718"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": "XSET",
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 357",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "82537894",
+            "phaseId": "1825102",
+            "phaseGroupId": "2695202"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - lq: Dingus Khan XI vs Buscar Luz",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dingus Khan XI",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1080718",
+                  "handle": "Dingus Khan XI",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Buscar Luz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1039293",
+                  "handle": "Buscar Luz",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Buscarluz"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "82537865",
+      "displayName": "J - wf: NYCMastermike vs XSET | iDom",
+      "start": "03:02:05.716",
+      "end": "03:09:17.532",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": "XSET",
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202309210026485150000",
+              "handle": "WhyNotSebastian",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WhyNotSebastian",
+                "smashgg": "2525465"
+              },
+              "pronouns": "He/Him/HIs"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 357",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "82537865",
+            "phaseId": "1825102",
+            "phaseGroupId": "2695202"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - wf: XSET | iDom vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "XSET | iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": "XSET",
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "82537896",
+      "displayName": "T - ls: LAGr | NY Mando vs Dingus Khan XI",
+      "start": "03:10:07.516",
+      "end": "03:13:57.966",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202410310124256030000",
+              "handle": "NY Mando",
+              "prefix": "LAGr",
+              "serviceIds": {
+                "twitter": "ny_mando",
+                "smashgg": "3721848"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202309070038570350000",
+              "handle": "Dingus Khan XI",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1080718"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202309210026485150000",
+              "handle": "WhyNotSebastian",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WhyNotSebastian",
+                "smashgg": "2525465"
+              },
+              "pronouns": "He/Him/HIs"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 357",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "82537896",
+            "phaseId": "1825102",
+            "phaseGroupId": "2695202"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "T",
+          "displayName": "T - ls: Dingus Khan XI vs LAGr | NY Mando",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dingus Khan XI",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1080718",
+                  "handle": "Dingus Khan XI",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LAGr | NY Mando",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3721848",
+                  "handle": "NY Mando",
+                  "prefix": "LAGr",
+                  "serviceIds": {
+                    "twitter": "ny_mando"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "82537897",
+      "displayName": "U - lf: LAGr | NY Mando vs NYCMastermike",
+      "start": "03:14:36.000",
+      "end": "03:27:00.916",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202410310124256030000",
+              "handle": "NY Mando",
+              "prefix": "LAGr",
+              "serviceIds": {
+                "twitter": "ny_mando",
+                "smashgg": "3721848"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202309210026485150000",
+              "handle": "WhyNotSebastian",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WhyNotSebastian",
+                "smashgg": "2525465"
+              },
+              "pronouns": "He/Him/HIs"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 357",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "82537897",
+            "phaseId": "1825102",
+            "phaseGroupId": "2695202"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "U",
+          "displayName": "U - lf: NYCMastermike vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "82537866",
+      "displayName": "K - gf: XSET | iDom vs NYCMastermike",
+      "start": "03:27:55.999",
+      "end": "03:35:18.966",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": "XSET",
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202309210026485150000",
+              "handle": "WhyNotSebastian",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WhyNotSebastian",
+                "smashgg": "2525465"
+              },
+              "pronouns": "He/Him/HIs"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 357",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "82537866",
+            "phaseId": "1825102",
+            "phaseGroupId": "2695202"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "sf6",
+            "name": "Street Fighter 6",
+            "shortNames": [
+              "SF6"
+            ],
+            "hashtags": [
+              "SF6"
+            ],
+            "additionalTags": [
+              "Street Fighter"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Street Fighter 6"
+              },
+              "smashgg": {
+                "id": "43868"
+              },
+              "challonge": {
+                "id": "293490"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - gf: XSET | iDom vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "XSET | iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": "XSET",
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
