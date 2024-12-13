@@ -1,0 +1,100 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-12-11 20-13-05.mkv",
+  "start": "00:41:44.133",
+  "end": "00:49:20.333",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "wq: GoldenCen vs Moe | Igotdembombs",
+      "start": "00:45:55.716",
+      "end": "00:49:20.333",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350470000",
+              "handle": "GoldenCen",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "goldencen",
+                "smashgg": "174828"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
+              "prefix": "Moe",
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 360",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
