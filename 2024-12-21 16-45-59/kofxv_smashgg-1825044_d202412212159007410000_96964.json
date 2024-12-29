@@ -1,0 +1,529 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-12-21 16-45-59.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1825044",
+  "eventId": "1264537",
+  "start": "00:13:00.783",
+  "end": "00:52:21.783",
+  "thumbnailTimestamp": "00:37:56.583",
+  "sets": [
+    {
+      "id": "83577386",
+      "displayName": "A: Jayka vs Dang",
+      "start": "00:15:08.666",
+      "end": "00:21:51.816",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202412212151548680000",
+              "handle": "Jayka",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "p_jayka",
+                "smashgg": "2018842"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "",
+          "smashggId": null
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #41",
+        "event": "",
+        "messages": [
+          "KOFXV starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "83577386",
+            "phaseId": "1825044",
+            "phaseGroupId": "2695144"
+          },
+          "match": null,
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - Round 1: Dang vs Jayka",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BS_Dang"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Jayka",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2018842",
+                  "handle": "Jayka",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "p_jayka"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "83577388",
+      "displayName": "C - rr: NYCMastermike vs Jayka",
+      "start": "00:24:58.000",
+      "end": "00:34:00.016",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202412212151548680000",
+              "handle": "Jayka",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "p_jayka",
+                "smashgg": "2018842"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #41",
+        "event": "",
+        "messages": [
+          "KOFXV starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "83577388",
+            "phaseId": "1825044",
+            "phaseGroupId": "2695144"
+          },
+          "match": null,
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - Round 2: NYCMastermike vs Jayka",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Jayka",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2018842",
+                  "handle": "Jayka",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "p_jayka"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "83577394",
+      "displayName": "I - rr: NYCMastermike vs Dang",
+      "start": "00:37:33.549",
+      "end": "00:51:07.833",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "kofxv",
+          "name": "The King of Fighters XV",
+          "shortNames": [
+            "King of Fighters XV",
+            "KOF XV"
+          ],
+          "hashtags": [
+            "KOFXV",
+            "KOF"
+          ],
+          "additionalTags": [
+            "King of Fighters XV",
+            "King of Fighters 15",
+            "King of Fighters",
+            "KOF15"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "The King of Fighters XV"
+            },
+            "smashgg": {
+              "id": "36963"
+            },
+            "challonge": {
+              "id": "252493"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #41",
+        "event": "",
+        "messages": [
+          "KOFXV starting soon"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "83577394",
+            "phaseId": "1825044",
+            "phaseGroupId": "2695144"
+          },
+          "match": null,
+          "videogame": {
+            "id": "kofxv",
+            "name": "The King of Fighters XV",
+            "shortNames": [
+              "King of Fighters XV",
+              "KOF XV"
+            ],
+            "hashtags": [
+              "KOFXV",
+              "KOF"
+            ],
+            "additionalTags": [
+              "King of Fighters XV",
+              "King of Fighters 15",
+              "King of Fighters",
+              "KOF15"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "The King of Fighters XV"
+              },
+              "smashgg": {
+                "id": "36963"
+              },
+              "challonge": {
+                "id": "252493"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - Round 5: NYCMastermike vs Dang",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BS_Dang"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,94 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2024-12-18 19-53-26.mkv",
+  "start": "00:11:21.699",
+  "end": "00:19:33.316",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: Kyrios vs Kazama_Kenshin",
+      "start": "00:15:09.583",
+      "end": "00:19:33.316",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202412190104347840000",
+              "handle": "Kyrios",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1304400"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202410030018434240000",
+              "handle": "Kazama_Kenshin",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4376365"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "mvc2",
+          "name": "Marvel vs Capcom 2",
+          "shortNames": [
+            "MvC2"
+          ],
+          "hashtags": [
+            "MvC2"
+          ],
+          "additionalTags": [
+            "Marvel 2"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Marvel vs. Capcom 2: New Age of Heroes"
+            },
+            "smashgg": {
+              "id": "3742"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 361",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
