@@ -1,657 +1,20 @@
 {
+  "uploadId": "xIIR7KjA6RU",
   "format": "1",
   "version": "0.9.0",
   "file": "..\\2025-02-01 16-20-15.mkv",
   "bracketService": "smashgg",
-  "phaseId": "1865329",
   "eventId": "1295749",
-  "start": "00:00:00.000",
-  "end": "03:25:03.132",
+  "phaseId": "1865329",
+  "phaseName": "Top 8",
+  "start": "01:48:56",
+  "end": "03:26:46",
+  "thumbnailTimestamp": "02:56:54.858",
   "sets": [
-    {
-      "id": null,
-      "displayName": "rr: SLG | StarMunch vs Kyt | Kidd Cudi (Kidd)",
-      "start": "00:00:51.633",
-      "end": "00:08:26.216",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202307152250333120000",
-              "handle": "StarMunch",
-              "prefix": "SLG",
-              "serviceIds": {
-                "smashgg": "1131059"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "Kyt",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi"
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "rr",
-          "name": "Round Robin",
-          "smashggId": null
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "Kyt",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi"
-            }
-          },
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Persona 4 Arena Ultimax",
-        "event": "Lunatic Perilune# 43",
-        "messages": []
-      }
-    },
-    {
-      "id": null,
-      "displayName": "rr: (ToT) | yung willy vs BC | i guess",
-      "start": "00:10:56.816",
-      "end": "00:13:17.033",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351400000",
-              "handle": "yung willy",
-              "prefix": "(ToT)",
-              "serviceIds": {
-                "smashgg": "883113",
-                "twitter": "lulufan69"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202502012129093240000",
-              "handle": "i guess",
-              "prefix": "BC",
-              "serviceIds": {}
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "rr",
-          "name": "Round Robin",
-          "smashggId": null
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "Kyt",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi"
-            }
-          },
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Persona 4 Arena Ultimax",
-        "event": "Lunatic Perilune# 43",
-        "messages": []
-      }
-    },
-    {
-      "id": null,
-      "displayName": "rr: SLG | StarMunch vs BC | i guess",
-      "start": "00:16:43.366",
-      "end": "00:29:47.733",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202307152250333120000",
-              "handle": "StarMunch",
-              "prefix": "SLG",
-              "serviceIds": {
-                "smashgg": "1131059"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202502012129093240000",
-              "handle": "i guess",
-              "prefix": "BC",
-              "serviceIds": {}
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "rr",
-          "name": "Round Robin",
-          "smashggId": null
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402351400000",
-              "handle": "yung willy",
-              "prefix": "(ToT)",
-              "serviceIds": {
-                "smashgg": "883113",
-                "twitter": "lulufan69"
-              }
-            }
-          }
-        ],
-        "tournament": "Persona 4 Arena Ultimax",
-        "event": "Lunatic Perilune# 43",
-        "messages": []
-      }
-    },
-    {
-      "id": null,
-      "displayName": "rr: SLG | StarMunch vs (ToT) | yung willy",
-      "start": "00:32:09.933",
-      "end": "00:43:36.166",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202307152250333120000",
-              "handle": "StarMunch",
-              "prefix": "SLG",
-              "serviceIds": {
-                "smashgg": "1131059"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351400000",
-              "handle": "yung willy",
-              "prefix": "(ToT)",
-              "serviceIds": {
-                "smashgg": "883113",
-                "twitter": "lulufan69"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "rr",
-          "name": "Round Robin",
-          "smashggId": null
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202502012129093240000",
-              "handle": "i guess",
-              "prefix": "BC",
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Persona 4 Arena Ultimax",
-        "event": "Lunatic Perilune# 43",
-        "messages": []
-      }
-    },
-    {
-      "id": null,
-      "displayName": "rr: (ToT) | yung willy vs MoleTheDino",
-      "start": "00:46:30.366",
-      "end": "00:51:06.816",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351400000",
-              "handle": "yung willy",
-              "prefix": "(ToT)",
-              "serviceIds": {
-                "smashgg": "883113",
-                "twitter": "lulufan69"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202411092120368740000",
-              "handle": "MoleTheDino",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "4505282"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "rr",
-          "name": "Round Robin",
-          "smashggId": null
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202502012129093240000",
-              "handle": "i guess",
-              "prefix": "BC",
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202307152250333120000",
-              "handle": "StarMunch",
-              "prefix": "SLG",
-              "serviceIds": {
-                "smashgg": "1131059"
-              }
-            }
-          }
-        ],
-        "tournament": "Persona 4 Arena Ultimax",
-        "event": "Lunatic Perilune# 43",
-        "messages": []
-      }
-    },
-    {
-      "id": null,
-      "displayName": "rr: Kyt | Kidd Cudi (Kidd) vs BC | i guess",
-      "start": "01:00:56.316",
-      "end": "01:00:58.199",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "Kyt",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi"
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202502012129093240000",
-              "handle": "i guess",
-              "prefix": "BC",
-              "serviceIds": {}
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "rr",
-          "name": "Round Robin",
-          "smashggId": null
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402351400000",
-              "handle": "yung willy",
-              "prefix": "(ToT)",
-              "serviceIds": {
-                "smashgg": "883113",
-                "twitter": "lulufan69"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202307152250333120000",
-              "handle": "StarMunch",
-              "prefix": "SLG",
-              "serviceIds": {
-                "smashgg": "1131059"
-              }
-            }
-          }
-        ],
-        "tournament": "Persona 4 Arena Ultimax",
-        "event": "Lunatic Perilune# 43",
-        "messages": []
-      }
-    },
-    {
-      "id": null,
-      "displayName": "rr: Kyt | Kidd Cudi (Kidd) vs (ToT) | yung willy",
-      "start": "01:02:25.966",
-      "end": "01:11:31.483",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "Kyt",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi"
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351400000",
-              "handle": "yung willy",
-              "prefix": "(ToT)",
-              "serviceIds": {
-                "smashgg": "883113",
-                "twitter": "lulufan69"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "rr",
-          "name": "Round Robin",
-          "smashggId": null
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202502012129093240000",
-              "handle": "i guess",
-              "prefix": "BC",
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202307152250333120000",
-              "handle": "StarMunch",
-              "prefix": "SLG",
-              "serviceIds": {
-                "smashgg": "1131059"
-              }
-            }
-          }
-        ],
-        "tournament": "Persona 4 Arena Ultimax",
-        "event": "Lunatic Perilune# 43",
-        "messages": []
-      }
-    },
     {
       "id": "84927727",
       "displayName": "J - ws: BETRAYED | Skeleton vs Nighto",
-      "start": "01:51:10.249",
+      "start": "01:50:12",
       "end": "01:55:45.899",
       "state": {
         "players": [
@@ -737,177 +100,8 @@
             }
           }
         ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune# 43",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "84927727",
-            "phaseId": "1865329",
-            "phaseGroupId": "2747913"
-          },
-          "match": {
-            "id": "ws",
-            "name": "Winners Semis",
-            "smashggId": "Winners Semi-Final"
-          },
-          "videogame": {
-            "id": "melty",
-            "name": "Melty Blood Actress Again Current Code",
-            "shortNames": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "hashtags": [
-              "MBAACC",
-              "メルブラ"
-            ],
-            "additionalTags": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Melty Blood: Actress Again: Current Code"
-              },
-              "smashgg": {
-                "id": "22407"
-              },
-              "challonge": {
-                "id": "306"
-              }
-            }
-          },
-          "shortIdentifier": "J",
-          "displayName": "J - ws: Skeleton vs Nighto",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Skeleton",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "287708",
-                  "handle": "Skeleton",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "inputreader"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Nighto",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "2921652",
-                  "handle": "Nighto",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "Nighto911"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "84927727",
-      "displayName": "J - ws: BETRAYED | Skeleton vs Nighto",
-      "start": "01:59:48.116",
-      "end": "01:59:50.716",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402352800001",
-              "handle": "Skeleton",
-              "prefix": "BETRAYED",
-              "serviceIds": {
-                "smashgg": "287708",
-                "twitter": "inputreader"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402350930002",
-              "handle": "Nighto",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "2921652",
-                "twitter": "Nighto911"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "ws",
-          "name": "Winners Semis",
-          "smashggId": "Winners Semi-Final"
-        },
-        "game": {
-          "id": "melty",
-          "name": "Melty Blood Actress Again Current Code",
-          "shortNames": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "hashtags": [
-            "MBAACC",
-            "メルブラ"
-          ],
-          "additionalTags": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Melty Blood: Actress Again: Current Code"
-            },
-            "smashgg": {
-              "id": "22407"
-            },
-            "challonge": {
-              "id": "306"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202502012307269530000",
-              "handle": "Inana",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402351450002",
-              "handle": "Shana",
-              "prefix": "AONI",
-              "serviceIds": {
-                "twitter": "ShanaFGC",
-                "smashgg": "566103"
-              }
-            }
-          }
-        ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune# 43",
+        "tournament": "",
+        "event": "",
         "messages": [],
         "set": {
           "serviceInfo": {
@@ -1076,8 +270,8 @@
             }
           }
         ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune# 43",
+        "tournament": "",
+        "event": "",
         "messages": [],
         "set": {
           "serviceInfo": {
@@ -1247,8 +441,8 @@
             }
           }
         ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune# 43",
+        "tournament": "",
+        "event": "",
         "messages": [],
         "set": {
           "serviceInfo": {
@@ -1417,8 +611,8 @@
             }
           }
         ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune# 43",
+        "tournament": "",
+        "event": "",
         "messages": [],
         "set": {
           "serviceInfo": {
@@ -1586,8 +780,8 @@
             }
           }
         ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune# 43",
+        "tournament": "",
+        "event": "",
         "messages": [],
         "set": {
           "serviceInfo": {
@@ -1670,7 +864,7 @@
     {
       "id": "84927758",
       "displayName": "V - lq: Nighto vs YC | HARD_BREAD",
-      "start": "02:37:21.449",
+      "start": "02:37:02",
       "end": "02:45:50.949",
       "state": {
         "players": [
@@ -1756,8 +950,8 @@
             }
           }
         ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune# 43",
+        "tournament": "",
+        "event": "",
         "messages": [],
         "set": {
           "serviceInfo": {
@@ -1837,186 +1031,15 @@
       }
     },
     {
-      "id": "84927761",
-      "displayName": "Y - lf: LP/WASD | Lem vs YC | HARD_BREAD",
+      "id": "84927760",
+      "displayName": "X - ls: YC | HARD_BREAD vs (ToT) | yung willy",
       "start": "02:48:02.866",
-      "end": "03:08:56.366",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350750000",
-              "handle": "Lem",
-              "prefix": "LP/WASD",
-              "serviceIds": {
-                "twitter": "Lem___________",
-                "smashgg": "791209",
-                "challonge": "157809460"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
-            "characters": []
-          },
-          {
-            "person": {
-              "id": "d202008220402350450002",
-              "handle": "HARD_BREAD",
-              "prefix": "YC",
-              "serviceIds": {
-                "twitter": "HARD_BREAD",
-                "smashgg": "530924"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
-            "characters": []
-          }
-        ],
-        "match": {
-          "id": "lf",
-          "name": "Losers Finals",
-          "smashggId": "Losers Final"
-        },
-        "game": {
-          "id": "melty",
-          "name": "Melty Blood Actress Again Current Code",
-          "shortNames": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "hashtags": [
-            "MBAACC",
-            "メルブラ"
-          ],
-          "additionalTags": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Melty Blood: Actress Again: Current Code"
-            },
-            "smashgg": {
-              "id": "22407"
-            },
-            "challonge": {
-              "id": "306"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402352800001",
-              "handle": "Skeleton",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "287708",
-                "twitter": "inputreader"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "WGO",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi",
-              "pronouns": "He/Him"
-            }
-          }
-        ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune# 43",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "84927761",
-            "phaseId": "1865329",
-            "phaseGroupId": "2747913"
-          },
-          "match": {
-            "id": "lf",
-            "name": "Losers Finals",
-            "smashggId": "Losers Final"
-          },
-          "videogame": {
-            "id": "melty",
-            "name": "Melty Blood Actress Again Current Code",
-            "shortNames": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "hashtags": [
-              "MBAACC",
-              "メルブラ"
-            ],
-            "additionalTags": [
-              "Melty Blood",
-              "Melty"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Melty Blood: Actress Again: Current Code"
-              },
-              "smashgg": {
-                "id": "22407"
-              },
-              "challonge": {
-                "id": "306"
-              }
-            }
-          },
-          "shortIdentifier": "Y",
-          "displayName": "Y - lf: LP/WASD | Lem vs YC | HARD_BREAD",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "LP/WASD | Lem",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "791209",
-                  "handle": "Lem",
-                  "prefix": "LP/WASD",
-                  "serviceIds": {
-                    "twitter": "Lem___________"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "YC | HARD_BREAD",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "530924",
-                  "handle": "HARD_BREAD",
-                  "prefix": "YC",
-                  "serviceIds": {
-                    "twitter": "HARD_BREAD"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "end": "02:52:48"
     },
     {
       "id": "84927761",
       "displayName": "Y - lf: LP/WASD | Lem vs YC | HARD_BREAD",
-      "start": "03:09:20.066",
+      "start": "03:09:14",
       "end": "03:14:55.149",
       "state": {
         "players": [
@@ -2108,8 +1131,8 @@
             }
           }
         ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune# 43",
+        "tournament": "",
+        "event": "",
         "messages": [],
         "set": {
           "serviceInfo": {
@@ -2191,7 +1214,7 @@
     {
       "id": "84927730",
       "displayName": "M - gf: Skeleton vs YC | HARD_BREAD",
-      "start": "03:16:07.132",
+      "start": "03:16:00",
       "end": "03:25:03.132",
       "state": {
         "players": [
@@ -2283,8 +1306,8 @@
             }
           }
         ],
-        "tournament": "Melty Blood Actress Again Current Code",
-        "event": "Lunatic Perilune# 43",
+        "tournament": "",
+        "event": "",
         "messages": [],
         "set": {
           "serviceInfo": {
