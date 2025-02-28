@@ -1,16 +1,97 @@
 {
+  "uploadId": "7Sc2N8BCOb4",
   "format": "1",
   "version": "0.9.0",
   "file": "..\\2025-02-19 20-02-35.mkv",
-  "start": "02:34:57.000",
+  "phaseName": "Finals",
+  "start": "02:34:58",
   "end": "02:59:40.416",
+  "event": {
+    "tournament": {
+      "url": "https://www.start.gg/tournament/next-level-battle-circuit-370",
+      "startAt": 1740013200,
+      "endAt": 1740027540,
+      "hashtag": "NLBC"
+    }
+  },
+  "thumbnailTimestamp": "02:37:02.870",
   "sets": [
     {
       "id": null,
-      "displayName": "Current Set",
+      "displayName": "Finals: Etanks vs NYCMastermike",
       "start": "02:37:02.399",
       "end": "02:59:40.416",
-      "state": null
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202501300306086230000",
+              "handle": "Etanks",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "70884"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": null,
+          "name": "Finals",
+          "smashggId": null
+        },
+        "game": {
+          "id": null,
+          "name": "Rakugakids",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202309210026485150000",
+              "handle": "WhyNotSebastian",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "WhyNotSebastian",
+                "smashgg": "2525465"
+              },
+              "pronouns": "He/Him/HIs"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 370",
+        "event": "Mystery Game",
+        "messages": [],
+        "set": null
+      }
     }
   ]
 }
