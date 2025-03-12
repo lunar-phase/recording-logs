@@ -1,0 +1,659 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2025-03-08 19-49-58.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1898175",
+  "eventId": "1321550",
+  "start": "02:24:16.249",
+  "end": "03:25:46.166",
+  "thumbnailTimestamp": "02:26:27.399",
+  "userData": {
+    "featuring": "Clemente"
+  },
+  "sets": [
+    {
+      "id": "86367180",
+      "displayName": "O - wf: Leeshmow (LeeShmow) vs GNT4 | Clemente",
+      "start": "02:26:27.066",
+      "end": "02:38:40.932",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202312170104474410000",
+              "handle": "LeeShmow",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LeeShmow",
+                "smashgg": "2162378"
+              },
+              "alias": "Leeshmow"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202411100314124380000",
+              "handle": "Clemente",
+              "prefix": "GNT4",
+              "serviceIds": {
+                "smashgg": "927910"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "scon4",
+          "name": "Super Naruto: Clash of Ninja 4",
+          "shortNames": [
+            "SCON4"
+          ],
+          "hashtags": [
+            "SCON4",
+            "SGNT4"
+          ],
+          "additionalTags": [
+            "Gekitou Ninja Taisen"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Naruto: Gekitou Ninja Taisen! 4"
+            },
+            "smashgg": {
+              "id": "35218"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202404140211415840000",
+              "handle": "K. Falcon",
+              "prefix": "OT",
+              "serviceIds": {
+                "twitter": "K_Falcon0",
+                "smashgg": "653710"
+              },
+              "pronouns": "They/Them"
+            }
+          },
+          {
+            "person": {
+              "id": "d202401140156006570000",
+              "handle": "Rwbyred",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Rwbyred172",
+                "smashgg": "608553"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #44",
+        "event": "",
+        "messages": [
+          "Naruto up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86367180",
+            "phaseId": "1898175",
+            "phaseGroupId": "2790998"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "scon4",
+            "name": "Super Naruto: Clash of Ninja 4",
+            "shortNames": [
+              "SCON4"
+            ],
+            "hashtags": [
+              "SCON4",
+              "SGNT4"
+            ],
+            "additionalTags": [
+              "Gekitou Ninja Taisen"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Naruto: Gekitou Ninja Taisen! 4"
+              },
+              "smashgg": {
+                "id": "35218"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - wf: GNT4 | Clemente vs Leeshmow",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GNT4 | Clemente",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "927910",
+                  "handle": "Clemente",
+                  "prefix": "GNT4",
+                  "pronouns": "He/Him",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Leeshmow",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2162378",
+                  "handle": "Leeshmow",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "LeeShmow"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "86367211",
+      "displayName": "AD - ls: Rwbyred vs SFM | K. Falcon",
+      "start": "02:41:57.432",
+      "end": "02:52:41.882",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202401140156006570000",
+              "handle": "Rwbyred",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Rwbyred172",
+                "smashgg": "608553"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202404140211415840000",
+              "handle": "K. Falcon",
+              "prefix": "SFM",
+              "serviceIds": {
+                "twitter": "K_Falcon0",
+                "smashgg": "653710"
+              },
+              "pronouns": "They/Them"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "scon4",
+          "name": "Super Naruto: Clash of Ninja 4",
+          "shortNames": [
+            "SCON4"
+          ],
+          "hashtags": [
+            "SCON4",
+            "SGNT4"
+          ],
+          "additionalTags": [
+            "Gekitou Ninja Taisen"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Naruto: Gekitou Ninja Taisen! 4"
+            },
+            "smashgg": {
+              "id": "35218"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202312170104474410000",
+              "handle": "LeeShmow",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LeeShmow",
+                "smashgg": "2162378"
+              },
+              "alias": "Leeshmow"
+            }
+          },
+          {
+            "person": {
+              "id": "d202411100314124380000",
+              "handle": "Clemente",
+              "prefix": "GNT4",
+              "serviceIds": {
+                "smashgg": "927910"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #44",
+        "event": "",
+        "messages": [
+          "Naruto up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86367211",
+            "phaseId": "1898175",
+            "phaseGroupId": "2790998"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "scon4",
+            "name": "Super Naruto: Clash of Ninja 4",
+            "shortNames": [
+              "SCON4"
+            ],
+            "hashtags": [
+              "SCON4",
+              "SGNT4"
+            ],
+            "additionalTags": [
+              "Gekitou Ninja Taisen"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Naruto: Gekitou Ninja Taisen! 4"
+              },
+              "smashgg": {
+                "id": "35218"
+              }
+            }
+          },
+          "shortIdentifier": "AD",
+          "displayName": "AD - ls: Rwbyred vs SFM | K. Falcon",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Rwbyred",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "608553",
+                  "handle": "Rwbyred",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Rwbyred172"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SFM | K. Falcon",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "653710",
+                  "handle": "K. Falcon",
+                  "prefix": "SFM",
+                  "pronouns": "They/Them",
+                  "serviceIds": {
+                    "twitter": "K_Falcon0"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "86367212",
+      "displayName": "AE - lf: Rwbyred vs Leeshmow (LeeShmow)",
+      "start": "02:55:12.349",
+      "end": "03:05:25.449",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202401140156006570000",
+              "handle": "Rwbyred",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Rwbyred172",
+                "smashgg": "608553"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202312170104474410000",
+              "handle": "LeeShmow",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LeeShmow",
+                "smashgg": "2162378"
+              },
+              "alias": "Leeshmow"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "scon4",
+          "name": "Super Naruto: Clash of Ninja 4",
+          "shortNames": [
+            "SCON4"
+          ],
+          "hashtags": [
+            "SCON4",
+            "SGNT4"
+          ],
+          "additionalTags": [
+            "Gekitou Ninja Taisen"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Naruto: Gekitou Ninja Taisen! 4"
+            },
+            "smashgg": {
+              "id": "35218"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202404140211415840000",
+              "handle": "K. Falcon",
+              "prefix": "SFM",
+              "serviceIds": {
+                "twitter": "K_Falcon0",
+                "smashgg": "653710"
+              },
+              "pronouns": "They/Them"
+            }
+          },
+          {
+            "person": {
+              "id": "d202411100314124380000",
+              "handle": "Clemente",
+              "prefix": "GNT4",
+              "serviceIds": {
+                "smashgg": "927910"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #44",
+        "event": "",
+        "messages": [
+          "Naruto up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86367212",
+            "phaseId": "1898175",
+            "phaseGroupId": "2790998"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "scon4",
+            "name": "Super Naruto: Clash of Ninja 4",
+            "shortNames": [
+              "SCON4"
+            ],
+            "hashtags": [
+              "SCON4",
+              "SGNT4"
+            ],
+            "additionalTags": [
+              "Gekitou Ninja Taisen"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Naruto: Gekitou Ninja Taisen! 4"
+              },
+              "smashgg": {
+                "id": "35218"
+              }
+            }
+          },
+          "shortIdentifier": "AE",
+          "displayName": "AE - lf: Leeshmow vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Leeshmow",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2162378",
+                  "handle": "Leeshmow",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "LeeShmow"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "86367181",
+      "displayName": "P - gf: GNT4 | Clemente vs Leeshmow (LeeShmow)",
+      "start": "03:06:47.982",
+      "end": "03:18:59.466",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202411100314124380000",
+              "handle": "Clemente",
+              "prefix": "GNT4",
+              "serviceIds": {
+                "smashgg": "927910"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202312170104474410000",
+              "handle": "LeeShmow",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "LeeShmow",
+                "smashgg": "2162378"
+              },
+              "alias": "Leeshmow"
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "scon4",
+          "name": "Super Naruto: Clash of Ninja 4",
+          "shortNames": [
+            "SCON4"
+          ],
+          "hashtags": [
+            "SCON4",
+            "SGNT4"
+          ],
+          "additionalTags": [
+            "Gekitou Ninja Taisen"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Naruto: Gekitou Ninja Taisen! 4"
+            },
+            "smashgg": {
+              "id": "35218"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202404140211415840000",
+              "handle": "K. Falcon",
+              "prefix": "SFM",
+              "serviceIds": {
+                "twitter": "K_Falcon0",
+                "smashgg": "653710"
+              },
+              "pronouns": "They/Them"
+            }
+          },
+          {
+            "person": {
+              "id": "d202401140156006570000",
+              "handle": "Rwbyred",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Rwbyred172",
+                "smashgg": "608553"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #44",
+        "event": "",
+        "messages": [
+          "Naruto up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86367181",
+            "phaseId": "1898175",
+            "phaseGroupId": "2790998"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "scon4",
+            "name": "Super Naruto: Clash of Ninja 4",
+            "shortNames": [
+              "SCON4"
+            ],
+            "hashtags": [
+              "SCON4",
+              "SGNT4"
+            ],
+            "additionalTags": [
+              "Gekitou Ninja Taisen"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Naruto: Gekitou Ninja Taisen! 4"
+              },
+              "smashgg": {
+                "id": "35218"
+              }
+            }
+          },
+          "shortIdentifier": "P",
+          "displayName": "P - gf: GNT4 | Clemente vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GNT4 | Clemente",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "927910",
+                  "handle": "Clemente",
+                  "prefix": "GNT4",
+                  "pronouns": "He/Him",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
