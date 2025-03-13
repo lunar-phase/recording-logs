@@ -1,0 +1,1313 @@
+{
+  "uploadId": "IDhyucKzUkA",
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2025-03-12 20-01-14.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1915069",
+  "eventId": "1334862",
+  "start": "00:07:31.283",
+  "end": "01:19:16.133",
+  "thumbnailTimestamp": "00:59:06.233",
+  "sets": [
+    {
+      "id": "86490263",
+      "displayName": "A - wq: Teracyte vs ANGL | Freeetsa",
+      "start": "00:11:11.783",
+      "end": "00:15:57.499",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202503130009380580000",
+              "handle": "Teracyte",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3298920"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202502130120597350000",
+              "handle": "Freeetsa",
+              "prefix": "ANGL",
+              "serviceIds": {
+                "twitter": "Freeetsa",
+                "smashgg": "2538273"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 373",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86490263",
+            "phaseId": "1915069",
+            "phaseGroupId": "2816100"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - wq: ANGL | Freeetsa vs Teracyte",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ANGL | Freeetsa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2538273",
+                  "handle": "Freeetsa",
+                  "prefix": "ANGL",
+                  "serviceIds": {
+                    "twitter": "Freeetsa"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Teracyte",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3298920",
+                  "handle": "Teracyte",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "86490267",
+      "displayName": "D - ws: voidstar vs KosherSalt (Kosher_Salt)",
+      "start": "00:17:45.483",
+      "end": "00:23:27.399",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202409260019268360000",
+              "handle": "voidstar",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3211460"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202409252346034480000",
+              "handle": "Kosher_Salt",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "221529",
+                "twitter": "ujustgotbernied"
+              },
+              "pronouns": "He/Him",
+              "alias": "KosherSalt"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 373",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86490267",
+            "phaseId": "1915069",
+            "phaseGroupId": "2816100"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - ws: voidstar vs KosherSalt",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "voidstar",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3211460",
+                  "handle": "voidstar",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "KosherSalt",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "221529",
+                  "handle": "KosherSalt",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "ujustgotbernied"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "86490266",
+      "displayName": "C - ws: iDom vs ANGL | Freeetsa",
+      "start": "00:24:37.733",
+      "end": "00:32:27.333",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202502130120597350000",
+              "handle": "Freeetsa",
+              "prefix": "ANGL",
+              "serviceIds": {
+                "twitter": "Freeetsa",
+                "smashgg": "2538273"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 373",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86490266",
+            "phaseId": "1915069",
+            "phaseGroupId": "2816100"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - ws: iDom vs ANGL | Freeetsa",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "ANGL | Freeetsa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2538273",
+                  "handle": "Freeetsa",
+                  "prefix": "ANGL",
+                  "serviceIds": {
+                    "twitter": "Freeetsa"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "86490281",
+      "displayName": "H - lq: voidstar vs Teracyte",
+      "start": "00:33:34.683",
+      "end": "00:40:09.549",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202409260019268360000",
+              "handle": "voidstar",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3211460"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202503130009380580000",
+              "handle": "Teracyte",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3298920"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 373",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86490281",
+            "phaseId": "1915069",
+            "phaseGroupId": "2816100"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - lq: voidstar vs Teracyte",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "voidstar",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3211460",
+                  "handle": "voidstar",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Teracyte",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3298920",
+                  "handle": "Teracyte",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "86490268",
+      "displayName": "E - wf: iDom vs KosherSalt (Kosher_Salt)",
+      "start": "00:41:44.699",
+      "end": "00:49:47.666",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202409252346034480000",
+              "handle": "Kosher_Salt",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "221529",
+                "twitter": "ujustgotbernied"
+              },
+              "pronouns": "He/Him",
+              "alias": "KosherSalt"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 373",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86490268",
+            "phaseId": "1915069",
+            "phaseGroupId": "2816100"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - wf: iDom vs KosherSalt",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "KosherSalt",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "221529",
+                  "handle": "KosherSalt",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "ujustgotbernied"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "86490283",
+      "displayName": "J - ls: voidstar vs ANGL | Freeetsa",
+      "start": "00:50:47.566",
+      "end": "00:58:02.849",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202409260019268360000",
+              "handle": "voidstar",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3211460"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202502130120597350000",
+              "handle": "Freeetsa",
+              "prefix": "ANGL",
+              "serviceIds": {
+                "twitter": "Freeetsa",
+                "smashgg": "2538273"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 373",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86490283",
+            "phaseId": "1915069",
+            "phaseGroupId": "2816100"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ls: voidstar vs ANGL | Freeetsa",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "voidstar",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3211460",
+                  "handle": "voidstar",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "ANGL | Freeetsa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2538273",
+                  "handle": "Freeetsa",
+                  "prefix": "ANGL",
+                  "serviceIds": {
+                    "twitter": "Freeetsa"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "86490284",
+      "displayName": "K - lf: KosherSalt (Kosher_Salt) vs ANGL | Freeetsa",
+      "start": "00:59:01.666",
+      "end": "01:07:59.799",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202409252346034480000",
+              "handle": "Kosher_Salt",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "221529",
+                "twitter": "ujustgotbernied"
+              },
+              "pronouns": "He/Him",
+              "alias": "KosherSalt"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202502130120597350000",
+              "handle": "Freeetsa",
+              "prefix": "ANGL",
+              "serviceIds": {
+                "twitter": "Freeetsa",
+                "smashgg": "2538273"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 373",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86490284",
+            "phaseId": "1915069",
+            "phaseGroupId": "2816100"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lf: KosherSalt vs ANGL | Freeetsa",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "KosherSalt",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "221529",
+                  "handle": "KosherSalt",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "ujustgotbernied"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "ANGL | Freeetsa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2538273",
+                  "handle": "Freeetsa",
+                  "prefix": "ANGL",
+                  "serviceIds": {
+                    "twitter": "Freeetsa"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "86490269",
+      "displayName": "F - gf: iDom vs ANGL | Freeetsa",
+      "start": "01:09:25.049",
+      "end": "01:16:38.083",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202502130120597350000",
+              "handle": "Freeetsa",
+              "prefix": "ANGL",
+              "serviceIds": {
+                "twitter": "Freeetsa",
+                "smashgg": "2538273"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 373",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "86490269",
+            "phaseId": "1915069",
+            "phaseGroupId": "2816100"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - gf: iDom vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
