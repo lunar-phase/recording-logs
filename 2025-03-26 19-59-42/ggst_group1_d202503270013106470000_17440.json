@@ -1,0 +1,99 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2025-03-26 19-59-42.mkv",
+  "start": "00:13:28.033",
+  "end": "00:23:40.616",
+  "thumbnailTimestamp": "00:15:13.249",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "wq: voidstar vs DaiAndOh",
+      "start": "00:14:35.216",
+      "end": "00:23:40.616",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202409260019268360000",
+              "handle": "voidstar",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3211460"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350130000",
+              "handle": "DaiAndOh",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DaiAndOh1",
+                "smashgg": "155413"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 375",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
