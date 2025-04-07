@@ -1,0 +1,494 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2025-04-05 16-18-24.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1927230",
+  "eventId": "1344350",
+  "start": "01:48:36.949",
+  "end": "02:58:20.016",
+  "sets": [
+    {
+      "id": "87488051",
+      "displayName": "G - wf: LP/BPM | StraylightP vs Linguini Bros | GaryButternubs",
+      "start": "01:48:36.949",
+      "end": "02:05:32.399",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP/BPM",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": "Linguini Bros",
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202504052205540660000",
+              "handle": "Kidd Cudi (Kidd)",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #45",
+        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "messages": [
+          "DFCI Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "87488051",
+            "phaseId": "1927230",
+            "phaseGroupId": "2832217"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - wf: LP/BPM | StraylightP vs Linguini Bros | GaryButternubs",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP/BPM | StraylightP",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "413756",
+                  "handle": "StraylightP",
+                  "prefix": "LP/BPM",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "LoFi_Yokai"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Linguini Bros | GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": "Linguini Bros",
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "87488067",
+      "displayName": "O - lf: LP/BPM | StraylightP vs S.O.N.G. | Tomuhawk",
+      "start": "02:21:19.832",
+      "end": "02:30:24.699",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP/BPM",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomuhawk",
+              "prefix": "S.O.N.G.",
+              "serviceIds": {
+                "twitter": "NYC_Tomuhawk",
+                "smashgg": "170633"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350290001",
+              "handle": "EJay",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "EJayCV",
+                "smashgg": "472237"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP/BPM",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #45",
+        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "messages": [
+          "DFCI Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "87488067",
+            "phaseId": "1927230",
+            "phaseGroupId": "2832217"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - lf: LP/BPM | StraylightP vs S.O.N.G. | Tomuhawk",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP/BPM | StraylightP",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "413756",
+                  "handle": "StraylightP",
+                  "prefix": "LP/BPM",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "LoFi_Yokai"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "S.O.N.G. | Tomuhawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "170633",
+                  "handle": "Tomuhawk",
+                  "prefix": "S.O.N.G.",
+                  "serviceIds": {
+                    "twitter": "NYC_Tomuhawk"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "87488053",
+      "displayName": "I - tf: LP/BPM | StraylightP vs Linguini Bros | GaryButternubs",
+      "start": "02:33:40.000",
+      "end": "02:58:20.016",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP/BPM",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": "Linguini Bros",
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350290001",
+              "handle": "EJay",
+              "prefix": "LP",
+              "serviceIds": {
+                "twitter": "EJayCV",
+                "smashgg": "472237"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "StraylightP",
+              "prefix": "LP/BPM",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #45",
+        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "messages": [
+          "DFCI Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "87488053",
+            "phaseId": "1927230",
+            "phaseGroupId": "2832217"
+          },
+          "match": {
+            "id": "tf",
+            "name": "True Finals",
+            "smashggId": "Grand Final Reset"
+          },
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - tf: LP/BPM | StraylightP vs Linguini Bros | GaryButternubs",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP/BPM | StraylightP",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "413756",
+                  "handle": "StraylightP",
+                  "prefix": "LP/BPM",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "LoFi_Yokai"
+                  }
+                }
+              ],
+              "inLosers": true
+            },
+            {
+              "name": "Linguini Bros | GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": "Linguini Bros",
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
