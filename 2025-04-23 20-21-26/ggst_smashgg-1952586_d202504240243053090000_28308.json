@@ -1,0 +1,490 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2025-04-23 20-21-26.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1952586",
+  "eventId": "1364043",
+  "start": "02:21:38.716",
+  "end": "03:00:46.482",
+  "thumbnailTimestamp": "02:22:02.049",
+  "sets": [
+    {
+      "id": "88183205",
+      "displayName": "I - wf: dig vs iDom",
+      "start": "02:21:58.532",
+      "end": "02:36:41.532",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202402040032130070000",
+              "handle": "dig",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1111313",
+                "twitter": "digblig"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306150050194180000",
+              "handle": "T3MP3ST",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "TempestFGC",
+                "smashgg": "976815"
+              },
+              "pronouns": "He,Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 379",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88183205",
+            "phaseId": "1952586",
+            "phaseGroupId": "2866807"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - wf: iDom vs dig",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "dig",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1111313",
+                  "handle": "dig",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "digblig"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88183237",
+      "displayName": "S - lf: dig vs YDG | Valentine",
+      "start": "02:37:39.382",
+      "end": "02:47:30.582",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202402040032130070000",
+              "handle": "dig",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1111313",
+                "twitter": "digblig"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202409260008139410000",
+              "handle": "Valentine",
+              "prefix": "YDG",
+              "serviceIds": {
+                "smashgg": "1047420"
+              },
+              "pronouns": "she/her"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306150050194180000",
+              "handle": "T3MP3ST",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "TempestFGC",
+                "smashgg": "976815"
+              },
+              "pronouns": "He,Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 379",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88183237",
+            "phaseId": "1952586",
+            "phaseGroupId": "2866807"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - lf: ??? vs YDG | Valentine",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "YDG | Valentine",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1047420",
+                  "handle": "Valentine",
+                  "prefix": "YDG",
+                  "pronouns": "she/her",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88183206",
+      "displayName": "J - gf: dig vs iDom",
+      "start": "02:48:22.149",
+      "end": "02:57:16.982",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202402040032130070000",
+              "handle": "dig",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1111313",
+                "twitter": "digblig"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggst",
+          "name": "Guilty Gear: Strive",
+          "shortNames": [
+            "GGST"
+          ],
+          "hashtags": [
+            "GGST"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear: Strive"
+            },
+            "smashgg": {
+              "id": "33945"
+            },
+            "challonge": {
+              "id": "198501"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306150050194180000",
+              "handle": "T3MP3ST",
+              "prefix": "SSWS",
+              "serviceIds": {
+                "twitter": "TempestFGC",
+                "smashgg": "976815"
+              },
+              "pronouns": "He,Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": "TSB",
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              }
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 379",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88183206",
+            "phaseId": "1952586",
+            "phaseGroupId": "2866807"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggst",
+            "name": "Guilty Gear: Strive",
+            "shortNames": [
+              "GGST"
+            ],
+            "hashtags": [
+              "GGST"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear: Strive"
+              },
+              "smashgg": {
+                "id": "33945"
+              },
+              "challonge": {
+                "id": "198501"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - gf: iDom vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
