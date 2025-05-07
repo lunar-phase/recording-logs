@@ -1,14 +1,21 @@
 {
+  "uploadId": "cVcQ9Rta9x8",
   "format": "1",
   "version": "0.9.0",
   "file": "..\\2025-05-03 11-51-37.mkv",
   "bracketService": "smashgg",
   "phaseId": "1803771",
   "eventId": "1247778",
+  "phaseName": "Group C Pools",
   "start": "02:44:17.467",
   "end": "04:54:53.800",
+  "thumbnailTimestamp": "02:44:34.980",
+  "userData": {
+    "featuring": "Coach Steve, J Dash, iDom, pachukof, Shin Paulo"
+  },
   "sets": [
     {
+      "uploadId": "ThDKml4nqK0",
       "id": "88586014",
       "displayName": "F - C2 Winners Round 1: Aroo vs SLG | starmunch (StarMunch)",
       "start": "02:45:23.832",
@@ -33,12 +40,11 @@
           {
             "person": {
               "id": "d202307152250333120000",
-              "handle": "StarMunch",
+              "handle": "starmunch",
               "prefix": "SLG",
               "serviceIds": {
                 "smashgg": "1131059"
-              },
-              "alias": "starmunch"
+              }
             },
             "score": 1,
             "inLosers": false,
@@ -167,6 +173,7 @@
       }
     },
     {
+      "uploadId": "nBHq-m6QAI0",
       "id": "88587030",
       "displayName": "B - C1 Winners Round 1: UA | Bass vs AXG",
       "start": "02:56:51.849",
@@ -327,6 +334,7 @@
       }
     },
     {
+      "uploadId": "70ka0omuKnA",
       "id": "88586016",
       "displayName": "H - C2 Winners Quarters: J Dash vs Wukrit",
       "start": "03:07:16.632",
@@ -489,6 +497,7 @@
       }
     },
     {
+      "uploadId": "LiSBxJQIadc",
       "id": "88587034",
       "displayName": "F - C1 Winners Round 1: iDom vs MHM | JXGO",
       "start": "03:14:14.949",
@@ -526,7 +535,7 @@
         "match": {
           "id": "",
           "name": "C1 Winners Round 1",
-          "smashggId": null
+          "smashggId": "Winners Round 1"
         },
         "game": {
           "id": "ffcotw",
@@ -644,6 +653,7 @@
       }
     },
     {
+      "uploadId": "e1oabAWkZBU",
       "id": "88586018",
       "displayName": "J - C2 Winners Quarters: Shin Paulo vs TH | treefolio",
       "start": "03:21:51.349",
@@ -801,6 +811,7 @@
       }
     },
     {
+      "uploadId": "cxmM0DykIbo",
       "id": "88587038",
       "displayName": "J - C1 Winners Quarters: Au | pachukof (Au|pachukof) vs TrapLordHuey",
       "start": "03:30:51.482",
@@ -810,12 +821,11 @@
           {
             "person": {
               "id": "d202209172259222420000",
-              "handle": "Au|pachukof",
+              "handle": "pachukof",
               "prefix": "Au",
               "serviceIds": {
                 "smashgg": "2765832"
-              },
-              "alias": "pachukof"
+              }
             },
             "score": 2,
             "inLosers": false,
@@ -839,7 +849,7 @@
         "match": {
           "id": "",
           "name": "C1 Winners Quarters",
-          "smashggId": null
+          "smashggId": "Winners Quarter-Final"
         },
         "game": {
           "id": "ffcotw",
@@ -957,6 +967,7 @@
       }
     },
     {
+      "uploadId": "cFzLdS0YNFY",
       "id": "88586020",
       "displayName": "L - C2 Winners Semis: J Dash vs Romeo",
       "start": "03:37:33.882",
@@ -1117,6 +1128,7 @@
       }
     },
     {
+      "uploadId": "bkxTQFiE_GA",
       "id": "88587039",
       "displayName": "K - C1 Winners Quarters: iDom vs Revilo",
       "start": "03:45:48.749",
@@ -1277,6 +1289,7 @@
       }
     },
     {
+      "uploadId": "00dgizNGlRY",
       "id": "88587040",
       "displayName": "L - C1 Winners Semis: Coach Steve vs mk40",
       "start": "03:53:40.000",
@@ -1434,6 +1447,7 @@
       }
     },
     {
+      "uploadId": "tKKqdWqpktI",
       "id": "88586021",
       "displayName": "M - C2 Winners Semis: Shin Paulo vs Aroo",
       "start": "04:03:45.166",
@@ -1591,6 +1605,7 @@
       }
     },
     {
+      "uploadId": "QkpK1kUyN7c",
       "id": "88587041",
       "displayName": "M - C1 Winners Semis: Au | pachukof (Au|pachukof) vs iDom",
       "start": "04:13:47.000",
@@ -1600,12 +1615,11 @@
           {
             "person": {
               "id": "d202209172259222420000",
-              "handle": "Au|pachukof",
+              "handle": "pachukof",
               "prefix": "Au",
               "serviceIds": {
                 "smashgg": "2765832"
-              },
-              "alias": "pachukof"
+              }
             },
             "score": 0,
             "inLosers": false,
@@ -1629,7 +1643,7 @@
         "match": {
           "id": "",
           "name": "C1 Winners Semis",
-          "smashggId": null
+          "smashggId": "Winners Semi-Final"
         },
         "game": {
           "id": "ffcotw",
@@ -1747,6 +1761,14 @@
       }
     },
     {
+      "uploadId": "W-WPTgoGrUY",
+      "id": "88586022",
+      "displayName": "N - C2 Winners Finals: Romeo vs Shin Paulo",
+      "start": "04:25:01",
+      "end": "04:30:34"
+    },
+    {
+      "uploadId": "D9WnmfYs0Uk",
       "id": "88587042",
       "displayName": "N - C1 Winners Finals: Coach Steve vs iDom",
       "start": "04:32:30.482",
@@ -1907,6 +1929,14 @@
       }
     },
     {
+      "uploadId": "vD-wlxxdnzs",
+      "id": "88586054",
+      "displayName": "AC - C2 Losers Finals: Romeo vs Aroo",
+      "start": "04:39:07",
+      "end": "04:44:15"
+    },
+    {
+      "uploadId": "FHBaGmlB_4k",
       "id": "88587074",
       "displayName": "AC - C1 Losers Finals: iDom vs Revilo",
       "start": "04:45:58.232",
@@ -1945,7 +1975,7 @@
         "match": {
           "id": "",
           "name": "C1 Losers Finals",
-          "smashggId": null
+          "smashggId": "Losers Final"
         },
         "game": {
           "id": "ffcotw",

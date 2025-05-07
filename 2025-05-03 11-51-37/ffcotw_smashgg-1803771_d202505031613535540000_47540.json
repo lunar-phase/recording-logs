@@ -1,14 +1,21 @@
 {
+  "uploadId": "A_e0kEU3gu4",
   "format": "1",
   "version": "0.9.0",
   "file": "..\\2025-05-03 11-51-37.mkv",
   "bracketService": "smashgg",
   "phaseId": "1803771",
   "eventId": "1247778",
+  "phaseName": "Group A Pools",
   "start": "00:22:20",
   "end": "02:24:25.467",
+  "thumbnailTimestamp": "00:22:33.061",
+  "userData": {
+    "featuring": "GucciBluntWrap, Yurikov, Alex Smith, Animonk"
+  },
   "sets": [
     {
+      "uploadId": "R7ieLWBTq4A",
       "id": "88578907",
       "displayName": "C - A1 Winners Round 1: Omen vs iDrop",
       "start": "00:24:29.000",
@@ -170,6 +177,7 @@
       }
     },
     {
+      "uploadId": "tuwfrvJUGkE",
       "id": "88578911",
       "displayName": "G - A1 Winners Round 1: MHM | Creamking vs Stacks717",
       "start": "00:37:46.000",
@@ -330,6 +338,7 @@
       }
     },
     {
+      "uploadId": "gIT9tZkOgCI",
       "id": "88579225",
       "displayName": "E - A2 Winners Round 1: Alex Smith vs WinnieCommittee",
       "start": "00:45:10.000",
@@ -491,6 +500,7 @@
       }
     },
     {
+      "uploadId": "_rjT5FJsct4",
       "id": "88579223",
       "displayName": "C - A2 Winners Round 1: The Prince vs KPB | Animonk",
       "start": "00:51:16.000",
@@ -652,6 +662,7 @@
       }
     },
     {
+      "uploadId": "40gBeYIOpho",
       "id": "88579229",
       "displayName": "I - A2 Winners Quarters: TNS | Yurikov vs EVAC",
       "start": "01:01:50.483",
@@ -812,6 +823,7 @@
       }
     },
     {
+      "uploadId": "J7KT6l-a32A",
       "id": "88579234",
       "displayName": "N - A2 Winners Semis: Alex Smith vs Island | CreakyAxe",
       "start": "01:08:25.583",
@@ -973,6 +985,7 @@
       }
     },
     {
+      "uploadId": "wvgE_apyySI",
       "id": "88578913",
       "displayName": "I - A1 Winners Quarters: GucciBluntWrap (Newtype) vs bogura",
       "start": "01:19:31.383",
@@ -982,14 +995,13 @@
           {
             "person": {
               "id": "d202211122145438080000",
-              "handle": "Newtype",
+              "handle": "GucciBluntWrap",
               "prefix": null,
               "serviceIds": {
                 "twitter": "guccibluntwrap",
                 "smashgg": "57625"
               },
-              "pronouns": "she/her",
-              "alias": "GucciBluntWrap"
+              "pronouns": "she/her"
             },
             "score": 2,
             "inLosers": false,
@@ -1012,7 +1024,7 @@
         "match": {
           "id": "",
           "name": "A1 Winners Quarters",
-          "smashggId": null
+          "smashggId": "Winners Quarter-Final"
         },
         "game": {
           "id": "ffcotw",
@@ -1134,6 +1146,7 @@
       }
     },
     {
+      "uploadId": "SoZjx_SsLwE",
       "id": "88578918",
       "displayName": "N - A1 Winners Semis: TSB | Pandabetic vs Manzon",
       "start": "01:27:02.416",
@@ -1173,7 +1186,7 @@
         "match": {
           "id": "",
           "name": "A1 Winners Semis",
-          "smashggId": null
+          "smashggId": "Winners Semi-Final"
         },
         "game": {
           "id": "ffcotw",
@@ -1297,6 +1310,7 @@
       }
     },
     {
+      "uploadId": "QU9jz8rRoPU",
       "id": "88578917",
       "displayName": "M - A1 Winners Semis: GucciBluntWrap (Newtype) vs Omen",
       "start": "01:34:08.699",
@@ -1306,14 +1320,13 @@
           {
             "person": {
               "id": "d202211122145438080000",
-              "handle": "Newtype",
+              "handle": "GucciBluntWrap",
               "prefix": null,
               "serviceIds": {
                 "twitter": "guccibluntwrap",
                 "smashgg": "57625"
               },
-              "pronouns": "she/her",
-              "alias": "GucciBluntWrap"
+              "pronouns": "she/her"
             },
             "score": 1,
             "inLosers": false,
@@ -1462,6 +1475,7 @@
       }
     },
     {
+      "uploadId": "p6rxu1y074E",
       "id": "88579233",
       "displayName": "M - A2 Winners Semis: TNS | Yurikov vs UR A MESSY (Spectryn)",
       "start": "01:39:45.566",
@@ -1627,6 +1641,7 @@
       }
     },
     {
+      "uploadId": "Wi0bH87HqEU",
       "id": "88578919",
       "displayName": "O - A1 Winners Finals: GucciBluntWrap (Newtype) vs TSB | pandabetic (Pandabetic)",
       "start": "01:50:26.616",
@@ -1636,14 +1651,13 @@
           {
             "person": {
               "id": "d202211122145438080000",
-              "handle": "Newtype",
+              "handle": "GucciBluntWrap",
               "prefix": null,
               "serviceIds": {
                 "twitter": "guccibluntwrap",
                 "smashgg": "57625"
               },
-              "pronouns": "she/her",
-              "alias": "GucciBluntWrap"
+              "pronouns": "she/her"
             },
             "score": 2,
             "inLosers": false,
@@ -1653,13 +1667,12 @@
           {
             "person": {
               "id": "d202103141900097160000",
-              "handle": "Pandabetic",
+              "handle": "pandabetic",
               "prefix": "TSB",
               "serviceIds": {
                 "smashgg": "617072",
                 "twitter": "pandabetic__"
-              },
-              "alias": "pandabetic"
+              }
             },
             "score": 1,
             "inLosers": false,
@@ -1794,6 +1807,7 @@
       }
     },
     {
+      "uploadId": "LbJgaMlSJtU",
       "id": "88579235",
       "displayName": "O - A2 Winners Finals: TNS | Yurikov vs Alex Smith",
       "start": "01:57:58.000",
@@ -1959,6 +1973,7 @@
       }
     },
     {
+      "uploadId": "HaQLP7TGCH8",
       "id": "88578951",
       "displayName": "AE - A1 Losers Finals: TSB | pandabetic (Pandabetic) vs XEL | Hey, I'm Majin (Regular Sized Majin)",
       "start": "02:06:23.716",
@@ -1968,13 +1983,12 @@
           {
             "person": {
               "id": "d202103141900097160000",
-              "handle": "Pandabetic",
+              "handle": "pandabetic",
               "prefix": "TSB",
               "serviceIds": {
                 "smashgg": "617072",
                 "twitter": "pandabetic__"
-              },
-              "alias": "pandabetic"
+              }
             },
             "score": 2,
             "inLosers": false,
@@ -1983,13 +1997,12 @@
           {
             "person": {
               "id": "d202109192104236970000",
-              "handle": "Regular Sized Majin",
+              "handle": "Hey, I'm Majin",
               "prefix": "XEL",
               "serviceIds": {
                 "twitter": "Hi_Im_Majin",
                 "smashgg": "897929"
-              },
-              "alias": "Hey, I'm Majin"
+              }
             },
             "score": 1,
             "inLosers": false,
@@ -1999,7 +2012,7 @@
         "match": {
           "id": "",
           "name": "A1 Losers Finals",
-          "smashggId": null
+          "smashggId": "Losers Final"
         },
         "game": {
           "id": "ffcotw",
@@ -2122,6 +2135,7 @@
       }
     },
     {
+      "uploadId": "Y4kZ0GK9Ts4",
       "id": "88579267",
       "displayName": "AE - A2 Losers Finals: Alex Smith vs The Prince",
       "start": "02:14:27.999",
