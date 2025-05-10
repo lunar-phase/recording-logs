@@ -1,0 +1,2177 @@
+{
+  "uploadId": "QuyqOBsKpZg",
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2025-05-07 20-09-10.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1966975",
+  "eventId": "1375193",
+  "start": "00:04:20.816",
+  "end": "02:17:05.816",
+  "thumbnailTimestamp": "00:30:33.850",
+  "sets": [
+    {
+      "id": "88746674",
+      "displayName": "C - w1: iDrop vs TSB | pandabetic (Pandabetic)",
+      "start": "00:05:47.933",
+      "end": "00:11:57.049",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              },
+              "alias": "pandabetic"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746674",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - w1: TSB | pandabetic vs iDrop",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TSB | pandabetic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "617072",
+                  "handle": "pandabetic",
+                  "prefix": "TSB",
+                  "serviceIds": {
+                    "twitter": "pandabetic__"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "iDrop",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "155969",
+                  "handle": "iDrop",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDrop_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746679",
+      "displayName": "H - wq: IFM | Shinebox vs Dang",
+      "start": "00:13:46.266",
+      "end": "00:18:14.116",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306110150247350000",
+              "handle": "Shinebox",
+              "prefix": "IFM",
+              "serviceIds": {
+                "twitter": "JoeyFaggotoni",
+                "smashgg": "905692"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "green"
+          },
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "orange"
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746679",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - wq: Dang vs IFM | Shinebox",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BS_Dang"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "IFM | Shinebox",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "905692",
+                  "handle": "Shinebox",
+                  "prefix": "IFM",
+                  "serviceIds": {
+                    "twitter": "JoeyFaggotoni"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746681",
+      "displayName": "J - wq: Hard Bread vs FALKE | Rompepollo",
+      "start": "00:20:06.766",
+      "end": "00:29:13.799",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202505080028261730000",
+              "handle": "Hard Bread",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2921468"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403140239044710000",
+              "handle": "Rompepollo",
+              "prefix": "FALKE",
+              "serviceIds": {
+                "twitter": "Rompepollo",
+                "smashgg": "866453"
+              },
+              "pronouns": "When/SF7"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746681",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - wq: FALKE | Rompepollo vs Hard Bread",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "FALKE | Rompepollo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "866453",
+                  "handle": "Rompepollo",
+                  "prefix": "FALKE",
+                  "pronouns": "When/SF7",
+                  "serviceIds": {
+                    "twitter": "Rompepollo"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Hard Bread",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2921468",
+                  "handle": "Hard Bread",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746680",
+      "displayName": "I - wq: TSB | pandabetic (Pandabetic) vs NYCMastermike",
+      "start": "00:30:26.499",
+      "end": "00:38:31.716",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              },
+              "alias": "pandabetic"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746680",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - wq: NYCMastermike vs TSB | pandabetic",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TSB | pandabetic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "617072",
+                  "handle": "pandabetic",
+                  "prefix": "TSB",
+                  "serviceIds": {
+                    "twitter": "pandabetic__"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746684",
+      "displayName": "M - ws: iDom vs FALKE | Rompepollo",
+      "start": "00:40:42.833",
+      "end": "00:47:55.649",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403140239044710000",
+              "handle": "Rompepollo",
+              "prefix": "FALKE",
+              "serviceIds": {
+                "twitter": "Rompepollo",
+                "smashgg": "866453"
+              },
+              "pronouns": "When/SF7"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746684",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - ws: FALKE | Rompepollo vs iDom",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "FALKE | Rompepollo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "866453",
+                  "handle": "Rompepollo",
+                  "prefix": "FALKE",
+                  "pronouns": "When/SF7",
+                  "serviceIds": {
+                    "twitter": "Rompepollo"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746683",
+      "displayName": "L - ws: Dang vs NYCMastermike",
+      "start": "00:49:01.649",
+      "end": "00:59:38.266",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              },
+              "alias": "pandabetic"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746683",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - ws: Dang vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BS_Dang"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746712",
+      "displayName": "X - Losers Eighths: FreeLuigi | trifmoney vs iDrop",
+      "start": "01:00:47.516",
+      "end": "01:04:24.699",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202309140054224180000",
+              "handle": "trifmoney",
+              "prefix": "FreeLuigi",
+              "serviceIds": {
+                "twitter": "trifmoney",
+                "smashgg": "4194"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              },
+              "alias": "pandabetic"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746712",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "l3",
+            "name": "Losers Round 3",
+            "smashggId": "Losers Round 3"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "X",
+          "displayName": "X - l3: FreeLuigi | trifmoney vs iDrop",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "FreeLuigi | trifmoney",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4194",
+                  "handle": "trifmoney",
+                  "prefix": "FreeLuigi",
+                  "serviceIds": {
+                    "twitter": "trifmoney"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "iDrop",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "155969",
+                  "handle": "iDrop",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDrop_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746713",
+      "displayName": "Y - Losers Eighths: TSB | pandabetic (Pandabetic) vs IFM | Shinebox",
+      "start": "01:06:22.299",
+      "end": "01:12:34.599",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              },
+              "alias": "pandabetic"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202306110150247350000",
+              "handle": "Shinebox",
+              "prefix": "IFM",
+              "serviceIds": {
+                "twitter": "JoeyFaggotoni",
+                "smashgg": "905692"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746713",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "l3",
+            "name": "Losers Round 3",
+            "smashggId": "Losers Round 3"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "Y",
+          "displayName": "Y - l3: TSB | pandabetic vs IFM | Shinebox",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TSB | pandabetic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "617072",
+                  "handle": "pandabetic",
+                  "prefix": "TSB",
+                  "serviceIds": {
+                    "twitter": "pandabetic__"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "IFM | Shinebox",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "905692",
+                  "handle": "Shinebox",
+                  "prefix": "IFM",
+                  "serviceIds": {
+                    "twitter": "JoeyFaggotoni"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746714",
+      "displayName": "Z - lq: iDrop vs NYCMastermike",
+      "start": "01:16:24.099",
+      "end": "01:19:52.349",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              },
+              "alias": "pandabetic"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746714",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "Z",
+          "displayName": "Z - lq: NYCMastermike vs iDrop",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "iDrop",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "155969",
+                  "handle": "iDrop",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDrop_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746715",
+      "displayName": "AA - lq: TSB | pandabetic (Pandabetic) vs FALKE | Rompepollo",
+      "start": "01:21:09.766",
+      "end": "01:28:00.166",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              },
+              "alias": "pandabetic"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403140239044710000",
+              "handle": "Rompepollo",
+              "prefix": "FALKE",
+              "serviceIds": {
+                "twitter": "Rompepollo",
+                "smashgg": "866453"
+              },
+              "pronouns": "When/SF7"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306110150247350000",
+              "handle": "Shinebox",
+              "prefix": "IFM",
+              "serviceIds": {
+                "twitter": "JoeyFaggotoni",
+                "smashgg": "905692"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746715",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "AA",
+          "displayName": "AA - lq: FALKE | Rompepollo vs TSB | pandabetic",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "FALKE | Rompepollo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "866453",
+                  "handle": "Rompepollo",
+                  "prefix": "FALKE",
+                  "pronouns": "When/SF7",
+                  "serviceIds": {
+                    "twitter": "Rompepollo"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TSB | pandabetic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "617072",
+                  "handle": "pandabetic",
+                  "prefix": "TSB",
+                  "serviceIds": {
+                    "twitter": "pandabetic__"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746685",
+      "displayName": "N - wf: iDom vs Dang",
+      "start": "01:28:49.333",
+      "end": "01:42:31.049",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306110150247350000",
+              "handle": "Shinebox",
+              "prefix": "IFM",
+              "serviceIds": {
+                "twitter": "JoeyFaggotoni",
+                "smashgg": "905692"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746685",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - wf: Dang vs iDom",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BS_Dang"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746716",
+      "displayName": "AB - ls: TSB | pandabetic (Pandabetic) vs NYCMastermike",
+      "start": "01:43:27.749",
+      "end": "01:49:14.349",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              },
+              "alias": "pandabetic"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306110150247350000",
+              "handle": "Shinebox",
+              "prefix": "IFM",
+              "serviceIds": {
+                "twitter": "JoeyFaggotoni",
+                "smashgg": "905692"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746716",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "AB",
+          "displayName": "AB - ls: NYCMastermike vs TSB | pandabetic",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TSB | pandabetic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "617072",
+                  "handle": "pandabetic",
+                  "prefix": "TSB",
+                  "serviceIds": {
+                    "twitter": "pandabetic__"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746717",
+      "displayName": "AC - lf: iDom vs NYCMastermike",
+      "start": "01:50:28.016",
+      "end": "02:01:03.149",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306110150247350000",
+              "handle": "Shinebox",
+              "prefix": "IFM",
+              "serviceIds": {
+                "twitter": "JoeyFaggotoni",
+                "smashgg": "905692"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746717",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "AC",
+          "displayName": "AC - lf: iDom vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "88746686",
+      "displayName": "O - gf: Dang vs NYCMastermike",
+      "start": "02:03:01.433",
+      "end": "02:14:56.616",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202103141900097160000",
+              "handle": "Pandabetic",
+              "prefix": "TSB",
+              "serviceIds": {
+                "smashgg": "617072",
+                "twitter": "pandabetic__"
+              },
+              "alias": "pandabetic"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 381",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "88746686",
+            "phaseId": "1966975",
+            "phaseGroupId": "2887436"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - gf: Dang vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BS_Dang"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
