@@ -1,0 +1,164 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2025-06-11 20-18-22.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1996859",
+  "eventId": "1398222",
+  "start": "00:00:00.000",
+  "end": "00:10:20.733",
+  "sets": [
+    {
+      "id": "90157935",
+      "displayName": "C - wq: iDom vs IFM | Shinebox",
+      "start": "00:05:10.916",
+      "end": "00:10:20.733",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202306110150247350000",
+              "handle": "Shinebox",
+              "prefix": "IFM",
+              "serviceIds": {
+                "twitter": "JoeyFaggotoni",
+                "smashgg": "905692"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90157935",
+            "phaseId": "1996859",
+            "phaseGroupId": "2927602"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wq: iDom vs IFM | Shinebox",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "IFM | Shinebox",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "905692",
+                  "handle": "Shinebox",
+                  "prefix": "IFM",
+                  "serviceIds": {
+                    "twitter": "JoeyFaggotoni"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
