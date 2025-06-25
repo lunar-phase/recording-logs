@@ -1,0 +1,2162 @@
+{
+  "format": "1",
+  "version": "0.9.0",
+  "file": "..\\2025-06-18 20-06-07.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2001002",
+  "eventId": "1401366",
+  "start": "00:12:38.366",
+  "end": "02:31:47.916",
+  "thumbnailTimestamp": "00:24:46.949",
+  "sets": [
+    {
+      "id": "preview_2932822_1_1",
+      "displayName": "A - w1: invoicefriend vs SpicyTaco",
+      "start": "00:15:03.883",
+      "end": "00:22:14.483",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202506190023264200000",
+              "handle": "invoicefriend",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4770156"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202506190023264190000",
+              "handle": "SpicyTaco",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BurritoCombo",
+                "smashgg": "1645178"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "preview_2932822_1_1",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - w1: SpicyTaco vs invoicefriend",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SpicyTaco",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1645178",
+                  "handle": "SpicyTaco",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BurritoCombo"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "invoicefriend",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4770156",
+                  "handle": "invoicefriend",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400184",
+      "displayName": "H - w2: YC | HARD_BREAD vs HOC/MF/Emp | Dragongod",
+      "start": "00:24:45.983",
+      "end": "00:28:13.466",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350450002",
+              "handle": "HARD_BREAD",
+              "prefix": "YC",
+              "serviceIds": {
+                "twitter": "HARD_BREAD",
+                "smashgg": "530924"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202212180030271850000",
+              "handle": "Dragongod",
+              "prefix": "HOC/MF/Emp",
+              "serviceIds": {
+                "twitter": "DragonGod7777",
+                "smashgg": "225831"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400184",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "w2",
+            "name": "Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - w2: YC | HARD_BREAD vs HOC/MF/Emp | Dragongod",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "YC | HARD_BREAD",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "530924",
+                  "handle": "HARD_BREAD",
+                  "prefix": "YC",
+                  "serviceIds": {
+                    "twitter": "HARD_BREAD"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "HOC/MF/Emp | Dragongod",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "225831",
+                  "handle": "Dragongod",
+                  "prefix": "HOC/MF/Emp",
+                  "serviceIds": {
+                    "twitter": "DragonGod7777"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400179",
+      "displayName": "C - w2: GreenTea321 vs SpicyTaco",
+      "start": "00:33:16.966",
+      "end": "00:38:43.599",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011140125433910000",
+              "handle": "GreenTea321",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650116",
+                "smashgg": "1702823"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202506190023264190000",
+              "handle": "SpicyTaco",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BurritoCombo",
+                "smashgg": "1645178"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "w2",
+          "name": "Winners Round 2",
+          "smashggId": "Winners Round 2"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400179",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "w2",
+            "name": "Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - w2: GreenTea321 vs SpicyTaco",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GreenTea321",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1702823",
+                  "handle": "GreenTea321",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SpicyTaco",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1645178",
+                  "handle": "SpicyTaco",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BurritoCombo"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400188",
+      "displayName": "L - wq: iDom vs Aroo",
+      "start": "00:42:29.983",
+      "end": "00:50:29.016",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400188",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - wq: ??? vs Aroo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "Aroo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "372499",
+                  "handle": "Aroo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "aroolee"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400189",
+      "displayName": "M - wq: Freenicius vs HOC/MF/Emp | Dragongod",
+      "start": "00:52:04.149",
+      "end": "00:59:25.283",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202211192340287190000",
+              "handle": "Freenicius",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Freenicius",
+                "smashgg": "295939"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202212180030271850000",
+              "handle": "Dragongod",
+              "prefix": "HOC/MF/Emp",
+              "serviceIds": {
+                "twitter": "DragonGod7777",
+                "smashgg": "225831"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400189",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - wq: Freenicius vs HOC/MF/Emp | Dragongod",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Freenicius",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "295939",
+                  "handle": "Freenicius",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Freenicius"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "HOC/MF/Emp | Dragongod",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "225831",
+                  "handle": "Dragongod",
+                  "prefix": "HOC/MF/Emp",
+                  "serviceIds": {
+                    "twitter": "DragonGod7777"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400187",
+      "displayName": "K - wq: Bartender vs GreenTea321",
+      "start": "00:59:40.833",
+      "end": "01:04:32.416",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202506190105425320000",
+              "handle": "Bartender",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BartenderFGC",
+                "smashgg": "286815"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202011140125433910000",
+              "handle": "GreenTea321",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650116",
+                "smashgg": "1702823"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400187",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - wq: GreenTea321 vs Bartender",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GreenTea321",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1702823",
+                  "handle": "GreenTea321",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Bartender",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "286815",
+                  "handle": "Bartender",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BartenderFGC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400190",
+      "displayName": "N - wq: mojo vs NYCMastermike",
+      "start": "01:06:42.466",
+      "end": "01:10:52.899",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202506190112014420000",
+              "handle": "mojo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "571150"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400190",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - wq: mojo vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "mojo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "571150",
+                  "handle": "mojo",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400192",
+      "displayName": "P - ws: NYCMastermike vs HOC/MF/Emp | Dragongod",
+      "start": "01:12:07.449",
+      "end": "01:21:00.099",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202212180030271850000",
+              "handle": "Dragongod",
+              "prefix": "HOC/MF/Emp",
+              "serviceIds": {
+                "twitter": "DragonGod7777",
+                "smashgg": "225831"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400192",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "P",
+          "displayName": "P - ws: HOC/MF/Emp | Dragongod vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "HOC/MF/Emp | Dragongod",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "225831",
+                  "handle": "Dragongod",
+                  "prefix": "HOC/MF/Emp",
+                  "serviceIds": {
+                    "twitter": "DragonGod7777"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400191",
+      "displayName": "O - ws: GreenTea321 vs iDom",
+      "start": "01:27:53.316",
+      "end": "01:33:25.816",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011140125433910000",
+              "handle": "GreenTea321",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650116",
+                "smashgg": "1702823"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400191",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - ws: GreenTea321 vs iDom",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GreenTea321",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1702823",
+                  "handle": "GreenTea321",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400252",
+      "displayName": "AD - Losers Eighths: Aroo vs iDrop",
+      "start": "01:34:57.883",
+      "end": "01:42:05.999",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402349920001",
+              "handle": "Aroo",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "aroolee",
+                "smashgg": "372499"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400252",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "l4",
+            "name": "Losers Round 4",
+            "smashggId": "Losers Round 4"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "AD",
+          "displayName": "AD - l4: Aroo vs iDrop",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Aroo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "372499",
+                  "handle": "Aroo",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "aroolee"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "iDrop",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "155969",
+                  "handle": "iDrop",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDrop_"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400193",
+      "displayName": "Q - wf: GreenTea321 vs HOC/MF/Emp | Dragongod",
+      "start": "01:44:36.583",
+      "end": "01:55:43.199",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011140125433910000",
+              "handle": "GreenTea321",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650116",
+                "smashgg": "1702823"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          },
+          {
+            "person": {
+              "id": "d202212180030271850000",
+              "handle": "Dragongod",
+              "prefix": "HOC/MF/Emp",
+              "serviceIds": {
+                "twitter": "DragonGod7777",
+                "smashgg": "225831"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "characters": []
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400193",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "Q",
+          "displayName": "Q - wf: GreenTea321 vs HOC/MF/Emp | Dragongod",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GreenTea321",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1702823",
+                  "handle": "GreenTea321",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "HOC/MF/Emp | Dragongod",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "225831",
+                  "handle": "Dragongod",
+                  "prefix": "HOC/MF/Emp",
+                  "serviceIds": {
+                    "twitter": "DragonGod7777"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400256",
+      "displayName": "AH - ls: Freenicius vs NYCMastermike",
+      "start": "01:56:53.849",
+      "end": "02:03:20.483",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202211192340287190000",
+              "handle": "Freenicius",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Freenicius",
+                "smashgg": "295939"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400256",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "AH",
+          "displayName": "AH - ls: NYCMastermike vs Freenicius",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Freenicius",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "295939",
+                  "handle": "Freenicius",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Freenicius"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400257",
+      "displayName": "AI - lf: GreenTea321 vs NYCMastermike",
+      "start": "02:04:41.316",
+      "end": "02:11:34.583",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011140125433910000",
+              "handle": "GreenTea321",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650116",
+                "smashgg": "1702823"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400257",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "AI",
+          "displayName": "AI - lf: GreenTea321 vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GreenTea321",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1702823",
+                  "handle": "GreenTea321",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "90400194",
+      "displayName": "R - tf: GreenTea321 vs HOC/MF/Emp | Dragongod",
+      "start": "02:13:29.383",
+      "end": "02:28:59.716",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202011140125433910000",
+              "handle": "GreenTea321",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650116",
+                "smashgg": "1702823"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202212180030271850000",
+              "handle": "Dragongod",
+              "prefix": "HOC/MF/Emp",
+              "serviceIds": {
+                "twitter": "DragonGod7777",
+                "smashgg": "225831"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202505041558509820000",
+              "handle": "Javits",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jav1ts"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 387",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "90400194",
+            "phaseId": "2001002",
+            "phaseGroupId": "2932822"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ffcotw",
+            "name": "Fatal Fury: City of the Wolves",
+            "shortNames": [
+              "Fatal Fury CotW"
+            ],
+            "hashtags": [
+              "CotW",
+              "FatalFury"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Fatal Fury: City of the Wolves"
+              },
+              "smashgg": {
+                "id": "73221"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - gf: HOC/MF/Emp | Dragongod vs GreenTea321",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "HOC/MF/Emp | Dragongod",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "225831",
+                  "handle": "Dragongod",
+                  "prefix": "HOC/MF/Emp",
+                  "serviceIds": {
+                    "twitter": "DragonGod7777"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GreenTea321",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1702823",
+                  "handle": "GreenTea321",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
