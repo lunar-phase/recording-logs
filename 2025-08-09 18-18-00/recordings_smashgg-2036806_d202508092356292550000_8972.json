@@ -1,0 +1,159 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-08-09 18-18-00.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2036806",
+  "eventId": "1428897",
+  "start": "01:32:57.599",
+  "end": "01:38:26.683",
+  "sets": [
+    {
+      "id": "92505256",
+      "displayName": "L - ls: AONI | moku vs paradoxis",
+      "start": "01:32:57.599",
+      "end": "01:38:26.683",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "White"
+          },
+          {
+            "person": {
+              "id": "d202506072339194640000",
+              "handle": "paradoxis",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3212250"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "Red"
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "",
+          "name": "Guilty Gear Xrd Rev 2",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202411100102465800000",
+              "handle": "minatums",
+              "prefix": "TSB/GaG",
+              "serviceIds": {
+                "twitter": "minatums",
+                "smashgg": "50896"
+              },
+              "pronouns": "he/him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202508092342412410000",
+              "handle": "Just Avery",
+              "prefix": "I'm",
+              "serviceIds": {
+                "twitter": "shugarlumps",
+                "smashgg": "2187005"
+              },
+              "pronouns": "They/Them"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #48",
+        "event": "Guilty Gear Xrd Rev 2",
+        "messages": [
+          "Guilty Gear Xrd Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "92505256",
+            "phaseId": "2036806",
+            "phaseGroupId": "2981910"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - ls: paradoxis vs AONI | moku",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "paradoxis",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3212250",
+                  "handle": "paradoxis",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | moku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "63607",
+                  "handle": "moku",
+                  "prefix": "AONI",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

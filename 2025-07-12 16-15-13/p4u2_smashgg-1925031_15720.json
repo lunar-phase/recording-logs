@@ -1,0 +1,997 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-07-12 16-15-13.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1925031",
+  "eventId": "1342582",
+  "start": "00:00:00.000",
+  "end": "01:10:44.649",
+  "sets": [
+    {
+      "id": "91326324",
+      "displayName": "A - wq: Highwind vs Zvnix",
+      "start": "00:00:13.166",
+      "end": "00:06:43.633",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132024532480000",
+              "handle": "Highwind",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1688401"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202507122015423700000",
+              "handle": "Zvnix",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4859863"
+              },
+              "pronouns": "They/them"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #47",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "91326324",
+            "phaseId": "1925031",
+            "phaseGroupId": "2829356"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "videogame": {
+            "id": "p4u2",
+            "name": "Persona 4 Arena Ultimax",
+            "shortNames": [
+              "P4U2"
+            ],
+            "hashtags": [
+              "P4U2",
+              "P4U2R",
+              "P4AU"
+            ],
+            "additionalTags": [
+              "Persona 4 Ultimax"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Persona 4 Arena Ultimax"
+              },
+              "smashgg": {
+                "id": "11065"
+              },
+              "challonge": {
+                "id": "23768"
+              }
+            }
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - wq: Highwind vs Zvnix",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Highwind",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1688401",
+                  "handle": "Highwind",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Zvnix",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4859863",
+                  "handle": "Zvnix",
+                  "prefix": null,
+                  "pronouns": "They/them",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "91326328",
+      "displayName": "C - ws: Phazure vs WGO | Kidd Cudi (Kidd)",
+      "start": "00:17:09.583",
+      "end": "00:17:09.833",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202507122024036860000",
+              "handle": "Zvnix",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #47",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "91326328",
+            "phaseId": "1925031",
+            "phaseGroupId": "2829356"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "p4u2",
+            "name": "Persona 4 Arena Ultimax",
+            "shortNames": [
+              "P4U2"
+            ],
+            "hashtags": [
+              "P4U2",
+              "P4U2R",
+              "P4AU"
+            ],
+            "additionalTags": [
+              "Persona 4 Ultimax"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Persona 4 Arena Ultimax"
+              },
+              "smashgg": {
+                "id": "11065"
+              },
+              "challonge": {
+                "id": "23768"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - ws: WGO | Kidd Cudi vs Phazure",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Phazure",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4094607",
+                  "handle": "Phazure",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "91326327",
+      "displayName": "B - ws: MM | NTS vs Highwind",
+      "start": "00:19:35.316",
+      "end": "00:25:27.933",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202507122034010740000",
+              "handle": "NTS",
+              "prefix": "MM",
+              "serviceIds": {
+                "smashgg": "584358"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106132024532480000",
+              "handle": "Highwind",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1688401"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202507122024036860000",
+              "handle": "Zvnix",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #47",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "91326327",
+            "phaseId": "1925031",
+            "phaseGroupId": "2829356"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "p4u2",
+            "name": "Persona 4 Arena Ultimax",
+            "shortNames": [
+              "P4U2"
+            ],
+            "hashtags": [
+              "P4U2",
+              "P4U2R",
+              "P4AU"
+            ],
+            "additionalTags": [
+              "Persona 4 Ultimax"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Persona 4 Arena Ultimax"
+              },
+              "smashgg": {
+                "id": "11065"
+              },
+              "challonge": {
+                "id": "23768"
+              }
+            }
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - ws: MM | NTS vs Highwind",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MM | NTS",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "584358",
+                  "handle": "NTS",
+                  "prefix": "MM",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Highwind",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1688401",
+                  "handle": "Highwind",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "91326329",
+      "displayName": "D - wf: Phazure vs MM | NTS",
+      "start": "00:27:46.666",
+      "end": "00:35:14.933",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202507122034010740000",
+              "handle": "NTS",
+              "prefix": "MM",
+              "serviceIds": {
+                "smashgg": "584358"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202507122024036860000",
+              "handle": "Zvnix",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #47",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "91326329",
+            "phaseId": "1925031",
+            "phaseGroupId": "2829356"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "p4u2",
+            "name": "Persona 4 Arena Ultimax",
+            "shortNames": [
+              "P4U2"
+            ],
+            "hashtags": [
+              "P4U2",
+              "P4U2R",
+              "P4AU"
+            ],
+            "additionalTags": [
+              "Persona 4 Ultimax"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Persona 4 Arena Ultimax"
+              },
+              "smashgg": {
+                "id": "11065"
+              },
+              "challonge": {
+                "id": "23768"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - wf: MM | NTS vs Phazure",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MM | NTS",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "584358",
+                  "handle": "NTS",
+                  "prefix": "MM",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Phazure",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4094607",
+                  "handle": "Phazure",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "91326345",
+      "displayName": "I - lf: WGO | Kidd Cudi (Kidd) vs Phazure",
+      "start": "00:48:23.066",
+      "end": "00:59:34.549",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202412120216217250000",
+              "handle": "ICHIGO420",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3300835"
+              },
+              "pronouns": "They/them"
+            }
+          },
+          {
+            "person": {
+              "id": "d202507122024036860000",
+              "handle": "Zvnix",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #47",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "91326345",
+            "phaseId": "1925031",
+            "phaseGroupId": "2829356"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "p4u2",
+            "name": "Persona 4 Arena Ultimax",
+            "shortNames": [
+              "P4U2"
+            ],
+            "hashtags": [
+              "P4U2",
+              "P4U2R",
+              "P4AU"
+            ],
+            "additionalTags": [
+              "Persona 4 Ultimax"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Persona 4 Arena Ultimax"
+              },
+              "smashgg": {
+                "id": "11065"
+              },
+              "challonge": {
+                "id": "23768"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - lf: Phazure vs WGO | Kidd Cudi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Phazure",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4094607",
+                  "handle": "Phazure",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "91326330",
+      "displayName": "E - gf: WGO | Kidd Cudi (Kidd) vs MM | NTS",
+      "start": "01:01:40.933",
+      "end": "01:10:44.649",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202507122034010740000",
+              "handle": "NTS",
+              "prefix": "MM",
+              "serviceIds": {
+                "smashgg": "584358"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202412120216217250000",
+              "handle": "ICHIGO420",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3300835"
+              },
+              "pronouns": "They/them"
+            }
+          },
+          {
+            "person": {
+              "id": "d202507122024036860000",
+              "handle": "Zvnix",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #47",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "91326330",
+            "phaseId": "1925031",
+            "phaseGroupId": "2829356"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "p4u2",
+            "name": "Persona 4 Arena Ultimax",
+            "shortNames": [
+              "P4U2"
+            ],
+            "hashtags": [
+              "P4U2",
+              "P4U2R",
+              "P4AU"
+            ],
+            "additionalTags": [
+              "Persona 4 Ultimax"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Persona 4 Arena Ultimax"
+              },
+              "smashgg": {
+                "id": "11065"
+              },
+              "challonge": {
+                "id": "23768"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - gf: MM | NTS vs WGO | Kidd Cudi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MM | NTS",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "584358",
+                  "handle": "NTS",
+                  "prefix": "MM",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,675 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-08-09 18-18-00.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2036807",
+  "eventId": "1428898",
+  "start": "02:28:19.032",
+  "end": "03:02:49.149",
+  "sets": [
+    {
+      "id": "92515597",
+      "displayName": "E - wf: Garbage vs Native",
+      "start": "02:28:19.032",
+      "end": "02:37:55.132",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202508100045030580000",
+              "handle": "DanTheTurtle",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #48",
+        "event": "GuiltyGearXXACPR",
+        "messages": [
+          "Guilty Gear Xrd Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "92515597",
+            "phaseId": "2036807",
+            "phaseGroupId": "2981911"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - wf: Native vs Garbage",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Native",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1090326",
+                  "handle": "Native",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Garbage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "92515612",
+      "displayName": "J - ls: LP/WASD/TSB | Lem___________ (Lem) vs OMG | OEG | wii sports",
+      "start": "02:38:55.782",
+      "end": "02:42:56.616",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              },
+              "alias": "Lem___________"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202402040007030550000",
+              "handle": "wii sports",
+              "prefix": "OMG | OEG",
+              "serviceIds": {
+                "twitter": "wii__sports",
+                "smashgg": "1070362"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202508100045030580000",
+              "handle": "DanTheTurtle",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #48",
+        "event": "GuiltyGearXXACPR",
+        "messages": [
+          "Guilty Gear Xrd Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "92515612",
+            "phaseId": "2036807",
+            "phaseGroupId": "2981911"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ls: LP/WASD/TSB | Lem___________ vs OMG | OEG | wii sports",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP/WASD/TSB | Lem___________",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem___________",
+                  "prefix": "LP/WASD/TSB",
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "OMG | OEG | wii sports",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1070362",
+                  "handle": "wii sports",
+                  "prefix": "OMG | OEG",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "wii__sports"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "92515613",
+      "displayName": "K - lf: LP/WASD/TSB | Lem___________ (Lem) vs Garbage",
+      "start": "02:51:26.532",
+      "end": "02:51:28.599",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              },
+              "alias": "Lem___________"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202508100045030580000",
+              "handle": "DanTheTurtle",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #48",
+        "event": "GuiltyGearXXACPR",
+        "messages": [
+          "Guilty Gear Xrd Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "92515613",
+            "phaseId": "2036807",
+            "phaseGroupId": "2981911"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lf: Garbage vs LP/WASD/TSB | Lem___________",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Garbage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LP/WASD/TSB | Lem___________",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem___________",
+                  "prefix": "LP/WASD/TSB",
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "92515598",
+      "displayName": "F - gf: Native vs Garbage",
+      "start": "02:52:17.532",
+      "end": "03:00:37.116",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              },
+              "alias": "Lem___________"
+            }
+          },
+          {
+            "person": {
+              "id": "d202508100045030580000",
+              "handle": "DanTheTurtle",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #48",
+        "event": "GuiltyGearXXACPR",
+        "messages": [
+          "Guilty Gear Xrd Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "92515598",
+            "phaseId": "2036807",
+            "phaseGroupId": "2981911"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - gf: Native vs Garbage",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Native",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1090326",
+                  "handle": "Native",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Garbage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

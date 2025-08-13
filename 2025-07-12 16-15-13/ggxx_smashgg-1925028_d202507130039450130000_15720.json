@@ -1,0 +1,503 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-07-12 16-15-13.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "1925028",
+  "eventId": "1342579",
+  "start": "04:24:29.816",
+  "end": "04:57:27.999",
+  "sets": [
+    {
+      "id": "91347948",
+      "displayName": "D - wf: Garbage vs TGWTG | Nostalgia Critic (Circuit Sturgeon)",
+      "start": "04:24:29.816",
+      "end": "04:24:30.832",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403230003458860000",
+              "handle": "Circuit Sturgeon",
+              "prefix": "TGWTG",
+              "serviceIds": {
+                "smashgg": "3570534"
+              },
+              "alias": "Nostalgia Critic"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202507122341398100000",
+              "handle": "Arisu",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "otogesound"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #47",
+        "event": "Guilty Gear XXACPR",
+        "messages": [
+          "Guilty Gear Xrd Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "91347948",
+            "phaseId": "1925028",
+            "phaseGroupId": "2829353"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - wf: TGWTG | Nostalgia Critic vs Garbage",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TGWTG | Nostalgia Critic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3570534",
+                  "handle": "Nostalgia Critic",
+                  "prefix": "TGWTG",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Garbage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "91347964",
+      "displayName": "I - lf: Garbage vs #7 | SAVI0R",
+      "start": "04:34:09.499",
+      "end": "04:34:10.016",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202305140001550490000",
+              "handle": "SAVI0R",
+              "prefix": "#7",
+              "serviceIds": {
+                "smashgg": "253039",
+                "twitter": "Savi0rIsOK"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202507122341398100000",
+              "handle": "Arisu",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "otogesound"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #47",
+        "event": "Guilty Gear XX Accent Core +R",
+        "messages": [
+          "Guilty Gear Xrd Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "91347964",
+            "phaseId": "1925028",
+            "phaseGroupId": "2829353"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - lf: Garbage vs #7 | SAVI0R",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Garbage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "#7 | SAVI0R",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "253039",
+                  "handle": "SAVI0R",
+                  "prefix": "#7",
+                  "serviceIds": {
+                    "twitter": "Savi0rIsOK"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "91347949",
+      "displayName": "E - Grand Finals Reset: Garbage vs TGWTG | Nostalgia Critic (Circuit Sturgeon)",
+      "start": "04:56:34.732",
+      "end": "04:56:35.249",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403230003458860000",
+              "handle": "Circuit Sturgeon",
+              "prefix": "TGWTG",
+              "serviceIds": {
+                "smashgg": "3570534"
+              },
+              "alias": "Nostalgia Critic"
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Grand Finals Reset",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202507122341398100000",
+              "handle": "Arisu",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "otogesound"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #47",
+        "event": "Guilty Gear XX Accent Core +R",
+        "messages": [
+          "Guilty Gear Xrd Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "91347949",
+            "phaseId": "1925028",
+            "phaseGroupId": "2829353"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "ggxx",
+            "name": "Guilty Gear XX Accent Core +R",
+            "shortNames": [
+              "GGXXAC+R",
+              "+R"
+            ],
+            "hashtags": [
+              "GGXXACPR"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear XX Accent Core Plus R"
+              },
+              "smashgg": {
+                "id": "22406"
+              },
+              "challonge": {
+                "id": "262"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - gf: TGWTG | Nostalgia Critic vs Garbage",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TGWTG | Nostalgia Critic",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3570534",
+                  "handle": "Nostalgia Critic",
+                  "prefix": "TGWTG",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Garbage",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415942",
+                  "handle": "Garbage",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

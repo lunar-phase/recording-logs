@@ -1,0 +1,185 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-08-09 18-18-00.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2036806",
+  "eventId": "1428897",
+  "start": "01:25:33.916",
+  "end": "01:30:52.783",
+  "sets": [
+    {
+      "id": "92505241",
+      "displayName": "F - wf: I'm | Just Avery vs AONI | Crocs N' Socks",
+      "start": "01:25:33.916",
+      "end": "01:30:52.783",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202508092342412410000",
+              "handle": "Just Avery",
+              "prefix": "I'm",
+              "serviceIds": {
+                "twitter": "shugarlumps",
+                "smashgg": "2187005"
+              },
+              "pronouns": "They/Them"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202411100102465800000",
+              "handle": "minatums",
+              "prefix": "TSB/GaG",
+              "serviceIds": {
+                "twitter": "minatums",
+                "smashgg": "50896"
+              },
+              "pronouns": "he/him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #48",
+        "event": "Guilty Gear Xrd",
+        "messages": [
+          "Guilty Gear Xrd Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "92505241",
+            "phaseId": "2036806",
+            "phaseGroupId": "2981910"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "ggxrd",
+            "name": "Guilty Gear Xrd",
+            "shortNames": [
+              "Xrd"
+            ],
+            "hashtags": [
+              "GGXRD"
+            ],
+            "additionalTags": [
+              "Guilty Gear"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Guilty Gear Xrd: Rev 2"
+              },
+              "smashgg": {
+                "id": "36"
+              },
+              "challonge": {
+                "id": "121822"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - wf: AONI | Crocs N' Socks vs I'm | Just Avery",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "I'm | Just Avery",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2187005",
+                  "handle": "Just Avery",
+                  "prefix": "I'm",
+                  "pronouns": "They/Them",
+                  "serviceIds": {
+                    "twitter": "shugarlumps"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
