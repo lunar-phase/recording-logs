@@ -1,195 +1,29 @@
 {
+  "uploadId": "A661vbpoSoc",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2025-07-12 16-45-44.mkv",
   "bracketService": "smashgg",
   "phaseId": "1925025",
   "eventId": "1342576",
+  "phaseName": "Top 8",
   "start": "04:09:34.249",
   "end": "05:57:29.182",
-  "thumbnailTimestamp": "04:30:57.049",
+  "thumbnailTimestamp": "04:22:19.965",
   "userData": {
     "headline": "Trophy on the line!"
   },
   "sets": [
     {
-      "id": "91337137",
-      "displayName": "R - ws: F O X vs Delvy17",
+      "id": "91337136",
+      "displayName": "Q - ws: sinner_blue vs Linguini Bros | GaryButternubs",
       "start": "04:13:31",
-      "end": "04:21:50",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350320001",
-              "handle": "F O X",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "MakotoFOX_",
-                "smashgg": "249913"
-              },
-              "pronouns": "He/Him"
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
-            "characters": []
-          },
-          {
-            "person": {
-              "id": "d202008220402351790000",
-              "handle": "Delvy17",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "Delvy_17",
-                "smashgg": "27712"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
-            "characters": []
-          }
-        ],
-        "match": {
-          "id": "ws",
-          "name": "Winners Semis",
-          "smashggId": "Winners Semi-Final"
-        },
-        "game": {
-          "id": "uni2",
-          "name": "Under Night In-Birth II Sys:Celes",
-          "shortNames": [
-            "Under Night In-Birth 2",
-            "UNI 2"
-          ],
-          "hashtags": [
-            "UNI2",
-            "inbirth",
-            "UNISC"
-          ],
-          "additionalTags": [
-            "UNDERNIGHT"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
-            },
-            "smashgg": {
-              "id": "50203"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350320001",
-              "handle": "F O X",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "MakotoFOX_",
-                "smashgg": "249913"
-              },
-              "pronouns": "He/Him"
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "Yokai Teio",
-              "prefix": "LP/BPM",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              },
-              "pronouns": "He/Him"
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #47",
-        "event": "",
-        "messages": [
-          "UNI2 top 8 up next!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "91337137",
-            "phaseId": "1925025",
-            "phaseGroupId": "2829350"
-          },
-          "match": {
-            "id": "ws",
-            "name": "Winners Semis",
-            "smashggId": "Winners Semi-Final"
-          },
-          "videogame": {
-            "id": "uni2",
-            "name": "Under Night In-Birth II Sys:Celes",
-            "shortNames": [
-              "Under Night In-Birth 2",
-              "UNI 2"
-            ],
-            "hashtags": [
-              "UNI2",
-              "inbirth",
-              "UNISC"
-            ],
-            "additionalTags": [
-              "UNDERNIGHT"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
-              },
-              "smashgg": {
-                "id": "50203"
-              }
-            }
-          },
-          "shortIdentifier": "R",
-          "displayName": "R - ws: F O X vs Delvy17",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "F O X",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "249913",
-                  "handle": "F O X",
-                  "prefix": null,
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "MakotoFOX_"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Delvy17",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "27712",
-                  "handle": "Delvy17",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "Delvy_17"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "end": "04:21:50"
     },
     {
       "id": "91337137",
       "displayName": "R - ws: Delvy17 vs F O X",
-      "start": "04:22:19",
+      "start": "04:22:21",
       "end": "04:30:30.366",
       "state": {
         "players": [
@@ -361,7 +195,7 @@
     {
       "id": "91337197",
       "displayName": "AH - l4: LP/BPM | Yokai Teio vs artthefool",
-      "start": "04:30:53.232",
+      "start": "04:30:55",
       "end": "04:39:05.532",
       "state": {
         "players": [
@@ -534,7 +368,7 @@
     {
       "id": "91337198",
       "displayName": "AI - l4: Blams vs PPT | KaiAi",
-      "start": "04:39:30.015",
+      "start": "04:39:31",
       "end": "04:44:12.349",
       "state": {
         "players": [
@@ -1039,6 +873,12 @@
           ]
         }
       }
+    },
+    {
+      "id": "91337138",
+      "displayName": "S - wf: Linguini Bros | GaryButternubs vs Delvy17",
+      "start": "05:05:12",
+      "end": "05:11:25"
     },
     {
       "id": "91337201",
