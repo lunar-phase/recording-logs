@@ -1,0 +1,163 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-08-20 20-48-01.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2054438",
+  "eventId": "1442438",
+  "start": "00:45:36.733",
+  "end": "01:18:58.999",
+  "sets": [
+    {
+      "id": "92883097",
+      "displayName": "M - lf: Hadojin_Supreme vs HoG | Hubbykun",
+      "start": "00:51:13.766",
+      "end": "01:02:01.966",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306172008104390000",
+              "handle": "Hadojin_Supreme",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "151368"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307292246372140000",
+              "handle": "Hubbykun",
+              "prefix": "HoG",
+              "serviceIds": {
+                "smashgg": "2967006",
+                "twitter": "HubbykunPlays"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "uni2",
+          "name": "Under Night In-Birth II Sys:Celes",
+          "shortNames": [
+            "Under Night In-Birth 2",
+            "UNI 2"
+          ],
+          "hashtags": [
+            "UNI2",
+            "inbirth",
+            "UNISC"
+          ],
+          "additionalTags": [
+            "UNDERNIGHT"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+            },
+            "smashgg": {
+              "id": "50203"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 396",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "92883097",
+            "phaseId": "2054438",
+            "phaseGroupId": "3006948"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "uni2",
+            "name": "Under Night In-Birth II Sys:Celes",
+            "shortNames": [
+              "Under Night In-Birth 2",
+              "UNI 2"
+            ],
+            "hashtags": [
+              "UNI2",
+              "inbirth",
+              "UNISC"
+            ],
+            "additionalTags": [
+              "UNDERNIGHT"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
+              },
+              "smashgg": {
+                "id": "50203"
+              }
+            }
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - lf: Hadojin_Supreme vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Hadojin_Supreme",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "151368",
+                  "handle": "Hadojin_Supreme",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
