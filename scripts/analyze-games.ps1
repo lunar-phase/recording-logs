@@ -1,3 +1,8 @@
+# string array param
+param (
+  [string[]]$GameList
+)
+
 pushd $PSScriptRoot
-@( 'sf6', 'ggst', 'kofxv', 't7', 'sc6', 'dnf', 'mbtl', 'ggxrd', 'ss7' ) | % { echo ""; echo "$_"; .\analyze "..\*\$_*.json"}
+$GameList | % { echo ""; echo "$_"; .\analyze "..\*\$_*.json"}
 popd
