@@ -1,0 +1,1022 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-09-13 16-07-52.mkv",
+  "bracketService": "smashgg",
+  "start": "00:26:41.399",
+  "end": "01:17:51.166",
+  "sets": [
+    {
+      "id": "93852427",
+      "displayName": "H - ls: WGO | Kidd Cudi (Kidd) vs Syrorin",
+      "start": "00:34:15.733",
+      "end": "00:34:16.666",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351250001",
+              "handle": "Syrorin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "syrorin",
+                "smashgg": "573623"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350780001",
+              "handle": "Denpa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DenpaEXE",
+                "smashgg": "692211"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #49",
+        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "93852427",
+            "phaseId": "2050564",
+            "phaseGroupId": "3001333"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - ls: Syrorin vs WGO | Kidd Cudi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Syrorin",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "573623",
+                  "handle": "Syrorin",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "syrorin"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "93852428",
+      "displayName": "I - lf: Syrorin vs S.O.N.G. | Tomuhawk",
+      "start": "01:00:28.566",
+      "end": "01:06:21.033",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351250001",
+              "handle": "Syrorin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "syrorin",
+                "smashgg": "573623"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomuhawk",
+              "prefix": "S.O.N.G.",
+              "serviceIds": {
+                "twitter": "NYC_Tomuhawk",
+                "smashgg": "170633"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350780001",
+              "handle": "Denpa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DenpaEXE",
+                "smashgg": "692211"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #49",
+        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "93852428",
+            "phaseId": "2050564",
+            "phaseGroupId": "3001333"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - lf: S.O.N.G. | Tomuhawk vs Syrorin",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "S.O.N.G. | Tomuhawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "170633",
+                  "handle": "Tomuhawk",
+                  "prefix": "S.O.N.G.",
+                  "serviceIds": {
+                    "twitter": "NYC_Tomuhawk"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Syrorin",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "573623",
+                  "handle": "Syrorin",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "syrorin"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "93857948",
+      "displayName": "E - wf: Phazure vs WGO | Kidd Cudi (Kidd)",
+      "start": "00:26:41.399",
+      "end": "00:40:52.983",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202412120216217250000",
+              "handle": "ICHIGO420",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3300835"
+              },
+              "pronouns": "They/them"
+            }
+          },
+          {
+            "person": {
+              "id": "d202407132019597870000",
+              "handle": "NecroGuffaw",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3016800"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #49",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "93857948",
+            "phaseId": "2050565",
+            "phaseGroupId": "3001334"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "videogame": {
+            "id": "p4u2",
+            "name": "Persona 4 Arena Ultimax",
+            "shortNames": [
+              "P4U2"
+            ],
+            "hashtags": [
+              "P4U2",
+              "P4U2R",
+              "P4AU"
+            ],
+            "additionalTags": [
+              "Persona 4 Ultimax"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Persona 4 Arena Ultimax"
+              },
+              "smashgg": {
+                "id": "11065"
+              },
+              "challonge": {
+                "id": "23768"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - wf: WGO | Kidd Cudi vs Phazure",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Phazure",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4094607",
+                  "handle": "Phazure",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "93857963",
+      "displayName": "J - ls: AONI | LO7U5 (LOTU5) vs NFD | NecroGuffaw",
+      "start": "00:42:37.649",
+      "end": "00:48:55.533",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202411092354377400000",
+              "handle": "LOTU5",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "559033"
+              },
+              "pronouns": "He/They",
+              "alias": "LO7U5"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407132019597870000",
+              "handle": "NecroGuffaw",
+              "prefix": "NFD",
+              "serviceIds": {
+                "smashgg": "3016800"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202412120216217250000",
+              "handle": "ICHIGO420",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3300835"
+              },
+              "pronouns": "They/them"
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #49",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "93857963",
+            "phaseId": "2050565",
+            "phaseGroupId": "3001334"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "videogame": {
+            "id": "p4u2",
+            "name": "Persona 4 Arena Ultimax",
+            "shortNames": [
+              "P4U2"
+            ],
+            "hashtags": [
+              "P4U2",
+              "P4U2R",
+              "P4AU"
+            ],
+            "additionalTags": [
+              "Persona 4 Ultimax"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Persona 4 Arena Ultimax"
+              },
+              "smashgg": {
+                "id": "11065"
+              },
+              "challonge": {
+                "id": "23768"
+              }
+            }
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ls: No Fear Dojo | NecroGuffaw vs AONI | LO7U5",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "No Fear Dojo | NecroGuffaw",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3016800",
+                  "handle": "NecroGuffaw",
+                  "prefix": "No Fear Dojo",
+                  "pronouns": "He/Him",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | LO7U5",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "559033",
+                  "handle": "LO7U5",
+                  "prefix": "AONI",
+                  "pronouns": "He/They",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "93857964",
+      "displayName": "K - lf: Phazure vs NFD | NecroGuffaw",
+      "start": "00:50:15.716",
+      "end": "01:05:26.116",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407132019597870000",
+              "handle": "NecroGuffaw",
+              "prefix": "NFD",
+              "serviceIds": {
+                "smashgg": "3016800"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202412120216217250000",
+              "handle": "ICHIGO420",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3300835"
+              },
+              "pronouns": "They/them"
+            }
+          },
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #49",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "93857964",
+            "phaseId": "2050565",
+            "phaseGroupId": "3001334"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "videogame": {
+            "id": "p4u2",
+            "name": "Persona 4 Arena Ultimax",
+            "shortNames": [
+              "P4U2"
+            ],
+            "hashtags": [
+              "P4U2",
+              "P4U2R",
+              "P4AU"
+            ],
+            "additionalTags": [
+              "Persona 4 Ultimax"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Persona 4 Arena Ultimax"
+              },
+              "smashgg": {
+                "id": "11065"
+              },
+              "challonge": {
+                "id": "23768"
+              }
+            }
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lf: Phazure vs No Fear Dojo | NecroGuffaw",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Phazure",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4094607",
+                  "handle": "Phazure",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "No Fear Dojo | NecroGuffaw",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3016800",
+                  "handle": "NecroGuffaw",
+                  "prefix": "No Fear Dojo",
+                  "pronouns": "He/Him",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "93857949",
+      "displayName": "F - gf: Phazure vs WGO | Kidd Cudi (Kidd)",
+      "start": "01:06:51.266",
+      "end": "01:17:51.166",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202412120216217250000",
+              "handle": "ICHIGO420",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3300835"
+              },
+              "pronouns": "They/them"
+            }
+          },
+          {
+            "person": {
+              "id": "d202407132019597870000",
+              "handle": "NecroGuffaw",
+              "prefix": "NFD",
+              "serviceIds": {
+                "smashgg": "3016800"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #49",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "93857949",
+            "phaseId": "2050565",
+            "phaseGroupId": "3001334"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "p4u2",
+            "name": "Persona 4 Arena Ultimax",
+            "shortNames": [
+              "P4U2"
+            ],
+            "hashtags": [
+              "P4U2",
+              "P4U2R",
+              "P4AU"
+            ],
+            "additionalTags": [
+              "Persona 4 Ultimax"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Persona 4 Arena Ultimax"
+              },
+              "smashgg": {
+                "id": "11065"
+              },
+              "challonge": {
+                "id": "23768"
+              }
+            }
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - gf: WGO | Kidd Cudi vs Phazure",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Phazure",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4094607",
+                  "handle": "Phazure",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-09-13 16-07-52.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2050564",
+  "eventId": "1439445",
+  "start": "01:17:51.166",
+  "end": "01:20:59.499",
+  "sets": [
+    {
+      "id": "93852413",
+      "displayName": "E - gf: Linguini Bros | GaryButternubs vs S.O.N.G. | Tomuhawk",
+      "start": "01:20:57.966",
+      "end": "01:20:59.499",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": "Linguini Bros",
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomuhawk",
+              "prefix": "S.O.N.G.",
+              "serviceIds": {
+                "twitter": "NYC_Tomuhawk",
+                "smashgg": "170633"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350780001",
+              "handle": "Denpa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DenpaEXE",
+                "smashgg": "692211"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #49",
+        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "93852413",
+            "phaseId": "2050564",
+            "phaseGroupId": "3001333"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "dfc",
+            "name": "Dengeki Bunko Fighting Climax: Ignition",
+            "shortNames": [
+              "Dengeki Bunko Fighting Climax",
+              "Dengeki Bunko",
+              "DFCI"
+            ],
+            "hashtags": [
+              "DFCI"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Dengeki Bunko: Fighting Climax Ignition"
+              },
+              "smashgg": {
+                "id": "4267"
+              }
+            }
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - gf: Linguini Bros | GaryButternubs vs S.O.N.G. | Tomuhawk",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Linguini Bros | GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": "Linguini Bros",
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "S.O.N.G. | Tomuhawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "170633",
+                  "handle": "Tomuhawk",
+                  "prefix": "S.O.N.G.",
+                  "serviceIds": {
+                    "twitter": "NYC_Tomuhawk"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
