@@ -1,0 +1,192 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-11-01 12-00-11.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2049963",
+  "eventId": "1439004",
+  "start": "00:17:29.533",
+  "end": "00:29:57.699",
+  "sets": [
+    {
+      "id": "95735050",
+      "displayName": "C - DUB2 Winners Round 2: Bruho / Lito vs nunnyu / epic_gamer_eighty-one",
+      "start": "00:21:48.583",
+      "end": "00:29:57.699",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202510310441319870000",
+              "handle": "Bruho / Lito",
+              "prefix": null,
+              "serviceIds": {}
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202510310441319860002",
+              "handle": "nunnyu / epic_gamer_eighty-one",
+              "prefix": null,
+              "serviceIds": {}
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "DUB2 Winners Round 2",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202510310333151440000",
+              "handle": "Saxaslayer",
+              "prefix": "Soup-E",
+              "serviceIds": {
+                "twitter": "saxaslayer",
+                "smashgg": "2438614"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202510310333151410000",
+              "handle": "Thewaffleman",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "thewafflemanSR",
+                "smashgg": "47104"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "VacationLAN 2025",
+        "event": "",
+        "messages": [
+          "Ultimate Doubles starting soon!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "95735050",
+            "phaseId": "2049963",
+            "phaseGroupId": "3086138"
+          },
+          "match": {
+            "id": "",
+            "name": "DUB2 Winners Round 2",
+            "smashggId": "Winners Round 2"
+          },
+          "videogame": {
+            "id": "ssbu",
+            "name": "Super Smash Bros. Ultimate",
+            "shortNames": [
+              "Smash Ultimate",
+              "SSBU"
+            ],
+            "hashtags": [
+              "SSBU"
+            ],
+            "serviceInfo": {
+              "twitch": {
+                "id": "Super Smash Bros. Ultimate"
+              },
+              "smashgg": {
+                "id": "1386"
+              },
+              "challonge": {
+                "id": "141059"
+              }
+            }
+          },
+          "shortIdentifier": "C",
+          "displayName": "DUB2 C - w2: Bruho / Lito vs nunnyu / epic_gamer_eighty-one",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Bruho / Lito",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "44379",
+                  "handle": "Lito",
+                  "prefix": null,
+                  "pronouns": "he/they",
+                  "serviceIds": {
+                    "twitter": "Litorally"
+                  }
+                },
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1888506",
+                  "handle": "Bruho",
+                  "prefix": "NS",
+                  "pronouns": "He/him",
+                  "serviceIds": {
+                    "twitter": "Bruho_ssbu"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "nunnyu / epic_gamer_eighty-one",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4293691",
+                  "handle": "nunnyu",
+                  "prefix": "cha",
+                  "serviceIds": {
+                    "twitter": "lununnyu"
+                  }
+                },
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4329116",
+                  "handle": "epic_gamer_eighty-one",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
