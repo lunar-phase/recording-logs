@@ -1,10 +1,12 @@
 {
+  "uploadId": "fHsmIsVXbs4",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2025-10-11 16-37-21.mkv",
   "bracketService": "smashgg",
   "phaseId": "2082581",
   "eventId": "1464741",
+  "phaseName": "Top 8",
   "start": "01:20:08.616",
   "end": "03:29:20.549",
   "thumbnailTimestamp": "01:33:58.766",
@@ -1162,163 +1164,9 @@
     },
     {
       "id": "94935011",
-      "displayName": "AX - lf: DEUS | Incendiate",
+      "displayName": "AX - ls: Paid Actor vs Swine",
       "start": "02:43:33.899",
-      "end": "02:52:33.866",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402351730000",
-              "handle": "Incendiate",
-              "prefix": "DEUS",
-              "serviceIds": {
-                "twitter": "incendiate",
-                "smashgg": "509796"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "lf",
-          "name": "Losers Finals",
-          "smashggId": "Losers Final"
-        },
-        "game": {
-          "id": "gbvsr",
-          "name": "Granblue Fantasy Versus: Rising",
-          "shortNames": [
-            "GBVSR"
-          ],
-          "hashtags": [
-            "GBVSR"
-          ],
-          "additionalTags": [
-            "Granblue Versus",
-            "GBFV"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Granblue Fantasy Versus: Rising"
-            },
-            "smashgg": {
-              "id": "48548"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350320001",
-              "handle": "F O X",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "MakotoFOX_",
-                "smashgg": "249913"
-              },
-              "pronouns": "He/Him"
-            }
-          },
-          {
-            "person": {
-              "id": "d202510112219074520000",
-              "handle": "Grisk",
-              "prefix": "FISH",
-              "serviceIds": {
-                "twitter": "Grisky0",
-                "smashgg": "3233968"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #50",
-        "event": "",
-        "messages": [
-          "GBVSR Up Next!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "94935011",
-            "phaseId": "2082581",
-            "phaseGroupId": "3043561"
-          },
-          "match": {
-            "id": "ls",
-            "name": "Losers Semis",
-            "smashggId": "Losers Semi-Final"
-          },
-          "videogame": {
-            "id": "gbvsr",
-            "name": "Granblue Fantasy Versus: Rising",
-            "shortNames": [
-              "GBVSR"
-            ],
-            "hashtags": [
-              "GBVSR"
-            ],
-            "additionalTags": [
-              "Granblue Versus",
-              "GBFV"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Granblue Fantasy Versus: Rising"
-              },
-              "smashgg": {
-                "id": "48548"
-              }
-            }
-          },
-          "shortIdentifier": "AX",
-          "displayName": "AX - ls: Paid Actor vs Swine",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Paid Actor",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1437257",
-                  "handle": "Paid Actor",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "KirigiriAlpaca"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Swine",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "4373046",
-                  "handle": "Swine",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
+      "end": "02:52:33.866"
     },
     {
       "id": "94935012",
