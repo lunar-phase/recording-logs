@@ -1,0 +1,100 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-11-19 19-59-33.mkv",
+  "start": "00:11:01.216",
+  "end": "00:16:35.083",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: LAGr | BlackDiamondGMZ vs rayit",
+      "start": "00:12:29.516",
+      "end": "00:16:35.083",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202511200110545850000",
+              "handle": "BlackDiamondGMZ",
+              "prefix": "LAGr",
+              "serviceIds": {
+                "twitter": "BlackDiamondGMZ",
+                "smashgg": "3187328"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202508140016502060000",
+              "handle": "rayit",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "934762"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 409",
+        "event": "",
+        "messages": []
+      }
+    }
+  ]
+}
