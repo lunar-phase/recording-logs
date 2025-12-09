@@ -1,0 +1,153 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-12-06 16-59-01.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2140646",
+  "eventId": "1510449",
+  "start": "07:02:15.732",
+  "end": "07:10:09.265",
+  "sets": [
+    {
+      "id": "97156748",
+      "displayName": "P - ws: AONI | LO7U5 (LOTU5) vs MHM | \\_Chris_/",
+      "start": "07:02:15.732",
+      "end": "07:10:09.265",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202411092354377400000",
+              "handle": "LOTU5",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "559033"
+              },
+              "pronouns": "He/They",
+              "alias": "LO7U5"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202412220229557590000",
+              "handle": "\\_Chris_/",
+              "prefix": "MHM",
+              "serviceIds": {
+                "twitter": "ItsJustChris07",
+                "smashgg": "424197"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "",
+          "name": "King of the Hat",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202411092155476180000",
+              "handle": "jac_238",
+              "prefix": "MHM",
+              "serviceIds": {
+                "twitter": "jordan_colon238",
+                "smashgg": "3207377"
+              },
+              "pronouns": "He/Him",
+              "alias": "jac238"
+            }
+          },
+          {
+            "person": {
+              "id": "d202407132312095920000",
+              "handle": "TommyTamsworth",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TommyTamsworth",
+                "smashgg": "1947521"
+              },
+              "alias": "Tommytamsworth"
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #52",
+        "event": "",
+        "messages": [
+          "Mystery Wheel Top 8 Next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "97156748",
+            "phaseId": "2140646",
+            "phaseGroupId": "3118446"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "videogame": {
+            "id": "",
+            "name": "Mystery Game",
+            "shortNames": [],
+            "hashtags": [],
+            "serviceInfo": {
+              "smashgg": {
+                "id": "33599"
+              }
+            }
+          },
+          "shortIdentifier": "P",
+          "displayName": "P - ws: MHM | \\_Chris_/ vs AONI | LO7U5",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "MHM | \\_Chris_/",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "424197",
+                  "handle": "\\_Chris_/",
+                  "prefix": "MHM",
+                  "serviceIds": {
+                    "twitter": "ItsJustChris07"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | LO7U5",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "559033",
+                  "handle": "LO7U5",
+                  "prefix": "AONI",
+                  "pronouns": "He/They",
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

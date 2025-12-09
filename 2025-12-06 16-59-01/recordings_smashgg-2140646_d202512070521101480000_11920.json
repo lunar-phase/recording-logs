@@ -1,0 +1,155 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-12-06 16-59-01.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2140646",
+  "eventId": "1510449",
+  "start": "07:15:15.000",
+  "end": "07:22:16.365",
+  "sets": [
+    {
+      "id": "97156809",
+      "displayName": "AE - Losers Eighths: Dang vs AONI | Crocs N' Socks",
+      "start": "07:15:15.000",
+      "end": "07:22:16.365",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "",
+          "name": "Shadow Prisoner",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202411092155476180000",
+              "handle": "jac_238",
+              "prefix": "MHM",
+              "serviceIds": {
+                "twitter": "jordan_colon238",
+                "smashgg": "3207377"
+              },
+              "pronouns": "He/Him",
+              "alias": "jac238"
+            }
+          },
+          {
+            "person": {
+              "id": "d202412220229557590000",
+              "handle": "\\_Chris_/",
+              "prefix": "MHM",
+              "serviceIds": {
+                "twitter": "ItsJustChris07",
+                "smashgg": "424197"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #52",
+        "event": "",
+        "messages": [
+          "Mystery Wheel Top 8 Next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "97156809",
+            "phaseId": "2140646",
+            "phaseGroupId": "3118446"
+          },
+          "match": {
+            "id": "l4",
+            "name": "Losers Round 4",
+            "smashggId": "Losers Round 4"
+          },
+          "videogame": {
+            "id": "",
+            "name": "Mystery Game",
+            "shortNames": [],
+            "hashtags": [],
+            "serviceInfo": {
+              "smashgg": {
+                "id": "33599"
+              }
+            }
+          },
+          "shortIdentifier": "AE",
+          "displayName": "AE - l4: Dang vs AONI | Crocs N' Socks",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BS_Dang"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Crocs N' Socks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "566104",
+                  "handle": "Crocs N' Socks",
+                  "prefix": "AONI",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "DDDS_Main"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

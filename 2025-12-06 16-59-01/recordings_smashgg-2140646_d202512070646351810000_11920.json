@@ -1,0 +1,133 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2025-12-06 16-59-01.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2140646",
+  "eventId": "1510449",
+  "start": "08:34:48.432",
+  "end": "08:55:54.348",
+  "sets": [
+    {
+      "id": "97156750",
+      "displayName": "R - gf: Skeleton vs MHM | \\_Chris_/",
+      "start": "08:34:48.432",
+      "end": "08:47:33.198",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352800001",
+              "handle": "Skeleton",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "287708",
+                "twitter": "inputreader"
+              },
+              "pronouns": "she/her"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202412220229557590000",
+              "handle": "\\_Chris_/",
+              "prefix": "MHM",
+              "serviceIds": {
+                "twitter": "ItsJustChris07",
+                "smashgg": "424197"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "",
+          "name": "Neo Aquarium: The King of Crustaceans",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351450001",
+              "handle": "Crocs N' Socks",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "DDDS_Main",
+                "challonge": "134105609",
+                "smashgg": "566104"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #52",
+        "event": "",
+        "messages": [
+          "Mystery Wheel Top 8 Next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "97156750",
+            "phaseId": "2140646",
+            "phaseGroupId": "3118446"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "videogame": {
+            "id": "",
+            "name": "Mystery Game",
+            "shortNames": [],
+            "hashtags": [],
+            "serviceInfo": {
+              "smashgg": {
+                "id": "33599"
+              }
+            }
+          },
+          "shortIdentifier": "R",
+          "displayName": "R - gf: ??? vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
