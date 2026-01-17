@@ -1,13 +1,15 @@
 {
+  "uploadId": "vs1EML36ybQ",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-01-10 16-55-25.mkv",
   "bracketService": "smashgg",
   "phaseId": "2152913",
   "eventId": "1519960",
+  "phaseName": "Top 6",
   "start": "02:18:04.000",
   "end": "03:27:29.932",
-  "thumbnailTimestamp": "02:45:29.432",
+  "thumbnailTimestamp": "02:45:29.771",
   "sets": [
     {
       "id": "98052817",
@@ -29,17 +31,6 @@
                 "country": "US",
                 "state": "US-NJ",
                 "city": "River Vale"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "hyde"
-                      }
-                    ]
-                  }
-                ]
               }
             },
             "score": 2,
@@ -67,24 +58,6 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "izumi"
-                      }
-                    ]
-                  },
-                  {
-                    "characters": [
-                      {
-                        "id": "orie"
-                      }
-                    ]
-                  }
-                ]
               }
             },
             "score": 0,
@@ -135,117 +108,7 @@
             "smashgg": {
               "id": "50203"
             }
-          },
-          "characters": [
-            {
-              "id": "akatsuki",
-              "name": "Akatsuki"
-            },
-            {
-              "id": "byakuya",
-              "name": "Byakuya"
-            },
-            {
-              "id": "carmine",
-              "name": "Carmine"
-            },
-            {
-              "id": "chaos",
-              "name": "Chaos"
-            },
-            {
-              "id": "eltnum",
-              "name": "Eltnum"
-            },
-            {
-              "id": "enkidu",
-              "name": "Enkidu"
-            },
-            {
-              "id": "gordeau",
-              "name": "Gordeau"
-            },
-            {
-              "id": "hilda",
-              "name": "Hilda"
-            },
-            {
-              "id": "hyde",
-              "name": "Hyde"
-            },
-            {
-              "id": "izumi",
-              "name": "Izumi"
-            },
-            {
-              "id": "kaguya",
-              "name": "Kaguya"
-            },
-            {
-              "id": "kuon",
-              "name": "Kuon"
-            },
-            {
-              "id": "linne",
-              "name": "Linne"
-            },
-            {
-              "id": "londrekia",
-              "name": "Londrekia"
-            },
-            {
-              "id": "merkava",
-              "name": "Merkava"
-            },
-            {
-              "id": "mika",
-              "name": "Mika"
-            },
-            {
-              "id": "nanase",
-              "name": "Nanase"
-            },
-            {
-              "id": "ogre",
-              "name": "Ogre"
-            },
-            {
-              "id": "orie",
-              "name": "Orie"
-            },
-            {
-              "id": "phonon",
-              "name": "Phonon"
-            },
-            {
-              "id": "seth",
-              "name": "Seth"
-            },
-            {
-              "id": "tsurugi",
-              "name": "Tsurugi"
-            },
-            {
-              "id": "uzuki",
-              "name": "Uzuki"
-            },
-            {
-              "id": "vatista",
-              "name": "Vatista"
-            },
-            {
-              "id": "wagner",
-              "name": "Wagner"
-            },
-            {
-              "id": "waldstein",
-              "name": "Waldstein"
-            },
-            {
-              "id": "yuzuriha",
-              "name": "Yuzuriha"
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -260,20 +123,6 @@
               "pronouns": "He/Him",
               "location": {
                 "country": "US"
-              },
-              "teams": {
-                "melty": [
-                  {
-                    "characters": [
-                      {
-                        "id": "akiha",
-                        "options": {
-                          "moon": "full"
-                        }
-                      }
-                    ]
-                  }
-                ]
               }
             }
           },
@@ -286,8 +135,7 @@
                 "twitter": "LoFi_Yokai",
                 "smashgg": "413756"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -330,117 +178,7 @@
               "smashgg": {
                 "id": "50203"
               }
-            },
-            "characters": [
-              {
-                "id": "akatsuki",
-                "name": "Akatsuki"
-              },
-              {
-                "id": "byakuya",
-                "name": "Byakuya"
-              },
-              {
-                "id": "carmine",
-                "name": "Carmine"
-              },
-              {
-                "id": "chaos",
-                "name": "Chaos"
-              },
-              {
-                "id": "eltnum",
-                "name": "Eltnum"
-              },
-              {
-                "id": "enkidu",
-                "name": "Enkidu"
-              },
-              {
-                "id": "gordeau",
-                "name": "Gordeau"
-              },
-              {
-                "id": "hilda",
-                "name": "Hilda"
-              },
-              {
-                "id": "hyde",
-                "name": "Hyde"
-              },
-              {
-                "id": "izumi",
-                "name": "Izumi"
-              },
-              {
-                "id": "kaguya",
-                "name": "Kaguya"
-              },
-              {
-                "id": "kuon",
-                "name": "Kuon"
-              },
-              {
-                "id": "linne",
-                "name": "Linne"
-              },
-              {
-                "id": "londrekia",
-                "name": "Londrekia"
-              },
-              {
-                "id": "merkava",
-                "name": "Merkava"
-              },
-              {
-                "id": "mika",
-                "name": "Mika"
-              },
-              {
-                "id": "nanase",
-                "name": "Nanase"
-              },
-              {
-                "id": "ogre",
-                "name": "Ogre"
-              },
-              {
-                "id": "orie",
-                "name": "Orie"
-              },
-              {
-                "id": "phonon",
-                "name": "Phonon"
-              },
-              {
-                "id": "seth",
-                "name": "Seth"
-              },
-              {
-                "id": "tsurugi",
-                "name": "Tsurugi"
-              },
-              {
-                "id": "uzuki",
-                "name": "Uzuki"
-              },
-              {
-                "id": "vatista",
-                "name": "Vatista"
-              },
-              {
-                "id": "wagner",
-                "name": "Wagner"
-              },
-              {
-                "id": "waldstein",
-                "name": "Waldstein"
-              },
-              {
-                "id": "yuzuriha",
-                "name": "Yuzuriha"
-              }
-            ]
+            }
           },
           "shortIdentifier": "R",
           "displayName": "R - lq: Linguini Bros | GaryButternubs vs Brainnn",
@@ -507,12 +245,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "eltnum"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -528,12 +274,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kaguya"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -563,117 +317,7 @@
             "smashgg": {
               "id": "50203"
             }
-          },
-          "characters": [
-            {
-              "id": "akatsuki",
-              "name": "Akatsuki"
-            },
-            {
-              "id": "byakuya",
-              "name": "Byakuya"
-            },
-            {
-              "id": "carmine",
-              "name": "Carmine"
-            },
-            {
-              "id": "chaos",
-              "name": "Chaos"
-            },
-            {
-              "id": "eltnum",
-              "name": "Eltnum"
-            },
-            {
-              "id": "enkidu",
-              "name": "Enkidu"
-            },
-            {
-              "id": "gordeau",
-              "name": "Gordeau"
-            },
-            {
-              "id": "hilda",
-              "name": "Hilda"
-            },
-            {
-              "id": "hyde",
-              "name": "Hyde"
-            },
-            {
-              "id": "izumi",
-              "name": "Izumi"
-            },
-            {
-              "id": "kaguya",
-              "name": "Kaguya"
-            },
-            {
-              "id": "kuon",
-              "name": "Kuon"
-            },
-            {
-              "id": "linne",
-              "name": "Linne"
-            },
-            {
-              "id": "londrekia",
-              "name": "Londrekia"
-            },
-            {
-              "id": "merkava",
-              "name": "Merkava"
-            },
-            {
-              "id": "mika",
-              "name": "Mika"
-            },
-            {
-              "id": "nanase",
-              "name": "Nanase"
-            },
-            {
-              "id": "ogre",
-              "name": "Ogre"
-            },
-            {
-              "id": "orie",
-              "name": "Orie"
-            },
-            {
-              "id": "phonon",
-              "name": "Phonon"
-            },
-            {
-              "id": "seth",
-              "name": "Seth"
-            },
-            {
-              "id": "tsurugi",
-              "name": "Tsurugi"
-            },
-            {
-              "id": "uzuki",
-              "name": "Uzuki"
-            },
-            {
-              "id": "vatista",
-              "name": "Vatista"
-            },
-            {
-              "id": "wagner",
-              "name": "Wagner"
-            },
-            {
-              "id": "waldstein",
-              "name": "Waldstein"
-            },
-            {
-              "id": "yuzuriha",
-              "name": "Yuzuriha"
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -688,20 +332,6 @@
               "pronouns": "He/Him",
               "location": {
                 "country": "US"
-              },
-              "teams": {
-                "melty": [
-                  {
-                    "characters": [
-                      {
-                        "id": "akiha",
-                        "options": {
-                          "moon": "full"
-                        }
-                      }
-                    ]
-                  }
-                ]
               }
             }
           },
@@ -714,8 +344,7 @@
                 "twitter": "pzooo_",
                 "smashgg": "286842"
               },
-              "pronouns": "he/him",
-              "teams": {}
+              "pronouns": "he/him"
             }
           }
         ],
@@ -758,117 +387,7 @@
               "smashgg": {
                 "id": "50203"
               }
-            },
-            "characters": [
-              {
-                "id": "akatsuki",
-                "name": "Akatsuki"
-              },
-              {
-                "id": "byakuya",
-                "name": "Byakuya"
-              },
-              {
-                "id": "carmine",
-                "name": "Carmine"
-              },
-              {
-                "id": "chaos",
-                "name": "Chaos"
-              },
-              {
-                "id": "eltnum",
-                "name": "Eltnum"
-              },
-              {
-                "id": "enkidu",
-                "name": "Enkidu"
-              },
-              {
-                "id": "gordeau",
-                "name": "Gordeau"
-              },
-              {
-                "id": "hilda",
-                "name": "Hilda"
-              },
-              {
-                "id": "hyde",
-                "name": "Hyde"
-              },
-              {
-                "id": "izumi",
-                "name": "Izumi"
-              },
-              {
-                "id": "kaguya",
-                "name": "Kaguya"
-              },
-              {
-                "id": "kuon",
-                "name": "Kuon"
-              },
-              {
-                "id": "linne",
-                "name": "Linne"
-              },
-              {
-                "id": "londrekia",
-                "name": "Londrekia"
-              },
-              {
-                "id": "merkava",
-                "name": "Merkava"
-              },
-              {
-                "id": "mika",
-                "name": "Mika"
-              },
-              {
-                "id": "nanase",
-                "name": "Nanase"
-              },
-              {
-                "id": "ogre",
-                "name": "Ogre"
-              },
-              {
-                "id": "orie",
-                "name": "Orie"
-              },
-              {
-                "id": "phonon",
-                "name": "Phonon"
-              },
-              {
-                "id": "seth",
-                "name": "Seth"
-              },
-              {
-                "id": "tsurugi",
-                "name": "Tsurugi"
-              },
-              {
-                "id": "uzuki",
-                "name": "Uzuki"
-              },
-              {
-                "id": "vatista",
-                "name": "Vatista"
-              },
-              {
-                "id": "wagner",
-                "name": "Wagner"
-              },
-              {
-                "id": "waldstein",
-                "name": "Waldstein"
-              },
-              {
-                "id": "yuzuriha",
-                "name": "Yuzuriha"
-              }
-            ]
+            }
           },
           "shortIdentifier": "S",
           "displayName": "S - lq: LP/BPM | Yokai Teio vs Trinity5",
@@ -937,12 +456,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "carmine"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -957,12 +484,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "New York City"
-              },
-              "teams": {}
+              }
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "gordeau"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -992,117 +527,7 @@
             "smashgg": {
               "id": "50203"
             }
-          },
-          "characters": [
-            {
-              "id": "akatsuki",
-              "name": "Akatsuki"
-            },
-            {
-              "id": "byakuya",
-              "name": "Byakuya"
-            },
-            {
-              "id": "carmine",
-              "name": "Carmine"
-            },
-            {
-              "id": "chaos",
-              "name": "Chaos"
-            },
-            {
-              "id": "eltnum",
-              "name": "Eltnum"
-            },
-            {
-              "id": "enkidu",
-              "name": "Enkidu"
-            },
-            {
-              "id": "gordeau",
-              "name": "Gordeau"
-            },
-            {
-              "id": "hilda",
-              "name": "Hilda"
-            },
-            {
-              "id": "hyde",
-              "name": "Hyde"
-            },
-            {
-              "id": "izumi",
-              "name": "Izumi"
-            },
-            {
-              "id": "kaguya",
-              "name": "Kaguya"
-            },
-            {
-              "id": "kuon",
-              "name": "Kuon"
-            },
-            {
-              "id": "linne",
-              "name": "Linne"
-            },
-            {
-              "id": "londrekia",
-              "name": "Londrekia"
-            },
-            {
-              "id": "merkava",
-              "name": "Merkava"
-            },
-            {
-              "id": "mika",
-              "name": "Mika"
-            },
-            {
-              "id": "nanase",
-              "name": "Nanase"
-            },
-            {
-              "id": "ogre",
-              "name": "Ogre"
-            },
-            {
-              "id": "orie",
-              "name": "Orie"
-            },
-            {
-              "id": "phonon",
-              "name": "Phonon"
-            },
-            {
-              "id": "seth",
-              "name": "Seth"
-            },
-            {
-              "id": "tsurugi",
-              "name": "Tsurugi"
-            },
-            {
-              "id": "uzuki",
-              "name": "Uzuki"
-            },
-            {
-              "id": "vatista",
-              "name": "Vatista"
-            },
-            {
-              "id": "wagner",
-              "name": "Wagner"
-            },
-            {
-              "id": "waldstein",
-              "name": "Waldstein"
-            },
-            {
-              "id": "yuzuriha",
-              "name": "Yuzuriha"
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -1117,20 +542,6 @@
               "pronouns": "He/Him",
               "location": {
                 "country": "US"
-              },
-              "teams": {
-                "melty": [
-                  {
-                    "characters": [
-                      {
-                        "id": "akiha",
-                        "options": {
-                          "moon": "full"
-                        }
-                      }
-                    ]
-                  }
-                ]
               }
             }
           },
@@ -1143,8 +554,7 @@
                 "twitter": "pzooo_",
                 "smashgg": "286842"
               },
-              "pronouns": "he/him",
-              "teams": {}
+              "pronouns": "he/him"
             }
           }
         ],
@@ -1187,117 +597,7 @@
               "smashgg": {
                 "id": "50203"
               }
-            },
-            "characters": [
-              {
-                "id": "akatsuki",
-                "name": "Akatsuki"
-              },
-              {
-                "id": "byakuya",
-                "name": "Byakuya"
-              },
-              {
-                "id": "carmine",
-                "name": "Carmine"
-              },
-              {
-                "id": "chaos",
-                "name": "Chaos"
-              },
-              {
-                "id": "eltnum",
-                "name": "Eltnum"
-              },
-              {
-                "id": "enkidu",
-                "name": "Enkidu"
-              },
-              {
-                "id": "gordeau",
-                "name": "Gordeau"
-              },
-              {
-                "id": "hilda",
-                "name": "Hilda"
-              },
-              {
-                "id": "hyde",
-                "name": "Hyde"
-              },
-              {
-                "id": "izumi",
-                "name": "Izumi"
-              },
-              {
-                "id": "kaguya",
-                "name": "Kaguya"
-              },
-              {
-                "id": "kuon",
-                "name": "Kuon"
-              },
-              {
-                "id": "linne",
-                "name": "Linne"
-              },
-              {
-                "id": "londrekia",
-                "name": "Londrekia"
-              },
-              {
-                "id": "merkava",
-                "name": "Merkava"
-              },
-              {
-                "id": "mika",
-                "name": "Mika"
-              },
-              {
-                "id": "nanase",
-                "name": "Nanase"
-              },
-              {
-                "id": "ogre",
-                "name": "Ogre"
-              },
-              {
-                "id": "orie",
-                "name": "Orie"
-              },
-              {
-                "id": "phonon",
-                "name": "Phonon"
-              },
-              {
-                "id": "seth",
-                "name": "Seth"
-              },
-              {
-                "id": "tsurugi",
-                "name": "Tsurugi"
-              },
-              {
-                "id": "uzuki",
-                "name": "Uzuki"
-              },
-              {
-                "id": "vatista",
-                "name": "Vatista"
-              },
-              {
-                "id": "wagner",
-                "name": "Wagner"
-              },
-              {
-                "id": "waldstein",
-                "name": "Waldstein"
-              },
-              {
-                "id": "yuzuriha",
-                "name": "Yuzuriha"
-              }
-            ]
+            }
           },
           "shortIdentifier": "J",
           "displayName": "J - wf: artthefool vs Iron GRD | LuFL",
@@ -1368,24 +668,6 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "kaguya"
-                      }
-                    ]
-                  },
-                  {
-                    "characters": [
-                      {
-                        "id": "wagner"
-                      }
-                    ]
-                  }
-                ]
               }
             },
             "score": 0,
@@ -1421,17 +703,6 @@
                 "country": "US",
                 "state": "US-NJ",
                 "city": "River Vale"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "hyde"
-                      }
-                    ]
-                  }
-                ]
               }
             },
             "score": 2,
@@ -1475,117 +746,7 @@
             "smashgg": {
               "id": "50203"
             }
-          },
-          "characters": [
-            {
-              "id": "akatsuki",
-              "name": "Akatsuki"
-            },
-            {
-              "id": "byakuya",
-              "name": "Byakuya"
-            },
-            {
-              "id": "carmine",
-              "name": "Carmine"
-            },
-            {
-              "id": "chaos",
-              "name": "Chaos"
-            },
-            {
-              "id": "eltnum",
-              "name": "Eltnum"
-            },
-            {
-              "id": "enkidu",
-              "name": "Enkidu"
-            },
-            {
-              "id": "gordeau",
-              "name": "Gordeau"
-            },
-            {
-              "id": "hilda",
-              "name": "Hilda"
-            },
-            {
-              "id": "hyde",
-              "name": "Hyde"
-            },
-            {
-              "id": "izumi",
-              "name": "Izumi"
-            },
-            {
-              "id": "kaguya",
-              "name": "Kaguya"
-            },
-            {
-              "id": "kuon",
-              "name": "Kuon"
-            },
-            {
-              "id": "linne",
-              "name": "Linne"
-            },
-            {
-              "id": "londrekia",
-              "name": "Londrekia"
-            },
-            {
-              "id": "merkava",
-              "name": "Merkava"
-            },
-            {
-              "id": "mika",
-              "name": "Mika"
-            },
-            {
-              "id": "nanase",
-              "name": "Nanase"
-            },
-            {
-              "id": "ogre",
-              "name": "Ogre"
-            },
-            {
-              "id": "orie",
-              "name": "Orie"
-            },
-            {
-              "id": "phonon",
-              "name": "Phonon"
-            },
-            {
-              "id": "seth",
-              "name": "Seth"
-            },
-            {
-              "id": "tsurugi",
-              "name": "Tsurugi"
-            },
-            {
-              "id": "uzuki",
-              "name": "Uzuki"
-            },
-            {
-              "id": "vatista",
-              "name": "Vatista"
-            },
-            {
-              "id": "wagner",
-              "name": "Wagner"
-            },
-            {
-              "id": "waldstein",
-              "name": "Waldstein"
-            },
-            {
-              "id": "yuzuriha",
-              "name": "Yuzuriha"
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -1600,20 +761,6 @@
               "pronouns": "He/Him",
               "location": {
                 "country": "US"
-              },
-              "teams": {
-                "melty": [
-                  {
-                    "characters": [
-                      {
-                        "id": "akiha",
-                        "options": {
-                          "moon": "full"
-                        }
-                      }
-                    ]
-                  }
-                ]
               }
             }
           },
@@ -1631,24 +778,6 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "kaguya"
-                      }
-                    ]
-                  },
-                  {
-                    "characters": [
-                      {
-                        "id": "wagner"
-                      }
-                    ]
-                  }
-                ]
               }
             }
           }
@@ -1692,117 +821,7 @@
               "smashgg": {
                 "id": "50203"
               }
-            },
-            "characters": [
-              {
-                "id": "akatsuki",
-                "name": "Akatsuki"
-              },
-              {
-                "id": "byakuya",
-                "name": "Byakuya"
-              },
-              {
-                "id": "carmine",
-                "name": "Carmine"
-              },
-              {
-                "id": "chaos",
-                "name": "Chaos"
-              },
-              {
-                "id": "eltnum",
-                "name": "Eltnum"
-              },
-              {
-                "id": "enkidu",
-                "name": "Enkidu"
-              },
-              {
-                "id": "gordeau",
-                "name": "Gordeau"
-              },
-              {
-                "id": "hilda",
-                "name": "Hilda"
-              },
-              {
-                "id": "hyde",
-                "name": "Hyde"
-              },
-              {
-                "id": "izumi",
-                "name": "Izumi"
-              },
-              {
-                "id": "kaguya",
-                "name": "Kaguya"
-              },
-              {
-                "id": "kuon",
-                "name": "Kuon"
-              },
-              {
-                "id": "linne",
-                "name": "Linne"
-              },
-              {
-                "id": "londrekia",
-                "name": "Londrekia"
-              },
-              {
-                "id": "merkava",
-                "name": "Merkava"
-              },
-              {
-                "id": "mika",
-                "name": "Mika"
-              },
-              {
-                "id": "nanase",
-                "name": "Nanase"
-              },
-              {
-                "id": "ogre",
-                "name": "Ogre"
-              },
-              {
-                "id": "orie",
-                "name": "Orie"
-              },
-              {
-                "id": "phonon",
-                "name": "Phonon"
-              },
-              {
-                "id": "seth",
-                "name": "Seth"
-              },
-              {
-                "id": "tsurugi",
-                "name": "Tsurugi"
-              },
-              {
-                "id": "uzuki",
-                "name": "Uzuki"
-              },
-              {
-                "id": "vatista",
-                "name": "Vatista"
-              },
-              {
-                "id": "wagner",
-                "name": "Wagner"
-              },
-              {
-                "id": "waldstein",
-                "name": "Waldstein"
-              },
-              {
-                "id": "yuzuriha",
-                "name": "Yuzuriha"
-              }
-            ]
+            }
           },
           "shortIdentifier": "T",
           "displayName": "T - ls: Linguini Bros | GaryButternubs vs LP/BPM | Yokai Teio",
@@ -1873,17 +892,6 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "phonon"
-                      }
-                    ]
-                  }
-                ]
               }
             },
             "score": 2,
@@ -1912,17 +920,6 @@
                 "country": "US",
                 "state": "US-NJ",
                 "city": "River Vale"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "hyde"
-                      }
-                    ]
-                  }
-                ]
               }
             },
             "score": 2,
@@ -1966,117 +963,7 @@
             "smashgg": {
               "id": "50203"
             }
-          },
-          "characters": [
-            {
-              "id": "akatsuki",
-              "name": "Akatsuki"
-            },
-            {
-              "id": "byakuya",
-              "name": "Byakuya"
-            },
-            {
-              "id": "carmine",
-              "name": "Carmine"
-            },
-            {
-              "id": "chaos",
-              "name": "Chaos"
-            },
-            {
-              "id": "eltnum",
-              "name": "Eltnum"
-            },
-            {
-              "id": "enkidu",
-              "name": "Enkidu"
-            },
-            {
-              "id": "gordeau",
-              "name": "Gordeau"
-            },
-            {
-              "id": "hilda",
-              "name": "Hilda"
-            },
-            {
-              "id": "hyde",
-              "name": "Hyde"
-            },
-            {
-              "id": "izumi",
-              "name": "Izumi"
-            },
-            {
-              "id": "kaguya",
-              "name": "Kaguya"
-            },
-            {
-              "id": "kuon",
-              "name": "Kuon"
-            },
-            {
-              "id": "linne",
-              "name": "Linne"
-            },
-            {
-              "id": "londrekia",
-              "name": "Londrekia"
-            },
-            {
-              "id": "merkava",
-              "name": "Merkava"
-            },
-            {
-              "id": "mika",
-              "name": "Mika"
-            },
-            {
-              "id": "nanase",
-              "name": "Nanase"
-            },
-            {
-              "id": "ogre",
-              "name": "Ogre"
-            },
-            {
-              "id": "orie",
-              "name": "Orie"
-            },
-            {
-              "id": "phonon",
-              "name": "Phonon"
-            },
-            {
-              "id": "seth",
-              "name": "Seth"
-            },
-            {
-              "id": "tsurugi",
-              "name": "Tsurugi"
-            },
-            {
-              "id": "uzuki",
-              "name": "Uzuki"
-            },
-            {
-              "id": "vatista",
-              "name": "Vatista"
-            },
-            {
-              "id": "wagner",
-              "name": "Wagner"
-            },
-            {
-              "id": "waldstein",
-              "name": "Waldstein"
-            },
-            {
-              "id": "yuzuriha",
-              "name": "Yuzuriha"
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -2091,20 +978,6 @@
               "pronouns": "He/Him",
               "location": {
                 "country": "US"
-              },
-              "teams": {
-                "melty": [
-                  {
-                    "characters": [
-                      {
-                        "id": "akiha",
-                        "options": {
-                          "moon": "full"
-                        }
-                      }
-                    ]
-                  }
-                ]
               }
             }
           },
@@ -2122,24 +995,6 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "kaguya"
-                      }
-                    ]
-                  },
-                  {
-                    "characters": [
-                      {
-                        "id": "wagner"
-                      }
-                    ]
-                  }
-                ]
               }
             }
           }
@@ -2183,117 +1038,7 @@
               "smashgg": {
                 "id": "50203"
               }
-            },
-            "characters": [
-              {
-                "id": "akatsuki",
-                "name": "Akatsuki"
-              },
-              {
-                "id": "byakuya",
-                "name": "Byakuya"
-              },
-              {
-                "id": "carmine",
-                "name": "Carmine"
-              },
-              {
-                "id": "chaos",
-                "name": "Chaos"
-              },
-              {
-                "id": "eltnum",
-                "name": "Eltnum"
-              },
-              {
-                "id": "enkidu",
-                "name": "Enkidu"
-              },
-              {
-                "id": "gordeau",
-                "name": "Gordeau"
-              },
-              {
-                "id": "hilda",
-                "name": "Hilda"
-              },
-              {
-                "id": "hyde",
-                "name": "Hyde"
-              },
-              {
-                "id": "izumi",
-                "name": "Izumi"
-              },
-              {
-                "id": "kaguya",
-                "name": "Kaguya"
-              },
-              {
-                "id": "kuon",
-                "name": "Kuon"
-              },
-              {
-                "id": "linne",
-                "name": "Linne"
-              },
-              {
-                "id": "londrekia",
-                "name": "Londrekia"
-              },
-              {
-                "id": "merkava",
-                "name": "Merkava"
-              },
-              {
-                "id": "mika",
-                "name": "Mika"
-              },
-              {
-                "id": "nanase",
-                "name": "Nanase"
-              },
-              {
-                "id": "ogre",
-                "name": "Ogre"
-              },
-              {
-                "id": "orie",
-                "name": "Orie"
-              },
-              {
-                "id": "phonon",
-                "name": "Phonon"
-              },
-              {
-                "id": "seth",
-                "name": "Seth"
-              },
-              {
-                "id": "tsurugi",
-                "name": "Tsurugi"
-              },
-              {
-                "id": "uzuki",
-                "name": "Uzuki"
-              },
-              {
-                "id": "vatista",
-                "name": "Vatista"
-              },
-              {
-                "id": "wagner",
-                "name": "Wagner"
-              },
-              {
-                "id": "waldstein",
-                "name": "Waldstein"
-              },
-              {
-                "id": "yuzuriha",
-                "name": "Yuzuriha"
-              }
-            ]
+            }
           },
           "shortIdentifier": "U",
           "displayName": "U - lf: Iron GRD | LuFL vs ???",
@@ -2348,17 +1093,6 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "carmine"
-                      }
-                    ]
-                  }
-                ]
               }
             },
             "score": 2,
@@ -2387,17 +1121,6 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "New York City"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "yuzuriha"
-                      }
-                    ]
-                  }
-                ]
               }
             },
             "score": 2,
@@ -2441,117 +1164,7 @@
             "smashgg": {
               "id": "50203"
             }
-          },
-          "characters": [
-            {
-              "id": "akatsuki",
-              "name": "Akatsuki"
-            },
-            {
-              "id": "byakuya",
-              "name": "Byakuya"
-            },
-            {
-              "id": "carmine",
-              "name": "Carmine"
-            },
-            {
-              "id": "chaos",
-              "name": "Chaos"
-            },
-            {
-              "id": "eltnum",
-              "name": "Eltnum"
-            },
-            {
-              "id": "enkidu",
-              "name": "Enkidu"
-            },
-            {
-              "id": "gordeau",
-              "name": "Gordeau"
-            },
-            {
-              "id": "hilda",
-              "name": "Hilda"
-            },
-            {
-              "id": "hyde",
-              "name": "Hyde"
-            },
-            {
-              "id": "izumi",
-              "name": "Izumi"
-            },
-            {
-              "id": "kaguya",
-              "name": "Kaguya"
-            },
-            {
-              "id": "kuon",
-              "name": "Kuon"
-            },
-            {
-              "id": "linne",
-              "name": "Linne"
-            },
-            {
-              "id": "londrekia",
-              "name": "Londrekia"
-            },
-            {
-              "id": "merkava",
-              "name": "Merkava"
-            },
-            {
-              "id": "mika",
-              "name": "Mika"
-            },
-            {
-              "id": "nanase",
-              "name": "Nanase"
-            },
-            {
-              "id": "ogre",
-              "name": "Ogre"
-            },
-            {
-              "id": "orie",
-              "name": "Orie"
-            },
-            {
-              "id": "phonon",
-              "name": "Phonon"
-            },
-            {
-              "id": "seth",
-              "name": "Seth"
-            },
-            {
-              "id": "tsurugi",
-              "name": "Tsurugi"
-            },
-            {
-              "id": "uzuki",
-              "name": "Uzuki"
-            },
-            {
-              "id": "vatista",
-              "name": "Vatista"
-            },
-            {
-              "id": "wagner",
-              "name": "Wagner"
-            },
-            {
-              "id": "waldstein",
-              "name": "Waldstein"
-            },
-            {
-              "id": "yuzuriha",
-              "name": "Yuzuriha"
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -2566,8 +1179,7 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -2584,24 +1196,6 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {
-                "uni2": [
-                  {
-                    "characters": [
-                      {
-                        "id": "kaguya"
-                      }
-                    ]
-                  },
-                  {
-                    "characters": [
-                      {
-                        "id": "wagner"
-                      }
-                    ]
-                  }
-                ]
               }
             }
           }
@@ -2645,117 +1239,7 @@
               "smashgg": {
                 "id": "50203"
               }
-            },
-            "characters": [
-              {
-                "id": "akatsuki",
-                "name": "Akatsuki"
-              },
-              {
-                "id": "byakuya",
-                "name": "Byakuya"
-              },
-              {
-                "id": "carmine",
-                "name": "Carmine"
-              },
-              {
-                "id": "chaos",
-                "name": "Chaos"
-              },
-              {
-                "id": "eltnum",
-                "name": "Eltnum"
-              },
-              {
-                "id": "enkidu",
-                "name": "Enkidu"
-              },
-              {
-                "id": "gordeau",
-                "name": "Gordeau"
-              },
-              {
-                "id": "hilda",
-                "name": "Hilda"
-              },
-              {
-                "id": "hyde",
-                "name": "Hyde"
-              },
-              {
-                "id": "izumi",
-                "name": "Izumi"
-              },
-              {
-                "id": "kaguya",
-                "name": "Kaguya"
-              },
-              {
-                "id": "kuon",
-                "name": "Kuon"
-              },
-              {
-                "id": "linne",
-                "name": "Linne"
-              },
-              {
-                "id": "londrekia",
-                "name": "Londrekia"
-              },
-              {
-                "id": "merkava",
-                "name": "Merkava"
-              },
-              {
-                "id": "mika",
-                "name": "Mika"
-              },
-              {
-                "id": "nanase",
-                "name": "Nanase"
-              },
-              {
-                "id": "ogre",
-                "name": "Ogre"
-              },
-              {
-                "id": "orie",
-                "name": "Orie"
-              },
-              {
-                "id": "phonon",
-                "name": "Phonon"
-              },
-              {
-                "id": "seth",
-                "name": "Seth"
-              },
-              {
-                "id": "tsurugi",
-                "name": "Tsurugi"
-              },
-              {
-                "id": "uzuki",
-                "name": "Uzuki"
-              },
-              {
-                "id": "vatista",
-                "name": "Vatista"
-              },
-              {
-                "id": "wagner",
-                "name": "Wagner"
-              },
-              {
-                "id": "waldstein",
-                "name": "Waldstein"
-              },
-              {
-                "id": "yuzuriha",
-                "name": "Yuzuriha"
-              }
-            ]
+            }
           },
           "shortIdentifier": "K",
           "displayName": "K - gf: artthefool vs ???",
