@@ -1,17 +1,20 @@
 {
+  "uploadId": "DXn6av-YOMs",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-01-10 17-05-15.mkv",
   "bracketService": "smashgg",
   "phaseId": "2152916",
   "eventId": "1519963",
-  "start": "03:40:21.332",
-  "end": "04:33:00.599",
+  "phaseName": "Top 4",
+  "start": "03:39:58",
+  "end": "04:32:18",
+  "thumbnailTimestamp": "03:53:20.197",
   "sets": [
     {
       "id": "98060172",
       "displayName": "E - wf: TalesOf | KrazyKaze vs Native",
-      "start": "03:40:21.332",
+      "start": "03:41:00",
       "end": "03:51:43.116",
       "state": {
         "players": [
@@ -172,7 +175,7 @@
     {
       "id": "98060204",
       "displayName": "J - ls: TGWTG | Ben Fish (Circuit Sturgeon) vs Garbage",
-      "start": "03:53:26.232",
+      "start": "03:53:18",
       "end": "03:58:29.099",
       "state": {
         "players": [
@@ -489,161 +492,6 @@
                 }
               ],
               "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "98060174",
-      "displayName": "F - gf: Native vs TalesOf | KrazyKaze",
-      "start": "04:13:57.099",
-      "end": "04:14:05.399",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202008220402350930000",
-              "handle": "Native",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "nativeMegaTen",
-                "smashgg": "1090326"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202510120044210020000",
-              "handle": "KrazyKaze",
-              "prefix": "TalesOf",
-              "serviceIds": {
-                "smashgg": "2897771"
-              }
-            },
-            "score": 0,
-            "inLosers": true,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
-        },
-        "game": {
-          "id": "ggxx",
-          "name": "Guilty Gear XX Accent Core +R",
-          "shortNames": [
-            "GGXXAC+R",
-            "+R"
-          ],
-          "hashtags": [
-            "GGXXACPR"
-          ],
-          "additionalTags": [
-            "Guilty Gear"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Guilty Gear XX Accent Core Plus R"
-            },
-            "smashgg": {
-              "id": "22406"
-            },
-            "challonge": {
-              "id": "262"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202507122241045330000",
-              "handle": "Hat emoji",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "1113114"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202306110150247350000",
-              "handle": "Shinebox",
-              "prefix": "IFM",
-              "serviceIds": {
-                "smashgg": "905693"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #53",
-        "event": "Guilty Gear XX Accent Core + R",
-        "messages": [
-          "Guilty Gear Xrd Up Next!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "98060174",
-            "phaseId": "2152916",
-            "phaseGroupId": "3135088"
-          },
-          "match": {
-            "id": "gf",
-            "name": "Grand Finals",
-            "smashggId": "Grand Final"
-          },
-          "videogame": {
-            "id": "ggxx",
-            "name": "Guilty Gear XX Accent Core +R",
-            "shortNames": [
-              "GGXXAC+R",
-              "+R"
-            ],
-            "hashtags": [
-              "GGXXACPR"
-            ],
-            "additionalTags": [
-              "Guilty Gear"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Guilty Gear XX Accent Core Plus R"
-              },
-              "smashgg": {
-                "id": "22406"
-              },
-              "challonge": {
-                "id": "262"
-              }
-            }
-          },
-          "shortIdentifier": "F",
-          "displayName": "F - gf: Native vs ???",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Native",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1090326",
-                  "handle": "Native",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "",
-              "participants": [],
-              "inLosers": true
             }
           ]
         }
