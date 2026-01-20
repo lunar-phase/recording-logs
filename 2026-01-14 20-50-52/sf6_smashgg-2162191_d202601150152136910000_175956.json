@@ -1,20 +1,20 @@
 {
+  "uploadId": "jYNiJ7TbFqI",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-01-14 20-50-52.mkv",
   "bracketService": "smashgg",
   "phaseId": "2162191",
   "eventId": "1527140",
-  "start": "00:01:21.183",
-  "end": "01:34:55.216",
-  "thumbnailTimestamp": "00:19:26.016",
+  "start": "00:01:18",
+  "end": "01:34:56",
+  "thumbnailTimestamp": "00:19:26.750",
   "userData": {
-    "headline": "Is Henry the GOAT?",
-    "featuring": "Hudahman"
+    "headline": "Is Henry the GOAT?"
   },
   "sets": [
     {
-      "id": "preview_3147130_1_1",
+      "id": "98184027",
       "displayName": "A - w1: GoldenCen vs Hudahman",
       "start": "00:02:48.516",
       "end": "00:07:06.999",
@@ -33,13 +33,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 2,
             "inLosers": false,
             "comment": "",
-            "teams": []
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "dhalsim"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -53,7 +60,15 @@
             "score": 0,
             "inLosers": false,
             "comment": "",
-            "teams": []
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "ed"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -83,141 +98,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -228,8 +109,7 @@
               "serviceIds": {
                 "smashgg": "264148",
                 "twitter": "BS_Dang"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -240,8 +120,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -284,141 +163,7 @@
               "challonge": {
                 "id": "293490"
               }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
+            }
           },
           "shortIdentifier": "A",
           "displayName": "A - w1: GoldenCen vs Hudahman",
@@ -460,7 +205,7 @@
       }
     },
     {
-      "id": "preview_3147130_1_3",
+      "id": "98184029",
       "displayName": "C - w1: trifmoney vs Dang",
       "start": "00:08:38.366",
       "end": "00:14:01.083",
@@ -479,12 +224,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "mai"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -499,12 +252,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Flushing"
-              },
-              "teams": {}
+              }
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "ed"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -534,141 +295,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -680,8 +307,7 @@
                 "challonge": "203650020",
                 "twitter": "iDrop_",
                 "smashgg": "155969"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -692,8 +318,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -736,141 +361,7 @@
               "challonge": {
                 "id": "293490"
               }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
+            }
           },
           "shortIdentifier": "C",
           "displayName": "C - w1: FreeLuigi | trifmoney vs Dang",
@@ -939,12 +430,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "marisa"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -959,12 +458,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "New York"
-              },
-              "teams": {}
+              }
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aki"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -994,141 +501,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -1140,8 +513,7 @@
                 "challonge": "203650020",
                 "twitter": "iDrop_",
                 "smashgg": "155969"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -1152,8 +524,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -1196,141 +567,7 @@
               "challonge": {
                 "id": "293490"
               }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
+            }
           },
           "shortIdentifier": "B",
           "displayName": "B - wq: NYCMastermike vs RUDERMAN",
@@ -1399,13 +636,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Queens"
-              },
-              "teams": {}
+              }
             },
             "score": 0,
             "inLosers": false,
             "comment": "",
-            "teams": []
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "chun-li"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -1420,13 +664,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 1,
             "inLosers": false,
             "comment": "",
-            "teams": []
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "dhalsim"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -1456,141 +707,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -1602,8 +719,7 @@
                 "challonge": "203650020",
                 "twitter": "iDrop_",
                 "smashgg": "155969"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -1614,8 +730,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -1658,141 +773,7 @@
               "challonge": {
                 "id": "293490"
               }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
+            }
           },
           "shortIdentifier": "D",
           "displayName": "D - ws: iDrop vs GoldenCen",
@@ -1860,12 +841,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "New York"
-              },
-              "teams": {}
+              }
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aki"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -1880,12 +869,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "mai"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -1915,141 +912,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -2066,8 +929,7 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Queens"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -2078,8 +940,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -2122,141 +983,7 @@
               "challonge": {
                 "id": "293490"
               }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
+            }
           },
           "shortIdentifier": "E",
           "displayName": "E - ws: NYCMastermike vs FreeLuigi | trifmoney",
@@ -2307,8 +1034,8 @@
       }
     },
     {
-      "id": "98184044",
-      "displayName": "I - l1: RUDERMAN vs Dang",
+      "id": "98184046",
+      "displayName": "K - lq: RUDERMAN vs iDrop",
       "start": "00:30:17.016",
       "end": "00:34:33.333",
       "state": {
@@ -2325,40 +1052,55 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 0,
             "inLosers": false,
             "comment": "",
-            "teams": []
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "marisa"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
-              "id": "d202008220402350130001",
-              "handle": "Dang",
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
               "prefix": null,
               "serviceIds": {
-                "smashgg": "264148",
-                "twitter": "BS_Dang"
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
               },
               "location": {
                 "country": "US",
                 "state": "US-NY",
-                "city": "Flushing"
-              },
-              "teams": {}
+                "city": "Queens"
+              }
             },
             "score": 1,
             "inLosers": false,
             "comment": "",
-            "teams": []
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "chun-li"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
-          "id": "l1",
-          "name": "Losers Round 1",
-          "smashggId": "Losers Round 1"
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarters"
         },
         "game": {
           "id": "sf6",
@@ -2382,141 +1124,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -2532,8 +1140,7 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Flushing"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -2544,8 +1151,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -2553,221 +1159,7 @@
         "event": "",
         "messages": [
           "NLBC Starting Soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "98184044",
-            "phaseId": "2162191",
-            "phaseGroupId": "3147130"
-          },
-          "match": {
-            "id": "l1",
-            "name": "Losers Round 1",
-            "smashggId": "Losers Round 1"
-          },
-          "videogame": {
-            "id": "sf6",
-            "name": "Street Fighter 6",
-            "shortNames": [
-              "SF6"
-            ],
-            "hashtags": [
-              "SF6"
-            ],
-            "additionalTags": [
-              "Street Fighter"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Street Fighter 6"
-              },
-              "smashgg": {
-                "id": "43868"
-              },
-              "challonge": {
-                "id": "293490"
-              }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
-          },
-          "shortIdentifier": "I",
-          "displayName": "I - l1: RUDERMAN vs Dang",
-          "completedAt": 1768443399,
-          "entrants": [
-            {
-              "name": "RUDERMAN",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1433830",
-                  "handle": "RUDERMAN",
-                  "prefix": null,
-                  "serviceIds": {},
-                  "location": {
-                    "country": "US",
-                    "state": "US-NY",
-                    "city": "Brooklyn"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Dang",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "264148",
-                  "handle": "Dang",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "BS_Dang"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NY",
-                    "city": "Flushing"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
+        ]
       }
     },
     {
@@ -2784,12 +1176,20 @@
               "prefix": null,
               "serviceIds": {
                 "smashgg": "5167254"
-              },
-              "teams": {}
+              }
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "ed"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -2804,12 +1204,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "mai"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -2839,141 +1247,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -2989,8 +1263,7 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Flushing"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -3001,8 +1274,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -3045,141 +1317,7 @@
               "challonge": {
                 "id": "293490"
               }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
+            }
           },
           "shortIdentifier": "J",
           "displayName": "J - lq: FreeLuigi | trifmoney vs Hudahman",
@@ -3242,12 +1380,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "New York"
-              },
-              "teams": {}
+              }
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aki"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -3262,12 +1408,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "dhalsim"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -3297,141 +1451,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -3447,8 +1467,7 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Flushing"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -3459,8 +1478,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -3503,141 +1521,7 @@
               "challonge": {
                 "id": "293490"
               }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
+            }
           },
           "shortIdentifier": "F",
           "displayName": "F - wf: GoldenCen vs NYCMastermike",
@@ -3705,12 +1589,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "mai"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -3726,12 +1618,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Queens"
-              },
-              "teams": {}
+              }
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "chun-li"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -3761,141 +1661,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -3911,8 +1677,7 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Flushing"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -3923,8 +1688,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -3967,141 +1731,7 @@
               "challonge": {
                 "id": "293490"
               }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
+            }
           },
           "shortIdentifier": "L",
           "displayName": "L - ls: FreeLuigi | trifmoney vs iDrop",
@@ -4171,12 +1801,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "New York"
-              },
-              "teams": {}
+              }
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aki"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -4192,12 +1830,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Queens"
-              },
-              "teams": {}
+              }
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "chun-li"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -4227,141 +1873,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -4377,8 +1889,7 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Flushing"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -4389,8 +1900,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -4433,141 +1943,7 @@
               "challonge": {
                 "id": "293490"
               }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
+            }
           },
           "shortIdentifier": "M",
           "displayName": "M - lf: NYCMastermike vs ???",
@@ -4622,12 +1998,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "New York"
-              },
-              "teams": {}
+              }
             },
             "score": 1,
             "inLosers": true,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aki"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -4642,12 +2026,20 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Brooklyn"
-              },
-              "teams": {}
+              }
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "dhalsim"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -4677,141 +2069,7 @@
             "challonge": {
               "id": "293490"
             }
-          },
-          "characters": [
-            {
-              "id": "aki",
-              "name": "A.K.I."
-            },
-            {
-              "id": "akuma",
-              "name": "Akuma"
-            },
-            {
-              "id": "blanka",
-              "name": "Blanka"
-            },
-            {
-              "id": "c-viper",
-              "name": "C. Viper"
-            },
-            {
-              "id": "cammy",
-              "name": "Cammy"
-            },
-            {
-              "id": "chun-li",
-              "name": "Chun-Li"
-            },
-            {
-              "id": "dee jay",
-              "name": "Dee Jay"
-            },
-            {
-              "id": "dhalsim",
-              "name": "Dhalsim"
-            },
-            {
-              "id": "e-honda",
-              "name": "E. Honda"
-            },
-            {
-              "id": "ed",
-              "name": "Ed"
-            },
-            {
-              "id": "elena",
-              "name": "Elena"
-            },
-            {
-              "id": "guile",
-              "name": "Guile"
-            },
-            {
-              "id": "jamie",
-              "name": "Jamie"
-            },
-            {
-              "id": "jp",
-              "name": "JP"
-            },
-            {
-              "id": "juri",
-              "name": "Juri"
-            },
-            {
-              "id": "ken",
-              "name": "Ken"
-            },
-            {
-              "id": "kimberly",
-              "name": "Kimberly"
-            },
-            {
-              "id": "lily",
-              "name": "Lily"
-            },
-            {
-              "id": "luke",
-              "name": "Luke"
-            },
-            {
-              "id": "m-bison",
-              "name": "M. Bison"
-            },
-            {
-              "id": "mai",
-              "name": "Mai"
-            },
-            {
-              "id": "manon",
-              "name": "Manon"
-            },
-            {
-              "id": "marisa",
-              "name": "Marisa"
-            },
-            {
-              "id": "rashid",
-              "name": "Rashid"
-            },
-            {
-              "id": "ryu",
-              "name": "Ryu"
-            },
-            {
-              "id": "sagat",
-              "name": "Sagat"
-            },
-            {
-              "id": "terry",
-              "name": "Terry"
-            },
-            {
-              "id": "zangief",
-              "name": "Zangief"
-            }
-          ],
-          "characterConfigs": [
-            {
-              "id": "controls",
-              "name": "Controls",
-              "options": [
-                {
-                  "id": "classic",
-                  "name": "Classic"
-                },
-                {
-                  "id": "modern",
-                  "name": "Modern"
-                },
-                {
-                  "id": "dynamic",
-                  "name": "Dynamic"
-                }
-              ]
-            }
-          ]
+          }
         },
         "commentators": [
           {
@@ -4828,8 +2086,7 @@
                 "country": "US",
                 "state": "US-NY",
                 "city": "Queens"
-              },
-              "teams": {}
+              }
             }
           },
           {
@@ -4840,8 +2097,7 @@
               "serviceIds": {
                 "twitter": "ListonthePrince"
               },
-              "pronouns": "He/Him",
-              "teams": {}
+              "pronouns": "He/Him"
             }
           }
         ],
@@ -4884,141 +2140,7 @@
               "challonge": {
                 "id": "293490"
               }
-            },
-            "characters": [
-              {
-                "id": "aki",
-                "name": "A.K.I."
-              },
-              {
-                "id": "akuma",
-                "name": "Akuma"
-              },
-              {
-                "id": "blanka",
-                "name": "Blanka"
-              },
-              {
-                "id": "c-viper",
-                "name": "C. Viper"
-              },
-              {
-                "id": "cammy",
-                "name": "Cammy"
-              },
-              {
-                "id": "chun-li",
-                "name": "Chun-Li"
-              },
-              {
-                "id": "dee jay",
-                "name": "Dee Jay"
-              },
-              {
-                "id": "dhalsim",
-                "name": "Dhalsim"
-              },
-              {
-                "id": "e-honda",
-                "name": "E. Honda"
-              },
-              {
-                "id": "ed",
-                "name": "Ed"
-              },
-              {
-                "id": "elena",
-                "name": "Elena"
-              },
-              {
-                "id": "guile",
-                "name": "Guile"
-              },
-              {
-                "id": "jamie",
-                "name": "Jamie"
-              },
-              {
-                "id": "jp",
-                "name": "JP"
-              },
-              {
-                "id": "juri",
-                "name": "Juri"
-              },
-              {
-                "id": "ken",
-                "name": "Ken"
-              },
-              {
-                "id": "kimberly",
-                "name": "Kimberly"
-              },
-              {
-                "id": "lily",
-                "name": "Lily"
-              },
-              {
-                "id": "luke",
-                "name": "Luke"
-              },
-              {
-                "id": "m-bison",
-                "name": "M. Bison"
-              },
-              {
-                "id": "mai",
-                "name": "Mai"
-              },
-              {
-                "id": "manon",
-                "name": "Manon"
-              },
-              {
-                "id": "marisa",
-                "name": "Marisa"
-              },
-              {
-                "id": "rashid",
-                "name": "Rashid"
-              },
-              {
-                "id": "ryu",
-                "name": "Ryu"
-              },
-              {
-                "id": "sagat",
-                "name": "Sagat"
-              },
-              {
-                "id": "terry",
-                "name": "Terry"
-              },
-              {
-                "id": "zangief",
-                "name": "Zangief"
-              }
-            ],
-            "characterConfigs": [
-              {
-                "id": "controls",
-                "name": "Controls",
-                "options": [
-                  {
-                    "id": "classic",
-                    "name": "Classic"
-                  },
-                  {
-                    "id": "modern",
-                    "name": "Modern"
-                  },
-                  {
-                    "id": "dynamic",
-                    "name": "Dynamic"
-                  }
-                ]
-              }
-            ]
+            }
           },
           "shortIdentifier": "G",
           "displayName": "G - gf: GoldenCen vs ???",
