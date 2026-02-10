@@ -1,12 +1,17 @@
 {
+  "uploadId": "F_7ILPpaVGM",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-02-04 20-38-18.mkv",
   "bracketService": "smashgg",
   "phaseId": "2188707",
   "eventId": "1548261",
-  "start": "00:00:05.983",
+  "start": "00:00:08",
   "end": "01:28:15.116",
+  "thumbnailTimestamp": "00:22:18.483",
+  "userData": {
+    "headline": "Sheisty"
+  },
   "sets": [
     {
       "id": "98971664",
@@ -1097,7 +1102,6 @@
                   }
                 ]
               },
-              null,
               {
                 "characters": [
                   {
@@ -1225,35 +1229,18 @@
       }
     },
     {
-      "id": "98971668",
-      "displayName": "F - wf: NYCMastermike vs Seanwhy",
+      "id": "98971683",
+      "displayName": "L - ls: rayit vs ThickyMcChicky",
       "start": "00:43:15.899",
       "end": "00:46:27.083",
       "state": {
         "players": [
           {
-            "person": {
-              "id": "d202203262242552580000",
-              "handle": "NYCMastermike",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "NYCMastermike",
-                "smashgg": "147466"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "New York"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
             "teams": [
               {
                 "characters": [
                   {
-                    "id": "aki",
+                    "id": "lily",
                     "options": {
                       "controls": "classic"
                     }
@@ -1263,39 +1250,11 @@
             ]
           },
           {
-            "person": {
-              "id": "d202503200015142730000",
-              "handle": "Seanwhy",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "spyearwood",
-                "smashgg": "178361"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-CA",
-                "city": "SAN DIEGO"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": "",
             "teams": [
               {
                 "characters": [
                   {
-                    "id": "c-viper",
-                    "options": {
-                      "controls": "classic"
-                    }
-                  }
-                ]
-              },
-              null,
-              {
-                "characters": [
-                  {
-                    "id": "chun-li",
+                    "id": "ryu",
                     "options": {
                       "controls": "classic"
                     }
@@ -1304,118 +1263,7 @@
               }
             ]
           }
-        ],
-        "match": {
-          "id": "wf",
-          "name": "Winners Finals",
-          "smashggId": "Winners Final"
-        },
-        "game": {
-          "id": "sf6",
-          "name": "Street Fighter 6",
-          "shortNames": [
-            "SF6"
-          ],
-          "hashtags": [
-            "SF6"
-          ],
-          "additionalTags": [
-            "Street Fighter"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Street Fighter 6"
-            },
-            "smashgg": {
-              "id": "43868"
-            },
-            "challonge": {
-              "id": "293490"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350750002",
-              "handle": "Liston",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "ListonthePrince"
-              },
-              "pronouns": "He/Him"
-            }
-          }
-        ],
-        "tournament": "Next Level Battle Circuit 420",
-        "event": "",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "98971668",
-            "phaseId": "2188707",
-            "phaseGroupId": "3182496"
-          },
-          "match": {
-            "id": "wf",
-            "name": "Winners Finals",
-            "smashggId": "Winners Final"
-          },
-          "shortIdentifier": "F",
-          "displayName": "F - wf: NYCMastermike vs Seanwhy",
-          "completedAt": 1770258022,
-          "entrants": [
-            {
-              "name": "NYCMastermike",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "147466",
-                  "handle": "NYCMastermike",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "NYCMastermike"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NY",
-                    "city": "New York"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Seanwhy",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "178361",
-                  "handle": "Seanwhy",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "spyearwood"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-CA",
-                    "city": "SAN DIEGO"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
+        ]
       }
     },
     {
