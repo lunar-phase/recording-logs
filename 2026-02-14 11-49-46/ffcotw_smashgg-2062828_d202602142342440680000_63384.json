@@ -1,0 +1,959 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-02-14 11-49-46.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2062828",
+  "eventId": "1448970",
+  "start": "06:52:57.315",
+  "end": "07:49:15.132",
+  "sets": [
+    {
+      "id": "preview_3017816_2_0",
+      "displayName": "D - Round Robin: Red vs Cujo Kate",
+      "start": "06:55:05.032",
+      "end": "07:02:25.848",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352080002",
+              "handle": "Red",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "REDvsFantasy",
+                "smashgg": "1101632",
+                "challonge": "203650104"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Fatal Fury Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "preview_3017816_2_0",
+            "phaseId": "2062828",
+            "phaseGroupId": "3017816"
+          },
+          "match": null,
+          "shortIdentifier": "D",
+          "displayName": "D - Round 2: Red vs Cujo Kate",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Red",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1101632",
+                  "handle": "Red",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Cujo Kate",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173506",
+                  "handle": "Cujo Kate",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Cujo_Kate"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99343206",
+      "displayName": "F - Round Robin: TakiTonfa vs FGC_Dads | SuperBulletWill",
+      "start": "07:09:08.000",
+      "end": "07:13:41.215",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141831329120000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351640000",
+              "handle": "Virgo",
+              "prefix": "PAG",
+              "serviceIds": {
+                "twitter": "PAG_VIRGO",
+                "smashgg": "142256"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Fatal Fury Up Next!",
+          "",
+          "Keep mind Will just picked this game up"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99343206",
+            "phaseId": "2062828",
+            "phaseGroupId": "3017816"
+          },
+          "match": null,
+          "shortIdentifier": "F",
+          "displayName": "F - Round 2: TakiTonfa vs FGC_Dads | SuperBulletWill",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TakiTonfa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "999177",
+                  "handle": "TakiTonfa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TakiTonfa"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FGC_Dads | SuperBulletWill",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1481948",
+                  "handle": "SuperBulletWill",
+                  "prefix": "FGC_Dads",
+                  "serviceIds": {
+                    "twitter": "SuperBulletWill"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99343210",
+      "displayName": "J - Round Robin: Red vs FGC_Dads | SuperBulletWill",
+      "start": "07:15:34.732",
+      "end": "07:19:52.782",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352080002",
+              "handle": "Red",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "REDvsFantasy",
+                "smashgg": "1101632",
+                "challonge": "203650104"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351640000",
+              "handle": "Virgo",
+              "prefix": "PAG",
+              "serviceIds": {
+                "twitter": "PAG_VIRGO",
+                "smashgg": "142256"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Be Right Back!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99343210",
+            "phaseId": "2062828",
+            "phaseGroupId": "3017816"
+          },
+          "match": null,
+          "shortIdentifier": "J",
+          "displayName": "J - Round 4: Red vs FGC_Dads | SuperBulletWill",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Red",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1101632",
+                  "handle": "Red",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FGC_Dads | SuperBulletWill",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1481948",
+                  "handle": "SuperBulletWill",
+                  "prefix": "FGC_Dads",
+                  "serviceIds": {
+                    "twitter": "SuperBulletWill"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99343202",
+      "displayName": "B - Round Robin: TakiTonfa vs Cujo Kate",
+      "start": "07:22:42.265",
+      "end": "07:28:57.848",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141831329120000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Be Right Back!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99343202",
+            "phaseId": "2062828",
+            "phaseGroupId": "3017816"
+          },
+          "match": null,
+          "shortIdentifier": "B",
+          "displayName": "B - Round 1: TakiTonfa vs Cujo Kate",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TakiTonfa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "999177",
+                  "handle": "TakiTonfa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TakiTonfa"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Cujo Kate",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173506",
+                  "handle": "Cujo Kate",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Cujo_Kate"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99343213",
+      "displayName": "M - Round Robin: TakiTonfa vs Red",
+      "start": "07:31:34.665",
+      "end": "07:35:47.532",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141831329120000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352080002",
+              "handle": "Red",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "REDvsFantasy",
+                "smashgg": "1101632",
+                "challonge": "203650104"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Be Right Back!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99343213",
+            "phaseId": "2062828",
+            "phaseGroupId": "3017816"
+          },
+          "match": null,
+          "shortIdentifier": "M",
+          "displayName": "M - Round 5: Red vs TakiTonfa",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Red",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1101632",
+                  "handle": "Red",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TakiTonfa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "999177",
+                  "handle": "TakiTonfa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TakiTonfa"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99343208",
+      "displayName": "H - Round Robin: FGC_Dads | SuperBulletWill vs Cujo Kate",
+      "start": "07:38:40.032",
+      "end": "07:46:40.765",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ffcotw",
+          "name": "Fatal Fury: City of the Wolves",
+          "shortNames": [
+            "Fatal Fury CotW"
+          ],
+          "hashtags": [
+            "CotW",
+            "FatalFury"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Fatal Fury: City of the Wolves"
+            },
+            "smashgg": {
+              "id": "73221"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Vampire Savior Up Next!",
+          "",
+          "Medal ceremony after this set"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99343208",
+            "phaseId": "2062828",
+            "phaseGroupId": "3017816"
+          },
+          "match": null,
+          "shortIdentifier": "H",
+          "displayName": "H - Round 3: Cujo Kate vs FGC_Dads | SuperBulletWill",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Cujo Kate",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173506",
+                  "handle": "Cujo Kate",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Cujo_Kate"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FGC_Dads | SuperBulletWill",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1481948",
+                  "handle": "SuperBulletWill",
+                  "prefix": "FGC_Dads",
+                  "serviceIds": {
+                    "twitter": "SuperBulletWill"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

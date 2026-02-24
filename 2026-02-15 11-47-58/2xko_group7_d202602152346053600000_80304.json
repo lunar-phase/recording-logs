@@ -1,0 +1,111 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-02-15 11-47-58.mkv",
+  "start": "06:58:05.732",
+  "end": "07:17:15.315",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "ft5: SHEETZ | Klimax vs Syldiesel",
+      "start": "06:59:28.115",
+      "end": "07:13:35.715",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602152224370680000",
+              "handle": "Klimax",
+              "prefix": "SHEETZ",
+              "serviceIds": {
+                "twitter": "PGH_Klimax",
+                "smashgg": "326923"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 4,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602152337166430000",
+              "handle": "Syldiesel",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "5215461"
+              },
+              "location": {
+                "country": "US"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ft5",
+          "name": "First to 5",
+          "smashggId": null
+        },
+        "game": {
+          "id": "2xko",
+          "name": "2XKO",
+          "shortNames": [],
+          "hashtags": [
+            "2XKO"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "2XKO"
+            },
+            "smashgg": {
+              "id": "64423"
+            }
+          },
+          "teamSize": 2
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602152107257960000",
+              "handle": "Khalil_",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "2XKO Up Next!",
+          "",
+          ""
+        ],
+        "set": {}
+      }
+    }
+  ]
+}

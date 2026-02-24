@@ -1,0 +1,1156 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-02-15 11-47-58.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2062822",
+  "eventId": "1448964",
+  "start": "05:37:44.999",
+  "end": "06:40:12.349",
+  "thumbnailTimestamp": "05:59:51.282",
+  "sets": [
+    {
+      "id": "99377299",
+      "displayName": "A - rr: SHEETZ | Klimax vs PAG | VickiViper",
+      "start": "05:38:51.782",
+      "end": "05:45:57.982",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602152224370680000",
+              "handle": "Klimax",
+              "prefix": "SHEETZ",
+              "serviceIds": {
+                "twitter": "PGH_Klimax",
+                "smashgg": "326923"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351300000",
+              "handle": "VickiViper",
+              "prefix": "PAG",
+              "serviceIds": {
+                "twitter": "DarkForceVicki",
+                "smashgg": "61882"
+              },
+              "pronouns": "She/Her, It/Its",
+              "location": {
+                "country": "US",
+                "state": "US-VA",
+                "city": "Richmond"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "SF6 Starting Soon!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99377299",
+            "phaseId": "2062822",
+            "phaseGroupId": "3017810"
+          },
+          "match": null,
+          "shortIdentifier": "A",
+          "displayName": "A - Round 1: SHEETZ | Klimax vs PAG | VickiViper",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SHEETZ | Klimax",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "326923",
+                  "handle": "Klimax",
+                  "prefix": "SHEETZ",
+                  "serviceIds": {
+                    "twitter": "PGH_Klimax"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "PAG | VickiViper",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "61882",
+                  "handle": "VickiViper",
+                  "prefix": "PAG",
+                  "pronouns": "She/Her, It/Its",
+                  "serviceIds": {
+                    "twitter": "DarkForceVicki"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-VA",
+                    "city": "Richmond"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99377300",
+      "displayName": "B - rr: THG | UncleWreck vs Cujo Kate",
+      "start": "05:50:09.365",
+      "end": "05:58:09.815",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602152234386590000",
+              "handle": "UncleWreck",
+              "prefix": "THG",
+              "serviceIds": {
+                "smashgg": "557414"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Columbia"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "luke",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "elena",
+                    "options": {
+                      "controls": "modern"
+                    }
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "blanka",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "sagat",
+                    "options": {
+                      "controls": "modern"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602152107257960000",
+              "handle": "Khalil_",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "SF6 Starting Soon!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99377300",
+            "phaseId": "2062822",
+            "phaseGroupId": "3017810"
+          },
+          "match": null,
+          "shortIdentifier": "B",
+          "displayName": "B - Round 1: Cujo Kate vs THG | UncleWreck",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Cujo Kate",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173506",
+                  "handle": "Cujo Kate",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Cujo_Kate"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "THG | UncleWreck",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "557414",
+                  "handle": "UncleWreck",
+                  "prefix": "THG",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Columbia"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99377304",
+      "displayName": "F - rr: PAG | VickiViper vs Cujo Kate",
+      "start": "05:59:42.049",
+      "end": "06:05:05.199",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351300000",
+              "handle": "VickiViper",
+              "prefix": "PAG",
+              "serviceIds": {
+                "twitter": "DarkForceVicki",
+                "smashgg": "61882"
+              },
+              "pronouns": "She/Her, It/Its",
+              "location": {
+                "country": "US",
+                "state": "US-VA",
+                "city": "Richmond"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kimberly",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "elena",
+                    "options": {
+                      "controls": "modern"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602152107257960000",
+              "handle": "Khalil_",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "SF6 Starting Soon!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99377304",
+            "phaseId": "2062822",
+            "phaseGroupId": "3017810"
+          },
+          "match": null,
+          "shortIdentifier": "F",
+          "displayName": "F - Round 3: PAG | VickiViper vs Cujo Kate",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "PAG | VickiViper",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "61882",
+                  "handle": "VickiViper",
+                  "prefix": "PAG",
+                  "pronouns": "She/Her, It/Its",
+                  "serviceIds": {
+                    "twitter": "DarkForceVicki"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-VA",
+                    "city": "Richmond"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Cujo Kate",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173506",
+                  "handle": "Cujo Kate",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Cujo_Kate"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99377306",
+      "displayName": "H - rr: SHEETZ | Klimax vs THG | UncleWreck",
+      "start": "06:06:59.999",
+      "end": "06:15:30.232",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602152224370680000",
+              "handle": "Klimax",
+              "prefix": "SHEETZ",
+              "serviceIds": {
+                "twitter": "PGH_Klimax",
+                "smashgg": "326923"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602152234386590000",
+              "handle": "UncleWreck",
+              "prefix": "THG",
+              "serviceIds": {
+                "smashgg": "557414"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Columbia"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "luke",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602152107257960000",
+              "handle": "Khalil_",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "SF6 Starting Soon!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99377306",
+            "phaseId": "2062822",
+            "phaseGroupId": "3017810"
+          },
+          "match": null,
+          "shortIdentifier": "H",
+          "displayName": "H - Round 4: THG | UncleWreck vs SHEETZ | Klimax",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "THG | UncleWreck",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "557414",
+                  "handle": "UncleWreck",
+                  "prefix": "THG",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Columbia"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SHEETZ | Klimax",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "326923",
+                  "handle": "Klimax",
+                  "prefix": "SHEETZ",
+                  "serviceIds": {
+                    "twitter": "PGH_Klimax"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99377302",
+      "displayName": "D - rr: SHEETZ | Klimax vs Cujo Kate",
+      "start": "06:16:58.932",
+      "end": "06:27:51.265",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602152224370680000",
+              "handle": "Klimax",
+              "prefix": "SHEETZ",
+              "serviceIds": {
+                "twitter": "PGH_Klimax",
+                "smashgg": "326923"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "manon",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "elena",
+                    "options": {
+                      "controls": "modern"
+                    }
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "sagat",
+                    "options": {
+                      "controls": "modern"
+                    }
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "blanka",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602152107257960000",
+              "handle": "Khalil_",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "SF6 Starting Soon!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99377302",
+            "phaseId": "2062822",
+            "phaseGroupId": "3017810"
+          },
+          "match": null,
+          "shortIdentifier": "D",
+          "displayName": "D - Round 2: SHEETZ | Klimax vs Cujo Kate",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SHEETZ | Klimax",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "326923",
+                  "handle": "Klimax",
+                  "prefix": "SHEETZ",
+                  "serviceIds": {
+                    "twitter": "PGH_Klimax"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Cujo Kate",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173506",
+                  "handle": "Cujo Kate",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Cujo_Kate"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99377308",
+      "displayName": "J - rr: PAG | VickiViper vs THG | UncleWreck",
+      "start": "06:29:21.565",
+      "end": "06:37:32.432",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351300000",
+              "handle": "VickiViper",
+              "prefix": "PAG",
+              "serviceIds": {
+                "twitter": "DarkForceVicki",
+                "smashgg": "61882"
+              },
+              "pronouns": "She/Her, It/Its",
+              "location": {
+                "country": "US",
+                "state": "US-VA",
+                "city": "Richmond"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kimberly",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202602152234386590000",
+              "handle": "UncleWreck",
+              "prefix": "THG",
+              "serviceIds": {
+                "smashgg": "557414"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Columbia"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "luke",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602152107257960000",
+              "handle": "Khalil_",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "SF6 Starting Soon!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99377308",
+            "phaseId": "2062822",
+            "phaseGroupId": "3017810"
+          },
+          "match": null,
+          "shortIdentifier": "J",
+          "displayName": "J - Round 5: THG | UncleWreck vs PAG | VickiViper",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "THG | UncleWreck",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "557414",
+                  "handle": "UncleWreck",
+                  "prefix": "THG",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Columbia"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "PAG | VickiViper",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "61882",
+                  "handle": "VickiViper",
+                  "prefix": "PAG",
+                  "pronouns": "She/Her, It/Its",
+                  "serviceIds": {
+                    "twitter": "DarkForceVicki"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-VA",
+                    "city": "Richmond"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

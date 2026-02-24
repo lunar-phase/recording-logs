@@ -1,0 +1,1442 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-02-14 11-49-46.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2062823",
+  "eventId": "1448965",
+  "start": "08:48:33.032",
+  "end": "10:28:48.715",
+  "sets": [
+    {
+      "id": "99349288",
+      "displayName": "B - wq: Cujo Kate vs BGG | Josiah",
+      "start": "08:49:33.765",
+      "end": "08:54:41.332",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602150131518130000",
+              "handle": "Josiah",
+              "prefix": "BGG",
+              "serviceIds": {
+                "twitter": "JosiahBGG_",
+                "smashgg": "3939718"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-VA",
+                "city": "Richlands"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Tekken 8 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99349288",
+            "phaseId": "2062823",
+            "phaseGroupId": "3017811"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - wq: BGG | Josiah vs Cujo Kate",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BGG | Josiah",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3939718",
+                  "handle": "Josiah",
+                  "prefix": "BGG",
+                  "serviceIds": {
+                    "twitter": "JosiahBGG_"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-VA",
+                    "city": "Richlands"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Cujo Kate",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173506",
+                  "handle": "Cujo Kate",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Cujo_Kate"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99349289",
+      "displayName": "C - wq: Shusaku vs Moby",
+      "start": "08:56:42.082",
+      "end": "09:01:56.848",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602150144462490001",
+              "handle": "Shusaku",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4350182"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602150144462490000",
+              "handle": "Moby",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MajinMoby",
+                "smashgg": "1076963"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-SC",
+                "city": "summervile"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Tekken 8 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99349289",
+            "phaseId": "2062823",
+            "phaseGroupId": "3017811"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wq: Moby vs Shusaku",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Moby",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1076963",
+                  "handle": "Moby",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MajinMoby"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-SC",
+                    "city": "summervile"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Shusaku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4350182",
+                  "handle": "Shusaku",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99349304",
+      "displayName": "I - Losers Eighths: Shusaku vs Cujo Kate",
+      "start": "09:05:07.598",
+      "end": "09:11:06.465",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602150144462490001",
+              "handle": "Shusaku",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4350182"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Tekken 8 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99349304",
+            "phaseId": "2062823",
+            "phaseGroupId": "3017811"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - l1: Cujo Kate vs Shusaku",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Cujo Kate",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "173506",
+                  "handle": "Cujo Kate",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Cujo_Kate"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Shusaku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4350182",
+                  "handle": "Shusaku",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99349291",
+      "displayName": "E - ws: BGG | Josiah vs Moby",
+      "start": "09:13:02.932",
+      "end": "09:19:42.048",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602150131518130000",
+              "handle": "Josiah",
+              "prefix": "BGG",
+              "serviceIds": {
+                "twitter": "JosiahBGG_",
+                "smashgg": "3939718"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-VA",
+                "city": "Richlands"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "black"
+          },
+          {
+            "person": {
+              "id": "d202602150144462490000",
+              "handle": "Moby",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MajinMoby",
+                "smashgg": "1076963"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-SC",
+                "city": "summervile"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "camo"
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Tekken 8 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99349291",
+            "phaseId": "2062823",
+            "phaseGroupId": "3017811"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - ws: BGG | Josiah vs Moby",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BGG | Josiah",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3939718",
+                  "handle": "Josiah",
+                  "prefix": "BGG",
+                  "serviceIds": {
+                    "twitter": "JosiahBGG_"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-VA",
+                    "city": "Richlands"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Moby",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1076963",
+                  "handle": "Moby",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MajinMoby"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-SC",
+                    "city": "summervile"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99349292",
+      "displayName": "F - wf: Red vs Moby",
+      "start": "09:22:02.798",
+      "end": "09:31:11.615",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352080002",
+              "handle": "Red",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "REDvsFantasy",
+                "smashgg": "1101632",
+                "challonge": "203650104"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "shaheen"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202602150144462490000",
+              "handle": "Moby",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MajinMoby",
+                "smashgg": "1076963"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-SC",
+                "city": "summervile"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "bryan"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Tekken 8 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99349292",
+            "phaseId": "2062823",
+            "phaseGroupId": "3017811"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - wf: Red vs Moby",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Red",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1101632",
+                  "handle": "Red",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Moby",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1076963",
+                  "handle": "Moby",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MajinMoby"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-SC",
+                    "city": "summervile"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99349307",
+      "displayName": "L - ls: Shusaku vs BGG | Josiah",
+      "start": "09:33:05.281",
+      "end": "09:42:58.681",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602150144462490001",
+              "handle": "Shusaku",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4350182"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "devil-jin"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "kazuya"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202602150131518130000",
+              "handle": "Josiah",
+              "prefix": "BGG",
+              "serviceIds": {
+                "twitter": "JosiahBGG_",
+                "smashgg": "3939718"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-VA",
+                "city": "Richlands"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "jack-8"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402349950002",
+              "handle": "BLACKATLAS",
+              "prefix": "M6|PAG",
+              "serviceIds": {
+                "twitter": "ChocoRainBro",
+                "smashgg": "22865"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Cambria Heights"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Tekken 8 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99349307",
+            "phaseId": "2062823",
+            "phaseGroupId": "3017811"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - ls: BGG | Josiah vs Shusaku",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BGG | Josiah",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3939718",
+                  "handle": "Josiah",
+                  "prefix": "BGG",
+                  "serviceIds": {
+                    "twitter": "JosiahBGG_"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-VA",
+                    "city": "Richlands"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Shusaku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4350182",
+                  "handle": "Shusaku",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99349308",
+      "displayName": "M - lf: BGG | Josiah vs Moby",
+      "start": "09:47:06.765",
+      "end": "09:57:08.381",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602150131518130000",
+              "handle": "Josiah",
+              "prefix": "BGG",
+              "serviceIds": {
+                "twitter": "JosiahBGG_",
+                "smashgg": "3939718"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-VA",
+                "city": "Richlands"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "jack-8"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202602150144462490000",
+              "handle": "Moby",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MajinMoby",
+                "smashgg": "1076963"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-SC",
+                "city": "summervile"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kazuya"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Tekken 8 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99349308",
+            "phaseId": "2062823",
+            "phaseGroupId": "3017811"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - lf: Moby vs BGG | Josiah",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Moby",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1076963",
+                  "handle": "Moby",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MajinMoby"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-SC",
+                    "city": "summervile"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "BGG | Josiah",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3939718",
+                  "handle": "Josiah",
+                  "prefix": "BGG",
+                  "serviceIds": {
+                    "twitter": "JosiahBGG_"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-VA",
+                    "city": "Richlands"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99349293",
+      "displayName": "G - tf: Red vs Moby",
+      "start": "09:58:57.381",
+      "end": "10:26:11.615",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402352080002",
+              "handle": "Red",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "REDvsFantasy",
+                "smashgg": "1101632",
+                "challonge": "203650104"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "shaheen"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202602150144462490000",
+              "handle": "Moby",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MajinMoby",
+                "smashgg": "1076963"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-SC",
+                "city": "summervile"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kazuya"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "t8",
+          "name": "Tekken 8",
+          "shortNames": [
+            "T8"
+          ],
+          "hashtags": [
+            "TEKKEN8"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Tekken 8"
+            },
+            "smashgg": {
+              "id": "49783"
+            },
+            "challonge": {
+              "id": "236261"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate",
+                "smashgg": "173506"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            }
+          }
+        ],
+        "tournament": "Moby wins Tekken 8!",
+        "event": "And gets a free Dream Con badge",
+        "messages": [
+          "Thanks for Watching!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99349293",
+            "phaseId": "2062823",
+            "phaseGroupId": "3017811"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - gf: Red vs Moby",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Red",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1101632",
+                  "handle": "Red",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Moby",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1076963",
+                  "handle": "Moby",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "MajinMoby"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-SC",
+                    "city": "summervile"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

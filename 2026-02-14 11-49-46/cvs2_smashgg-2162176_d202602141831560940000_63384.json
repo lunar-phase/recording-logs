@@ -1,0 +1,811 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-02-14 11-49-46.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2162176",
+  "eventId": "1527129",
+  "start": "01:42:09.533",
+  "end": "03:32:24.132",
+  "sets": [
+    {
+      "id": "99322164",
+      "displayName": "N - lq: FGC_Dads | SuperBulletWill vs TakiTonfa",
+      "start": "01:44:47.216",
+      "end": "01:54:18.933",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141831329120000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "cvs2",
+          "name": "Capcom vs SNK 2",
+          "shortNames": [
+            "CvS2"
+          ],
+          "hashtags": [
+            "CvS2"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Capcom vs. SNK 2: Mark of the Millennium 2001"
+            },
+            "smashgg": {
+              "id": "39"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "CVS2 Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99322164",
+            "phaseId": "2162176",
+            "phaseGroupId": "3147111"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - lq: TakiTonfa vs FGC_Dads | SuperBulletWill",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TakiTonfa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "999177",
+                  "handle": "TakiTonfa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TakiTonfa"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FGC_Dads | SuperBulletWill",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1481948",
+                  "handle": "SuperBulletWill",
+                  "prefix": "FGC_Dads",
+                  "serviceIds": {
+                    "twitter": "SuperBulletWill"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99322135",
+      "displayName": "H - wf: Miller2B vs Dripsugeki",
+      "start": "01:57:33.149",
+      "end": "02:13:02.216",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350810001",
+              "handle": "Miller2B",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "261179"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-MI",
+                "city": "Auburn Hills"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141846277230000",
+              "handle": "Dripsugeki",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Dripsugeki",
+                "smashgg": "1305924"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-WI",
+                "city": "Milwaukee"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "cvs2",
+          "name": "Capcom vs SNK 2",
+          "shortNames": [
+            "CvS2"
+          ],
+          "hashtags": [
+            "CvS2"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Capcom vs. SNK 2: Mark of the Millennium 2001"
+            },
+            "smashgg": {
+              "id": "39"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "CVS2 Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99322135",
+            "phaseId": "2162176",
+            "phaseGroupId": "3147111"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - wf: Miller2B vs Dripsugeki",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Miller2B",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "261179",
+                  "handle": "Miller2B",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MI",
+                    "city": "Auburn Hills"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dripsugeki",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1305924",
+                  "handle": "Dripsugeki",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Dripsugeki"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-WI",
+                    "city": "Milwaukee"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99322166",
+      "displayName": "P - ls: TakiTonfa vs Rissir",
+      "start": "02:15:20.583",
+      "end": "02:22:26.449",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141831329120000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141903285290000",
+              "handle": "Rissir",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "872890"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Columbia"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "cvs2",
+          "name": "Capcom vs SNK 2",
+          "shortNames": [
+            "CvS2"
+          ],
+          "hashtags": [
+            "CvS2"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Capcom vs. SNK 2: Mark of the Millennium 2001"
+            },
+            "smashgg": {
+              "id": "39"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "CVS2 Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99322166",
+            "phaseId": "2162176",
+            "phaseGroupId": "3147111"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "P",
+          "displayName": "P - ls: TakiTonfa vs Rissir",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TakiTonfa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "999177",
+                  "handle": "TakiTonfa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TakiTonfa"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Rissir",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "872890",
+                  "handle": "Rissir",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Columbia"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99322167",
+      "displayName": "Q - lf: Dripsugeki vs TakiTonfa",
+      "start": "02:27:46.999",
+      "end": "02:39:58.449",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141846277230000",
+              "handle": "Dripsugeki",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Dripsugeki",
+                "smashgg": "1305924"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-WI",
+                "city": "Milwaukee"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141831329120000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "cvs2",
+          "name": "Capcom vs SNK 2",
+          "shortNames": [
+            "CvS2"
+          ],
+          "hashtags": [
+            "CvS2"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Capcom vs. SNK 2: Mark of the Millennium 2001"
+            },
+            "smashgg": {
+              "id": "39"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "CVS2 Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99322167",
+            "phaseId": "2162176",
+            "phaseGroupId": "3147111"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "Q",
+          "displayName": "Q - lf: Dripsugeki vs TakiTonfa",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dripsugeki",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1305924",
+                  "handle": "Dripsugeki",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Dripsugeki"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-WI",
+                    "city": "Milwaukee"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TakiTonfa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "999177",
+                  "handle": "TakiTonfa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TakiTonfa"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99322136",
+      "displayName": "I - tf: Miller2B vs TakiTonfa",
+      "start": "02:42:55.949",
+      "end": "03:29:51.032",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350810001",
+              "handle": "Miller2B",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "261179"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-MI",
+                "city": "Auburn Hills"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141831329120000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "cvs2",
+          "name": "Capcom vs SNK 2",
+          "shortNames": [
+            "CvS2"
+          ],
+          "hashtags": [
+            "CvS2"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Capcom vs. SNK 2: Mark of the Millennium 2001"
+            },
+            "smashgg": {
+              "id": "39"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Be Right Back!",
+          "",
+          "No medal ceremony, so throw to a break after grand finals"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99322136",
+            "phaseId": "2162176",
+            "phaseGroupId": "3147111"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - gf: Miller2B vs TakiTonfa",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Miller2B",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "261179",
+                  "handle": "Miller2B",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MI",
+                    "city": "Auburn Hills"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TakiTonfa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "999177",
+                  "handle": "TakiTonfa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TakiTonfa"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

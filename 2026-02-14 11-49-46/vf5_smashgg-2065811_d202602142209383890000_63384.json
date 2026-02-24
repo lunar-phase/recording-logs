@@ -1,0 +1,1243 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-02-14 11-49-46.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2065811",
+  "eventId": "1451352",
+  "start": "05:19:51.632",
+  "end": "06:34:01.165",
+  "sets": [
+    {
+      "id": "preview_3021665_1_0",
+      "displayName": "A - w1: BigDame21 vs Miller2B",
+      "start": "05:21:10.765",
+      "end": "05:28:54.915",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350810001",
+              "handle": "Miller2B",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "261179"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-MI",
+                "city": "Auburn Hills"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "vf5",
+          "name": "Virtua Fighter 5",
+          "shortNames": [
+            "VF5"
+          ],
+          "hashtags": [
+            "VF5"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Virtua Fighter 5 R.E.V.O."
+            },
+            "smashgg": {
+              "id": "89755"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Virtua Fighter 5 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "preview_3021665_1_0",
+            "phaseId": "2065811",
+            "phaseGroupId": "3021665"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - w1: BigDame21 vs Miller2B",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BigDame21",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "301462",
+                  "handle": "BigDame21",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BigDame2187"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Chester"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Miller2B",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "261179",
+                  "handle": "Miller2B",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MI",
+                    "city": "Auburn Hills"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99338185",
+      "displayName": "B - wq: Dripsugeki vs F+ | 33Sugee",
+      "start": "05:30:45.849",
+      "end": "05:39:12.665",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141846277230000",
+              "handle": "Dripsugeki",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Dripsugeki",
+                "smashgg": "1305924"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-WI",
+                "city": "Milwaukee"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602142220084790000",
+              "handle": "33Sugee",
+              "prefix": "F+",
+              "serviceIds": {
+                "twitter": "33Sugee",
+                "smashgg": "1186183"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "vf5",
+          "name": "Virtua Fighter 5",
+          "shortNames": [
+            "VF5"
+          ],
+          "hashtags": [
+            "VF5"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Virtua Fighter 5 R.E.V.O."
+            },
+            "smashgg": {
+              "id": "89755"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Virtua Fighter 5 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99338185",
+            "phaseId": "2065811",
+            "phaseGroupId": "3021665"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - wq: Dripsugeki vs F+ | 33Sugee",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dripsugeki",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1305924",
+                  "handle": "Dripsugeki",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Dripsugeki"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-WI",
+                    "city": "Milwaukee"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "F+ | 33Sugee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1186183",
+                  "handle": "33Sugee",
+                  "prefix": "F+",
+                  "serviceIds": {
+                    "twitter": "33Sugee"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99338189",
+      "displayName": "F - ws: TakiTonfa vs Suna",
+      "start": "05:40:31.199",
+      "end": "05:48:19.132",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141831329120000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602140006218310000",
+              "handle": "Suna",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "176242"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-OH",
+                "city": "Columbus"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "vf5",
+          "name": "Virtua Fighter 5",
+          "shortNames": [
+            "VF5"
+          ],
+          "hashtags": [
+            "VF5"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Virtua Fighter 5 R.E.V.O."
+            },
+            "smashgg": {
+              "id": "89755"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Virtua Fighter 5 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99338189",
+            "phaseId": "2065811",
+            "phaseGroupId": "3021665"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - ws: TakiTonfa vs Suna",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TakiTonfa",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "999177",
+                  "handle": "TakiTonfa",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TakiTonfa"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Crofton"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Suna",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "176242",
+                  "handle": "Suna",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-OH",
+                    "city": "Columbus"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99338188",
+      "displayName": "E - ws: Miller2B vs F+ | 33Sugee",
+      "start": "05:49:59.749",
+      "end": "05:53:12.032",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350810001",
+              "handle": "Miller2B",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "261179"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-MI",
+                "city": "Auburn Hills"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602142220084790000",
+              "handle": "33Sugee",
+              "prefix": "F+",
+              "serviceIds": {
+                "twitter": "33Sugee",
+                "smashgg": "1186183"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "vf5",
+          "name": "Virtua Fighter 5",
+          "shortNames": [
+            "VF5"
+          ],
+          "hashtags": [
+            "VF5"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Virtua Fighter 5 R.E.V.O."
+            },
+            "smashgg": {
+              "id": "89755"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Virtua Fighter 5 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99338188",
+            "phaseId": "2065811",
+            "phaseGroupId": "3021665"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - ws: Miller2B vs F+ | 33Sugee",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Miller2B",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "261179",
+                  "handle": "Miller2B",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MI",
+                    "city": "Auburn Hills"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "F+ | 33Sugee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1186183",
+                  "handle": "33Sugee",
+                  "prefix": "F+",
+                  "serviceIds": {
+                    "twitter": "33Sugee"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99338190",
+      "displayName": "G - wf: Miller2B vs Suna",
+      "start": "05:55:21.599",
+      "end": "06:03:38.382",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350810001",
+              "handle": "Miller2B",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "261179"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-MI",
+                "city": "Auburn Hills"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602140006218310000",
+              "handle": "Suna",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "176242"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-OH",
+                "city": "Columbus"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "vf5",
+          "name": "Virtua Fighter 5",
+          "shortNames": [
+            "VF5"
+          ],
+          "hashtags": [
+            "VF5"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Virtua Fighter 5 R.E.V.O."
+            },
+            "smashgg": {
+              "id": "89755"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Virtua Fighter 5 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99338190",
+            "phaseId": "2065811",
+            "phaseGroupId": "3021665"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - wf: ??? vs Suna",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "Suna",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "176242",
+                  "handle": "Suna",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-OH",
+                    "city": "Columbus"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99338205",
+      "displayName": "N - ls: BigDame21 vs F+ | 33Sugee",
+      "start": "06:05:09.949",
+      "end": "06:10:29.265",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602142220084790000",
+              "handle": "33Sugee",
+              "prefix": "F+",
+              "serviceIds": {
+                "twitter": "33Sugee",
+                "smashgg": "1186183"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "vf5",
+          "name": "Virtua Fighter 5",
+          "shortNames": [
+            "VF5"
+          ],
+          "hashtags": [
+            "VF5"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Virtua Fighter 5 R.E.V.O."
+            },
+            "smashgg": {
+              "id": "89755"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Virtua Fighter 5 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99338205",
+            "phaseId": "2065811",
+            "phaseGroupId": "3021665"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - ls: BigDame21 vs F+ | 33Sugee",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "BigDame21",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "301462",
+                  "handle": "BigDame21",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BigDame2187"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Chester"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "F+ | 33Sugee",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1186183",
+                  "handle": "33Sugee",
+                  "prefix": "F+",
+                  "serviceIds": {
+                    "twitter": "33Sugee"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99338206",
+      "displayName": "O - lf: Suna vs BigDame21",
+      "start": "06:12:08.015",
+      "end": "06:17:54.799",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602140006218310000",
+              "handle": "Suna",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "176242"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-OH",
+                "city": "Columbus"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351810002",
+              "handle": "BigDame21",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "BigDame2187",
+                "smashgg": "301462"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Chester"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "vf5",
+          "name": "Virtua Fighter 5",
+          "shortNames": [
+            "VF5"
+          ],
+          "hashtags": [
+            "VF5"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Virtua Fighter 5 R.E.V.O."
+            },
+            "smashgg": {
+              "id": "89755"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Virtua Fighter 5 Up Next!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99338206",
+            "phaseId": "2065811",
+            "phaseGroupId": "3021665"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - lf: Suna vs BigDame21",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Suna",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "176242",
+                  "handle": "Suna",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-OH",
+                    "city": "Columbus"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "BigDame21",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "301462",
+                  "handle": "BigDame21",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BigDame2187"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Chester"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99338191",
+      "displayName": "H - gf: Suna vs Miller2B",
+      "start": "06:19:01.399",
+      "end": "06:29:17.749",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602140006218310000",
+              "handle": "Suna",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "176242"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-OH",
+                "city": "Columbus"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350810001",
+              "handle": "Miller2B",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "261179"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-MI",
+                "city": "Auburn Hills"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "vf5",
+          "name": "Virtua Fighter 5",
+          "shortNames": [
+            "VF5"
+          ],
+          "hashtags": [
+            "VF5"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Virtua Fighter 5 R.E.V.O."
+            },
+            "smashgg": {
+              "id": "89755"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307152207077990000",
+              "handle": "Cujo Kate",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Cujo_Kate"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Virtua Fighter 5 Up Next!",
+          "",
+          "Medal ceremony will be up next"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99338191",
+            "phaseId": "2065811",
+            "phaseGroupId": "3021665"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - gf: Miller2B vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Miller2B",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "261179",
+                  "handle": "Miller2B",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MI",
+                    "city": "Auburn Hills"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

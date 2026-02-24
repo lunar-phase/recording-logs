@@ -1,0 +1,979 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-02-14 11-49-46.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2151684",
+  "eventId": "1519010",
+  "start": "00:16:54.583",
+  "end": "01:27:17.299",
+  "sets": [
+    {
+      "id": "99321734",
+      "displayName": "D - rr: Heyas! vs COTP | Shinigami313",
+      "start": "00:30:03.866",
+      "end": "00:33:55.916",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141704532960000",
+              "handle": "Heyas!",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4376920"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Frederick"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141704532970000",
+              "handle": "Shinigami313",
+              "prefix": "COTP",
+              "serviceIds": {
+                "twitter": "Shinigami_313",
+                "smashgg": "397058"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141658453850000",
+              "handle": "Immortal",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ImmortalJD99",
+                "smashgg": "28309"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141658536270000",
+              "handle": "Ryzakyn",
+              "prefix": "SCB",
+              "serviceIds": {
+                "twitter": "RiseSSBU",
+                "smashgg": "4069233"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CA",
+                "city": "Simi Valley"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99321734",
+            "phaseId": "2151684",
+            "phaseGroupId": "3133523"
+          },
+          "match": null,
+          "shortIdentifier": "D",
+          "displayName": "D - Round 2: Heyas! vs COTP | Shinigami313",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Heyas!",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4376920",
+                  "handle": "Heyas!",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Frederick"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "COTP | Shinigami313",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "397058",
+                  "handle": "Shinigami313",
+                  "prefix": "COTP",
+                  "serviceIds": {
+                    "twitter": "Shinigami_313"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Bronx"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99321736",
+      "displayName": "F - rr: Reg4Gamble5 | Immortal vs COTP | Shinigami313",
+      "start": "00:33:57.999",
+      "end": "00:44:02.549",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141658453850000",
+              "handle": "Immortal",
+              "prefix": "Reg4Gamble5",
+              "serviceIds": {
+                "twitter": "ImmortalJD99",
+                "smashgg": "28309"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141704532970000",
+              "handle": "Shinigami313",
+              "prefix": "COTP",
+              "serviceIds": {
+                "twitter": "Shinigami_313",
+                "smashgg": "397058"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141658453850000",
+              "handle": "Immortal",
+              "prefix": "Reg4Gamble5",
+              "serviceIds": {
+                "twitter": "ImmortalJD99",
+                "smashgg": "28309"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141658536270000",
+              "handle": "Ryzakyn",
+              "prefix": "SCB",
+              "serviceIds": {
+                "twitter": "RiseSSBU",
+                "smashgg": "4069233"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CA",
+                "city": "Simi Valley"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99321736",
+            "phaseId": "2151684",
+            "phaseGroupId": "3133523"
+          },
+          "match": null,
+          "shortIdentifier": "F",
+          "displayName": "F - Round 3: Reg4Gamble5 | Immortal vs COTP | Shinigami313",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Reg4Gamble5 | Immortal",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "28309",
+                  "handle": "Immortal",
+                  "prefix": "Reg4Gamble5",
+                  "serviceIds": {
+                    "twitter": "ImmortalJD99"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "COTP | Shinigami313",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "397058",
+                  "handle": "Shinigami313",
+                  "prefix": "COTP",
+                  "serviceIds": {
+                    "twitter": "Shinigami_313"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Bronx"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99321738",
+      "displayName": "H - rr: SCB / UG | Ryzakyn vs Heyas!",
+      "start": "00:46:38.416",
+      "end": "00:56:01.949",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141658536270000",
+              "handle": "Ryzakyn",
+              "prefix": "SCB / UG",
+              "serviceIds": {
+                "twitter": "RiseSSBU",
+                "smashgg": "4069233"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CA",
+                "city": "Simi Valley"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141704532960000",
+              "handle": "Heyas!",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4376920"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Frederick"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141658453850000",
+              "handle": "Immortal",
+              "prefix": "Reg4Gamble5",
+              "serviceIds": {
+                "twitter": "ImmortalJD99",
+                "smashgg": "28309"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99321738",
+            "phaseId": "2151684",
+            "phaseGroupId": "3133523"
+          },
+          "match": null,
+          "shortIdentifier": "H",
+          "displayName": "H - Round 4: SCB / UG | Ryzakyn vs Heyas!",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SCB / UG | Ryzakyn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4069233",
+                  "handle": "Ryzakyn",
+                  "prefix": "SCB / UG",
+                  "serviceIds": {
+                    "twitter": "RiseSSBU"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-CA",
+                    "city": "Simi Valley"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Heyas!",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4376920",
+                  "handle": "Heyas!",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Frederick"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99321731",
+      "displayName": "A - rr: Reg4Gamble5 | Immortal vs Heyas!",
+      "start": "01:01:40.283",
+      "end": "01:01:41.016",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141658453850000",
+              "handle": "Immortal",
+              "prefix": "Reg4Gamble5",
+              "serviceIds": {
+                "twitter": "ImmortalJD99",
+                "smashgg": "28309"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141704532960000",
+              "handle": "Heyas!",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4376920"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Frederick"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141658453850000",
+              "handle": "Immortal",
+              "prefix": "Reg4Gamble5",
+              "serviceIds": {
+                "twitter": "ImmortalJD99",
+                "smashgg": "28309"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99321731",
+            "phaseId": "2151684",
+            "phaseGroupId": "3133523"
+          },
+          "match": null,
+          "shortIdentifier": "A",
+          "displayName": "A - Round 1: Heyas! vs Reg4Gamble5 | Immortal",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Heyas!",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4376920",
+                  "handle": "Heyas!",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Frederick"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Reg4Gamble5 | Immortal",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "28309",
+                  "handle": "Immortal",
+                  "prefix": "Reg4Gamble5",
+                  "serviceIds": {
+                    "twitter": "ImmortalJD99"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99321740",
+      "displayName": "J - rr: Reg4Gamble5 | Immortal vs SCB / UG | Ryzakyn",
+      "start": "01:03:05.699",
+      "end": "01:09:42.799",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141658453850000",
+              "handle": "Immortal",
+              "prefix": "Reg4Gamble5",
+              "serviceIds": {
+                "twitter": "ImmortalJD99",
+                "smashgg": "28309"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141658536270000",
+              "handle": "Ryzakyn",
+              "prefix": "SCB / UG",
+              "serviceIds": {
+                "twitter": "RiseSSBU",
+                "smashgg": "4069233"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CA",
+                "city": "Simi Valley"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141704532970000",
+              "handle": "Shinigami313",
+              "prefix": "COTP",
+              "serviceIds": {
+                "twitter": "Shinigami_313",
+                "smashgg": "397058"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99321740",
+            "phaseId": "2151684",
+            "phaseGroupId": "3133523"
+          },
+          "match": null,
+          "shortIdentifier": "J",
+          "displayName": "J - Round 5: SCB / UG | Ryzakyn vs Reg4Gamble5 | Immortal",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SCB / UG | Ryzakyn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4069233",
+                  "handle": "Ryzakyn",
+                  "prefix": "SCB / UG",
+                  "serviceIds": {
+                    "twitter": "RiseSSBU"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-CA",
+                    "city": "Simi Valley"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Reg4Gamble5 | Immortal",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "28309",
+                  "handle": "Immortal",
+                  "prefix": "Reg4Gamble5",
+                  "serviceIds": {
+                    "twitter": "ImmortalJD99"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-PA",
+                    "city": "Pittsburgh"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99321732",
+      "displayName": "B - rr: COTP | Shinigami313 vs SCB / UG | Ryzakyn",
+      "start": "01:11:01.766",
+      "end": "01:22:09.049",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202602141704532970000",
+              "handle": "Shinigami313",
+              "prefix": "COTP",
+              "serviceIds": {
+                "twitter": "Shinigami_313",
+                "smashgg": "397058"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141658536270000",
+              "handle": "Ryzakyn",
+              "prefix": "SCB / UG",
+              "serviceIds": {
+                "twitter": "RiseSSBU",
+                "smashgg": "4069233"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CA",
+                "city": "Simi Valley"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "rr",
+          "name": "Round Robin",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141658453850000",
+              "handle": "Immortal",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ImmortalJD99",
+                "smashgg": "28309"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-PA",
+                "city": "Pittsburgh"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99321732",
+            "phaseId": "2151684",
+            "phaseGroupId": "3133523"
+          },
+          "match": null,
+          "shortIdentifier": "B",
+          "displayName": "B - Round 1: COTP | Shinigami313 vs SCB / UG | Ryzakyn",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "COTP | Shinigami313",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "397058",
+                  "handle": "Shinigami313",
+                  "prefix": "COTP",
+                  "serviceIds": {
+                    "twitter": "Shinigami_313"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Bronx"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SCB / UG | Ryzakyn",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4069233",
+                  "handle": "Ryzakyn",
+                  "prefix": "SCB / UG",
+                  "serviceIds": {
+                    "twitter": "RiseSSBU"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-CA",
+                    "city": "Simi Valley"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

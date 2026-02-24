@@ -1,0 +1,118 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-02-15 11-47-58.mkv",
+  "start": "01:37:47.099",
+  "end": "02:15:47.666",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "ft10: PAG | VickiViper vs TakiTonfa",
+      "start": "01:39:23.449",
+      "end": "02:10:04.766",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351300000",
+              "handle": "VickiViper",
+              "prefix": "PAG",
+              "serviceIds": {
+                "twitter": "DarkForceVicki",
+                "smashgg": "61882"
+              },
+              "pronouns": "She/Her, It/Its",
+              "location": {
+                "country": "US",
+                "state": "US-VA",
+                "city": "Richmond"
+              }
+            },
+            "score": 5,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602141831329120000",
+              "handle": "TakiTonfa",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TakiTonfa",
+                "smashgg": "999177"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 10,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ft10",
+          "name": "First to 10",
+          "smashggId": null
+        },
+        "game": {
+          "id": "aof3",
+          "name": "Art of Fighting 3",
+          "shortNames": [
+            "AOF3"
+          ],
+          "hashtags": [
+            "AOF3"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Art of Fighting 3: The Path of The Warrior"
+            },
+            "smashgg": {
+              "id": "33799"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202602141831329130000",
+              "handle": "SuperBulletWill",
+              "prefix": "FGC_Dads",
+              "serviceIds": {
+                "twitter": "SuperBulletWill",
+                "smashgg": "1481948"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Crofton"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202602141830214670000",
+              "handle": "Saisyu Kusanagi",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "kriticalkounter"
+              }
+            }
+          }
+        ],
+        "tournament": "EXP Pittsburgh",
+        "event": "",
+        "messages": [
+          "Art of Fighting 3 Up Next!",
+          "",
+          ""
+        ],
+        "set": {}
+      }
+    }
+  ]
+}
