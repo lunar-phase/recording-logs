@@ -1,0 +1,633 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-02-21 16-56-30.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2152927",
+  "eventId": "1519974",
+  "start": "03:48:37.099",
+  "end": "04:23:40.332",
+  "sets": [
+    {
+      "id": "99641643",
+      "displayName": "D - wf: TalesOf | KrazyKaze vs TGWTG | Ben Fish (Circuit Sturgeon)",
+      "start": "03:48:37.099",
+      "end": "03:55:47.799",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202510120044210020000",
+              "handle": "KrazyKaze",
+              "prefix": "TalesOf",
+              "serviceIds": {
+                "smashgg": "2897771"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202403230003458860000",
+              "handle": "Circuit Sturgeon",
+              "prefix": "TGWTG",
+              "serviceIds": {
+                "smashgg": "3570534"
+              },
+              "alias": "Ben Fish",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #54",
+        "event": "Guilty Gear Xrd Rev 2",
+        "messages": [
+          "GGXXACPR Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99641643",
+            "phaseId": "2152927",
+            "phaseGroupId": "3135099"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - wf: TalesOf | KrazyKaze vs TGWTG | Ben Fish",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TalesOf | KrazyKaze",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2897771",
+                  "handle": "KrazyKaze",
+                  "prefix": "TalesOf",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "TGWTG | Ben Fish",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3570534",
+                  "handle": "Ben Fish",
+                  "prefix": "TGWTG",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99641658",
+      "displayName": "H - ls: Native vs Hat emoji",
+      "start": "03:57:26.182",
+      "end": "04:02:10.866",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202507122241045330000",
+              "handle": "Hat emoji",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1113114"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #54",
+        "event": "Guilty Gear XXACPR",
+        "messages": [
+          "GGXXACPR Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99641658",
+            "phaseId": "2152927",
+            "phaseGroupId": "3135099"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - ls: Hat emoji vs Native",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Hat emoji",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1113114",
+                  "handle": "Hat emoji",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Native",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1090326",
+                  "handle": "Native",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99641659",
+      "displayName": "I - lf: Native vs Ben Fish",
+      "start": "04:02:57.466",
+      "end": "04:10:51.016",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202602220159256810000",
+              "handle": "Ben Fish",
+              "prefix": null,
+              "serviceIds": {}
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202510120044210020000",
+              "handle": "KrazyKaze",
+              "prefix": "TalesOf",
+              "serviceIds": {
+                "smashgg": "2897771"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #54",
+        "event": "Guilty Gear XXACPR",
+        "messages": [
+          "GGXXACPR Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99641659",
+            "phaseId": "2152927",
+            "phaseGroupId": "3135099"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - lf: TGWTG | Ben Fish vs Native",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TGWTG | Ben Fish",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3570534",
+                  "handle": "Ben Fish",
+                  "prefix": "TGWTG",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Native",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1090326",
+                  "handle": "Native",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99641644",
+      "displayName": "E - gf: Native vs TalesOf | KrazyKaze",
+      "start": "04:12:05.132",
+      "end": "04:22:44.282",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202510120044210020000",
+              "handle": "KrazyKaze",
+              "prefix": "TalesOf",
+              "serviceIds": {
+                "smashgg": "2897771"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202510120044210020000",
+              "handle": "KrazyKaze",
+              "prefix": "TalesOf",
+              "serviceIds": {
+                "smashgg": "2897771"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #54",
+        "event": "Guilty Gear XXACPR",
+        "messages": [
+          "GGXXACPR Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99641644",
+            "phaseId": "2152927",
+            "phaseGroupId": "3135099"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - gf: TalesOf | KrazyKaze vs Native",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TalesOf | KrazyKaze",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2897771",
+                  "handle": "KrazyKaze",
+                  "prefix": "TalesOf",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Native",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1090326",
+                  "handle": "Native",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
