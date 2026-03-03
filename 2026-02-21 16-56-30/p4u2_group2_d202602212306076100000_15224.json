@@ -2,14 +2,15 @@
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-02-21 16-56-30.mkv",
-  "start": "01:04:24.149",
-  "end": "02:00:15.833",
+  "phaseName": "Round Robin",
+  "start": "01:03:00.716",
+  "end": "02:01:58.516",
   "sets": [
     {
       "id": null,
       "displayName": "rr: Highwind vs Ntut",
-      "start": "01:04:24.149",
-      "end": "01:09:36.433",
+      "start": "01:04:44.483",
+      "end": "01:08:59.066",
       "state": {
         "players": [
           {
@@ -112,8 +113,8 @@
     {
       "id": null,
       "displayName": "WGO | Kidd Cudi (Kidd) vs Ntut",
-      "start": "01:21:03.583",
-      "end": "01:21:03.899",
+      "start": "01:11:30.600",
+      "end": "01:21:06.383",
       "state": {
         "players": [
           {
@@ -222,8 +223,8 @@
     {
       "id": null,
       "displayName": "Ntut vs Phazure",
-      "start": "01:22:58.066",
-      "end": "01:26:48.599",
+      "start": "01:22:57.583",
+      "end": "01:26:45.383",
       "state": {
         "players": [
           {
@@ -324,7 +325,7 @@
     {
       "id": null,
       "displayName": "Highwind vs Phazure",
-      "start": "01:32:54.716",
+      "start": "01:33:59.433",
       "end": "01:43:22.149",
       "state": {
         "players": [
@@ -422,104 +423,12 @@
         "set": {}
       }
     },
-    {
-      "id": null,
-      "displayName": "Highwind vs Phazure",
-      "start": "01:46:18.516",
-      "end": "01:46:25.216",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202106132024532480000",
-              "handle": "Highwind",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "1688401"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202412212107303270000",
-              "handle": "Phazure",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "4094607"
-              }
-            },
-            "score": 1,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "",
-          "smashggId": null
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202412212107303270000",
-              "handle": "Phazure",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "4094607"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #54",
-        "event": "Persona 4 Arena Ultimax",
-        "messages": [
-          "P4AU Coming Up Next!"
-        ],
-        "set": {}
-      }
-    },
+
     {
       "id": null,
       "displayName": "Highwind vs WGO | Kidd Cudi (Kidd)",
-      "start": "01:46:30.349",
-      "end": "01:53:35.833",
+      "start": "01:46:28.366",
+      "end": "01:53:29.533",
       "state": {
         "players": [
           {
@@ -623,8 +532,8 @@
     {
       "id": null,
       "displayName": "Phazure vs WGO | Kidd Cudi (Kidd)",
-      "start": "01:54:52.999",
-      "end": "01:55:02.316",
+      "start": "01:56:05.166",
+      "end": "02:00:18.566",
       "state": {
         "players": [
           {
@@ -658,109 +567,6 @@
               }
             },
             "score": 2,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "",
-          "name": "",
-          "smashggId": null
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          },
-          {
-            "person": {
-              "id": "d202207232041439220000",
-              "handle": "pzooo",
-              "prefix": "AONI",
-              "serviceIds": {
-                "twitter": "pzooo_",
-                "smashgg": "286842"
-              },
-              "pronouns": "he/him"
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #54",
-        "event": "Persona 4 Arena Ultimax",
-        "messages": [
-          "P4AU Coming Up Next!"
-        ],
-        "set": {}
-      }
-    },
-    {
-      "id": null,
-      "displayName": "Phazure vs WGO | Kidd Cudi (Kidd)",
-      "start": "02:00:14.066",
-      "end": "02:00:15.833",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202412212107303270000",
-              "handle": "Phazure",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "4094607"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "WGO",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi",
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "Weekhawken"
-              }
-            },
-            "score": 1,
             "inLosers": false,
             "comment": ""
           }
