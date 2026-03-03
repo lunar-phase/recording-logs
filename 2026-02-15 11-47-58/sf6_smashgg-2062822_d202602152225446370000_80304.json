@@ -1,10 +1,16 @@
 {
+  "uploadId": "Wc-Nq5VM8TQ",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-02-15 11-47-58.mkv",
   "bracketService": "smashgg",
   "phaseId": "2062822",
   "eventId": "1448964",
+  "event": {
+    "tournament": {
+      "name": "EXP Pittsburgh 2026"
+    }
+  },
   "start": "05:37:44.999",
   "end": "06:40:12.349",
   "thumbnailTimestamp": "05:59:51.282",
@@ -33,7 +39,19 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "manon",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -53,7 +71,19 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kimberly",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -605,7 +635,19 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "manon",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
