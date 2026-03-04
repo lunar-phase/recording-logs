@@ -1,12 +1,15 @@
 {
+  "uploadId": "NZQMB-mnq4w",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-02-21 16-51-24.mkv",
   "bracketService": "smashgg",
   "phaseId": "2152922",
   "eventId": "1519969",
+  "phaseName": "Top 4",
   "start": "03:46:38.116",
   "end": "04:36:18.382",
+  "thumbnailTimestamp": "03:50:03.274",
   "sets": [
     {
       "id": "99617651",
@@ -217,7 +220,16 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "maids"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -235,7 +247,16 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kohamech"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -360,6 +381,38 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "99617683",
+      "displayName": "Y - lf: F O X vs SaltySpitoon | Salty",
+      "start": "04:08:49",
+      "end": "04:25:30",
+      "state": {
+        "players": [
+          {
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "akiha"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "maids"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     },
     {
