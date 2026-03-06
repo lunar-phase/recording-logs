@@ -1,0 +1,2567 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-02-25 20-15-56.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2215299",
+  "eventId": "1569093",
+  "start": "00:00:07.299",
+  "end": "01:57:48.849",
+  "thumbnailTimestamp": "01:15:30.983",
+  "sets": [
+    {
+      "id": "preview_3217041_1_0",
+      "displayName": "A - w1: iDom vs INGRID | Rompepollo",
+      "start": "00:01:19.516",
+      "end": "00:06:18.649",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "c-viper",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202403140239044710000",
+              "handle": "Rompepollo",
+              "prefix": "INGRID",
+              "serviceIds": {
+                "twitter": "Rompepollo",
+                "smashgg": "866453"
+              },
+              "pronouns": "WHEN/INGRID",
+              "location": {
+                "country": "US"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "juri",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "preview_3217041_1_0",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "w1",
+            "name": "Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - w1: iDom vs INGRID | Rompepollo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Jamaica"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "INGRID | Rompepollo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "866453",
+                  "handle": "Rompepollo",
+                  "prefix": "INGRID",
+                  "pronouns": "WHEN/INGRID",
+                  "serviceIds": {
+                    "twitter": "Rompepollo"
+                  },
+                  "location": {
+                    "country": "US"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773068",
+      "displayName": "B - wq: rayit vs trifmoney",
+      "start": "00:07:53.399",
+      "end": "00:13:50.000",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202508140016502060000",
+              "handle": "rayit",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "934762"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kimberly",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202309140054224180000",
+              "handle": "trifmoney",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "trifmoney",
+                "smashgg": "4194"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "mai",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773068",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - wq: rayit vs FreeLuigi | trifmoney",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "rayit",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "934762",
+                  "handle": "rayit",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FreeLuigi | trifmoney",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4194",
+                  "handle": "trifmoney",
+                  "prefix": "FreeLuigi",
+                  "serviceIds": {
+                    "twitter": "trifmoney"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773069",
+      "displayName": "C - wq: PKjamoo vs NYCMastermike",
+      "start": "00:15:03.000",
+      "end": "00:21:24.099",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202308310002529920000",
+              "handle": "PKjamoo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2109433"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "m-bison",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aki",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773069",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wq: NYCMastermike vs PKjamoo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "PKjamoo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2109433",
+                  "handle": "PKjamoo",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773070",
+      "displayName": "D - wq: RUDERMAN vs Moe | Igotdembombs",
+      "start": "00:22:26.116",
+      "end": "00:27:29.266",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202502200117088990000",
+              "handle": "RUDERMAN",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1433830"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "marisa",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
+              "prefix": "Moe",
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "ken",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "wq",
+          "name": "Winners Quarters",
+          "smashggId": "Winners Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773070",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "wq",
+            "name": "Winners Quarters",
+            "smashggId": "Winners Quarter-Final"
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - wq: Moe | Igotdembombs vs RUDERMAN",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Moe | Igotdembombs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156764",
+                  "handle": "Igotdembombs",
+                  "prefix": "Moe",
+                  "serviceIds": {
+                    "twitter": "Igotdembombs"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "RUDERMAN",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1433830",
+                  "handle": "RUDERMAN",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773084",
+      "displayName": "J - Losers Eighths: INGRID | Rompepollo vs rayit",
+      "start": "00:29:49.116",
+      "end": "00:35:36.816",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202403140239044710000",
+              "handle": "Rompepollo",
+              "prefix": "INGRID",
+              "serviceIds": {
+                "twitter": "Rompepollo",
+                "smashgg": "866453"
+              },
+              "pronouns": "WHEN/INGRID",
+              "location": {
+                "country": "US"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "juri",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202508140016502060000",
+              "handle": "rayit",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "934762"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "c-viper",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
+              "prefix": "Moe",
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773084",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - l1: INGRID | Rompepollo vs rayit",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "INGRID | Rompepollo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "866453",
+                  "handle": "Rompepollo",
+                  "prefix": "INGRID",
+                  "pronouns": "WHEN/INGRID",
+                  "serviceIds": {
+                    "twitter": "Rompepollo"
+                  },
+                  "location": {
+                    "country": "US"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "rayit",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "934762",
+                  "handle": "rayit",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773085",
+      "displayName": "K - Losers Eighths: PKjamoo vs RUDERMAN",
+      "start": "00:36:18.066",
+      "end": "00:40:17.999",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202308310002529920000",
+              "handle": "PKjamoo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2109433"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "m-bison",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202502200117088990000",
+              "handle": "RUDERMAN",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1433830"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "marisa",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
+              "prefix": "Moe",
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773085",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - l1: PKjamoo vs RUDERMAN",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "PKjamoo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2109433",
+                  "handle": "PKjamoo",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "RUDERMAN",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1433830",
+                  "handle": "RUDERMAN",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773071",
+      "displayName": "E - ws: trifmoney vs iDom",
+      "start": "00:41:38.183",
+      "end": "00:45:30.716",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202309140054224180000",
+              "handle": "trifmoney",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "trifmoney",
+                "smashgg": "4194"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "mai",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "c-viper",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
+              "prefix": "Moe",
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773071",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - ws: iDom vs FreeLuigi | trifmoney",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Jamaica"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FreeLuigi | trifmoney",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4194",
+                  "handle": "trifmoney",
+                  "prefix": "FreeLuigi",
+                  "serviceIds": {
+                    "twitter": "trifmoney"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773072",
+      "displayName": "F - ws: Moe | Igotdembombs vs NYCMastermike",
+      "start": "00:46:17.116",
+      "end": "00:53:31.683",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
+              "prefix": "Moe",
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "ken",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aki",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773072",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - ws: NYCMastermike vs Moe | Igotdembombs",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Moe | Igotdembombs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156764",
+                  "handle": "Igotdembombs",
+                  "prefix": "Moe",
+                  "serviceIds": {
+                    "twitter": "Igotdembombs"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773087",
+      "displayName": "M - lq: trifmoney vs RUDERMAN",
+      "start": "00:54:18.949",
+      "end": "00:58:14.333",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202309140054224180000",
+              "handle": "trifmoney",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "trifmoney",
+                "smashgg": "4194"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "mai",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202502200117088990000",
+              "handle": "RUDERMAN",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1433830"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "marisa",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773087",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - lq: FreeLuigi | trifmoney vs RUDERMAN",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "FreeLuigi | trifmoney",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4194",
+                  "handle": "trifmoney",
+                  "prefix": "FreeLuigi",
+                  "serviceIds": {
+                    "twitter": "trifmoney"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "RUDERMAN",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1433830",
+                  "handle": "RUDERMAN",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773086",
+      "displayName": "L - lq: Moe | Igotdembombs vs rayit",
+      "start": "00:59:16.899",
+      "end": "01:03:39.099",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
+              "prefix": "Moe",
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "ken",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202508140016502060000",
+              "handle": "rayit",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "934762"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "elena",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773086",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - lq: Moe | Igotdembombs vs rayit",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Moe | Igotdembombs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156764",
+                  "handle": "Igotdembombs",
+                  "prefix": "Moe",
+                  "serviceIds": {
+                    "twitter": "Igotdembombs"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "rayit",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "934762",
+                  "handle": "rayit",
+                  "prefix": null,
+                  "serviceIds": {}
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773073",
+      "displayName": "G - wf: NYCMastermike vs iDom",
+      "start": "01:05:00.249",
+      "end": "01:14:30.899",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aki",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "c-viper",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773073",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - wf: iDom vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Jamaica"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773088",
+      "displayName": "N - ls: Moe | Igotdembombs vs FreeLuigi | trifmoney",
+      "start": "01:15:30.266",
+      "end": "01:20:00.433",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
+              "prefix": "Moe",
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "ken",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202309140054224180000",
+              "handle": "trifmoney",
+              "prefix": "FreeLuigi",
+              "serviceIds": {
+                "twitter": "trifmoney",
+                "smashgg": "4194"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "mai",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773088",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - ls: Moe | Igotdembombs vs FreeLuigi | trifmoney",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Moe | Igotdembombs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "156764",
+                  "handle": "Igotdembombs",
+                  "prefix": "Moe",
+                  "serviceIds": {
+                    "twitter": "Igotdembombs"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FreeLuigi | trifmoney",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4194",
+                  "handle": "trifmoney",
+                  "prefix": "FreeLuigi",
+                  "serviceIds": {
+                    "twitter": "trifmoney"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773089",
+      "displayName": "O - lf: Moe | Igotdembombs vs iDom",
+      "start": "01:20:38.299",
+      "end": "01:31:38.799",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306080043017360000",
+              "handle": "Igotdembombs",
+              "prefix": "Moe",
+              "serviceIds": {
+                "challonge": "203650222",
+                "twitter": "Igotdembombs",
+                "smashgg": "156764"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "ken",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "c-viper",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773089",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "O",
+          "displayName": "O - lf: iDom vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Jamaica"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "99773074",
+      "displayName": "H - tf: NYCMastermike vs iDom",
+      "start": "01:32:56.183",
+      "end": "01:48:59.333",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aki",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "manon",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Flushing"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 423",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "99773074",
+            "phaseId": "2215299",
+            "phaseGroupId": "3217041"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - gf: NYCMastermike vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
