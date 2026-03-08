@@ -1,178 +1,15 @@
 {
+  "uploadId": "EBU10xnETzo",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2025-10-11 16-14-09.mkv",
   "bracketService": "smashgg",
   "phaseId": "2082589",
   "eventId": "1464749",
-  "start": "02:45:54.482",
-  "end": "04:03:48.332",
+  "phaseName": "Top 4",
+  "start": "03:33:24",
+  "end": "04:12:06",
   "sets": [
-    {
-      "id": "94944636",
-      "displayName": "L - wf: CrocsNSocks vs AONI | LO7U5 (LOTU5)",
-      "start": "02:45:54.482",
-      "end": "03:33:57.366",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202510112329248680000",
-              "handle": "CrocsNSocks",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "1441839"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
-            "characters": []
-          },
-          {
-            "person": {
-              "id": "d202411092354377400000",
-              "handle": "LOTU5",
-              "prefix": "AONI",
-              "serviceIds": {
-                "smashgg": "559033"
-              },
-              "pronouns": "He/They",
-              "alias": "LO7U5"
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
-            "characters": []
-          }
-        ],
-        "match": {
-          "id": "wf",
-          "name": "Winners Finals",
-          "smashggId": "Winners Final"
-        },
-        "game": {
-          "id": "ggxrd",
-          "name": "Guilty Gear Xrd",
-          "shortNames": [
-            "Xrd"
-          ],
-          "hashtags": [
-            "GGXRD"
-          ],
-          "additionalTags": [
-            "Guilty Gear"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Guilty Gear Xrd: Rev 2"
-            },
-            "smashgg": {
-              "id": "36"
-            },
-            "challonge": {
-              "id": "121822"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202411100102465800000",
-              "handle": "minatums",
-              "prefix": "TSB/GaG",
-              "serviceIds": {
-                "twitter": "minatums",
-                "smashgg": "50896"
-              },
-              "pronouns": "he/him"
-            }
-          },
-          {
-            "person": {
-              "id": "d202510112347200250000",
-              "handle": "Darkly Big Nozerz",
-              "prefix": "GaG",
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #50",
-        "event": "Persona 4 Arena Ultimax",
-        "messages": [
-          "Xrd Rev2 Coming Up Next!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "94944636",
-            "phaseId": "2082589",
-            "phaseGroupId": "3043569"
-          },
-          "match": {
-            "id": "wf",
-            "name": "Winners Finals",
-            "smashggId": "Winners Final"
-          },
-          "videogame": {
-            "id": "ggxrd",
-            "name": "Guilty Gear Xrd",
-            "shortNames": [
-              "Xrd"
-            ],
-            "hashtags": [
-              "GGXRD"
-            ],
-            "additionalTags": [
-              "Guilty Gear"
-            ],
-            "serviceInfo": {
-              "twitch": {
-                "id": "Guilty Gear Xrd: Rev 2"
-              },
-              "smashgg": {
-                "id": "36"
-              },
-              "challonge": {
-                "id": "121822"
-              }
-            }
-          },
-          "shortIdentifier": "L",
-          "displayName": "L - wf: CrocsNSocks vs AONI | LO7U5",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "CrocsNSocks",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1441839",
-                  "handle": "CrocsNSocks",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "AONI | LO7U5",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "559033",
-                  "handle": "LO7U5",
-                  "prefix": "AONI",
-                  "pronouns": "He/They",
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
     {
       "id": "94944636",
       "displayName": "L - wf: CrocsNSocks vs AONI | LO7U5 (LOTU5)",
@@ -337,10 +174,16 @@
       }
     },
     {
+      "id": "94944667",
+      "displayName": "X - ls: DRVN | Just Avery vs AONI | pzooo",
+      "start": "03:45:54.616",
+      "end": "03:51:16"
+    },
+    {
       "id": "94944668",
       "displayName": "Y - lf: CrocsNSocks vs AONI | pzooo",
-      "start": "03:45:54.616",
-      "end": "03:52:14.132",
+      "start": "03:52:08",
+      "end": "04:02:46",
       "state": {
         "players": [
           {
@@ -493,8 +336,8 @@
     {
       "id": "94944637",
       "displayName": "M - gf: AONI | LO7U5 (LOTU5) vs CrocsNSocks",
-      "start": "03:52:14.899",
-      "end": "04:03:48.332",
+      "start": "04:03:26",
+      "end": "04:09:34",
       "state": {
         "players": [
           {
