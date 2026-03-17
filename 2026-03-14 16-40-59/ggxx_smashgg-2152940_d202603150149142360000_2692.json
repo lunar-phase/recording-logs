@@ -1,0 +1,690 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-03-14 16-40-59.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2152940",
+  "eventId": "1519986",
+  "start": "04:59:40.482",
+  "end": "05:35:48.215",
+  "sets": [
+    {
+      "id": "100448133",
+      "displayName": "F - wf: RRC | CinnamonOatmeal vs Native",
+      "start": "04:59:40.482",
+      "end": "05:08:12.249",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202506072317544170000",
+              "handle": "CinnamonOatmeal",
+              "prefix": "RRC",
+              "serviceIds": {
+                "twitter": "Cinnamon0atmeal",
+                "smashgg": "3677483"
+              },
+              "pronouns": "She/Her",
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Snow Hill"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202507122241045330000",
+              "handle": "Hat emoji",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1113114"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "no way"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Guilty Gear XX ACPR",
+        "messages": [
+          "XRD Rev2 Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100448133",
+            "phaseId": "2152940",
+            "phaseGroupId": "3135112"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - wf: Native vs RRC | CinnamonOatmeal",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Native",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1090326",
+                  "handle": "Native",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "RRC | CinnamonOatmeal",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3677483",
+                  "handle": "CinnamonOatmeal",
+                  "prefix": "RRC",
+                  "pronouns": "She/Her",
+                  "serviceIds": {
+                    "twitter": "Cinnamon0atmeal"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Snow Hill"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100448148",
+      "displayName": "L - ls: LP/WASD/TSB | Lem___________ (Lem) vs #7 | SAVI0R",
+      "start": "05:08:43.715",
+      "end": "05:12:48.549",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              },
+              "alias": "Lem___________"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202305140001550490000",
+              "handle": "SAVI0R",
+              "prefix": "#7",
+              "serviceIds": {
+                "smashgg": "253039",
+                "twitter": "Savi0rIsOK"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CT",
+                "city": "Stamford"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202507122241045330000",
+              "handle": "Hat emoji",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1113114"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "no way"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Guilty Gear XX ACPR",
+        "messages": [
+          "XRD Rev2 Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100448148",
+            "phaseId": "2152940",
+            "phaseGroupId": "3135112"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - ls: LP/WASD/TSB | Lem___________ vs #7 | SAVI0R",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP/WASD/TSB | Lem___________",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem___________",
+                  "prefix": "LP/WASD/TSB",
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "#7 | SAVI0R",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "253039",
+                  "handle": "SAVI0R",
+                  "prefix": "#7",
+                  "serviceIds": {
+                    "twitter": "Savi0rIsOK"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-CT",
+                    "city": "Stamford"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100448149",
+      "displayName": "M - lf: LP/WASD/TSB | Lem___________ (Lem) vs RRC | CinnamonOatmeal",
+      "start": "05:13:50.549",
+      "end": "05:23:15.899",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              },
+              "alias": "Lem___________"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202506072317544170000",
+              "handle": "CinnamonOatmeal",
+              "prefix": "RRC",
+              "serviceIds": {
+                "twitter": "Cinnamon0atmeal",
+                "smashgg": "3677483"
+              },
+              "pronouns": "She/Her",
+              "location": {
+                "country": "US",
+                "state": "US-MD",
+                "city": "Snow Hill"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202507122241045330000",
+              "handle": "Hat emoji",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1113114"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "no way"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Guilty Gear XX ACPR",
+        "messages": [
+          "XRD Rev2 Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100448149",
+            "phaseId": "2152940",
+            "phaseGroupId": "3135112"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - lf: RRC | CinnamonOatmeal vs LP/WASD/TSB | Lem___________",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "RRC | CinnamonOatmeal",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "3677483",
+                  "handle": "CinnamonOatmeal",
+                  "prefix": "RRC",
+                  "pronouns": "She/Her",
+                  "serviceIds": {
+                    "twitter": "Cinnamon0atmeal"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MD",
+                    "city": "Snow Hill"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LP/WASD/TSB | Lem___________",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem___________",
+                  "prefix": "LP/WASD/TSB",
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100448134",
+      "displayName": "G - gf: LP/WASD/TSB | Lem___________ (Lem) vs Native",
+      "start": "05:26:46.732",
+      "end": "05:33:06.149",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              },
+              "alias": "Lem___________"
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350930000",
+              "handle": "Native",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "nativeMegaTen",
+                "smashgg": "1090326"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggxx",
+          "name": "Guilty Gear XX Accent Core +R",
+          "shortNames": [
+            "GGXXAC+R",
+            "+R"
+          ],
+          "hashtags": [
+            "GGXXACPR"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear XX Accent Core Plus R"
+            },
+            "smashgg": {
+              "id": "22406"
+            },
+            "challonge": {
+              "id": "262"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202507122241045330000",
+              "handle": "Hat emoji",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1113114"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202403222248261020000",
+              "handle": "Garbage",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415942"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "no way"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Guilty Gear XX ACPR",
+        "messages": [
+          "XRD Rev2 Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100448134",
+            "phaseId": "2152940",
+            "phaseGroupId": "3135112"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - gf: Native vs LP/WASD/TSB | Lem___________",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Native",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1090326",
+                  "handle": "Native",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LP/WASD/TSB | Lem___________",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem___________",
+                  "prefix": "LP/WASD/TSB",
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

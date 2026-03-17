@@ -1,0 +1,125 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-03-14 16-40-59.mkv",
+  "start": "00:00:00.000",
+  "end": "00:09:12.583",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: WGO | Kidd Cudi (Kidd) vs ChexGuy",
+      "start": "00:03:16.549",
+      "end": "00:09:12.583",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350090000",
+              "handle": "ChexGuy",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ChexGuy",
+                "smashgg": "328359"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Flushing"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "Yokai Teio",
+              "prefix": "LP/BPM",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": "Linguini Bros",
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "River Vale"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Dengeki Bunko Fighting Climax",
+        "messages": [
+          "DFCI Starting Soon!"
+        ],
+        "set": {}
+      }
+    }
+  ]
+}

@@ -1,0 +1,1558 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-03-14 16-40-59.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2152934",
+  "eventId": "1519980",
+  "start": "01:25:42.683",
+  "end": "03:13:36.432",
+  "sets": [
+    {
+      "id": "100432842",
+      "displayName": "D - ws: WGO | Kidd Cudi (Kidd) vs Phazure",
+      "start": "01:25:42.683",
+      "end": "01:32:55.316",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-IL",
+                "city": "Chicago"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202603142202231320000",
+              "handle": "Toxic Orange",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202411092121099550000",
+              "handle": "GrimFlash",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGrimFlash",
+                "smashgg": "692571"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100432842",
+            "phaseId": "2152934",
+            "phaseGroupId": "3135106"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - ws: WGO | Kidd Cudi vs Phazure",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weekhawken"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Phazure",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4094607",
+                  "handle": "Phazure",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-IL",
+                    "city": "Chicago"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100432843",
+      "displayName": "E - ws: GrimFlash vs ToxicOrange",
+      "start": "01:36:04.049",
+      "end": "01:41:45.733",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202411092121099550000",
+              "handle": "GrimFlash",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGrimFlash",
+                "smashgg": "692571"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "White Plains"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100432843",
+            "phaseId": "2152934",
+            "phaseGroupId": "3135106"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - ws: ToxicOrange vs GrimFlash",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ToxicOrange",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4826740",
+                  "handle": "ToxicOrange",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Valley Stream"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GrimFlash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "692571",
+                  "handle": "GrimFlash",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TheGrimFlash"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "White Plains"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100432857",
+      "displayName": "J - lq: ToxicOrange vs Highwind",
+      "start": "01:45:22.983",
+      "end": "01:45:42.116",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202106132024532480000",
+              "handle": "Highwind",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1688401"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202411092121099550000",
+              "handle": "GrimFlash",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGrimFlash",
+                "smashgg": "692571"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "White Plains"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100432857",
+            "phaseId": "2152934",
+            "phaseGroupId": "3135106"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - lq: ToxicOrange vs Highwind",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ToxicOrange",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4826740",
+                  "handle": "ToxicOrange",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Valley Stream"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Highwind",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1688401",
+                  "handle": "Highwind",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100432857",
+      "displayName": "J - lq: Highwind vs ToxicOrange",
+      "start": "01:46:35.449",
+      "end": "01:57:52.966",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202106132024532480000",
+              "handle": "Highwind",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1688401"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202411092121099550000",
+              "handle": "GrimFlash",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGrimFlash",
+                "smashgg": "692571"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "White Plains"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100432857",
+            "phaseId": "2152934",
+            "phaseGroupId": "3135106"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - lq: ToxicOrange vs Highwind",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ToxicOrange",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4826740",
+                  "handle": "ToxicOrange",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Valley Stream"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Highwind",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1688401",
+                  "handle": "Highwind",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100432844",
+      "displayName": "F - wf: Phazure vs GrimFlash",
+      "start": "02:00:24.599",
+      "end": "02:11:06.449",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-IL",
+                "city": "Chicago"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202411092121099550000",
+              "handle": "GrimFlash",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGrimFlash",
+                "smashgg": "692571"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "White Plains"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100432844",
+            "phaseId": "2152934",
+            "phaseGroupId": "3135106"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - wf: Phazure vs GrimFlash",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Phazure",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4094607",
+                  "handle": "Phazure",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-IL",
+                    "city": "Chicago"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GrimFlash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "692571",
+                  "handle": "GrimFlash",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TheGrimFlash"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "White Plains"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100432859",
+      "displayName": "L - ls: ToxicOrange vs WGO | Kidd Cudi (Kidd)",
+      "start": "02:12:58.983",
+      "end": "02:19:10.166",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100432859",
+            "phaseId": "2152934",
+            "phaseGroupId": "3135106"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - ls: ToxicOrange vs WGO | Kidd Cudi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "ToxicOrange",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4826740",
+                  "handle": "ToxicOrange",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Valley Stream"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weekhawken"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100432860",
+      "displayName": "M - lf: WGO | Kidd Cudi (Kidd) vs GrimFlash",
+      "start": "02:21:05.966",
+      "end": "02:35:11.149",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202411092121099550000",
+              "handle": "GrimFlash",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "TheGrimFlash",
+                "smashgg": "692571"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "White Plains"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100432860",
+            "phaseId": "2152934",
+            "phaseGroupId": "3135106"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - lf: GrimFlash vs WGO | Kidd Cudi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "GrimFlash",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "692571",
+                  "handle": "GrimFlash",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "TheGrimFlash"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "White Plains"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weekhawken"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100432845",
+      "displayName": "G - gf: WGO | Kidd Cudi (Kidd) vs Phazure",
+      "start": "02:38:05.882",
+      "end": "02:40:56.132",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-IL",
+                "city": "Chicago"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100432845",
+            "phaseId": "2152934",
+            "phaseGroupId": "3135106"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - gf: Phazure vs WGO | Kidd Cudi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Phazure",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4094607",
+                  "handle": "Phazure",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-IL",
+                    "city": "Chicago"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weekhawken"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "100432846",
+      "displayName": "H - tf: WGO | Kidd Cudi (Kidd) vs Phazure",
+      "start": "02:44:15.599",
+      "end": "03:13:36.432",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202412212107303270000",
+              "handle": "Phazure",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4094607"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-IL",
+                "city": "Chicago"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "p4u2",
+          "name": "Persona 4 Arena Ultimax",
+          "shortNames": [
+            "P4U2"
+          ],
+          "hashtags": [
+            "P4U2",
+            "P4U2R",
+            "P4AU"
+          ],
+          "additionalTags": [
+            "Persona 4 Ultimax"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Persona 4 Arena Ultimax"
+            },
+            "smashgg": {
+              "id": "11065"
+            },
+            "challonge": {
+              "id": "23768"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202603142216231920000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "4826740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Stream"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #55",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "P4AU Starting Soon!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "100432846",
+            "phaseId": "2152934",
+            "phaseGroupId": "3135106"
+          },
+          "match": {
+            "id": "tf",
+            "name": "True Finals",
+            "smashggId": "Grand Final Reset"
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - tf: WGO | Kidd Cudi vs Phazure",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weekhawken"
+                  }
+                }
+              ],
+              "inLosers": true
+            },
+            {
+              "name": "Phazure",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4094607",
+                  "handle": "Phazure",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-IL",
+                    "city": "Chicago"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
