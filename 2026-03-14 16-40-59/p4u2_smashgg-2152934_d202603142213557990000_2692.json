@@ -1,12 +1,15 @@
 {
+  "uploadId": "LVspuW099WQ",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-03-14 16-40-59.mkv",
   "bracketService": "smashgg",
   "phaseId": "2152934",
   "eventId": "1519980",
-  "start": "01:25:42.683",
-  "end": "03:13:36.432",
+  "phaseName": "Top 6",
+  "start": "01:25:08",
+  "end": "03:14:51",
+  "thumbnailTimestamp": "01:35:43.999",
   "sets": [
     {
       "id": "100432842",
@@ -108,7 +111,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Persona 4 Arena Ultimax",
+        "event": "",
         "messages": [
           "P4AU Starting Soon!"
         ],
@@ -273,7 +276,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Persona 4 Arena Ultimax",
+        "event": "",
         "messages": [
           "P4AU Starting Soon!"
         ],
@@ -337,175 +340,8 @@
     },
     {
       "id": "100432857",
-      "displayName": "J - lq: ToxicOrange vs Highwind",
-      "start": "01:45:22.983",
-      "end": "01:45:42.116",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202603142216231920000",
-              "handle": "ToxicOrange",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "4826740"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "Valley Stream"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202106132024532480000",
-              "handle": "Highwind",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "1688401"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NY"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "lq",
-          "name": "Losers Quarters",
-          "smashggId": "Losers Quarter-Final"
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202603142216231920000",
-              "handle": "ToxicOrange",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "4826740"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "Valley Stream"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202411092121099550000",
-              "handle": "GrimFlash",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "TheGrimFlash",
-                "smashgg": "692571"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "White Plains"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #55",
-        "event": "Persona 4 Arena Ultimax",
-        "messages": [
-          "P4AU Starting Soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "100432857",
-            "phaseId": "2152934",
-            "phaseGroupId": "3135106"
-          },
-          "match": {
-            "id": "lq",
-            "name": "Losers Quarters",
-            "smashggId": "Losers Quarter-Final"
-          },
-          "shortIdentifier": "J",
-          "displayName": "J - lq: ToxicOrange vs Highwind",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "ToxicOrange",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "4826740",
-                  "handle": "ToxicOrange",
-                  "prefix": null,
-                  "serviceIds": {},
-                  "location": {
-                    "country": "US",
-                    "state": "US-NY",
-                    "city": "Valley Stream"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Highwind",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1688401",
-                  "handle": "Highwind",
-                  "prefix": null,
-                  "serviceIds": {},
-                  "location": {
-                    "country": "US",
-                    "state": "US-NY"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "100432857",
       "displayName": "J - lq: Highwind vs ToxicOrange",
-      "start": "01:46:35.449",
+      "start": "01:46:22",
       "end": "01:57:52.966",
       "state": {
         "players": [
@@ -610,7 +446,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Persona 4 Arena Ultimax",
+        "event": "",
         "messages": [
           "P4AU Starting Soon!"
         ],
@@ -781,7 +617,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Persona 4 Arena Ultimax",
+        "event": "",
         "messages": [
           "P4AU Starting Soon!"
         ],
@@ -957,7 +793,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Persona 4 Arena Ultimax",
+        "event": "",
         "messages": [
           "P4AU Starting Soon!"
         ],
@@ -1135,7 +971,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Persona 4 Arena Ultimax",
+        "event": "",
         "messages": [
           "P4AU Starting Soon!"
         ],
@@ -1201,186 +1037,9 @@
       }
     },
     {
-      "id": "100432845",
-      "displayName": "G - gf: WGO | Kidd Cudi (Kidd) vs Phazure",
-      "start": "02:38:05.882",
-      "end": "02:40:56.132",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "WGO",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi",
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "Weekhawken"
-              }
-            },
-            "score": 1,
-            "inLosers": true,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202412212107303270000",
-              "handle": "Phazure",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "4094607"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-IL",
-                "city": "Chicago"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "gf",
-          "name": "Grand Finals",
-          "smashggId": "Grand Final"
-        },
-        "game": {
-          "id": "p4u2",
-          "name": "Persona 4 Arena Ultimax",
-          "shortNames": [
-            "P4U2"
-          ],
-          "hashtags": [
-            "P4U2",
-            "P4U2R",
-            "P4AU"
-          ],
-          "additionalTags": [
-            "Persona 4 Ultimax"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Persona 4 Arena Ultimax"
-            },
-            "smashgg": {
-              "id": "11065"
-            },
-            "challonge": {
-              "id": "23768"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "WGO",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi",
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "Weekhawken"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202603142216231920000",
-              "handle": "ToxicOrange",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "4826740"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "Valley Stream"
-              }
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #55",
-        "event": "Persona 4 Arena Ultimax",
-        "messages": [
-          "P4AU Starting Soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "100432845",
-            "phaseId": "2152934",
-            "phaseGroupId": "3135106"
-          },
-          "match": {
-            "id": "gf",
-            "name": "Grand Finals",
-            "smashggId": "Grand Final"
-          },
-          "shortIdentifier": "G",
-          "displayName": "G - gf: Phazure vs WGO | Kidd Cudi",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Phazure",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "4094607",
-                  "handle": "Phazure",
-                  "prefix": null,
-                  "serviceIds": {},
-                  "location": {
-                    "country": "US",
-                    "state": "US-IL",
-                    "city": "Chicago"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "WGO | Kidd Cudi",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "574317",
-                  "handle": "Kidd Cudi",
-                  "prefix": "WGO",
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "Cookiebitz"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NJ",
-                    "city": "Weekhawken"
-                  }
-                }
-              ],
-              "inLosers": true
-            }
-          ]
-        }
-      }
-    },
-    {
       "id": "100432846",
       "displayName": "H - tf: WGO | Kidd Cudi (Kidd) vs Phazure",
-      "start": "02:44:15.599",
+      "start": "02:38:05.882",
       "end": "03:13:36.432",
       "state": {
         "players": [
@@ -1491,7 +1150,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Persona 4 Arena Ultimax",
+        "event": "",
         "messages": [
           "P4AU Starting Soon!"
         ],

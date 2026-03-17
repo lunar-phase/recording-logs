@@ -1,13 +1,15 @@
 {
+  "uploadId": "HkKk-av072o",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-03-14 16-52-05.mkv",
   "bracketService": "smashgg",
   "phaseId": "2152939",
   "eventId": "1519985",
+  "phaseName": "Top 4",
   "start": "05:04:36.249",
   "end": "06:21:21.865",
-  "thumbnailTimestamp": "05:08:54.382",
+  "thumbnailTimestamp": "05:09:04.417",
   "sets": [
     {
       "id": "100450453",
@@ -207,7 +209,16 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rose"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -228,7 +239,16 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rolento"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {

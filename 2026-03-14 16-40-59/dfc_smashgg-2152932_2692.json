@@ -1,15 +1,17 @@
 {
+  "uploadId": "jKRb9-ERSZw",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-03-14 16-40-59.mkv",
   "bracketService": "smashgg",
   "phaseId": "2152932",
   "eventId": "1519978",
-  "start": "00:00:00.000",
-  "end": "01:14:59.499",
+  "start": "00:02:32",
+  "end": "01:16:04",
+  "thumbnailTimestamp": "00:11:40.857",
   "sets": [
     {
-      "id": null,
+      "id": "100428284",
       "displayName": "w1: WGO | Kidd Cudi (Kidd) vs ChexGuy",
       "start": "00:03:16.549",
       "end": "00:09:12.583",
@@ -117,7 +119,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Dengeki Bunko Fighting Climax",
+        "event": "",
         "messages": [
           "DFCI Starting Soon!"
         ],
@@ -226,7 +228,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Dengeki Bunko Fighting Climax",
+        "event": "",
         "messages": [
           "DFCI Starting Soon!"
         ],
@@ -288,7 +290,7 @@
     {
       "id": "100428287",
       "displayName": "B - ws: WGO | Kidd Cudi (Kidd) vs Linguini Bros | GaryButternubs",
-      "start": "00:17:58.349",
+      "start": "00:20:54",
       "end": "00:25:53.249",
       "state": {
         "players": [
@@ -386,505 +388,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Dengeki Bunko Fighting Climax",
-        "messages": [
-          "DFCI Starting Soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "100428287",
-            "phaseId": "2152932",
-            "phaseGroupId": "3135104"
-          },
-          "match": {
-            "id": "ws",
-            "name": "Winners Semis",
-            "smashggId": "Winners Semi-Final"
-          },
-          "shortIdentifier": "B",
-          "displayName": "B - ws: Linguini Bros | GaryButternubs vs WGO | Kidd Cudi",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Linguini Bros | GaryButternubs",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1969295",
-                  "handle": "GaryButternubs",
-                  "prefix": "Linguini Bros",
-                  "serviceIds": {
-                    "twitter": "GButternubs"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NJ",
-                    "city": "River Vale"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "WGO | Kidd Cudi",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "574317",
-                  "handle": "Kidd Cudi",
-                  "prefix": "WGO",
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "Cookiebitz"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NJ",
-                    "city": "Weekhawken"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "100428287",
-      "displayName": "B - ws: WGO | Kidd Cudi (Kidd) vs Linguini Bros | GaryButternubs",
-      "start": "00:27:28.749",
-      "end": "00:27:30.283",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "WGO",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi",
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "Weekhawken"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202208132328085130000",
-              "handle": "GaryButternubs",
-              "prefix": "Linguini Bros",
-              "serviceIds": {
-                "twitter": "GButternubs",
-                "smashgg": "1969295"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "River Vale"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "ws",
-          "name": "Winners Semis",
-          "smashggId": "Winners Semi-Final"
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "Yokai Teio",
-              "prefix": "LP/BPM",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              },
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "Brooklyn"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202603142059412230000",
-              "handle": "Thomas Ly",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #55",
-        "event": "Dengeki Bunko Fighting Climax",
-        "messages": [
-          "DFCI Starting Soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "100428287",
-            "phaseId": "2152932",
-            "phaseGroupId": "3135104"
-          },
-          "match": {
-            "id": "ws",
-            "name": "Winners Semis",
-            "smashggId": "Winners Semi-Final"
-          },
-          "shortIdentifier": "B",
-          "displayName": "B - ws: Linguini Bros | GaryButternubs vs WGO | Kidd Cudi",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Linguini Bros | GaryButternubs",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1969295",
-                  "handle": "GaryButternubs",
-                  "prefix": "Linguini Bros",
-                  "serviceIds": {
-                    "twitter": "GButternubs"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NJ",
-                    "city": "River Vale"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "WGO | Kidd Cudi",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "574317",
-                  "handle": "Kidd Cudi",
-                  "prefix": "WGO",
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "Cookiebitz"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NJ",
-                    "city": "Weekhawken"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "100428287",
-      "displayName": "B - ws: WGO | Kidd Cudi (Kidd) vs Linguini Bros | GaryButternubs",
-      "start": "00:27:33.466",
-      "end": "00:27:35.916",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "WGO",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi",
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "Weekhawken"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202208132328085130000",
-              "handle": "GaryButternubs",
-              "prefix": "Linguini Bros",
-              "serviceIds": {
-                "twitter": "GButternubs",
-                "smashgg": "1969295"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "River Vale"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "ws",
-          "name": "Winners Semis",
-          "smashggId": "Winners Semi-Final"
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "Yokai Teio",
-              "prefix": "LP/BPM",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              },
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "Brooklyn"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202603142059412230000",
-              "handle": "Thomas Ly",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #55",
-        "event": "Dengeki Bunko Fighting Climax",
-        "messages": [
-          "DFCI Starting Soon!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "100428287",
-            "phaseId": "2152932",
-            "phaseGroupId": "3135104"
-          },
-          "match": {
-            "id": "ws",
-            "name": "Winners Semis",
-            "smashggId": "Winners Semi-Final"
-          },
-          "shortIdentifier": "B",
-          "displayName": "B - ws: Linguini Bros | GaryButternubs vs WGO | Kidd Cudi",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Linguini Bros | GaryButternubs",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1969295",
-                  "handle": "GaryButternubs",
-                  "prefix": "Linguini Bros",
-                  "serviceIds": {
-                    "twitter": "GButternubs"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NJ",
-                    "city": "River Vale"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "WGO | Kidd Cudi",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "574317",
-                  "handle": "Kidd Cudi",
-                  "prefix": "WGO",
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "Cookiebitz"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NJ",
-                    "city": "Weekhawken"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
-    {
-      "id": "100428287",
-      "displayName": "B - ws: WGO | Kidd Cudi (Kidd) vs Linguini Bros | GaryButternubs",
-      "start": "00:27:36.833",
-      "end": "00:27:43.216",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "WGO",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi",
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "Weekhawken"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202208132328085130000",
-              "handle": "GaryButternubs",
-              "prefix": "Linguini Bros",
-              "serviceIds": {
-                "twitter": "GButternubs",
-                "smashgg": "1969295"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "River Vale"
-              }
-            },
-            "score": 2,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "ws",
-          "name": "Winners Semis",
-          "smashggId": "Winners Semi-Final"
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "Yokai Teio",
-              "prefix": "LP/BPM",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              },
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "Brooklyn"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202603142059412230000",
-              "handle": "Thomas Ly",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #55",
-        "event": "Dengeki Bunko Fighting Climax",
+        "event": "",
         "messages": [
           "DFCI Starting Soon!"
         ],
@@ -1058,7 +562,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Dengeki Bunko Fighting Climax",
+        "event": "",
         "messages": [
           "DFCI Starting Soon!"
         ],
@@ -1218,7 +722,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Dengeki Bunko Fighting Climax",
+        "event": "",
         "messages": [
           "DFCI Starting Soon!"
         ],
@@ -1379,7 +883,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Dengeki Bunko Fighting Climax",
+        "event": "",
         "messages": [
           "DFCI Starting Soon!"
         ],
@@ -1545,7 +1049,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #55",
-        "event": "Dengeki Bunko Fighting Climax",
+        "event": "",
         "messages": [
           "DFCI Starting Soon!"
         ],

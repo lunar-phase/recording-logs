@@ -1,4 +1,5 @@
 {
+  "uploadId": "Qvlno_ExYNc",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-03-14 16-52-05.mkv",
@@ -34,7 +35,16 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "ciel"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -52,7 +62,16 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kouma"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -1071,181 +1090,35 @@
       }
     },
     {
-      "id": "100430338",
-      "displayName": "W - lq: F O X vs LP | Monta",
+      "id": "100430337",
+      "displayName": "V - lq: LP/WASD/TSB | Lem___________ (Lem) vs DMF | Snake",
       "start": "01:12:23.000",
       "end": "01:21:09.000",
       "state": {
         "players": [
           {
-            "person": {
-              "id": "d202008220402350320001",
-              "handle": "F O X",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "MakotoFOX_",
-                "smashgg": "249913"
-              },
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
             "teams": [
               {
                 "characters": [
                   {
-                    "id": "akiha"
+                    "id": "roa"
                   }
                 ]
               }
             ]
           },
           {
-            "person": {
-              "id": "d202008220402350820001",
-              "handle": "Monta",
-              "prefix": "LP",
-              "serviceIds": {
-                "twitter": "Monta_LP",
-                "smashgg": "156159"
-              },
-              "location": {
-                "country": "US"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
             "teams": [
               {
                 "characters": [
                   {
-                    "id": "satsuki"
+                    "id": "kouma"
                   }
                 ]
               }
             ]
           }
-        ],
-        "match": {
-          "id": "lq",
-          "name": "Losers Quarters",
-          "smashggId": "Losers Quarter-Final"
-        },
-        "game": {
-          "id": "melty",
-          "name": "Melty Blood Actress Again Current Code",
-          "shortNames": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "hashtags": [
-            "MBAACC",
-            "メルブラ"
-          ],
-          "additionalTags": [
-            "Melty Blood",
-            "Melty"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Melty Blood: Actress Again: Current Code"
-            },
-            "smashgg": {
-              "id": "22407"
-            },
-            "challonge": {
-              "id": "306"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350320001",
-              "handle": "F O X",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "MakotoFOX_",
-                "smashgg": "249913"
-              },
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #55",
-        "event": "",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "100430338",
-            "phaseId": "2152935",
-            "phaseGroupId": "3135107"
-          },
-          "match": {
-            "id": "lq",
-            "name": "Losers Quarters",
-            "smashggId": "Losers Quarter-Final"
-          },
-          "shortIdentifier": "W",
-          "displayName": "W - lq: F O X vs LP | Monta",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "F O X",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "249913",
-                  "handle": "F O X",
-                  "prefix": null,
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "MakotoFOX_"
-                  },
-                  "location": {
-                    "country": "US"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "LP | Monta",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "156159",
-                  "handle": "Monta",
-                  "prefix": "LP",
-                  "serviceIds": {
-                    "twitter": "Monta_LP"
-                  },
-                  "location": {
-                    "country": "US"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
+        ]
       }
     },
     {
@@ -1829,7 +1702,7 @@
               {
                 "characters": [
                   {
-                    "id": "nanaya"
+                    "id": "kouma"
                   }
                 ]
               }
