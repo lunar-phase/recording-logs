@@ -1,0 +1,141 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-03-11 20-00-29.mkv",
+  "start": "00:10:35.183",
+  "end": "00:16:22.183",
+  "sets": [
+    {
+      "id": null,
+      "displayName": "w1: ChuletaJones vs PKjamoo",
+      "start": "00:11:34.649",
+      "end": "00:16:22.183",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202511200129500630000",
+              "handle": "ChuletaJones",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "3173215"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "c-viper",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202308310002529920000",
+              "handle": "PKjamoo",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2109433"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "m-bison",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "w1",
+          "name": "Winners Round 1",
+          "smashggId": "Winners Round 1"
+        },
+        "game": {
+          "id": "sf6",
+          "name": "Street Fighter 6",
+          "shortNames": [
+            "SF6"
+          ],
+          "hashtags": [
+            "SF6"
+          ],
+          "additionalTags": [
+            "Street Fighter"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Street Fighter 6"
+            },
+            "smashgg": {
+              "id": "43868"
+            },
+            "challonge": {
+              "id": "293490"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "",
+        "event": "",
+        "messages": [],
+        "set": {}
+      }
+    }
+  ]
+}
