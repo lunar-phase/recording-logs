@@ -1,0 +1,674 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-04-25 16-59-48.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2199265",
+  "eventId": "1556518",
+  "start": "02:45:44.816",
+  "end": "03:32:17.432",
+  "sets": [
+    {
+      "id": "102089401",
+      "displayName": "H - wf: AONI | pzooo vs AONI | moku",
+      "start": "02:45:44.816",
+      "end": "02:56:34.866",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weehawken"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202411100102465800000",
+              "handle": "minatums",
+              "prefix": "TSB/GaG",
+              "serviceIds": {
+                "twitter": "minatums",
+                "smashgg": "50896"
+              },
+              "pronouns": "he/him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CT",
+                "city": "Westport"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #56",
+        "event": "Guilty Gear Xrd Revelator 2",
+        "messages": [
+          "GG Xrd Rev2 Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102089401",
+            "phaseId": "2199265",
+            "phaseGroupId": "3196770"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - wf: AONI | pzooo vs AONI | moku",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | pzooo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "286842",
+                  "handle": "pzooo",
+                  "prefix": "AONI",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "pzooo_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | moku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "63607",
+                  "handle": "moku",
+                  "prefix": "AONI",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weehawken"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102089432",
+      "displayName": "P - ls: TSB/DRVN | minatums vs AONI | Bane?",
+      "start": "02:58:17.032",
+      "end": "03:08:24.249",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202411100102465800000",
+              "handle": "minatums",
+              "prefix": "TSB/DRVN",
+              "serviceIds": {
+                "twitter": "minatums",
+                "smashgg": "50896"
+              },
+              "pronouns": "he/him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Union"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "Pink"
+          },
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CT",
+                "city": "Westport"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weehawken"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #56",
+        "event": "Guilty Gear Xrd Revelator 2",
+        "messages": [
+          "GG Xrd Rev2 Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102089432",
+            "phaseId": "2199265",
+            "phaseGroupId": "3196770"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "P",
+          "displayName": "P - ls: TSB/DRVN | minatums vs AONI | Bane?",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "TSB/DRVN | minatums",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "50896",
+                  "handle": "minatums",
+                  "prefix": "TSB/DRVN",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "minatums"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Union"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Bane?",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2316469",
+                  "handle": "Bane?",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "sweatlord227"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-CT",
+                    "city": "Westport"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102089433",
+      "displayName": "Q - lf: AONI | Bane? vs AONI | moku",
+      "start": "03:09:55.782",
+      "end": "03:22:16.949",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CT",
+                "city": "Westport"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weehawken"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202411100102465800000",
+              "handle": "minatums",
+              "prefix": "TSB/DRVN",
+              "serviceIds": {
+                "twitter": "minatums",
+                "smashgg": "50896"
+              },
+              "pronouns": "he/him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Union"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #56",
+        "event": "Guilty Gear Xrd Revelator 2",
+        "messages": [
+          "GG Xrd Rev2 Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102089433",
+            "phaseId": "2199265",
+            "phaseGroupId": "3196770"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "Q",
+          "displayName": "Q - lf: AONI | moku vs AONI | Bane?",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | moku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "63607",
+                  "handle": "moku",
+                  "prefix": "AONI",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weehawken"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Bane?",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2316469",
+                  "handle": "Bane?",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "sweatlord227"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-CT",
+                    "city": "Westport"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102089402",
+      "displayName": "I - gf: AONI | pzooo vs AONI | moku",
+      "start": "03:32:17.016",
+      "end": "03:32:17.432",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202009122313009280000",
+              "handle": "moku",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "63607"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weehawken"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CT",
+                "city": "Westport"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202411100102465800000",
+              "handle": "minatums",
+              "prefix": "TSB/DRVN",
+              "serviceIds": {
+                "twitter": "minatums",
+                "smashgg": "50896"
+              },
+              "pronouns": "he/him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Union"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #56",
+        "event": "Guilty Gear Xrd Revelator 2",
+        "messages": [
+          "GG Xrd Rev2 Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102089402",
+            "phaseId": "2199265",
+            "phaseGroupId": "3196770"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - gf: AONI | pzooo vs AONI | moku",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | pzooo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "286842",
+                  "handle": "pzooo",
+                  "prefix": "AONI",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "pzooo_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | moku",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "63607",
+                  "handle": "moku",
+                  "prefix": "AONI",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weehawken"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

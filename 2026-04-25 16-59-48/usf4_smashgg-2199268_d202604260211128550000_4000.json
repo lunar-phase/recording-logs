@@ -1,0 +1,349 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-04-25 16-59-48.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2199268",
+  "eventId": "1556521",
+  "start": "04:58:22.582",
+  "end": "05:51:38.882",
+  "sets": [
+    {
+      "id": "102102442",
+      "displayName": "K - wf: NYCMastermike vs MannyFuerte",
+      "start": "04:58:22.582",
+      "end": "05:11:21.949",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rose"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202604260155529240000",
+              "handle": "MannyFuerte",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "499070"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "usf4",
+          "name": "Ultra Street Fighter IV",
+          "shortNames": [
+            "USF4"
+          ],
+          "hashtags": [
+            "USFIV"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Ultra Street Fighter IV"
+            },
+            "smashgg": {
+              "id": "16"
+            },
+            "challonge": {
+              "id": "1234"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202604260157357120000",
+              "handle": "Jay_O_Yeah",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350930002",
+              "handle": "Nighto",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2921652",
+                "twitter": "Nighto911"
+              },
+              "location": {
+                "country": "US",
+                "city": "Queens"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #56",
+        "event": "Ultra Street Fighter 4",
+        "messages": [
+          "USF4 Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102102442",
+            "phaseId": "2199268",
+            "phaseGroupId": "3196773"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - wf: NYCMastermike vs MannyFuerte",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "MannyFuerte",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "499070",
+                  "handle": "MannyFuerte",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102102444",
+      "displayName": "M - tf: NYCMastermike vs MannyFuerte",
+      "start": "05:29:09.000",
+      "end": "05:46:31.915",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rose"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202604260155529240000",
+              "handle": "MannyFuerte",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "499070"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "usf4",
+          "name": "Ultra Street Fighter IV",
+          "shortNames": [
+            "USF4"
+          ],
+          "hashtags": [
+            "USFIV"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Ultra Street Fighter IV"
+            },
+            "smashgg": {
+              "id": "16"
+            },
+            "challonge": {
+              "id": "1234"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202604260157357120000",
+              "handle": "Jay_O_Yeah",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350930002",
+              "handle": "Nighto",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2921652",
+                "twitter": "Nighto911"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Queens"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #56",
+        "event": "Ultra Street Fighter 4",
+        "messages": [
+          "USF4 Coming Up Next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102102444",
+            "phaseId": "2199268",
+            "phaseGroupId": "3196773"
+          },
+          "match": {
+            "id": "tf",
+            "name": "True Finals",
+            "smashggId": "Grand Final Reset"
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - tf: NYCMastermike vs MannyFuerte",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": true
+            },
+            {
+              "name": "MannyFuerte",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "499070",
+                  "handle": "MannyFuerte",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
