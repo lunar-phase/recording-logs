@@ -1,12 +1,17 @@
 {
+  "uploadId": "XaUeK8R_GD8",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-04-25 16-59-48.mkv",
   "bracketService": "smashgg",
   "phaseId": "2199268",
   "eventId": "1556521",
-  "start": "04:58:22.582",
-  "end": "05:51:38.882",
+  "start": "04:57:06",
+  "end": "05:46:49",
+  "thumbnailTimestamp": "04:58:21.732",
+  "userData": {
+    "featuring": "MannyFuerte"
+  },
   "sets": [
     {
       "id": "102102442",
@@ -37,7 +42,35 @@
               {
                 "characters": [
                   {
-                    "id": "rose"
+                    "id": "poison"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "elena"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "abel"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "evil-ryu"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "el-fuerte"
                   }
                 ]
               }
@@ -59,7 +92,44 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "guile"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "blanka"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "cammy"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "guy"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "gen"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -177,6 +247,70 @@
       }
     },
     {
+      "id": "102102473",
+      "displayName": "ls: Nighto vs Lem",
+      "start": "05:15:41",
+      "end": "05:20:14",
+      "state": {
+        "players": [
+          {
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "balrog"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rolento"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
+      "id": "102102474",
+      "displayName": "lf: NYCMastermike vs Lem",
+      "start": "05:22:00",
+      "end": "05:28:20",
+      "state": {
+        "players": [
+          {
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rose"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rolento"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    },
+    {
       "id": "102102444",
       "displayName": "M - tf: NYCMastermike vs MannyFuerte",
       "start": "05:29:09.000",
@@ -227,7 +361,30 @@
             },
             "score": 3,
             "inLosers": true,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "c-viper"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "abel"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "el-fuerte"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
