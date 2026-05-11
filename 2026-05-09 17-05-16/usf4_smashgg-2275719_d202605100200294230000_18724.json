@@ -1,0 +1,697 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-05-09 17-05-16.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2275719",
+  "eventId": "1616014",
+  "start": "04:43:33.715",
+  "end": "05:33:53.065",
+  "sets": [
+    {
+      "id": "102711076",
+      "displayName": "M - wf: Mashfest | Dragongod vs LP/WASD/TSB | Lem___________ (Lem)",
+      "start": "04:43:33.715",
+      "end": "04:55:12.065",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202605100147201160000",
+              "handle": "Dragongod",
+              "prefix": "Mashfest",
+              "serviceIds": {
+                "smashgg": "4854604"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Ny"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              },
+              "alias": "Lem___________"
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rolento"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "usf4",
+          "name": "Ultra Street Fighter IV",
+          "shortNames": [
+            "USF4"
+          ],
+          "hashtags": [
+            "USFIV"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Ultra Street Fighter IV"
+            },
+            "smashgg": {
+              "id": "16"
+            },
+            "challonge": {
+              "id": "1234"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605092241365120000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202605092212434660000",
+              "handle": "kevvard",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "USF4  Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102711076",
+            "phaseId": "2275719",
+            "phaseGroupId": "3296969"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - wf: Mashfest | Dragongod vs LP/WASD/TSB | Lem___________",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Mashfest | Dragongod",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4854604",
+                  "handle": "Dragongod",
+                  "prefix": "Mashfest",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Ny"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "LP/WASD/TSB | Lem___________",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem___________",
+                  "prefix": "LP/WASD/TSB",
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102711107",
+      "displayName": "Z - ls: NYCMastermike vs KeyChain",
+      "start": "04:57:03.000",
+      "end": "05:03:26.615",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rose"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202605100201172030000",
+              "handle": "KeyChain",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "50729"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "QUEENS VILLAGE"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "sagat"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "usf4",
+          "name": "Ultra Street Fighter IV",
+          "shortNames": [
+            "USF4"
+          ],
+          "hashtags": [
+            "USFIV"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Ultra Street Fighter IV"
+            },
+            "smashgg": {
+              "id": "16"
+            },
+            "challonge": {
+              "id": "1234"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605100201385100000",
+              "handle": "da",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202605092212434660000",
+              "handle": "kevvard",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Ultra Street Fighter 4",
+        "messages": [
+          "USF4  Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102711107",
+            "phaseId": "2275719",
+            "phaseGroupId": "3296969"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "Z",
+          "displayName": "Z - ls: KeyChain vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "KeyChain",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "50729",
+                  "handle": "KeyChain",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "QUEENS VILLAGE"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102711108",
+      "displayName": "AA - lf: NYCMastermike vs Mashfest | Dragongod",
+      "start": "05:05:00.182",
+      "end": "05:13:04.565",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rose"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202605100147201160000",
+              "handle": "Dragongod",
+              "prefix": "Mashfest",
+              "serviceIds": {
+                "smashgg": "4854604"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Ny"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "usf4",
+          "name": "Ultra Street Fighter IV",
+          "shortNames": [
+            "USF4"
+          ],
+          "hashtags": [
+            "USFIV"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Ultra Street Fighter IV"
+            },
+            "smashgg": {
+              "id": "16"
+            },
+            "challonge": {
+              "id": "1234"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306110150247350000",
+              "handle": "Shinebox",
+              "prefix": "IFM",
+              "serviceIds": {
+                "smashgg": "905693"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202605092212434660000",
+              "handle": "kevvard",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Ultra Street Fighter 4",
+        "messages": [
+          "USF4  Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102711108",
+            "phaseId": "2275719",
+            "phaseGroupId": "3296969"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "AA",
+          "displayName": "AA - lf: Mashfest | Dragongod vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Mashfest | Dragongod",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4854604",
+                  "handle": "Dragongod",
+                  "prefix": "Mashfest",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Ny"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102711077",
+      "displayName": "N - tf: NYCMastermike vs LP/WASD/TSB | Lem___________ (Lem)",
+      "start": "05:13:19.000",
+      "end": "05:30:39.215",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rose"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202008220402350750000",
+              "handle": "Lem",
+              "prefix": "LP/WASD/TSB",
+              "serviceIds": {
+                "twitter": "Lem___________",
+                "smashgg": "791209",
+                "challonge": "157809460"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              },
+              "alias": "Lem___________"
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "rolento"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "usf4",
+          "name": "Ultra Street Fighter IV",
+          "shortNames": [
+            "USF4"
+          ],
+          "hashtags": [
+            "USFIV"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Ultra Street Fighter IV"
+            },
+            "smashgg": {
+              "id": "16"
+            },
+            "challonge": {
+              "id": "1234"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Flushing"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202306110150247350000",
+              "handle": "Shinebox",
+              "prefix": "IFM",
+              "serviceIds": {
+                "smashgg": "905693"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Ultra Street Fighter 4",
+        "messages": [
+          "USF4  Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102711077",
+            "phaseId": "2275719",
+            "phaseGroupId": "3296969"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "N",
+          "displayName": "N - gf: LP/WASD/TSB | Lem___________ vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "LP/WASD/TSB | Lem___________",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "791209",
+                  "handle": "Lem___________",
+                  "prefix": "LP/WASD/TSB",
+                  "serviceIds": {
+                    "twitter": "Lem___________"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

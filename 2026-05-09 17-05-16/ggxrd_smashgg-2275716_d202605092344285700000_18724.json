@@ -1,0 +1,706 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-05-09 17-05-16.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2275716",
+  "eventId": "1616011",
+  "start": "02:24:03.049",
+  "end": "03:15:21.332",
+  "sets": [
+    {
+      "id": "102700652",
+      "displayName": "F - wf: AONI | Bane? vs AONI | pzooo",
+      "start": "02:24:03.049",
+      "end": "02:39:11.216",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CT",
+                "city": "Westport"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "raven"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "venom"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605092241365120000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202605092212434660000",
+              "handle": "kevvard",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "GGXrd Rev2 Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102700652",
+            "phaseId": "2275716",
+            "phaseGroupId": "3296966"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - wf: AONI | pzooo vs AONI | Bane?",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | pzooo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "286842",
+                  "handle": "pzooo",
+                  "prefix": "AONI",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "pzooo_"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | Bane?",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2316469",
+                  "handle": "Bane?",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "sweatlord227"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-CT",
+                    "city": "Westport"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102700667",
+      "displayName": "L - ls: AONI | LO7U5 (LOTU5) vs Highwind",
+      "start": "02:40:30.749",
+      "end": "02:43:22.116",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202411092354377400000",
+              "handle": "LOTU5",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "559033"
+              },
+              "pronouns": "He/They",
+              "alias": "LO7U5",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Jersey City"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "slayer"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202106132024532480000",
+              "handle": "Highwind",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "1688401"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "i-no"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605092241365120000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202605092212434660000",
+              "handle": "kevvard",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "GGXrd Rev2 Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102700667",
+            "phaseId": "2275716",
+            "phaseGroupId": "3296966"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - ls: AONI | LO7U5 vs Highwind",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | LO7U5",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "559033",
+                  "handle": "LO7U5",
+                  "prefix": "AONI",
+                  "pronouns": "He/They",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Jersey City"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Highwind",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1688401",
+                  "handle": "Highwind",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102700668",
+      "displayName": "M - lf: AONI | LO7U5 (LOTU5) vs AONI | Bane?",
+      "start": "02:44:53.632",
+      "end": "02:55:07.732",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202411092354377400000",
+              "handle": "LOTU5",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "559033"
+              },
+              "pronouns": "He/They",
+              "alias": "LO7U5",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Jersey City"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "slayer"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "leo"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202109112145348590000",
+              "handle": "Bane?",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "2316469",
+                "twitter": "sweatlord227"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-CT",
+                "city": "Westport"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "raven"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605092241365120000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202605092212434660000",
+              "handle": "kevvard",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "GGXrd Rev2 Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102700668",
+            "phaseId": "2275716",
+            "phaseGroupId": "3296966"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - lf: AONI | Bane? vs AONI | LO7U5",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | Bane?",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2316469",
+                  "handle": "Bane?",
+                  "prefix": "AONI",
+                  "serviceIds": {
+                    "twitter": "sweatlord227"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-CT",
+                    "city": "Westport"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "AONI | LO7U5",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "559033",
+                  "handle": "LO7U5",
+                  "prefix": "AONI",
+                  "pronouns": "He/They",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Jersey City"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102700654",
+      "displayName": "H - tf: AONI | LO7U5 (LOTU5) vs AONI | pzooo",
+      "start": "02:56:50.949",
+      "end": "03:15:21.332",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202411092354377400000",
+              "handle": "LOTU5",
+              "prefix": "AONI",
+              "serviceIds": {
+                "smashgg": "559033"
+              },
+              "pronouns": "He/They",
+              "alias": "LO7U5",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Jersey City"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "leo"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202207232041439220000",
+              "handle": "pzooo",
+              "prefix": "AONI",
+              "serviceIds": {
+                "twitter": "pzooo_",
+                "smashgg": "286842"
+              },
+              "pronouns": "he/him"
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "venom"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "ggxrd",
+          "name": "Guilty Gear Xrd",
+          "shortNames": [
+            "Xrd"
+          ],
+          "hashtags": [
+            "GGXRD"
+          ],
+          "additionalTags": [
+            "Guilty Gear"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Guilty Gear Xrd: Rev 2"
+            },
+            "smashgg": {
+              "id": "36"
+            },
+            "challonge": {
+              "id": "121822"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605092241365120000",
+              "handle": "ToxicOrange",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202605092212434660000",
+              "handle": "kevvard",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Persona 4 Arena Ultimax",
+        "messages": [
+          "GGXrd Rev2 Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102700654",
+            "phaseId": "2275716",
+            "phaseGroupId": "3296966"
+          },
+          "match": {
+            "id": "tf",
+            "name": "True Finals",
+            "smashggId": "Grand Final Reset"
+          },
+          "shortIdentifier": "H",
+          "displayName": "H - tf: AONI | LO7U5 vs AONI | pzooo",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "AONI | LO7U5",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "559033",
+                  "handle": "LO7U5",
+                  "prefix": "AONI",
+                  "pronouns": "He/They",
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Jersey City"
+                  }
+                }
+              ],
+              "inLosers": true
+            },
+            {
+              "name": "AONI | pzooo",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "286842",
+                  "handle": "pzooo",
+                  "prefix": "AONI",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "pzooo_"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

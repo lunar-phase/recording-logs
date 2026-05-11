@@ -1,0 +1,647 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-05-09 17-05-16.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2275712",
+  "eventId": "1616007",
+  "start": "00:00:00.000",
+  "end": "00:47:02.633",
+  "sets": [
+    {
+      "id": "102691808",
+      "displayName": "E - wf: WGO | Kidd Cudi (Kidd) vs Syrorin",
+      "start": "00:00:46.016",
+      "end": "00:00:50.216",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351250001",
+              "handle": "Syrorin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "syrorin",
+                "smashgg": "573623"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "Yokai Teio",
+              "prefix": "LP/BPM",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "messages": [
+          "P4AU Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102691808",
+            "phaseId": "2275712",
+            "phaseGroupId": "3296962"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - wf: WGO | Kidd Cudi vs Syrorin",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weekhawken"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Syrorin",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "573623",
+                  "handle": "Syrorin",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "syrorin"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102691808",
+      "displayName": "E - wf: Syrorin vs WGO | Kidd Cudi (Kidd)",
+      "start": "00:01:02.299",
+      "end": "00:08:05.449",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351250001",
+              "handle": "Syrorin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "syrorin",
+                "smashgg": "573623"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "Yokai Teio",
+              "prefix": "LP/BPM",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "messages": [
+          "P4AU Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102691808",
+            "phaseId": "2275712",
+            "phaseGroupId": "3296962"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - wf: WGO | Kidd Cudi vs Syrorin",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weekhawken"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Syrorin",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "573623",
+                  "handle": "Syrorin",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "syrorin"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102691824",
+      "displayName": "K - lf: Syrorin vs S.O.N.G. | Tomuhawk",
+      "start": "00:11:11.366",
+      "end": "00:22:37.316",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402351250001",
+              "handle": "Syrorin",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "syrorin",
+                "smashgg": "573623"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomuhawk",
+              "prefix": "S.O.N.G.",
+              "serviceIds": {
+                "twitter": "NYC_Tomuhawk",
+                "smashgg": "170633"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "Yokai Teio",
+              "prefix": "LP/BPM",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "messages": [
+          "P4AU Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102691824",
+            "phaseId": "2275712",
+            "phaseGroupId": "3296962"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lf: Syrorin vs S.O.N.G. | Tomuhawk",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Syrorin",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "573623",
+                  "handle": "Syrorin",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "syrorin"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "S.O.N.G. | Tomuhawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "170633",
+                  "handle": "Tomuhawk",
+                  "prefix": "S.O.N.G.",
+                  "serviceIds": {
+                    "twitter": "NYC_Tomuhawk"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102691809",
+      "displayName": "F - Grand Finals Reset: WGO | Kidd Cudi (Kidd) vs S.O.N.G. | Tomuhawk",
+      "start": "00:24:33.633",
+      "end": "00:47:02.633",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351280002",
+              "handle": "Tomuhawk",
+              "prefix": "S.O.N.G.",
+              "serviceIds": {
+                "twitter": "NYC_Tomuhawk",
+                "smashgg": "170633"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "Grand Finals Reset",
+          "smashggId": null
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350760000",
+              "handle": "Yokai Teio",
+              "prefix": "LP/BPM",
+              "serviceIds": {
+                "twitter": "LoFi_Yokai",
+                "smashgg": "413756"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #57",
+        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "messages": [
+          "P4AU Coming Up Next!",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102691809",
+            "phaseId": "2275712",
+            "phaseGroupId": "3296962"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - gf: WGO | Kidd Cudi vs S.O.N.G. | Tomuhawk",
+          "completedAt": 1778363150,
+          "entrants": [
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weekhawken"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "S.O.N.G. | Tomuhawk",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "170633",
+                  "handle": "Tomuhawk",
+                  "prefix": "S.O.N.G.",
+                  "serviceIds": {
+                    "twitter": "NYC_Tomuhawk"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
