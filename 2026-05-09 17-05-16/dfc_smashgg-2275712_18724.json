@@ -1,170 +1,16 @@
 {
+  "uploadId": "RggDUxaa2Zk",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-05-09 17-05-16.mkv",
   "bracketService": "smashgg",
   "phaseId": "2275712",
   "eventId": "1616007",
-  "start": "00:00:00.000",
-  "end": "00:47:02.633",
+  "phaseName": "Top 3",
+  "start": "00:00:02",
+  "end": "00:48:47",
+  "thumbnailTimestamp": "00:11:15.649",
   "sets": [
-    {
-      "id": "102691808",
-      "displayName": "E - wf: WGO | Kidd Cudi (Kidd) vs Syrorin",
-      "start": "00:00:46.016",
-      "end": "00:00:50.216",
-      "state": {
-        "players": [
-          {
-            "person": {
-              "id": "d202303190120135510000",
-              "handle": "Kidd",
-              "prefix": "WGO",
-              "serviceIds": {
-                "twitter": "Cookiebitz",
-                "smashgg": "574317"
-              },
-              "alias": "Kidd Cudi",
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "Weekhawken"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202008220402351250001",
-              "handle": "Syrorin",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "syrorin",
-                "smashgg": "573623"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "wf",
-          "name": "Winners Finals",
-          "smashggId": "Winners Final"
-        },
-        "game": {
-          "id": "dfc",
-          "name": "Dengeki Bunko Fighting Climax: Ignition",
-          "shortNames": [
-            "Dengeki Bunko Fighting Climax",
-            "Dengeki Bunko",
-            "DFCI"
-          ],
-          "hashtags": [
-            "DFCI"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Dengeki Bunko: Fighting Climax Ignition"
-            },
-            "smashgg": {
-              "id": "4267"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350760000",
-              "handle": "Yokai Teio",
-              "prefix": "LP/BPM",
-              "serviceIds": {
-                "twitter": "LoFi_Yokai",
-                "smashgg": "413756"
-              },
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "Brooklyn"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
-            }
-          }
-        ],
-        "tournament": "Lunatic Perilune #57",
-        "event": "Dengeki Bunko Fighting Climax Ignition",
-        "messages": [
-          "P4AU Coming Up Next!",
-          ""
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "102691808",
-            "phaseId": "2275712",
-            "phaseGroupId": "3296962"
-          },
-          "match": {
-            "id": "wf",
-            "name": "Winners Finals",
-            "smashggId": "Winners Final"
-          },
-          "shortIdentifier": "E",
-          "displayName": "E - wf: WGO | Kidd Cudi vs Syrorin",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "WGO | Kidd Cudi",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "574317",
-                  "handle": "Kidd Cudi",
-                  "prefix": "WGO",
-                  "pronouns": "He/Him",
-                  "serviceIds": {
-                    "twitter": "Cookiebitz"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NJ",
-                    "city": "Weekhawken"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Syrorin",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "573623",
-                  "handle": "Syrorin",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "syrorin"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
-      }
-    },
     {
       "id": "102691808",
       "displayName": "E - wf: Syrorin vs WGO | Kidd Cudi (Kidd)",
@@ -261,7 +107,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #57",
-        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "event": "",
         "messages": [
           "P4AU Coming Up Next!",
           ""
@@ -325,7 +171,7 @@
     {
       "id": "102691824",
       "displayName": "K - lf: Syrorin vs S.O.N.G. | Tomuhawk",
-      "start": "00:11:11.366",
+      "start": "00:11:06",
       "end": "00:22:37.316",
       "state": {
         "players": [
@@ -416,7 +262,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #57",
-        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "event": "",
         "messages": [
           "P4AU Coming Up Next!",
           ""
@@ -479,7 +325,7 @@
     {
       "id": "102691809",
       "displayName": "F - Grand Finals Reset: WGO | Kidd Cudi (Kidd) vs S.O.N.G. | Tomuhawk",
-      "start": "00:24:33.633",
+      "start": "00:24:28",
       "end": "00:47:02.633",
       "state": {
         "players": [
@@ -577,7 +423,7 @@
           }
         ],
         "tournament": "Lunatic Perilune #57",
-        "event": "Dengeki Bunko Fighting Climax Ignition",
+        "event": "",
         "messages": [
           "P4AU Coming Up Next!",
           ""
