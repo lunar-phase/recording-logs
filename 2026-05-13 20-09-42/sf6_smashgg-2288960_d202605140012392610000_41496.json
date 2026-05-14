@@ -1,4 +1,5 @@
 {
+  "uploadId": "hk9faFVPliA",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-05-13 20-09-42.mkv",
@@ -7,7 +8,7 @@
   "eventId": "1626172",
   "start": "00:02:56.166",
   "end": "02:23:27.299",
-  "thumbnailTimestamp": "01:02:22.749",
+  "thumbnailTimestamp": "01:02:21.848",
   "userData": {
     "headline": "Collab-slop"
   },
@@ -423,7 +424,19 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "sagat",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -791,7 +804,7 @@
               {
                 "characters": [
                   {
-                    "id": "elena",
+                    "id": "chun-li",
                     "options": {
                       "controls": "classic"
                     }
@@ -1303,7 +1316,7 @@
     },
     {
       "id": "102832094",
-      "displayName": "O - l2: FreeLuigi | trifmoney vs Matthew",
+      "displayName": "O - l2: trifmoney vs Matthew",
       "start": "00:58:14.066",
       "end": "01:04:30.616",
       "state": {
@@ -1312,7 +1325,7 @@
             "person": {
               "id": "d202309140054224180000",
               "handle": "trifmoney",
-              "prefix": "FreeLuigi",
+              "prefix": null,
               "serviceIds": {
                 "twitter": "trifmoney",
                 "smashgg": "4194"
@@ -1540,7 +1553,7 @@
               {
                 "characters": [
                   {
-                    "id": "elena",
+                    "id": "chun-li",
                     "options": {
                       "controls": "classic"
                     }
