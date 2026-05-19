@@ -1,0 +1,744 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-05-16 11-51-43.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2214250",
+  "eventId": "1568188",
+  "start": "10:11:57.431",
+  "end": "11:26:00.265",
+  "sets": [
+    {
+      "id": "102984356",
+      "displayName": "C - wf: NS | Wilsports | LeCarpetron Dookmarriot (Overdr1ve) vs Just Blue",
+      "start": "10:15:09.000",
+      "end": "10:28:28.765",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202510310441317590000",
+              "handle": "Overdr1ve",
+              "prefix": "NS | Wilsports",
+              "serviceIds": {
+                "twitter": "0verdr1ve__",
+                "smashgg": "2585781"
+              },
+              "location": {
+                "country": "US"
+              },
+              "alias": "LeCarpetron Dookmarriot"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "brawler"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202605162350549580000",
+              "handle": "Just Blue",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "JustBlue4Ever",
+                "smashgg": "2053872"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "steve"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605161827025300000",
+              "handle": "Max Ketchum",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MaxKetchum_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202605162004241290000",
+              "handle": "Hazmatt",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HazmattRules"
+              }
+            }
+          }
+        ],
+        "tournament": "VacationLAN 2",
+        "event": "",
+        "messages": [
+          "",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102984356",
+            "phaseId": "2214250",
+            "phaseGroupId": "3215841"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wf: NS | Wilsports | LeCarpetron Dookmarriot vs Just Blue",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NS | Wilsports | LeCarpetron Dookmarriot",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2585781",
+                  "handle": "LeCarpetron Dookmarriot",
+                  "prefix": "NS | Wilsports",
+                  "serviceIds": {
+                    "twitter": "0verdr1ve__"
+                  },
+                  "location": {
+                    "country": "US"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Just Blue",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2053872",
+                  "handle": "Just Blue",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "JustBlue4Ever"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102984371",
+      "displayName": "J - ls: Nuggetz vs CX | Bruho",
+      "start": "10:30:32.000",
+      "end": "10:44:39.331",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202510310441318880000",
+              "handle": "Nuggetz",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "YoungBoyBread",
+                "smashgg": "49835"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-MA",
+                "city": "Malden"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "daisy"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202510310441319710002",
+              "handle": "Bruho",
+              "prefix": "CX",
+              "serviceIds": {
+                "twitter": "Bruho_ssbu",
+                "smashgg": "1888506"
+              },
+              "pronouns": "He/him",
+              "location": {
+                "country": "US",
+                "state": "US-MA",
+                "city": "Lowell"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "k-rool"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605161827025300000",
+              "handle": "Max Ketchum",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MaxKetchum_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202605162004241290000",
+              "handle": "Hazmatt",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HazmattRules"
+              }
+            }
+          }
+        ],
+        "tournament": "VacationLAN 2",
+        "event": "",
+        "messages": [
+          "",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102984371",
+            "phaseId": "2214250",
+            "phaseGroupId": "3215841"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - ls: Nuggetz vs CX | Bruho",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Nuggetz",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "49835",
+                  "handle": "Nuggetz",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "YoungBoyBread"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MA",
+                    "city": "Malden"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "CX | Bruho",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1888506",
+                  "handle": "Bruho",
+                  "prefix": "CX",
+                  "pronouns": "He/him",
+                  "serviceIds": {
+                    "twitter": "Bruho_ssbu"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MA",
+                    "city": "Lowell"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102984372",
+      "displayName": "K - lf: NS | Wilsports | LeCarpetron Dookmarriot (Overdr1ve) vs CX | Bruho",
+      "start": "10:45:57.265",
+      "end": "10:56:45.615",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202510310441317590000",
+              "handle": "Overdr1ve",
+              "prefix": "NS | Wilsports",
+              "serviceIds": {
+                "twitter": "0verdr1ve__",
+                "smashgg": "2585781"
+              },
+              "location": {
+                "country": "US"
+              },
+              "alias": "LeCarpetron Dookmarriot"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "brawler"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "pac-man"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202510310441319710002",
+              "handle": "Bruho",
+              "prefix": "CX",
+              "serviceIds": {
+                "twitter": "Bruho_ssbu",
+                "smashgg": "1888506"
+              },
+              "pronouns": "He/him",
+              "location": {
+                "country": "US",
+                "state": "US-MA",
+                "city": "Lowell"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "ike"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605161827025300000",
+              "handle": "Max Ketchum",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MaxKetchum_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202605162004241290000",
+              "handle": "Hazmatt",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HazmattRules"
+              }
+            }
+          }
+        ],
+        "tournament": "VacationLAN 2",
+        "event": "",
+        "messages": [
+          "",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102984372",
+            "phaseId": "2214250",
+            "phaseGroupId": "3215841"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lf: NS | Wilsports | LeCarpetron Dookmarriot vs CX | Bruho",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NS | Wilsports | LeCarpetron Dookmarriot",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2585781",
+                  "handle": "LeCarpetron Dookmarriot",
+                  "prefix": "NS | Wilsports",
+                  "serviceIds": {
+                    "twitter": "0verdr1ve__"
+                  },
+                  "location": {
+                    "country": "US"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "CX | Bruho",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1888506",
+                  "handle": "Bruho",
+                  "prefix": "CX",
+                  "pronouns": "He/him",
+                  "serviceIds": {
+                    "twitter": "Bruho_ssbu"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MA",
+                    "city": "Lowell"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102984357",
+      "displayName": "D - tf: Just Blue vs CX | Bruho",
+      "start": "10:59:53.181",
+      "end": "11:26:00.265",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202605162350549580000",
+              "handle": "Just Blue",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "JustBlue4Ever",
+                "smashgg": "2053872"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "steve"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "wft"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202510310441319710002",
+              "handle": "Bruho",
+              "prefix": "CX",
+              "serviceIds": {
+                "twitter": "Bruho_ssbu",
+                "smashgg": "1888506"
+              },
+              "pronouns": "He/him",
+              "location": {
+                "country": "US",
+                "state": "US-MA",
+                "city": "Lowell"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kazuya"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "meta-knight"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202510310441319710002",
+              "handle": "Bruho",
+              "prefix": "CX",
+              "serviceIds": {
+                "twitter": "Bruho_ssbu",
+                "smashgg": "1888506"
+              },
+              "pronouns": "He/him",
+              "location": {
+                "country": "US",
+                "state": "US-MA",
+                "city": "Lowell"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202605162004241290000",
+              "handle": "Hazmatt",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "HazmattRules"
+              }
+            }
+          }
+        ],
+        "tournament": "VacationLAN 2",
+        "event": "",
+        "messages": [
+          "",
+          "",
+          "sign off after interview"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102984357",
+            "phaseId": "2214250",
+            "phaseGroupId": "3215841"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - gf: Just Blue vs CX | Bruho",
+          "completedAt": 1778986693,
+          "entrants": [
+            {
+              "name": "Just Blue",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2053872",
+                  "handle": "Just Blue",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "JustBlue4Ever"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "CX | Bruho",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1888506",
+                  "handle": "Bruho",
+                  "prefix": "CX",
+                  "pronouns": "He/him",
+                  "serviceIds": {
+                    "twitter": "Bruho_ssbu"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MA",
+                    "city": "Lowell"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

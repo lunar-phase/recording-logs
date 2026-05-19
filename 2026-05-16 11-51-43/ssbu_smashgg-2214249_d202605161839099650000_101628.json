@@ -1,0 +1,671 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-05-16 11-51-43.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2214249",
+  "eventId": "1568188",
+  "start": "02:47:25.732",
+  "end": "04:07:24.816",
+  "sets": [
+    {
+      "id": "102943215",
+      "displayName": "D - A1 Winners Round 1: WL | LVL3 vs OUG | Abruzaza",
+      "start": "02:48:42",
+      "end": "03:06:39.182",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202510310441319540000",
+              "handle": "LVL3",
+              "prefix": "WL",
+              "serviceIds": {
+                "twitter": "lvl_3_cpu",
+                "smashgg": "434040"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-ME",
+                "city": "Buxton"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202605161836033670000",
+              "handle": "Abruzaza",
+              "prefix": "OUG",
+              "serviceIds": {
+                "twitter": "AnthonyAbruzaza",
+                "smashgg": "1813348"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-RI",
+                "city": "Cumberland"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "A1 Winners Round 1",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605161827025300000",
+              "handle": "Max Ketchum",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MaxKetchum_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202510310333151360000",
+              "handle": "Bounce",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jarodchi_",
+                "smashgg": "2684284"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "VacationLAN 2",
+        "event": "",
+        "messages": [
+          "Be right back!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102943215",
+            "phaseId": "2214249",
+            "phaseGroupId": "3215833"
+          },
+          "match": {
+            "id": "",
+            "name": "A1 Winners Round 1",
+            "smashggId": "Winners Round 1"
+          },
+          "shortIdentifier": "D",
+          "displayName": "A1 D - w1: OUG | Abruzaza vs WL | LVL3",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "OUG | Abruzaza",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1813348",
+                  "handle": "Abruzaza",
+                  "prefix": "OUG",
+                  "serviceIds": {
+                    "twitter": "AnthonyAbruzaza"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-RI",
+                    "city": "Cumberland"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WL | LVL3",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "434040",
+                  "handle": "LVL3",
+                  "prefix": "WL",
+                  "serviceIds": {
+                    "twitter": "lvl_3_cpu"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-ME",
+                    "city": "Buxton"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102942680",
+      "displayName": "L - A4 Winners Semis: Sailor Jess vs Ethan",
+      "start": "03:11:50",
+      "end": "03:24:52.466",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202605161901340750000",
+              "handle": "Sailor Jess",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "SailorJess_",
+                "smashgg": "1003263"
+              },
+              "pronouns": "She/Her",
+              "location": {
+                "country": "US",
+                "state": "US-NH",
+                "city": "Manchester"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202605161901340740000",
+              "handle": "Ethan",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "EthanSolidSnake",
+                "smashgg": "1035429"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NH",
+                "city": "Hillsborough"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "A4 Winners Semis",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605161827025300000",
+              "handle": "Max Ketchum",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MaxKetchum_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202510310333151360000",
+              "handle": "Bounce",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jarodchi_",
+                "smashgg": "2684284"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "VacationLAN 2",
+        "event": "",
+        "messages": [
+          "Be right back!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102942680",
+            "phaseId": "2214249",
+            "phaseGroupId": "3215836"
+          },
+          "match": {
+            "id": "",
+            "name": "A4 Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "L",
+          "displayName": "A4 L - ws: Ethan vs Sailor Jess",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Ethan",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1035429",
+                  "handle": "Ethan",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "EthanSolidSnake"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NH",
+                    "city": "Hillsborough"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Sailor Jess",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1003263",
+                  "handle": "Sailor Jess",
+                  "prefix": null,
+                  "pronouns": "She/Her",
+                  "serviceIds": {
+                    "twitter": "SailorJess_"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NH",
+                    "city": "Manchester"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102943223",
+      "displayName": "K - A1 Winners Semis: Hiycks vs HTC | Crusstavo Fring",
+      "start": "03:28:09.399",
+      "end": "03:46:13.949",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202510310441319170000",
+              "handle": "Hiycks",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "2003chevymalib",
+                "smashgg": "1743666"
+              },
+              "pronouns": "he/they/she",
+              "location": {
+                "country": "US",
+                "state": "US-MA",
+                "city": "Bellingham"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202510310441318310000",
+              "handle": "Crusstavo Fring",
+              "prefix": "HTC",
+              "serviceIds": {
+                "twitter": "uptiltbair",
+                "smashgg": "2186721"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NH",
+                "city": "Hooksett"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "A1 Winners Semis",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605161827025300000",
+              "handle": "Max Ketchum",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MaxKetchum_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202510310333151360000",
+              "handle": "Bounce",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jarodchi_",
+                "smashgg": "2684284"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "VacationLAN 2",
+        "event": "",
+        "messages": [
+          "Be right back!",
+          "",
+          ""
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102943223",
+            "phaseId": "2214249",
+            "phaseGroupId": "3215833"
+          },
+          "match": {
+            "id": "",
+            "name": "A1 Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "K",
+          "displayName": "A1 K - ws: HTC | Crusstavo Fring vs Hiycks",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "HTC | Crusstavo Fring",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2186721",
+                  "handle": "Crusstavo Fring",
+                  "prefix": "HTC",
+                  "serviceIds": {
+                    "twitter": "uptiltbair"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NH",
+                    "city": "Hooksett"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Hiycks",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1743666",
+                  "handle": "Hiycks",
+                  "prefix": null,
+                  "pronouns": "he/they/she",
+                  "serviceIds": {
+                    "twitter": "2003chevymalib"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-MA",
+                    "city": "Bellingham"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "102943363",
+      "displayName": "K - A2 Winners Semis: GING | Coryabro vs NS | Wilsports | LeCarpetron Dookmarriot (Overdr1ve)",
+      "start": "03:48:55.000",
+      "end": "04:04:11.299",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202605161938575810000",
+              "handle": "Coryabro",
+              "prefix": "GING",
+              "serviceIds": {
+                "twitter": "coryabro",
+                "smashgg": "2028322"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NH",
+                "city": "Manchester"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202510310441317590000",
+              "handle": "Overdr1ve",
+              "prefix": "NS | Wilsports",
+              "serviceIds": {
+                "twitter": "0verdr1ve__",
+                "smashgg": "2585781"
+              },
+              "location": {
+                "country": "US"
+              },
+              "alias": "LeCarpetron Dookmarriot"
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "A2 Winners Semis",
+          "smashggId": null
+        },
+        "game": {
+          "id": "ssbu",
+          "name": "Super Smash Bros. Ultimate",
+          "shortNames": [
+            "Smash Ultimate",
+            "SSBU"
+          ],
+          "hashtags": [
+            "SSBU"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Super Smash Bros. Ultimate"
+            },
+            "smashgg": {
+              "id": "1386"
+            },
+            "challonge": {
+              "id": "141059"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202605161827025300000",
+              "handle": "Max Ketchum",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "MaxKetchum_"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202510310333151360000",
+              "handle": "Bounce",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "jarodchi_",
+                "smashgg": "2684284"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "VacationLAN 2",
+        "event": "",
+        "messages": [
+          "Be right back!",
+          "",
+          "ads then throw to break"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "102943363",
+            "phaseId": "2214249",
+            "phaseGroupId": "3215837"
+          },
+          "match": {
+            "id": "",
+            "name": "A2 Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "K",
+          "displayName": "A2 K - ws: NS | Wilsports | LeCarpetron Dookmarriot vs GING | Coryabro",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NS | Wilsports | LeCarpetron Dookmarriot",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2585781",
+                  "handle": "LeCarpetron Dookmarriot",
+                  "prefix": "NS | Wilsports",
+                  "serviceIds": {
+                    "twitter": "0verdr1ve__"
+                  },
+                  "location": {
+                    "country": "US"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "GING | Coryabro",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2028322",
+                  "handle": "Coryabro",
+                  "prefix": "GING",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "coryabro"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NH",
+                    "city": "Manchester"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
