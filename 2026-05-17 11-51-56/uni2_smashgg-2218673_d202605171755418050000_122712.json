@@ -1,12 +1,14 @@
 {
+  "uploadId": "ZtgUWMZdcww",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-05-17 11-51-56.mkv",
   "bracketService": "smashgg",
   "phaseId": "2218673",
   "eventId": "1571670",
-  "start": "02:03:44.666",
+  "start": "02:03:46",
   "end": "03:31:18.066",
+  "thumbnailTimestamp": "02:04:00.903",
   "sets": [
     {
       "id": "103007392",
@@ -26,7 +28,16 @@
             },
             "score": 2,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "londrekia"
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -44,7 +55,16 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "wagner"
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
@@ -160,164 +180,35 @@
       }
     },
     {
-      "id": "103007408",
-      "displayName": "M - lq: CLP | Ransom vs Gorgovitch",
+      "id": "103007393",
+      "displayName": "F - ws: deadbush vs Salamand3rMan",
       "start": "02:18:29.966",
       "end": "02:26:57.799",
       "state": {
         "players": [
           {
-            "person": {
-              "id": "d202605171818333550000",
-              "handle": "Ransom",
-              "prefix": "CLP",
-              "serviceIds": {
-                "smashgg": "2875130"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NH",
-                "city": "Windham"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          },
-          {
-            "person": {
-              "id": "d202510310441319180002",
-              "handle": "Gorgovitch",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "419083"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-ME",
-                "city": "Westbrook"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": ""
-          }
-        ],
-        "match": {
-          "id": "lq",
-          "name": "Losers Quarters",
-          "smashggId": "Losers Quarter-Final"
-        },
-        "game": {
-          "id": "uni2",
-          "name": "Under Night In-Birth II Sys:Celes",
-          "shortNames": [
-            "Under Night In-Birth 2",
-            "UNI 2"
-          ],
-          "hashtags": [
-            "UNI2",
-            "inbirth",
-            "UNISC"
-          ],
-          "additionalTags": [
-            "UNDERNIGHT"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
-            },
-            "smashgg": {
-              "id": "50203"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202510310441319410001",
-              "handle": "Sorrel",
-              "prefix": "RUSH | STAR",
-              "serviceIds": {
-                "twitter": "Sorrel_ch",
-                "smashgg": "4733519"
-              },
-              "pronouns": "they/them, she/her"
-            }
-          },
-          {
-            "person": {
-              "id": "d202510310441319310000",
-              "handle": "Lennox",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "709839",
-                "twitter": "Lennox207"
-              }
-            }
-          }
-        ],
-        "tournament": "VacationLAN 2",
-        "event": "",
-        "messages": [
-          "UNI 2 top 6 up next!",
-          "",
-          ""
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "103007408",
-            "phaseId": "2218673",
-            "phaseGroupId": "3221401"
-          },
-          "match": {
-            "id": "lq",
-            "name": "Losers Quarters",
-            "smashggId": "Losers Quarter-Final"
-          },
-          "shortIdentifier": "M",
-          "displayName": "M - lq: Gorgovitch vs CLP | Ransom",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Gorgovitch",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "419083",
-                  "handle": "Gorgovitch",
-                  "prefix": null,
-                  "serviceIds": {},
-                  "location": {
-                    "country": "US",
-                    "state": "US-ME",
-                    "city": "Westbrook"
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "wagner"
                   }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "CLP | Ransom",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "2875130",
-                  "handle": "Ransom",
-                  "prefix": "CLP",
-                  "serviceIds": {},
-                  "location": {
-                    "country": "US",
-                    "state": "US-NH",
-                    "city": "Windham"
+                ]
+              }
+            ]
+          },
+          {
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "gordeau"
                   }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
+                ]
+              }
+            ]
+          }
+        ]
       }
     },
     {
