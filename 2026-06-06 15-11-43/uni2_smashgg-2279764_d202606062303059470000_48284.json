@@ -1,4 +1,5 @@
 {
+  "uploadId": "pHve6kT31os",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-06-06 15-11-43.mkv",
@@ -7,7 +8,10 @@
   "eventId": "1619129",
   "start": "03:51:21.766",
   "end": "06:19:13.765",
-  "thumbnailTimestamp": "04:21:26.616",
+  "thumbnailTimestamp": "04:21:27.683",
+  "userData": {
+    "featuring": "Silic0n, brrrr"
+  },
   "sets": [
     {
       "id": "103815756",
@@ -224,6 +228,13 @@
                     "id": "orie"
                   }
                 ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "kuon"
+                  }
+                ]
               }
             ]
           },
@@ -249,7 +260,7 @@
               {
                 "characters": [
                   {
-                    "id": "carmine"
+                    "id": "phonon"
                   }
                 ]
               }
@@ -622,6 +633,13 @@
                 "characters": [
                   {
                     "id": "merkava"
+                  }
+                ]
+              },
+              {
+                "characters": [
+                  {
+                    "id": "hyde"
                   }
                 ]
               }
@@ -1873,197 +1891,35 @@
       }
     },
     {
-      "id": "103815822",
-      "displayName": "AZ - ls: Machiroon | brrrr vs Linguini Bros | GaryButternubs",
+      "id": "103815759",
+      "displayName": "Z - wf: artthefool vs Silic0n",
       "start": "05:22:19.682",
       "end": "05:36:43.899",
       "state": {
         "players": [
           {
-            "person": {
-              "id": "d202008220402352790000",
-              "handle": "brrrr",
-              "prefix": "Machiroon",
-              "serviceIds": {
-                "twitter": "I3ryce",
-                "smashgg": "254728"
-              },
-              "pronouns": "he/him",
-              "location": {
-                "country": "US",
-                "state": "US-IL",
-                "city": "Springfield"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
             "teams": [
               {
                 "characters": [
                   {
-                    "id": "merkava"
+                    "id": "gordeau"
                   }
                 ]
               }
             ]
           },
           {
-            "person": {
-              "id": "d202208132328085130000",
-              "handle": "GaryButternubs",
-              "prefix": "Linguini Bros",
-              "serviceIds": {
-                "twitter": "GButternubs",
-                "smashgg": "1969295"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NJ",
-                "city": "River Vale"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
             "teams": [
               {
                 "characters": [
                   {
-                    "id": "hyde"
+                    "id": "chaos"
                   }
                 ]
               }
             ]
           }
-        ],
-        "match": {
-          "id": "ls",
-          "name": "Losers Semis",
-          "smashggId": "Losers Semi-Final"
-        },
-        "game": {
-          "id": "uni2",
-          "name": "Under Night In-Birth II Sys:Celes",
-          "shortNames": [
-            "Under Night In-Birth 2",
-            "UNI 2"
-          ],
-          "hashtags": [
-            "UNI2",
-            "inbirth",
-            "UNISC"
-          ],
-          "additionalTags": [
-            "UNDERNIGHT"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "UNDER NIGHT IN-BIRTH II Sys:Celes"
-            },
-            "smashgg": {
-              "id": "50203"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350320001",
-              "handle": "F O X",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "MakotoFOX_",
-                "smashgg": "249913"
-              },
-              "pronouns": "He/Him",
-              "location": {
-                "country": "US"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402352790000",
-              "handle": "brrrr",
-              "prefix": "Machiroon",
-              "serviceIds": {
-                "twitter": "I3ryce",
-                "smashgg": "254728"
-              },
-              "pronouns": "he/him",
-              "location": {
-                "country": "US",
-                "state": "US-IL",
-                "city": "Springfield"
-              }
-            }
-          }
-        ],
-        "tournament": "TSB x LP",
-        "event": "",
-        "messages": [
-          "UNI2 Up Next!"
-        ],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "103815822",
-            "phaseId": "2279764",
-            "phaseGroupId": "3302163"
-          },
-          "match": {
-            "id": "ls",
-            "name": "Losers Semis",
-            "smashggId": "Losers Semi-Final"
-          },
-          "shortIdentifier": "AZ",
-          "displayName": "AZ - ls: Machiroon | brrrr vs Linguini Bros | GaryButternubs",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Machiroon | brrrr",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "254728",
-                  "handle": "brrrr",
-                  "prefix": "Machiroon",
-                  "pronouns": "he/him",
-                  "serviceIds": {
-                    "twitter": "I3ryce"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-IL",
-                    "city": "Springfield"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Linguini Bros | GaryButternubs",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "1969295",
-                  "handle": "GaryButternubs",
-                  "prefix": "Linguini Bros",
-                  "serviceIds": {
-                    "twitter": "GButternubs"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NJ",
-                    "city": "River Vale"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
+        ]
       }
     },
     {
