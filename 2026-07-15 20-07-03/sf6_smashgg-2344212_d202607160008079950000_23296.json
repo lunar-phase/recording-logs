@@ -1,4 +1,5 @@
 {
+  "uploadId": "ganFDSdZ1wk",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-07-15 20-07-03.mkv",
@@ -13,7 +14,7 @@
   },
   "sets": [
     {
-      "id": "preview_3387192_1_1",
+      "id": "105333844",
       "displayName": "A - w1: NYCMastermike vs MAMAMARTY",
       "start": "00:00:58.999",
       "end": "00:08:45.749",
@@ -140,56 +141,7 @@
         ],
         "tournament": "",
         "event": "",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "preview_3387192_1_1",
-            "phaseId": "2344212",
-            "phaseGroupId": "3387192"
-          },
-          "match": {
-            "id": "w1",
-            "name": "Winners Round 1",
-            "smashggId": "Winners Round 1"
-          },
-          "shortIdentifier": "A",
-          "displayName": "A - w1: Ryryme vs Erevan",
-          "completedAt": null,
-          "entrants": [
-            {
-              "name": "Ryryme",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "4915047",
-                  "handle": "Ryryme",
-                  "prefix": null,
-                  "serviceIds": {},
-                  "location": {
-                    "country": "US",
-                    "state": "US-IL",
-                    "city": "Chicago"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Erevan",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "2884056",
-                  "handle": "Erevan",
-                  "prefix": null,
-                  "serviceIds": {}
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
+        "messages": []
       }
     },
     {
@@ -215,7 +167,19 @@
             },
             "score": 0,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "guile",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
           },
           {
             "person": {
@@ -228,7 +192,19 @@
             },
             "score": 1,
             "inLosers": false,
-            "comment": ""
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "sagat",
+                    "options": {
+                      "controls": "classic"
+                    }
+                  }
+                ]
+              }
+            ]
           }
         ],
         "match": {
