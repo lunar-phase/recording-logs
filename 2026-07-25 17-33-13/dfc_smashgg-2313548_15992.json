@@ -1,12 +1,15 @@
 {
+  "uploadId": "hfy5n7xCd2w",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-07-25 17-33-13.mkv",
   "bracketService": "smashgg",
   "phaseId": "2313548",
   "eventId": "1644818",
-  "start": "00:00:00.000",
-  "end": "01:17:52.533",
+  "phaseName": "Top 6",
+  "start": "00:00:02",
+  "end": "01:20:13",
+  "thumbnailTimestamp": "00:11:43.783",
   "sets": [
     {
       "id": "105734390",
@@ -167,8 +170,8 @@
     {
       "id": "105734391",
       "displayName": "Q - lq: WGO | Kidd Cudi (Kidd) vs AGN | The Spine",
-      "start": "00:08:34.299",
-      "end": "00:16:36.199",
+      "start": "00:08:32.083",
+      "end": "00:15:53.633",
       "state": {
         "players": [
           {
@@ -341,7 +344,7 @@
     {
       "id": "105734361",
       "displayName": "I - wf: Linguini Bros | GaryButternubs vs LP/BPM | Yokai Teio",
-      "start": "00:18:15.299",
+      "start": "00:17:52",
       "end": "00:32:02.949",
       "state": {
         "players": [
@@ -673,7 +676,7 @@
     },
     {
       "id": "105734393",
-      "displayName": "S - lf: LP/BPM | Yokai Teio",
+      "displayName": "S - lf: LP/BPM | Yokai Teio vs WGO | Kidd Cudi (Kidd)",
       "start": "00:47:53.616",
       "end": "00:58:59.383",
       "state": {
@@ -700,10 +703,20 @@
           },
           {
             "person": {
-              "id": "",
-              "handle": "",
-              "prefix": null,
-              "serviceIds": {}
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
             },
             "score": 0,
             "inLosers": false,

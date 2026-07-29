@@ -1,13 +1,18 @@
 {
+  "uploadId": "hKK2wdMrFxQ",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-07-25 17-04-02.mkv",
   "bracketService": "smashgg",
   "phaseId": "2313551",
   "eventId": "1644821",
-  "start": "01:02:07.266",
-  "end": "02:57:15.899",
-  "thumbnailTimestamp": "01:11:02.566",
+  "phaseName": "Top 8",
+  "start": "01:02:08",
+  "end": "02:57:17",
+  "thumbnailTimestamp": "01:11:04.182",
+  "userData": {
+    "featuring": "thorntheletter"
+  },
   "sets": [
     {
       "id": "105740507",
@@ -547,7 +552,7 @@
     },
     {
       "id": "105740536",
-      "displayName": "V - l3: WGO | Kidd Cudi (Kidd) vs SOZ | tofuboi",
+      "displayName": "V - Losers Eighths: WGO | Kidd Cudi (Kidd) vs SOZ | tofuboi",
       "start": "01:31:01.683",
       "end": "01:43:00",
       "state": {
@@ -628,9 +633,9 @@
           }
         ],
         "match": {
-          "id": "l3",
-          "name": "Losers Round 3",
-          "smashggId": "Losers Round 3"
+          "id": "",
+          "name": "Losers Eighths",
+          "smashggId": null
         },
         "game": {
           "id": "melty",
@@ -1344,7 +1349,7 @@
                   {
                     "id": "akiha",
                     "options": {
-                      "moon": "crecent"
+                      "moon": "full"
                     }
                   }
                 ]
