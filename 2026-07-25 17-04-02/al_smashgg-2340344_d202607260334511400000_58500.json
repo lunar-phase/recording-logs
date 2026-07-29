@@ -1,0 +1,516 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-07-25 17-04-02.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2340344",
+  "eventId": "1665535",
+  "start": "06:22:21.482",
+  "end": "07:15:30.382",
+  "thumbnailTimestamp": "05:39:21.832",
+  "sets": [
+    {
+      "id": "105761832",
+      "displayName": "AP - ls: SOZ | tofuboi vs Flubendorp",
+      "start": "06:22:21.482",
+      "end": "06:30:47.599",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202603142046477230000",
+              "handle": "tofuboi",
+              "prefix": "SOZ",
+              "serviceIds": {
+                "twitter": "burnt_tofuboi",
+                "smashgg": "1856472"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Cottage"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "azula"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202607260310158840000",
+              "handle": "Flubendorp",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "570762"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "sokka"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351440001",
+              "handle": "GamonDorothea",
+              "prefix": "Pumpers",
+              "serviceIds": {
+                "twitter": "GamonDorothea",
+                "smashgg": "664590"
+              },
+              "alias": "TifaBathSalts",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #58",
+        "event": "",
+        "messages": [
+          "Avatar top 6 up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "105761832",
+            "phaseId": "2340344",
+            "phaseGroupId": "3382484"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "AP",
+          "displayName": "AP - ls: Flubendorp vs SOZ | tofuboi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Flubendorp",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "570762",
+                  "handle": "Flubendorp",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SOZ | tofuboi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1856472",
+                  "handle": "tofuboi",
+                  "prefix": "SOZ",
+                  "serviceIds": {
+                    "twitter": "burnt_tofuboi"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Valley Cottage"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "105761833",
+      "displayName": "AQ - lf: Menace vs Flubendorp",
+      "start": "06:32:17.282",
+      "end": "06:41:47.365",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202607260250477970000",
+              "handle": "Menace",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "YoMenace",
+                "smashgg": "1644072"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "toph"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202607260310158840000",
+              "handle": "Flubendorp",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "570762"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "sokka"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351440001",
+              "handle": "GamonDorothea",
+              "prefix": "Pumpers",
+              "serviceIds": {
+                "twitter": "GamonDorothea",
+                "smashgg": "664590"
+              },
+              "alias": "TifaBathSalts",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #58",
+        "event": "",
+        "messages": [
+          "Avatar top 6 up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "105761833",
+            "phaseId": "2340344",
+            "phaseGroupId": "3382484"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "AQ",
+          "displayName": "AQ - lf: Menace vs Flubendorp",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Menace",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1644072",
+                  "handle": "Menace",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "YoMenace"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Flubendorp",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "570762",
+                  "handle": "Flubendorp",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "105761770",
+      "displayName": "V - gf: Menace vs SchoolBus",
+      "start": "06:43:26.015",
+      "end": "06:51:24.882",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202607260250477970000",
+              "handle": "Menace",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "YoMenace",
+                "smashgg": "1644072"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "toph"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "korra"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202607260346281520000",
+              "handle": "SchoolBus's Friend",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351440001",
+              "handle": "GamonDorothea",
+              "prefix": "Pumpers",
+              "serviceIds": {
+                "twitter": "GamonDorothea",
+                "smashgg": "664590"
+              },
+              "alias": "TifaBathSalts",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #58",
+        "event": "",
+        "messages": [
+          "Avatar top 6 up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "105761770",
+            "phaseId": "2340344",
+            "phaseGroupId": "3382484"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "V",
+          "displayName": "V - gf: SchoolBus vs Menace",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SchoolBus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "518419",
+                  "handle": "SchoolBus",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Sometimes_Fendo"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Bronx"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Menace",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1644072",
+                  "handle": "Menace",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "YoMenace"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}

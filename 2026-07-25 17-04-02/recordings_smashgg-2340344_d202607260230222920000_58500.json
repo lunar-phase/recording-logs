@@ -1,0 +1,609 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-07-25 17-04-02.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2340344",
+  "eventId": "1665535",
+  "start": "05:26:18.749",
+  "end": "06:20:32.649",
+  "thumbnailTimestamp": "05:39:21.832",
+  "sets": [
+    {
+      "id": "105761767",
+      "displayName": "S - ws: SOZ | tofuboi vs SchoolBus",
+      "start": "05:39:27.515",
+      "end": "05:45:48.265",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202603142046477230000",
+              "handle": "tofuboi",
+              "prefix": "SOZ",
+              "serviceIds": {
+                "twitter": "burnt_tofuboi",
+                "smashgg": "1856472"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Cottage"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351440001",
+              "handle": "GamonDorothea",
+              "prefix": "UE",
+              "serviceIds": {
+                "twitter": "GamonDorothea",
+                "smashgg": "664590"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #58",
+        "event": "",
+        "messages": [
+          "Avatar top 6 up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "105761767",
+            "phaseId": "2340344",
+            "phaseGroupId": "3382484"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "S",
+          "displayName": "S - ws: SchoolBus vs SOZ | tofuboi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SchoolBus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "518419",
+                  "handle": "SchoolBus",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Sometimes_Fendo"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Bronx"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "SOZ | tofuboi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1856472",
+                  "handle": "tofuboi",
+                  "prefix": "SOZ",
+                  "serviceIds": {
+                    "twitter": "burnt_tofuboi"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Valley Cottage"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "105761831",
+      "displayName": "AO - lq: SOZ | tofuboi vs Pumpers | TifaBathSalts (GamonDorothea)",
+      "start": "05:50:50.265",
+      "end": "06:05:46.182",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202603142046477230000",
+              "handle": "tofuboi",
+              "prefix": "SOZ",
+              "serviceIds": {
+                "twitter": "burnt_tofuboi",
+                "smashgg": "1856472"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Valley Cottage"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351440001",
+              "handle": "GamonDorothea",
+              "prefix": "Pumpers",
+              "serviceIds": {
+                "twitter": "GamonDorothea",
+                "smashgg": "664590"
+              },
+              "alias": "TifaBathSalts",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "",
+              "handle": "",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #58",
+        "event": "",
+        "messages": [
+          "Avatar top 6 up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "105761831",
+            "phaseId": "2340344",
+            "phaseGroupId": "3382484"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "shortIdentifier": "AO",
+          "displayName": "AO - lq: SOZ | tofuboi vs Pumpers | TifaBathSalts",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SOZ | tofuboi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1856472",
+                  "handle": "tofuboi",
+                  "prefix": "SOZ",
+                  "serviceIds": {
+                    "twitter": "burnt_tofuboi"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Valley Cottage"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Pumpers | TifaBathSalts",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "664590",
+                  "handle": "TifaBathSalts",
+                  "prefix": "Pumpers",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "GamonDorothea"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "105761830",
+      "displayName": "AN - lq: Flubendorp vs PAG | Icebound",
+      "start": "06:07:04.049",
+      "end": "06:11:48.065",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202607260310158840000",
+              "handle": "Flubendorp",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "570762"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202407062256289160000",
+              "handle": "Icebound",
+              "prefix": "PAG",
+              "serviceIds": {
+                "twitter": "Iceboundkiller6",
+                "smashgg": "1663959"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351440001",
+              "handle": "GamonDorothea",
+              "prefix": "Pumpers",
+              "serviceIds": {
+                "twitter": "GamonDorothea",
+                "smashgg": "664590"
+              },
+              "alias": "TifaBathSalts",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #58",
+        "event": "",
+        "messages": [
+          "Avatar top 6 up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "105761830",
+            "phaseId": "2340344",
+            "phaseGroupId": "3382484"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "shortIdentifier": "AN",
+          "displayName": "AN - lq: PAG | Icebound vs Flubendorp",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "PAG | Icebound",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1663959",
+                  "handle": "Icebound",
+                  "prefix": "PAG",
+                  "serviceIds": {
+                    "twitter": "Iceboundkiller6"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Bronx"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Flubendorp",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "570762",
+                  "handle": "Flubendorp",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "105761769",
+      "displayName": "U - wf: Menace vs SchoolBus",
+      "start": "06:12:44.065",
+      "end": "06:20:32.649",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202607260250477970000",
+              "handle": "Menace",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "YoMenace",
+                "smashgg": "1644072"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402351110001",
+              "handle": "SchoolBus",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Sometimes_Fendo",
+                "smashgg": "518419"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Bronx"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [],
+          "hashtags": [],
+          "serviceInfo": {}
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350620000",
+              "handle": "Kamina",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "Kamikouma",
+                "smashgg": "681614"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402351440001",
+              "handle": "GamonDorothea",
+              "prefix": "Pumpers",
+              "serviceIds": {
+                "twitter": "GamonDorothea",
+                "smashgg": "664590"
+              },
+              "alias": "TifaBathSalts",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #58",
+        "event": "",
+        "messages": [
+          "Avatar top 6 up next!"
+        ],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "105761769",
+            "phaseId": "2340344",
+            "phaseGroupId": "3382484"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "U",
+          "displayName": "U - wf: SchoolBus vs Menace",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "SchoolBus",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "518419",
+                  "handle": "SchoolBus",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "Sometimes_Fendo"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Bronx"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Menace",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1644072",
+                  "handle": "Menace",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "YoMenace"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
