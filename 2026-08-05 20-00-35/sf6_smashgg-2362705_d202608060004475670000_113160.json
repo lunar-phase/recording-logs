@@ -1,15 +1,17 @@
 {
+  "uploadId": "7FOMkuB52iI",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-08-05 20-00-35.mkv",
   "bracketService": "smashgg",
   "phaseId": "2362705",
   "eventId": "1682810",
-  "start": "00:04:13.499",
-  "end": "02:52:07.366",
-  "thumbnailTimestamp": "00:20:33.966",
+  "start": "00:10:22",
+  "end": "02:52:09",
+  "thumbnailTimestamp": "00:20:35.266",
   "userData": {
-    "headline": "Birthday Phil"
+    "headline": "Birthday Phil",
+    "featuring": "Cozyphill"
   },
   "sets": [
     {
@@ -1939,16 +1941,6 @@
               {
                 "characters": [
                   {
-                    "id": "c-viper",
-                    "options": {
-                      "controls": "classic"
-                    }
-                  }
-                ]
-              },
-              {
-                "characters": [
-                  {
                     "id": "manon",
                     "options": {
                       "controls": "classic"
@@ -2674,6 +2666,38 @@
             }
           ]
         }
+      }
+    },
+    {
+      "id": "106122650",
+      "displayName": "Y - lf: gut0w vs iDom",
+      "start": "01:56:37",
+      "end": "02:02:50",
+      "state": {
+        "players": [
+          {
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aki"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "manon"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
       }
     },
     {
