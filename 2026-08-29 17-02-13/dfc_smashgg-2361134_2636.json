@@ -1,0 +1,608 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-08-29 17-02-13.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2361134",
+  "eventId": "1681546",
+  "start": "00:00:00.000",
+  "end": "00:33:10.699",
+  "sets": [
+    {
+      "id": "107089096",
+      "displayName": "D - wf: WGO | Kidd Cudi (Kidd) vs Linguini Bros | GaryButternubs",
+      "start": "00:01:30.000",
+      "end": "00:09:17.483",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": "Linguini Bros",
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Westwood"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402352900000",
+              "handle": "DBZFORMERS",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DBZFORMERS10",
+                "smashgg": "1530675"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202608292100566090000",
+              "handle": "Lem (offscreen)",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #59",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "107089096",
+            "phaseId": "2361134",
+            "phaseGroupId": "3409307"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - wf: Linguini Bros | GaryButternubs vs WGO | Kidd Cudi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Linguini Bros | GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": "Linguini Bros",
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Westwood"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weekhawken"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "107089112",
+      "displayName": "I - wf: WGO | Kidd Cudi (Kidd) vs DBZFORMERS",
+      "start": "00:12:25.016",
+      "end": "00:12:59.483",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352900000",
+              "handle": "DBZFORMERS",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DBZFORMERS10",
+                "smashgg": "1530675"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": "Linguini Bros",
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Westwood"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202608292100566090000",
+              "handle": "Lem (offscreen)",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #59",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "107089112",
+            "phaseId": "2361134",
+            "phaseGroupId": "3409307"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - lf: ??? vs DBZFORMERS",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "DBZFORMERS",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1530675",
+                  "handle": "DBZFORMERS",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "DBZFORMERS10"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "107089112",
+      "displayName": "I - lf: WGO | Kidd Cudi (Kidd) vs DBZFORMERS",
+      "start": "00:12:26.000",
+      "end": "00:22:02.000",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202008220402352900000",
+              "handle": "DBZFORMERS",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DBZFORMERS10",
+                "smashgg": "1530675"
+              },
+              "pronouns": "He/Him"
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": "Linguini Bros",
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Westwood"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202608292100566090000",
+              "handle": "Lem (offscreen)",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #59",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "107089112",
+            "phaseId": "2361134",
+            "phaseGroupId": "3409307"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - lf: ??? vs DBZFORMERS",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            },
+            {
+              "name": "DBZFORMERS",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1530675",
+                  "handle": "DBZFORMERS",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "DBZFORMERS10"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "107089097",
+      "displayName": "E - gf: WGO | Kidd Cudi (Kidd) vs Linguini Bros | GaryButternubs",
+      "start": "00:24:54.849",
+      "end": "00:33:10.699",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202303190120135510000",
+              "handle": "Kidd",
+              "prefix": "WGO",
+              "serviceIds": {
+                "twitter": "Cookiebitz",
+                "smashgg": "574317"
+              },
+              "alias": "Kidd Cudi",
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Weekhawken"
+              }
+            },
+            "score": 0,
+            "inLosers": true,
+            "comment": ""
+          },
+          {
+            "person": {
+              "id": "d202208132328085130000",
+              "handle": "GaryButternubs",
+              "prefix": "Linguini Bros",
+              "serviceIds": {
+                "twitter": "GButternubs",
+                "smashgg": "1969295"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NJ",
+                "city": "Westwood"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": ""
+          }
+        ],
+        "match": {
+          "id": "gf",
+          "name": "Grand Finals",
+          "smashggId": "Grand Final"
+        },
+        "game": {
+          "id": "dfc",
+          "name": "Dengeki Bunko Fighting Climax: Ignition",
+          "shortNames": [
+            "Dengeki Bunko Fighting Climax",
+            "Dengeki Bunko",
+            "DFCI"
+          ],
+          "hashtags": [
+            "DFCI"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Dengeki Bunko: Fighting Climax Ignition"
+            },
+            "smashgg": {
+              "id": "4267"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402352900000",
+              "handle": "DBZFORMERS",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "DBZFORMERS10",
+                "smashgg": "1530675"
+              },
+              "pronouns": "He/Him"
+            }
+          },
+          {
+            "person": {
+              "id": "d202608292100566090000",
+              "handle": "Lem (offscreen)",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          }
+        ],
+        "tournament": "Lunatic Perilune #59",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "107089097",
+            "phaseId": "2361134",
+            "phaseGroupId": "3409307"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - gf: Linguini Bros | GaryButternubs vs WGO | Kidd Cudi",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Linguini Bros | GaryButternubs",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1969295",
+                  "handle": "GaryButternubs",
+                  "prefix": "Linguini Bros",
+                  "serviceIds": {
+                    "twitter": "GButternubs"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Westwood"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "WGO | Kidd Cudi",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "574317",
+                  "handle": "Kidd Cudi",
+                  "prefix": "WGO",
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "Cookiebitz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NJ",
+                    "city": "Weekhawken"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
