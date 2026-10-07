@@ -1,0 +1,960 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-09-09 19-59-48.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2393537",
+  "eventId": "1706510",
+  "start": "00:12:29.999",
+  "end": "02:19:56.649",
+  "thumbnailTimestamp": "01:12:40.399",
+  "sets": [
+    {
+      "id": "107536092",
+      "displayName": "A - ws: Fantasma | AJ vs aeth (æth)",
+      "start": "00:15:49.549",
+      "end": "00:28:35.566",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202608200020276960000",
+              "handle": "AJ",
+              "prefix": "Fantasma",
+              "serviceIds": {
+                "smashgg": "2316111",
+                "twitter": "andrewbusso"
+              },
+              "pronouns": "he/him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York City"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "doctor-doom"
+                  },
+                  {
+                    "id": "star-lord"
+                  },
+                  {
+                    "id": "magneto"
+                  },
+                  {
+                    "id": "green-goblin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202608270009562660000",
+              "handle": "æth",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "badlincelet",
+                "smashgg": "1461573"
+              },
+              "pronouns": "she/them",
+              "alias": "aeth"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "blade"
+                  },
+                  {
+                    "id": "star-lord"
+                  },
+                  {
+                    "id": "spider-man"
+                  },
+                  {
+                    "id": "magik"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "mtfs",
+          "name": "Marvel Tōkon: Fighting Souls",
+          "shortNames": [
+            "Marvel Tōkon"
+          ],
+          "hashtags": [
+            "MARVELTokon"
+          ],
+          "additionalTags": [
+            "Tokon"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "MARVEL TŌKON: Fighting Souls"
+            },
+            "smashgg": {
+              "id": "107706"
+            }
+          },
+          "teamSize": 4
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 450",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "107536092",
+            "phaseId": "2393537",
+            "phaseGroupId": "3450960"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "A",
+          "displayName": "A - ws: Fantasma | AJ vs aeth",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Fantasma | AJ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2316111",
+                  "handle": "AJ",
+                  "prefix": "Fantasma",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "andrewbusso"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York City"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "aeth",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1461573",
+                  "handle": "aeth",
+                  "prefix": null,
+                  "pronouns": "she/them",
+                  "serviceIds": {
+                    "twitter": "badlincelet"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "107536093",
+      "displayName": "B - ws: Erevan vs Drift",
+      "start": "00:30:14.583",
+      "end": "00:39:29.899",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307060018108830000",
+              "handle": "Erevan",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "2461740"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "black-panther"
+                  },
+                  {
+                    "id": "magneto"
+                  },
+                  {
+                    "id": "doctor-doom"
+                  },
+                  {
+                    "id": "blade"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202608200051083670000",
+              "handle": "Drift",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "5023340"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "star-lord"
+                  },
+                  {
+                    "id": "blade"
+                  },
+                  {
+                    "id": "magneto"
+                  },
+                  {
+                    "id": "magik"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "mtfs",
+          "name": "Marvel Tōkon: Fighting Souls",
+          "shortNames": [
+            "Marvel Tōkon"
+          ],
+          "hashtags": [
+            "MARVELTokon"
+          ],
+          "additionalTags": [
+            "Tokon"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "MARVEL TŌKON: Fighting Souls"
+            },
+            "smashgg": {
+              "id": "107706"
+            }
+          },
+          "teamSize": 4
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202608270009562660000",
+              "handle": "æth",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "badlincelet",
+                "smashgg": "1461573"
+              },
+              "pronouns": "they/she",
+              "alias": "aeth"
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 450",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "107536093",
+            "phaseId": "2393537",
+            "phaseGroupId": "3450960"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "B",
+          "displayName": "B - ws: Erevan vs Drift",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Erevan",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2461740",
+                  "handle": "Erevan",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Drift",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "5023340",
+                  "handle": "Drift",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "107536094",
+      "displayName": "C - wf: Fantasma | AJ vs Drift",
+      "start": "00:41:35.533",
+      "end": "01:05:06.833",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202608200020276960000",
+              "handle": "AJ",
+              "prefix": "Fantasma",
+              "serviceIds": {
+                "smashgg": "2316111",
+                "twitter": "andrewbusso"
+              },
+              "pronouns": "he/him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York City"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "doctor-doom"
+                  },
+                  {
+                    "id": "star-lord"
+                  },
+                  {
+                    "id": "magneto"
+                  },
+                  {
+                    "id": "green-goblin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202608200051083670000",
+              "handle": "Drift",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "5023340"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "magik"
+                  },
+                  {
+                    "id": "star-lord"
+                  },
+                  {
+                    "id": "magneto"
+                  },
+                  {
+                    "id": "blade"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "mtfs",
+          "name": "Marvel Tōkon: Fighting Souls",
+          "shortNames": [
+            "Marvel Tōkon"
+          ],
+          "hashtags": [
+            "MARVELTokon"
+          ],
+          "additionalTags": [
+            "Tokon"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "MARVEL TŌKON: Fighting Souls"
+            },
+            "smashgg": {
+              "id": "107706"
+            }
+          },
+          "teamSize": 4
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202609030041059290000",
+              "handle": "Mix",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 450",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "107536094",
+            "phaseId": "2393537",
+            "phaseGroupId": "3450960"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "C",
+          "displayName": "C - wf: Fantasma | AJ vs Drift",
+          "completedAt": 1789001423,
+          "entrants": [
+            {
+              "name": "Fantasma | AJ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2316111",
+                  "handle": "AJ",
+                  "prefix": "Fantasma",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "andrewbusso"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York City"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Drift",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "5023340",
+                  "handle": "Drift",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "107536102",
+      "displayName": "G - lf: aeth (æth) vs Drift",
+      "start": "01:12:28.966",
+      "end": "01:32:04.749",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202608270009562660000",
+              "handle": "æth",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "badlincelet",
+                "smashgg": "1461573"
+              },
+              "pronouns": "they/she",
+              "alias": "aeth"
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "blade"
+                  },
+                  {
+                    "id": "star-lord"
+                  },
+                  {
+                    "id": "spider-man"
+                  },
+                  {
+                    "id": "magik"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202608200051083670000",
+              "handle": "Drift",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "5023340"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "star-lord"
+                  },
+                  {
+                    "id": "blade"
+                  },
+                  {
+                    "id": "doctor-doom"
+                  },
+                  {
+                    "id": "magik"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "mtfs",
+          "name": "Marvel Tōkon: Fighting Souls",
+          "shortNames": [
+            "Marvel Tōkon"
+          ],
+          "hashtags": [
+            "MARVELTokon"
+          ],
+          "additionalTags": [
+            "Tokon"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "MARVEL TŌKON: Fighting Souls"
+            },
+            "smashgg": {
+              "id": "107706"
+            }
+          },
+          "teamSize": 4
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202609030041059290000",
+              "handle": "Mix",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 450",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "107536102",
+            "phaseId": "2393537",
+            "phaseGroupId": "3450960"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - lf: Drift vs aeth",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Drift",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "5023340",
+                  "handle": "Drift",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "aeth",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "1461573",
+                  "handle": "aeth",
+                  "prefix": null,
+                  "pronouns": "they/she",
+                  "serviceIds": {
+                    "twitter": "badlincelet"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "107536095",
+      "displayName": "D - True Finals: Fantasma | AJ vs Drift",
+      "start": "01:34:16.933",
+      "end": "02:18:40.833",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202608200020276960000",
+              "handle": "AJ",
+              "prefix": "Fantasma",
+              "serviceIds": {
+                "smashgg": "2316111",
+                "twitter": "andrewbusso"
+              },
+              "pronouns": "he/him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York City"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "doctor-doom"
+                  },
+                  {
+                    "id": "star-lord"
+                  },
+                  {
+                    "id": "magneto"
+                  },
+                  {
+                    "id": "green-goblin"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202608200051083670000",
+              "handle": "Drift",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "5023340"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY"
+              }
+            },
+            "score": 2,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "star-lord"
+                  },
+                  {
+                    "id": "blade"
+                  },
+                  {
+                    "id": "doctor-doom"
+                  },
+                  {
+                    "id": "magik"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "",
+          "name": "True Finals",
+          "smashggId": null
+        },
+        "game": {
+          "id": "mtfs",
+          "name": "Marvel Tōkon: Fighting Souls",
+          "shortNames": [
+            "Marvel Tōkon"
+          ],
+          "hashtags": [
+            "MARVELTokon"
+          ],
+          "additionalTags": [
+            "Tokon"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "MARVEL TŌKON: Fighting Souls"
+            },
+            "smashgg": {
+              "id": "107706"
+            }
+          },
+          "teamSize": 4
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202609030041059290000",
+              "handle": "Mix",
+              "prefix": null,
+              "serviceIds": {}
+            }
+          },
+          {
+            "person": {
+              "id": "d202608270009562660000",
+              "handle": "æth",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "badlincelet",
+                "smashgg": "1461573"
+              },
+              "pronouns": "they/she",
+              "alias": "aeth"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 450",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "107536095",
+            "phaseId": "2393537",
+            "phaseGroupId": "3450960"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "D",
+          "displayName": "D - gf: Fantasma | AJ vs Drift",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Fantasma | AJ",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "2316111",
+                  "handle": "AJ",
+                  "prefix": "Fantasma",
+                  "pronouns": "he/him",
+                  "serviceIds": {
+                    "twitter": "andrewbusso"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York City"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Drift",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "5023340",
+                  "handle": "Drift",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
