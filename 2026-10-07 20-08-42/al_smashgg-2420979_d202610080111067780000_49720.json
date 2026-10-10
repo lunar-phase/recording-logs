@@ -1,0 +1,1432 @@
+{
+  "format": "1",
+  "version": "0.10.0",
+  "file": "..\\2026-10-07 20-08-42.mkv",
+  "bracketService": "smashgg",
+  "phaseId": "2420979",
+  "eventId": "1727773",
+  "start": "00:58:00.000",
+  "end": "02:29:53.816",
+  "thumbnailTimestamp": "01:30:39.549",
+  "sets": [
+    {
+      "id": "108644069",
+      "displayName": "E - ws: NYCMastermike vs iDom",
+      "start": "00:58:42.883",
+      "end": "01:04:49.933",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aang"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "korra"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ws",
+          "name": "Winners Semis",
+          "smashggId": "Winners Semi-Final"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [
+            "AvatarFighters"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Avatar Legends: The Fighting Game"
+            },
+            "smashgg": {
+              "id": "114292"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Flushing"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 454",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "108644069",
+            "phaseId": "2420979",
+            "phaseGroupId": "3486820"
+          },
+          "match": {
+            "id": "ws",
+            "name": "Winners Semis",
+            "smashggId": "Winners Semi-Final"
+          },
+          "shortIdentifier": "E",
+          "displayName": "E - ws: iDom vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Jamaica"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "108644082",
+      "displayName": "I - l1: iDrop vs Drift",
+      "start": "01:08:17.283",
+      "end": "01:16:16.933",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Queens"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "red",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "azula"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202608200051083670000",
+              "handle": "Drift",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "5023340"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "blue",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "azula"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "l1",
+          "name": "Losers Round 1",
+          "smashggId": "Losers Round 1"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [
+            "AvatarFighters"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Avatar Legends: The Fighting Game"
+            },
+            "smashgg": {
+              "id": "114292"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Queens"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 454",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "108644082",
+            "phaseId": "2420979",
+            "phaseGroupId": "3486820"
+          },
+          "match": {
+            "id": "l1",
+            "name": "Losers Round 1",
+            "smashggId": "Losers Round 1"
+          },
+          "shortIdentifier": "I",
+          "displayName": "I - l1: Drift vs iDrop",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Drift",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "5023340",
+                  "handle": "Drift",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "iDrop",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "155969",
+                  "handle": "iDrop",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDrop_"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Queens"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "108644083",
+      "displayName": "J - lq: iDom vs trifmoney",
+      "start": "01:18:14.466",
+      "end": "01:23:23.966",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "korra"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202309140054224180000",
+              "handle": "trifmoney",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "trifmoney",
+                "smashgg": "4194"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "kyoshi"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [
+            "AvatarFighters"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Avatar Legends: The Fighting Game"
+            },
+            "smashgg": {
+              "id": "114292"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Queens"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 454",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "108644083",
+            "phaseId": "2420979",
+            "phaseGroupId": "3486820"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "shortIdentifier": "J",
+          "displayName": "J - lq: iDom vs FreeLuigi | trifmoney",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Jamaica"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "FreeLuigi | trifmoney",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "4194",
+                  "handle": "trifmoney",
+                  "prefix": "FreeLuigi",
+                  "serviceIds": {
+                    "twitter": "trifmoney"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "108644084",
+      "displayName": "K - lq: Dang vs Drift",
+      "start": "01:24:57.599",
+      "end": "01:28:30.299",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Flushing"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "sokka"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202608200051083670000",
+              "handle": "Drift",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "5023340"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "azula"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lq",
+          "name": "Losers Quarters",
+          "smashggId": "Losers Quarter-Final"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [
+            "AvatarFighters"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Avatar Legends: The Fighting Game"
+            },
+            "smashgg": {
+              "id": "114292"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Queens"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 454",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "108644084",
+            "phaseId": "2420979",
+            "phaseGroupId": "3486820"
+          },
+          "match": {
+            "id": "lq",
+            "name": "Losers Quarters",
+            "smashggId": "Losers Quarter-Final"
+          },
+          "shortIdentifier": "K",
+          "displayName": "K - lq: Dang vs Drift",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BS_Dang"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Flushing"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Drift",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "5023340",
+                  "handle": "Drift",
+                  "prefix": null,
+                  "serviceIds": {},
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "108644070",
+      "displayName": "F - wf: iControl vs NYCMastermike",
+      "start": "01:30:39.233",
+      "end": "01:40:42.366",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202008220402350470001",
+              "handle": "iControl",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "IControlzz",
+                "smashgg": "571641"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "toph"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aang"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "wf",
+          "name": "Winners Finals",
+          "smashggId": "Winners Final"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [
+            "AvatarFighters"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Avatar Legends: The Fighting Game"
+            },
+            "smashgg": {
+              "id": "114292"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Queens"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 454",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "108644070",
+            "phaseId": "2420979",
+            "phaseGroupId": "3486820"
+          },
+          "match": {
+            "id": "wf",
+            "name": "Winners Finals",
+            "smashggId": "Winners Final"
+          },
+          "shortIdentifier": "F",
+          "displayName": "F - wf: iControl vs NYCMastermike",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iControl",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "571641",
+                  "handle": "iControl",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "IControlzz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "108644085",
+      "displayName": "L - ls: iDom vs Dang",
+      "start": "01:48:35.000",
+      "end": "01:54:20.716",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            },
+            "score": 2,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "korra"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202008220402350130001",
+              "handle": "Dang",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "264148",
+                "twitter": "BS_Dang"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Flushing"
+              }
+            },
+            "score": 0,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "sokka"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "ls",
+          "name": "Losers Semis",
+          "smashggId": "Losers Semi-Final"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [
+            "AvatarFighters"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Avatar Legends: The Fighting Game"
+            },
+            "smashgg": {
+              "id": "114292"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Queens"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 454",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "108644085",
+            "phaseId": "2420979",
+            "phaseGroupId": "3486820"
+          },
+          "match": {
+            "id": "ls",
+            "name": "Losers Semis",
+            "smashggId": "Losers Semi-Final"
+          },
+          "shortIdentifier": "L",
+          "displayName": "L - ls: iDom vs Dang",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Jamaica"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "Dang",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "264148",
+                  "handle": "Dang",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "BS_Dang"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Flushing"
+                  }
+                }
+              ],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "108644086",
+      "displayName": "M - lf: iDom vs NYCMastermike",
+      "start": "01:54:56.966",
+      "end": "02:04:29.299",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            },
+            "score": 3,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "korra"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202203262242552580000",
+              "handle": "NYCMastermike",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "NYCMastermike",
+                "smashgg": "147466"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "New York"
+              }
+            },
+            "score": 1,
+            "inLosers": false,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "aang"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "lf",
+          "name": "Losers Finals",
+          "smashggId": "Losers Final"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [
+            "AvatarFighters"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Avatar Legends: The Fighting Game"
+            },
+            "smashgg": {
+              "id": "114292"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Queens"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 454",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "108644086",
+            "phaseId": "2420979",
+            "phaseGroupId": "3486820"
+          },
+          "match": {
+            "id": "lf",
+            "name": "Losers Finals",
+            "smashggId": "Losers Final"
+          },
+          "shortIdentifier": "M",
+          "displayName": "M - lf: NYCMastermike vs ???",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "NYCMastermike",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "147466",
+                  "handle": "NYCMastermike",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "NYCMastermike"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "New York"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "",
+              "participants": [],
+              "inLosers": false
+            }
+          ]
+        }
+      }
+    },
+    {
+      "id": "108644071",
+      "displayName": "G - tf: iDom vs iControl",
+      "start": "02:05:42.083",
+      "end": "02:27:57.349",
+      "state": {
+        "players": [
+          {
+            "person": {
+              "id": "d202307130125469520000",
+              "handle": "iDom",
+              "prefix": null,
+              "serviceIds": {
+                "smashgg": "415385",
+                "twitter": "iDomNYC"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Jamaica"
+              }
+            },
+            "score": 3,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "korra"
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "person": {
+              "id": "d202008220402350470001",
+              "handle": "iControl",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "IControlzz",
+                "smashgg": "571641"
+              },
+              "pronouns": "He/Him",
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Brooklyn"
+              }
+            },
+            "score": 1,
+            "inLosers": true,
+            "comment": "",
+            "teams": [
+              {
+                "characters": [
+                  {
+                    "id": "toph"
+                  }
+                ]
+              }
+            ]
+          }
+        ],
+        "match": {
+          "id": "tf",
+          "name": "True Finals",
+          "smashggId": "Grand Final Reset"
+        },
+        "game": {
+          "id": "al",
+          "name": "Avatar Legends: The Fighting Game",
+          "shortNames": [
+            "Avatar Legends"
+          ],
+          "hashtags": [
+            "AvatarFighters"
+          ],
+          "serviceInfo": {
+            "twitch": {
+              "id": "Avatar Legends: The Fighting Game"
+            },
+            "smashgg": {
+              "id": "114292"
+            }
+          }
+        },
+        "commentators": [
+          {
+            "person": {
+              "id": "d202306080126336000000",
+              "handle": "iDrop",
+              "prefix": null,
+              "serviceIds": {
+                "challonge": "203650020",
+                "twitter": "iDrop_",
+                "smashgg": "155969"
+              },
+              "location": {
+                "country": "US",
+                "state": "US-NY",
+                "city": "Queens"
+              }
+            }
+          },
+          {
+            "person": {
+              "id": "d202008220402350750002",
+              "handle": "Liston",
+              "prefix": null,
+              "serviceIds": {
+                "twitter": "ListonthePrince"
+              },
+              "pronouns": "He/Him"
+            }
+          }
+        ],
+        "tournament": "Next Level Battle Circuit 454",
+        "event": "",
+        "messages": [],
+        "set": {
+          "serviceInfo": {
+            "serviceName": "smashgg",
+            "id": "108644071",
+            "phaseId": "2420979",
+            "phaseGroupId": "3486820"
+          },
+          "match": {
+            "id": "gf",
+            "name": "Grand Finals",
+            "smashggId": "Grand Final"
+          },
+          "shortIdentifier": "G",
+          "displayName": "G - gf: iControl vs iDom",
+          "completedAt": null,
+          "entrants": [
+            {
+              "name": "iControl",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "571641",
+                  "handle": "iControl",
+                  "prefix": null,
+                  "pronouns": "He/Him",
+                  "serviceIds": {
+                    "twitter": "IControlzz"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Brooklyn"
+                  }
+                }
+              ],
+              "inLosers": false
+            },
+            {
+              "name": "iDom",
+              "participants": [
+                {
+                  "serviceName": "smashgg",
+                  "serviceId": "415385",
+                  "handle": "iDom",
+                  "prefix": null,
+                  "serviceIds": {
+                    "twitter": "iDomNYC"
+                  },
+                  "location": {
+                    "country": "US",
+                    "state": "US-NY",
+                    "city": "Jamaica"
+                  }
+                }
+              ],
+              "inLosers": true
+            }
+          ]
+        }
+      }
+    }
+  ]
+}
