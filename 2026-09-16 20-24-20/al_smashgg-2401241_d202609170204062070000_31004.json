@@ -1,191 +1,49 @@
 {
+  "uploadId": "Zi2w9jVj6cg",
   "format": "1",
   "version": "0.10.0",
   "file": "..\\2026-09-16 20-24-20.mkv",
   "bracketService": "smashgg",
   "phaseId": "2401241",
   "eventId": "1712433",
-  "start": "01:39:44.299",
-  "end": "02:27:43.299",
-  "thumbnailTimestamp": "01:40:42.499",
+  "phaseName": "Top 3",
+  "start": "01:40:32",
+  "end": "02:27:45.5",
+  "thumbnailTimestamp": "01:40:44.062",
+  "userData": {
+    "headline": "Revenge of the Water Tribe"
+  },
   "sets": [
     {
-      "id": "107807879",
-      "displayName": "L - ls: NYCMastermike vs Dang",
+      "id": "107807864",
+      "displayName": "F - wf: iDom vs SearchForEden",
       "start": "01:40:42.266",
       "end": "01:52:50.049",
       "state": {
         "players": [
           {
-            "person": {
-              "id": "d202203262242552580000",
-              "handle": "NYCMastermike",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "NYCMastermike",
-                "smashgg": "147466"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "New York"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
             "teams": [
               {
                 "characters": [
                   {
-                    "id": "kyoshi"
+                    "id": "korra"
                   }
                 ]
               }
             ]
           },
           {
-            "person": {
-              "id": "d202008220402350130001",
-              "handle": "Dang",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "264148",
-                "twitter": "BS_Dang"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "Flushing"
-              }
-            },
-            "score": 0,
-            "inLosers": false,
-            "comment": "",
             "teams": [
               {
                 "characters": [
                   {
-                    "id": "sokka"
+                    "id": "toph"
                   }
                 ]
               }
             ]
           }
-        ],
-        "match": {
-          "id": "ls",
-          "name": "Losers Semis",
-          "smashggId": "Losers Semi-Final"
-        },
-        "game": {
-          "id": "al",
-          "name": "Avatar Legends: The Fighting Game",
-          "shortNames": [
-            "Avatar Legends"
-          ],
-          "hashtags": [
-            "AvatarFighters"
-          ],
-          "serviceInfo": {
-            "twitch": {
-              "id": "Avatar Legends: The Fighting Game"
-            },
-            "smashgg": {
-              "id": "114292"
-            }
-          }
-        },
-        "commentators": [
-          {
-            "person": {
-              "id": "d202008220402350130001",
-              "handle": "Dang",
-              "prefix": null,
-              "serviceIds": {
-                "smashgg": "264148",
-                "twitter": "BS_Dang"
-              },
-              "location": {
-                "country": "US",
-                "state": "US-NY",
-                "city": "Flushing"
-              }
-            }
-          },
-          {
-            "person": {
-              "id": "d202008220402350750002",
-              "handle": "Liston",
-              "prefix": null,
-              "serviceIds": {
-                "twitter": "ListonthePrince"
-              },
-              "pronouns": "He/Him"
-            }
-          }
-        ],
-        "tournament": "Next Level Battle Circuit 451",
-        "event": "",
-        "messages": [],
-        "set": {
-          "serviceInfo": {
-            "serviceName": "smashgg",
-            "id": "107807879",
-            "phaseId": "2401241",
-            "phaseGroupId": "3461262"
-          },
-          "match": {
-            "id": "ls",
-            "name": "Losers Semis",
-            "smashggId": "Losers Semi-Final"
-          },
-          "shortIdentifier": "L",
-          "displayName": "L - ls: NYCMastermike vs Dang",
-          "completedAt": 1789609064,
-          "entrants": [
-            {
-              "name": "NYCMastermike",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "147466",
-                  "handle": "NYCMastermike",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "NYCMastermike"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NY",
-                    "city": "New York"
-                  }
-                }
-              ],
-              "inLosers": false
-            },
-            {
-              "name": "Dang",
-              "participants": [
-                {
-                  "serviceName": "smashgg",
-                  "serviceId": "264148",
-                  "handle": "Dang",
-                  "prefix": null,
-                  "serviceIds": {
-                    "twitter": "BS_Dang"
-                  },
-                  "location": {
-                    "country": "US",
-                    "state": "US-NY",
-                    "city": "Flushing"
-                  }
-                }
-              ],
-              "inLosers": false
-            }
-          ]
-        }
+        ]
       }
     },
     {
